@@ -1,0 +1,288 @@
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\uda03' in position 3151: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\udafd' in position 3073: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\udf76' in position 3055: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\uddc5' in position 3404: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\udce8' in position 3403: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\ud8b0' in position 402: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\udbbb' in position 920: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\ud8a0' in position 1619: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\uda42' in position 3398: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\udb64' in position 318: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\udfb4' in position 3357: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\ud93c' in position 3366: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\udd70' in position 3386: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\udb00' in position 3069: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\ude46' in position 3085: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\uda88' in position 3348: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\udc8a' in position 3109: surrogates not allowed
+Traceback (most recent call last):
+  File "./test_encoding.py", line 85, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\ude38' in position 3063: surrogates not allowed

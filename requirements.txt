@@ -1,0 +1,4 @@
+chardet
+charset_normalizer
+requests
+rich
