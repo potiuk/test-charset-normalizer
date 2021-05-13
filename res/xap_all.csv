@@ -5,13 +5,14 @@ kclj.si,utf-8,utf-8,utf_8
 kdshelton.com,utf-8,ascii,big5
 kebuysell.com,UTF-8,ascii,ascii
 kech24.com,UTF-8,utf-8,utf_8
-kecsup.hu,,ascii,ascii
+kecsup.hu,,ISO-8859-1,
 kedainiai.lt,utf-8,utf-8,utf_8
 keej.it,utf-8,utf-8,utf_8
 keeleressursid.ee,utf-8,utf-8,utf_8
 keeng.vn,UTF-8,UTF-8-SIG,utf_8_sig
 keepo.me,UTF-8,utf-8,utf_8
 kehapood.ee,UTF-8,utf-8,utf_8
+keila.ee,UTF-8,utf-8,utf_8
 keio.ac.jp,,utf-8,utf_8
 keizai.biz,,,utf-8
 kekale.fi,UTF-8,utf-8,utf_8
@@ -35,11 +36,10 @@ kemenag.go.id,UTF-8,utf-8,utf_8
 kemenkumham.go.id,,ascii,ascii
 kemenperin.go.id,UTF-8,ascii,ascii
 kemifilani.ng,UTF-8,utf-8,utf_8
-kemik.gt,UTF-8,ascii,ascii
 kemkes.go.id,UTF-8,UTF-8-SIG,utf_8_sig
 kemlu.go.id,UTF-8,ascii,ascii
 kemma.hu,UTF-8,utf-8,utf_8
-kemnaker.go.id,utf-8,Windows-1252,
+kemnaker.go.id,utf-8,utf-8,utf_8
 kempy-chaty.cz,utf-8,utf-8,utf_8
 kenanaonline.com,utf-8,utf-8,utf_8
 kenbishop.org,utf-8,ascii,big5
@@ -56,7 +56,7 @@ kentlive.news,UTF-8,utf-8,utf_8
 kentonline.co.uk,UTF-8,utf-8,utf_8
 kenyacradle.com,,ascii,ascii
 kenyalaw.org,utf-8,UTF-8-SIG,utf_8_sig
-kenyamoja.com,UTF-8,Windows-1254,utf_8
+kenyamoja.com,UTF-8,utf-8,utf_8
 kenyanlife.com,UTF-8,utf-8,utf_8
 kenyans.co.ke,UTF-8,utf-8,utf_8
 kenyanwallstreet.com,UTF-8,utf-8,utf_8
@@ -73,7 +73,7 @@ kerkida.net,UTF-8,utf-8,utf_8
 kerknet.be,utf-8,utf-8,utf_8
 kerranelamassa.fi,UTF-8,utf-8,utf_8
 kertlap.hu,UTF-8,utf-8,utf_8
-kertvarosipatika.hu,UTF-8,utf-8,utf_8
+kertvarosipatika.hu,UTF-8,utf-8,iso8859_2
 kes-kus.ee,UTF-8,utf-8,utf_8
 keskeces.com,UTF-8,UTF-8-SIG,utf_8_sig
 keskeces.fr,UTF-8,UTF-8-SIG,utf_8_sig
@@ -87,7 +87,7 @@ kesknadal.ee,UTF-8,utf-8,utf_8
 kesko.fi,utf-8,utf-8,utf_8
 keskraamatukogu.ee,UTF-8,utf-8,utf_8
 kespro.com,utf-8,utf-8,utf_8
-ketabpedia.com,UTF-8,utf-8,
+ketabpedia.com,UTF-8,utf-8,utf_8
 ketkes.com,UTF-8,utf-8,utf_8
 keukenliefde.nl,UTF-8,utf-8,utf_8
 kevinstead.com,utf-8,ascii,big5
@@ -97,6 +97,7 @@ kezakoo.com,UTF-8,Windows-1254,
 kfar-saba.muni.il,UTF-8,utf-8,utf_8
 kfc.co.th,,ascii,ascii
 kfetele.ro,UTF-8,utf-8,utf_8
+kfnl.gov.sa,utf-8,utf-8,utf_8
 kfoods.com,utf-8,utf-8,utf_8
 kgz.hr,utf-8,utf-8,utf_8
 kgzs.si,UTF-8,utf-8,utf_8
@@ -110,6 +111,7 @@ khampha.vn,Utf-8,utf-8,utf_8
 khamsat.com,utf-8,utf-8,utf_8
 khanacademy.org,utf-8,utf-8,utf_8
 khandbahale.com,UTF-8,utf-8,utf_8
+khanhhoa.gov.vn,,ascii,ascii
 khaorot.com,utf-8,utf-8,utf_8
 khaosod.co.th,,ascii,ascii
 kharkovforum.com,Windows-1251,windows-1251,cp1251
@@ -214,7 +216,7 @@ kinobox.cz,UTF-8,utf-8,utf_8
 kinodvor.org,UTF-8,utf-8,utf_8
 kinofen.net,utf-8,utf-8,utf_8
 kinofilms.ua,utf-8,utf-8,utf_8
-kinoflux.org,utf-8,Windows-1254,utf_8
+kinoflux.org,utf-8,utf-8,utf_8
 kinogoo.cc,utf-8,utf-8,utf_8
 kinokong.org,WINDOWS-1251,windows-1251,cp1251
 kinokrad.co,UTF-8,utf-8,utf_8
@@ -223,7 +225,7 @@ kinonews.ru,,windows-1251,cp1251
 kinopavasaris.lt,UTF-8,utf-8,utf_8
 kinopoisk.ru,utf-8,utf-8,utf_8
 kinoprofi.vip,UTF-8,utf-8,utf_8
-kinoraksti.lv,,ascii,ascii
+kinoraksti.lv,UTF-8,utf-8,utf_8
 kinorium.com,UTF-8,utf-8,utf_8
 kinotochka.co,utf-8,utf-8,utf_8
 kinsta.com,UTF-8,Windows-1254,utf_8
@@ -245,6 +247,7 @@ kisalfold.hu,UTF-8,utf-8,utf_8
 kiskatravel.sk,,utf-8,utf_8
 kislexikon.hu,iso-8859-2,ISO-8859-1,cp1250
 kiszamolo.hu,utf-8,Windows-1254,utf_8
+kit.edu,UTF-8,utf-8,utf_8
 kita.de,UTF-8,utf-8,utf_8
 kitaab.com.pk,UTF-8,ISO-8859-1,utf_8
 kitamura.jp,,UTF-8-SIG,utf_8_sig
@@ -359,13 +362,12 @@ kmutnb.ac.th,utf-8,utf-8,
 kmutt.ac.th,UTF-8,utf-8,utf_8
 kn-online.de,UTF-8,utf-8,utf_8
 knack.be,UTF-8,utf-8,utf_8
+knapwell.info,UTF-8,,utf-8
 knasta.cl,,utf-8,utf_8
 knaw.nl,utf-8,utf-8,utf_8
 knesset.gov.il,utf-8,ascii,ascii
 knibble.nl,utf-8,utf-8,utf_8
-knigavuhe.org,UTF-8,utf-8,utf_8
-knihcentrum.cz,utf-8,utf-8,utf_8
-knihcentrum.sk,utf-8,utf-8,utf_8
+knigavuhe.org,UTF-8,Windows-1254,utf_8
 knihydobrovsky.cz,utf-8,utf-8,utf_8
 knihyprekazdeho.sk,utf-8,utf-8,utf_8
 knizhen-pazar.net,utf-8,utf-8,utf_8
@@ -391,7 +393,6 @@ kocaeli.bel.tr,UTF-8,utf-8,utf_8
 kocaeli.edu.tr,UTF-8,utf-8,utf_8
 kocaelidenge.com,UTF-8,utf-8,utf_8
 kocaeligazetesi.com.tr,UTF-8,utf-8,utf_8
-koch-mit.de,UTF-8,utf-8,utf_8
 kochbar.de,utf-8,utf-8,utf_8
 kochenundkueche.com,UTF-8,utf-8,utf_8
 kochiben.or.jp,UTF-8,utf-8,utf_8
@@ -400,7 +401,6 @@ kochwiki.org,UTF-8,utf-8,utf_8
 kocsi.hu,UTF-8,utf-8,utf_8
 koda.ee,UTF-8,utf-8,utf_8
 kodansha.co.jp,UTF-8,utf-8,utf_8
-kodex.me,UTF-8,utf-8,utf_8
 kodin1.com,,ascii,ascii
 kodinkuvalehti.fi,utf-8,utf-8,utf_8
 kodinplaza.fi,UTF-8,utf-8,utf_8
@@ -409,7 +409,7 @@ kodomono-ie.jp,,utf-8,utf_8
 koduekstra.ee,UTF-8,utf-8,utf_8
 koduhaldjas.blogspot.com,UTF-8,utf-8,utf_8
 kodukaubamaja.ee,utf-8,utf-8,utf_8
-kodukokad.ee,,ascii,ascii
+kodukokad.ee,UTF-8,utf-8,utf_8
 kodus.ee,utf-8,utf-8,utf_8
 kodusedlood.net,UTF-8,utf-8,utf_8
 kodutohter.ee,utf-8,utf-8,utf_8
@@ -436,7 +436,7 @@ kolesa.ru,UTF-8,utf-8,utf_8
 kolhair.co.il,UTF-8,utf-8,utf_8
 kolhazman.co.il,UTF-8,utf-8,utf_8
 kolkata24x7.com,UTF-8,utf-8,utf_8
-kololk.com,windows-1256,ISO-8859-9,cp1256
+kololk.com,windows-1256,Windows-1254,cp1256
 kolonial.no,utf-8,utf-8,utf_8
 kolozzeum.com,ISO-8859-1,ISO-8859-1,cp1252
 koltozzbe.hu,UTF-8,utf-8,utf_8
@@ -490,7 +490,6 @@ konhaber.com,UTF-8,UTF-8-SIG,utf_8_sig
 konkurent.bg,UTF-8,utf-8,utf_8
 konouz.com,UTF-8,utf-8,utf_8
 konozime.lv,UTF-8,utf-8,utf_8
-konradbak.pl,UTF-8,Windows-1254,utf_8
 konsolifin.net,utf-8,utf-8,utf_8
 konsultasisyariah.com,UTF-8,utf-8,utf_8
 konsultevispirms.lv,UTF-8,,utf-8
@@ -525,13 +524,11 @@ kopilkaurokov.ru,UTF-8,utf-8,utf_8
 kopk.dk,utf-8,utf-8,utf_8
 kopykitab.com,UTF-8,IBM866,utf_8
 kore.co.il,UTF-8,utf-8,utf_8
-koreni.rs,UTF-8,utf-8,utf_8
 korisnaknjiga.com,UTF-8,utf-8,utf_8
 kormanyablak.hu,utf-8,utf-8,utf_8
 kormanyhivatal.hu,utf-8,utf-8,utf_8
 korob.pl,utf-8,utf-8,utf_8
 koronavirus.hr,UTF-8,ascii,ascii
-koroskenovice.si,UTF-8,utf-8,utf_8
 korrekturen.de,,utf-8,utf_8
 korrespondent.net,utf-8,utf-8,utf_8
 korsa.lt,UTF-8,utf-8,utf_8
@@ -550,10 +547,10 @@ kosmas.cz,utf-8,utf-8,utf_8
 kosmetikosdnr.lt,UTF-8,utf-8,utf_8
 kosmetista.ru,utf-8,Windows-1254,utf_8
 kosmo.com.my,UTF-8,utf-8,utf_8
-kosmosn.ru,,ascii,utf_8
+kosmosn.ru,,ascii,ascii
 kossev.info,UTF-8,utf-8,utf_8
 koszalin.pl,utf-8,utf-8,utf_8
-kotak.com,UTF-8,utf-8,utf_8
+kotak.com,utf-8,utf-8,utf_8
 kotaku.com.au,UTF-8,ascii,
 kotijakeittio.fi,utf-8,utf-8,utf_8
 kotikokki.net,UTF-8,Windows-1252,utf_8
@@ -600,12 +597,11 @@ kranjska-gora.si,UTF-8,utf-8,utf_8
 krantenbankzeeland.nl,UTF-8,utf-8,utf_8
 krasa.cz,UTF-8,utf-8,utf_8
 kraslava.lv,utf-8,utf-8,utf_8
-krastas.lt,windows-1257,Windows-1252,cp1257
 kravitz.co.il,UTF-8,utf-8,utf_8
 krayot.com,UTF-8,UTF-8-SIG,utf_8_sig
 krc.com.tr,utf-8,utf-8,utf_8
 kre.hu,utf-8,utf-8,utf_8
-kreativekonceptz.com,UTF-8,ascii,ascii
+kreativekonceptz.com,utf-8,ascii,big5
 kreativita.info,UTF-8,utf-8,utf_8
 kreativlakas.com,iso-8859-1,ascii,ascii
 krediidiraportid.ee,utf-8,utf-8,utf_8
@@ -632,7 +628,6 @@ kristeligt-dagblad.dk,utf-8,utf-8,utf_8
 kristiania.no,utf-8,utf-8,utf_8
 kristianstad.se,utf-8,utf-8,utf_8
 kristianstadsbladet.se,utf-8,utf-8,utf_8
-kritiker.se,utf-8,Windows-1252,utf_8
 kritikustomeg.org,utf-8,utf-8,utf_8
 kritiky.cz,UTF-8,utf-8,utf_8
 krizovkarskyslovnik.sk,UTF-8,utf-8,utf_8
@@ -652,6 +647,7 @@ kroparoundtheklock.net,utf-8,ascii,big5
 kros.sk,UTF-8,utf-8,utf_8
 krosakomisija.lv,UTF-8,utf-8,utf_8
 krs-online.com.pl,iso-8859-2,ISO-8859-1,hp_roman8
+krs-pobierz.pl,UTF-8,utf-8,utf_8
 krs.lt,utf-8,utf-8,utf_8
 krstarica.com,,utf-8,utf_8
 krua.co,,ascii,ascii
@@ -665,7 +661,6 @@ krungsricard.com,utf-8,utf-8,utf_8
 krungthai.com,utf-8,utf-8,utf_8
 krutit.co.il,UTF-8,utf-8,utf_8
 kruupdate.com,UTF-8,utf-8,utf_8
-kruwandee.com,UTF-8,utf-8,utf_8
 kry.se,utf-8,utf-8,utf_8
 kryddburken.se,utf-8,utf-8,utf_8
 krydsordexperten.dk,utf-8,ascii,ascii
@@ -695,7 +690,7 @@ ktb.gov.tr,utf-8,utf-8,utf_8
 ktc.ua,UTF-8,utf-8,
 ktery.cz,UTF-8,ascii,ascii
 kth.se,UTF-8,utf-8,utf_8
-kthn.edu.vn,,ascii,ascii
+kthn.edu.vn,UTF-8,utf-8,utf_8
 ktipp.ch,utf-8,utf-8,utf_8
 ktl.co.il,,windows-1255,cp1255
 ktn.gv.at,utf-8,utf-8,utf_8
@@ -721,7 +716,7 @@ kuchynalidla.sk,UTF-8,utf-8,utf_8
 kuchynelidlu.cz,utf-8,utf-8,utf_8
 kudago.com,utf-8,utf-8,utf_8
 kudaukupovinu.rs,UTF-8,utf-8,utf_8
-kudaveceras.rs,UTF-8,utf-8,utf_8
+kudaveceras.rs,UTF-8,ascii,ascii
 kudika.ro,UTF-8,utf-8,
 kudo.tips,UTF-8,utf-8,utf_8
 kudyznudy.cz,utf-8,utf-8,
@@ -746,7 +741,7 @@ kulinaari.com,UTF-8,utf-8,utf_8
 kulinar.bg,UTF-8,ascii,ascii
 kulinaria.bg,utf-8,utf-8,utf_8
 kulinarneprzeboje.pl,UTF-8,utf-8,cp1252
-kulinarno-joana.com,UTF-8,utf-8,utf_8
+kulinarno-joana.com,UTF-8,Windows-1254,utf_8
 kulonprogokab.go.id,UTF-8,Windows-1252,utf_8
 kulshe.com,utf-8,utf-8,utf_8
 kulttuuritoimitus.fi,UTF-8,utf-8,utf_8
@@ -815,7 +810,7 @@ kursunkalem.com,,utf-8,utf_8
 kursurasti.lt,iso-8859-1,ascii,ascii
 kuruma-news.jp,UTF-8,utf-8,utf_8
 kurumaerabi.com,UTF-8,utf-8,utf_8
-kurzeme.lv,,ascii,ascii
+kurzeme.lv,UTF-8,utf-8,utf_8
 kurzemesregions.lv,UTF-8,utf-8,utf_8
 kurzemnieks.lv,UTF-8,utf-8,utf_8
 kurzy.cz,,Windows-1254,cp1250
@@ -832,8 +827,9 @@ kuveytturk.com.tr,utf-8,utf-8,utf_8
 kuwait.tt,,ascii,ascii
 kv.ee,UTF-8,utf-8,utf_8
 kvarkadabra.net,UTF-8,utf-8,utf_8
-kvinneguiden.no,UTF-8,Windows-1254,utf_8
-kvishim.co.il,,ascii,ascii
+kvb.lt,utf-8,utf-8,utf_8
+kvinneguiden.no,UTF-8,Windows-1252,utf_8
+kvishim.co.il,UTF-8,utf-8,utf_8
 kvitrina.lt,UTF-8,utf-8,utf_8
 kvizy.eu,utf-8,Windows-1254,utf_8
 kvk.nl,utf-8,utf-8,utf_8
@@ -843,7 +839,6 @@ kwathabeng.co.za,iso-8859-1,ascii,ascii
 kwejk.pl,UTF-8,utf-8,utf_8
 kwestiasmaku.com,utf-8,utf-8,utf_8
 kwongwah.com.my,UTF-8,ascii,ascii
-kwportugal.pt,utf-8,utf-8,utf_8
 kyaaml.org,iso-8859-1,ascii,ascii
 kybartusvm.lt,UTF-8,utf-8,utf_8
 kyhistotechs.com,iso-8859-1,ascii,ascii
@@ -865,7 +860,7 @@ l24.lt,,utf-8,utf_8
 l2b.co.za,utf-8,utf-8,utf_8
 la-becanerie.com,utf-8,utf-8,utf_8
 la-croix.com,UTF-8,utf-8,utf_8
-la-epoca.com.bo,,ascii,ascii
+la-epoca.com.bo,UTF-8,utf-8,utf_8
 la-grenouille-bleue.be,iso-8859-1,ascii,ascii
 la-mairie.com,UTF-8,UTF-8-SIG,utf_8_sig
 la-mihai.ro,utf-8,ascii,big5
@@ -878,7 +873,6 @@ laakarilehti.fi,utf-8,utf-8,utf_8
 laakeinfo.fi,utf-8,utf-8,cp1252
 laaldeasanicolas.es,UTF-8,utf-8,utf_8
 laanekassen.dk,UTF-8,utf-8,utf_8
-laaneranna.ee,UTF-8,utf-8,utf_8
 laanlane.ee,UTF-8,utf-8,utf_8
 laanonimaonline.com,UTF-8,utf-8,iso8859_15
 labeb.com,utf-8,utf-8,utf_8
@@ -886,6 +880,7 @@ label-emmaus.co,utf-8,utf-8,utf_8
 labellezataytay.com,utf-8,ascii,big5
 labirint.ru,UTF-8,utf-8,utf_8
 laboratorija.lv,utf-8,utf-8,utf_8
+laboratorioartisticoferraro.it,,Windows-1254,utf_8
 laborum.cl,UTF-8,ascii,ascii
 labottegadellequipe.it,UTF-8,utf-8,
 labuznik.cz,UTF-8,utf-8,utf_8
@@ -901,7 +896,6 @@ lacomer.com.mx,UTF-8,ascii,ascii
 lacortedelronchetto.it,,ascii,ascii
 lacoteimmo.com,utf-8,ascii,ascii
 lacsiboltja.hu,UTF-8,utf-8,utf_8
-lacuarta.com,UTF-8,utf-8,utf_8
 lacucinaitaliana.it,UTF-8,utf-8,utf_8
 lacuerda.net,utf-8,utf-8,utf_8
 lacuracaonline.com,UTF-8,utf-8,utf_8

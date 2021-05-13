@@ -1,16 +1,5 @@
-| zman.co.il | utf-8 | utf_8 |
-| znanje.org | utf-8 | utf_8 |
-| zodio.fr | utf-8 | utf_8 |
-| zoho.com | utf-8 | utf_8 |
 | zoohit.cz | Windows-1254 | utf_8 |
 | zoohit.si | Windows-1254 | utf_8 |
-| zoohit.sk | utf-8 | utf_8 |
-| zooplus.de | utf-8 | utf_8 |
-| zooplus.fi | utf-8 | utf_8 |
 | zooplus.hu | Windows-1254 | utf_8 |
 | zooplus.nl | Windows-1254 | utf_8 |
 | zooplus.pl | Windows-1254 | utf_8 |
-| zoznamskol.eu | utf-8 | utf_8 |
-| zrkac.lv | UTF-8-SIG | utf_8_sig |
-| zs.pub | utf-8 | utf_8 |
-| zzjzpgz.hr | UTF-8-SIG | utf_8_sig |

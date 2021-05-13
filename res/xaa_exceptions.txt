@@ -1,0 +1,19 @@
+Exception when processing acties.nl
+################################################################################
+Traceback (most recent call last):
+  File "./test_encoding.py", line 96, in <module>
+    normalizer_result = charset_normalizer.detect(response.content)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
+    r = CnM.from_bytes(byte_str).best().first()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in from_bytes
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 517, in <listcomp>
+    fingerprint_tests = [el.fingerprint == cnm.fingerprint for el in matches]
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/cached_property.py", line 36, in __get__
+    value = obj.__dict__[self.func.__name__] = self.func(obj)
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 259, in fingerprint
+    return sha256(self.output()).hexdigest()
+  File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
+    return str(self).encode(encoding)
+UnicodeEncodeError: 'utf-8' codec can't encode character '\ud97c' in position 1067: surrogates not allowed
+################################################################################

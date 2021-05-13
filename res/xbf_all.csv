@@ -12,7 +12,7 @@ viacarreira.com,UTF-8,utf-8,utf_8
 viaconfort.com.uy,utf-8,utf-8,utf_8
 viagginews.com,UTF-8,utf-8,utf_8
 viaggiolddream.it,utf-8,ascii,big5
-viajeauruguay.com,,ascii,ascii
+viajeauruguay.com,UTF-8,utf-8,utf_8
 viajecomigo.com,UTF-8,Windows-1254,utf_8
 viajenaviagem.com,utf-8,utf-8,utf_8
 viajeselcorteingles.es,,ascii,ascii
@@ -98,11 +98,12 @@ vie-publique.fr,UTF-8,utf-8,utf_8
 vieclam24h.vn,utf-8,utf-8,utf_8
 vienna.at,UTF-8,utf-8,cp949
 viepratique.fr,,ascii,ascii
-viesunamiem.lv,,ascii,ascii
+viesunamiem.lv,UTF-8,utf-8,utf_8
 viet-biz.com,,utf-8,utf_8
 vietas.lv,,utf-8,utf_8
 vietcombank.com.vn,utf-8,utf-8,utf_8
 vietgiaitri.com,,utf-8,
+vietinbank.vn,UTF-8,utf-8,utf_8
 vietjack.com,UTF-8,utf-8,utf_8
 vietnamairlines.com,utf-8,utf-8,utf_8
 vietnambiz.vn,utf-8,utf-8,utf_8
@@ -148,11 +149,10 @@ ville-geneve.ch,UTF-8,utf-8,utf_8
 villeeunacasa.it,,ascii,ascii
 villegassino.it,,ascii,ascii
 villyfriends.com,utf-8,ascii,big5
-vilniausgalerija.lt,UTF-8,utf-8,utf_8
 vilnius21.lt,UTF-8,utf-8,utf_8
 vimcojim.cz,,utf-8,utf_8
 vimedbarn.se,UTF-8,utf-8,
-vimeo.com,UTF-8,utf-8,utf_8
+vimeo.com,UTF-8,ISO-8859-1,utf_8
 vimmerbytidning.se,,utf-8,utf_8
 vimvic.cz,utf-8,utf-8,utf_8
 vinabiz.org,utf-8,utf-8,utf_8
@@ -183,6 +183,7 @@ vira.cz,UTF-8,utf-8,utf_8
 virail.bg,UTF-8,utf-8,utf_8
 virail.ro,UTF-8,utf-8,utf_8
 viralagenda.com,UTF-8,utf-8,utf_8
+virelaine.org,utf-8,ascii,big5
 virgilio.it,UTF-8,utf-8,utf_8
 virginia.gov,UTF-8,ascii,ascii
 virginmedia.com,UTF-8,utf-8,utf_8
@@ -195,6 +196,7 @@ virtasenkauppa.fi,UTF-8,utf-8,utf_8
 virtuaalkliinik.ee,UTF-8,ISO-8859-1,utf_8
 virtualne.sk,,ascii,ascii
 virumaa.ee,UTF-8,utf-8,utf_8
+visainfo.lt,utf-8,utf-8,utf_8
 visalatvija.lv,UTF-8,utf-8,utf_8
 visalietuva.lt,UTF-8,utf-8,utf_8
 visapasaule.lv,utf-8,utf-8,utf_8
@@ -240,6 +242,8 @@ vismaspcs.se,utf-8,utf-8,mac_latin2
 visme.co,UTF-8,utf-8,utf_8
 visnuk.com.ua,utf-8,utf-8,utf_8
 visorando.com,UTF-8,utf-8,utf_8
+viss.lt,,utf-8,utf_8
+viss.lv,,utf-8,utf_8
 viss.nu,UTF-8,utf-8,utf_8
 visszajovoksnabba.fun,UTF-8,TIS-620,
 vistazo.com,utf-8,utf-8,utf_8
@@ -252,15 +256,13 @@ vita.no,utf-8,utf-8,utf_8
 vita4you.gr,UTF-8,utf-8,utf_8
 vitadox.com,UTF-8,utf-8,utf_8
 vitaexpress.ru,,Windows-1252,utf_8
-vital.hu,,ascii,ascii
 vitalfemalefifty.com,UTF-8,utf-8,utf_8
 vitalia.cz,UTF-8,utf-8,utf_8
 vitalion.cz,UTF-8,utf-8,utf_8
-vitalitasportal.com,UTF-8,utf-8,
-vitals.com,UTF-8,ascii,ascii
+vitalitasportal.com,UTF-8,utf-8,utf_8
 vitamini.hr,utf-8,utf-8,utf_8
 vitania.bg,utf-8,utf-8,utf_8
-vitapur.si,UTF-8,Windows-1254,utf_8
+vitapur.si,UTF-8,utf-8,utf_8
 vite-un-depanneur.fr,UTF-8,utf-8,
 vitiscats.site,iso-8859-1,ascii,ascii
 vitonica.com,UTF-8,Windows-1254,utf_8
@@ -293,7 +295,7 @@ vivatravel.rs,UTF-8,utf-8,utf_8
 vivavisos.com.ar,,utf-8,utf_8
 vive.dk,utf-8,utf-8,utf_8
 vivense.com,UTF-8,ascii,ascii
-viveos.net,utf-8,utf-8,
+viveos.net,utf-8,Windows-1254,
 viverepiusani.it,UTF-8,utf-8,utf_8
 viversano.net,UTF-8,utf-8,utf_8
 vivi.tv,UTF-8,utf-8,utf_8
@@ -365,7 +367,7 @@ voaindonesia.com,utf-8,ascii,ascii
 voanews.com,UTF-8,utf-8,utf_8
 voaportugues.com,utf-8,utf-8,utf_8
 voathai.com,utf-8,utf-8,utf_8
-voatiengviet.com,utf-8,utf-8,utf_8
+voatiengviet.com,,utf-8,utf_8
 voban.rs,UTF-8,utf-8,utf_8
 vocabulary.com,utf-8,utf-8,utf_8
 vocabulix.com,,ascii,ascii
@@ -379,7 +381,7 @@ vodafone.de,ISO-8859-1,ISO-8859-1,cp1250
 vodafone.gr,UTF-8,utf-8,utf_8
 vodafone.hu,utf-8,utf-8,utf_8
 vodafone.ie,UTF-8,utf-8,utf_8
-vodafone.pt,UTF-8,utf-8,cp1125
+vodafone.pt,UTF-8,utf-8,utf_8
 vodafone.ro,utf-8,utf-8,utf_8
 vodkaster.com,UTF-8,utf-8,utf_8
 voedingscentrum.nl,utf-8,utf-8,utf_8
@@ -405,6 +407,7 @@ vogue.nl,UTF-8,utf-8,utf_8
 vogue.pl,UTF-8,utf-8,utf_8
 vogue.pt,utf-8,UTF-8-SIG,utf_8_sig
 vogue.ru,utf-8,utf-8,utf_8
+vogue.ua,UTF-8,utf-8,utf_8
 voh.com.vn,utf-8,utf-8,utf_8
 voi.id,UTF-8,utf-8,utf_8
 voice.fi,utf-8,utf-8,utf_8
@@ -417,7 +420,7 @@ vojvodina.travel,UTF-8,utf-8,utf_8
 vokal.in,utf-8,utf-8,utf_8
 vokka.jp,utf-8,utf-8,utf_8
 vokrug.tv,UTF-8,ascii,ascii
-vol.at,UTF-8,utf-8,
+vol.at,UTF-8,utf-8,utf_8
 vol.no,UTF-8,utf-8,utf_8
 vola.ro,UTF-8,utf-8,utf_8
 volagratis.com,utf-8,utf-8,utf_8
@@ -437,7 +440,7 @@ volvat.no,utf-8,utf-8,utf_8
 volvocars.com,,ascii,ascii
 volvoclub.ee,,ascii,ascii
 vomturmhaus.com,UTF-8,utf-8,utf_8
-voody.online,utf-8,utf-8,
+voody.online,utf-8,utf-8,utf_8
 voog.com,utf-8,utf-8,utf_8
 voordeelmuis.nl,,ascii,ascii
 voordeeluitjes.nl,utf-8,ascii,ascii
@@ -469,8 +472,9 @@ vox.pl,UTF-8,utf-8,utf_8
 voxy.co.nz,utf-8,utf-8,utf_8
 voyageforum.com,,ISO-8859-1,cp1252
 voydeviaje.com.ar,UTF-8,utf-8,utf_8
+voz.vn,utf-8,utf-8,utf_8
 vozpopuli.com,UTF-8,utf-8,utf_8
-vozz.vn,,ascii,ascii
+vozz.vn,UTF-8,utf-8,utf_8
 vp4.me,utf-8,ISO-8859-1,big5
 vpbank.com.vn,utf-8,utf-8,utf_8
 vphealthandfitness.com,iso-8859-1,ascii,ascii
@@ -487,7 +491,7 @@ vrelegume.rs,UTF-8,Windows-1254,utf_8
 vreme-slovenija.si,utf-8,utf-8,utf_8
 vreme.com,UTF-8,utf-8,utf_8
 vreme.us,,UTF-8-SIG,utf_8_sig
-vremeanoua.ro,,ascii,ascii
+vremeanoua.ro,UTF-8,utf-8,utf_8
 vremebo.com,UTF-8,utf-8,utf_8
 vres.gr,utf-8,utf-8,utf_8
 vresta.gr,UTF-8,Windows-1254,ptcp154
@@ -516,7 +520,7 @@ vsetkyfirmy.sk,,Windows-1254,cp1250
 vsetkyrecepty.sk,UTF-8,utf-8,utf_8
 vsi.si,UTF-8,utf-8,utf_8
 vsichkioferti.bg,UTF-8,utf-8,utf_8
-vsikatalogi.si,,ascii,ascii
+vsikatalogi.si,UTF-8,utf-8,utf_8
 vsikuponi.si,utf-8,utf-8,utf_8
 vsluh.ru,utf-8,utf-8,utf_8
 vsshp.fi,utf-8,utf-8,utf_8
@@ -529,7 +533,7 @@ vtd.lt,utf-8,utf-8,utf_8
 vtfk.no,utf-8,utf-8,utf_8
 vtm.be,,ascii,ascii
 vtt.fi,UTF-8,utf-8,utf_8
-vtudien.com,,ascii,ascii
+vtudien.com,UTF-8,utf-8,utf_8
 vtv.vn,utf-8,utf-8,utf_8
 vtvgo.vn,UTF-8,utf-8,utf_8
 vtwonen.be,UTF-8,utf-8,utf_8
@@ -541,6 +545,7 @@ vuahanghieu.com,UTF-8,utf-8,utf_8
 vub.be,utf-8,utf-8,utf_8
 vub.sk,utf-8,utf-8,utf_8
 vucke.sk,utf-8,utf-8,utf_8
+vudu.com,,,utf-8
 vugd.gov.lv,UTF-8,utf-8,utf_8
 vukajlija.com,utf-8,utf-8,utf_8
 vukovisadunava.com,UTF-8,utf-8,utf_8
@@ -617,14 +622,14 @@ walmart.com.ar,utf-8,utf-8,utf_8
 walmart.com.mx,,ascii,ascii
 walnuts.fun,UTF-8,utf-8,utf_8
 walpolarahula.org,utf-8,ascii,big5
-waltonbd.com,utf-8,utf-8,utf_8
 wam.ae,UTF-8,utf-8,utf_8
 wamiz.com,utf-8,utf-8,utf_8
 wandaloo.com,UTF-8,utf-8,utf_8
 wander-book.com,UTF-8,utf-8,utf_8
 wandersite.ch,iso-8859-1,ascii,ascii
-wanderungen.ch,,utf-8,
-wanhasatama.fi,,ascii,ascii
+wanderungen.ch,UTF-8,utf-8,utf_8
+wanhaber.com,utf-8,utf-8,utf_8
+wanhasatama.fi,UTF-8,utf-8,utf_8
 wanista.com,UTF-8,utf-8,utf_8
 wannabemagazine.com,UTF-8,utf-8,utf_8
 want.nl,UTF-8,utf-8,utf_8
@@ -639,6 +644,7 @@ wapteka.pl,UTF-8,utf-8,utf_8
 waptrick.ltd,UTF-8,utf-8,utf_8
 wapwon.live,UTF-8,utf-8,utf_8
 warbletoncouncil.org,iso-8859-1,ascii,ascii
+warehousestationery.co.nz,UTF-8,utf-8,utf_8
 warmschaap.nl,utf-8,ascii,ascii
 wartaekonomi.co.id,UTF-8,ascii,ascii
 warwick.ac.uk,UTF-8,utf-8,utf_8
@@ -683,7 +689,6 @@ weather.com,utf-8,utf-8,
 weather.gov,UTF-8,ascii,ascii
 weather2day.co.il,utf-8,utf-8,utf_8
 weather2umbrella.com,UTF-8,utf-8,utf_8
-weathercrave.com,UTF-8,utf-8,utf_8
 weathernews.jp,utf-8,utf-8,utf_8
 web-pra.com,utf-8,utf-8,utf_8
 web.de,UTF-8,utf-8,utf_8
@@ -694,7 +699,7 @@ webaptieka.lv,utf-8,utf-8,utf_8
 webbeteg.hu,UTF-8,utf-8,utf_8
 webcafe.bg,UTF-8,utf-8,utf_8
 webcartop.jp,UTF-8,utf-8,utf_8
-webcg.net,utf-8,utf-8,
+webcg.net,utf-8,utf-8,utf_8
 webcindario.com,iso-8859-1,ISO-8859-1,cp1250
 webcolegios.com,,utf-8,utf_8
 webconsultas.com,utf-8,utf-8,utf_8
@@ -753,8 +758,9 @@ webteb.com,utf-8,utf-8,utf_8
 webtekno.com,UTF-8,utf-8,utf_8
 webthethao.vn,UTF-8,utf-8,utf_8
 webtoons.com,UTF-8,utf-8,utf_8
-webtretho.com,utf-8,Windows-1254,utf_8
+webtretho.com,utf-8,utf-8,utf_8
 webtrh.cz,UTF-8,utf-8,utf_8
+webtruyen.com,UTF-8,utf-8,utf_8
 webumenia.sk,UTF-8,utf-8,utf_8
 webvalid.de,utf-8,utf-8,utf_8
 webyempresas.com,UTF-8,Windows-1254,utf_8
@@ -764,7 +770,6 @@ wecare.gr,utf-8,utf-8,utf_8
 wedding.pl,UTF-8,Windows-1254,utf_8
 weddinglist.co.th,UTF-8,utf-8,utf_8
 weddingpark.net,UTF-8,utf-8,utf_8
-weddingsevermore.com,UTF-8,ascii,ascii
 weddingsonline.ie,utf-8,ISO-8859-1,utf_8
 weddingwire.com,UTF-8,utf-8,utf_8
 weddingwire.in,UTF-8,utf-8,utf_8
@@ -777,7 +782,6 @@ weekend.co.il,utf-8,utf-8,utf_8
 weekendavisen.dk,UTF-8,utf-8,utf_8
 weekendesk.be,utf-8,Windows-1254,utf_8
 weekendhobby.com,,TIS-620,iso8859_11
-weekendnotes.com,,ascii,ascii
 weekendshoes.ee,UTF-8,utf-8,utf_8
 weekendshoes.lv,UTF-8,utf-8,utf_8
 weekli.de,UTF-8,utf-8,utf_8
@@ -787,13 +791,12 @@ weerplaza.nl,utf-8,utf-8,utf_8
 weetas.com,UTF-8,utf-8,utf_8
 wefit.gr,utf-8,utf-8,utf_8
 weforum.org,utf-8,utf-8,utf_8
-wego.ae,UTF-8,ascii,ascii
 wego.com,UTF-8,ascii,ascii
 wegointer.com,,Windows-1254,utf_8
 wegwandern.ch,UTF-8,utf-8,utf_8
 wehkamp.nl,utf-8,utf-8,utf_8
 weibo.cn,utf-8,utf-8,utf_8
-weibo.com,utf-8,utf-8,utf_8
+weibo.com,utf-8,Windows-1254,utf_8
 weightwatchers.com,utf-8,utf-8,utf_8
 weimar-citroen.de,,ascii,ascii
 weisse-liste.de,utf-8,utf-8,utf_8
@@ -824,7 +827,7 @@ wenskaart-bestellen.nl,utf-8,utf-8,utf_8
 weplay.cl,UTF-8,utf-8,utf_8
 wepqu.com,UTF-8,ascii,ascii
 wer-weiss-was.de,utf-8,utf-8,utf_8
-wer-zu-wem.de,UTF-8,Windows-1252,iso8859_9
+wer-zu-wem.de,UTF-8,utf-8,utf_8
 wer.ru,UTF-8,utf-8,utf_8
 weranda.pl,UTF-8,utf-8,utf_8
 werhatoffen.de,UTF-8,utf-8,utf_8
@@ -856,7 +859,7 @@ wetter.de,utf-8,utf-8,utf_8
 wetteronline.at,UTF-8,utf-8,utf_8
 wetteronline.ch,UTF-8,utf-8,utf_8
 wetteronline.de,UTF-8,utf-8,utf_8
-wettpoint.com,iso-8859-1,ascii,ascii
+wettpoint.com,UTF-8,ascii,ascii
 wetv.vip,utf-8,utf-8,utf_8
 wexphotovideo.com,utf-8,ISO-8859-1,utf_8
 wexthuset.com,,utf-8,utf_8
@@ -922,7 +925,7 @@ wikiarticle.xyz,UTF-8,utf-8,utf_8
 wikibath.ru,utf-8,utf-8,utf_8
 wikibooks.org,,utf-8,utf_8
 wikicasa.it,UTF-8,utf-8,utf_8
-wikicell.org,UTF-8,ascii,ascii
+wikicell.org,UTF-8,ascii,
 wikidata.org,UTF-8,Windows-1254,utf_8
 wikidiff.com,utf-8,ascii,ascii
 wikidocumentaries-demo.wmflabs.org,,ascii,ascii
@@ -941,4 +944,3 @@ wikimapia.org,,Windows-1254,utf_8
 wikimedia.org,,utf-8,utf_8
 wikimisr.com,UTF-8,utf-8,utf_8
 wikionline.site,UTF-8,utf-8,utf_8
-wikiorg.ru,UTF-8,utf-8,utf_8

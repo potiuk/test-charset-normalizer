@@ -1,5 +1,7 @@
+Exception when processing selfridges.com
+################################################################################
 Traceback (most recent call last):
-  File "./test_encoding.py", line 85, in <module>
+  File "./test_encoding.py", line 96, in <module>
     normalizer_result = charset_normalizer.detect(response.content)
   File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
     r = CnM.from_bytes(byte_str).best().first()
@@ -13,9 +15,12 @@ Traceback (most recent call last):
     return sha256(self.output()).hexdigest()
   File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
     return str(self).encode(encoding)
-UnicodeEncodeError: 'utf-8' codec can't encode character '\udc8a' in position 3109: surrogates not allowed
+UnicodeEncodeError: 'utf-8' codec can't encode character '\uda87' in position 3384: surrogates not allowed
+################################################################################
+Exception when processing sjeverni.info
+################################################################################
 Traceback (most recent call last):
-  File "./test_encoding.py", line 85, in <module>
+  File "./test_encoding.py", line 96, in <module>
     normalizer_result = charset_normalizer.detect(response.content)
   File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
     r = CnM.from_bytes(byte_str).best().first()
@@ -29,4 +34,5 @@ Traceback (most recent call last):
     return sha256(self.output()).hexdigest()
   File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
     return str(self).encode(encoding)
-UnicodeEncodeError: 'utf-8' codec can't encode character '\ude38' in position 3063: surrogates not allowed
+UnicodeEncodeError: 'utf-8' codec can't encode character '\ud809' in position 3138: surrogates not allowed
+################################################################################

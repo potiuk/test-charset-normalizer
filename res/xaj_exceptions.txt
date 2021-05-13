@@ -1,5 +1,7 @@
+Exception when processing filmos.org
+################################################################################
 Traceback (most recent call last):
-  File "./test_encoding.py", line 85, in <module>
+  File "./test_encoding.py", line 96, in <module>
     normalizer_result = charset_normalizer.detect(response.content)
   File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/legacy.py", line 20, in detect
     r = CnM.from_bytes(byte_str).best().first()
@@ -13,4 +15,5 @@ Traceback (most recent call last):
     return sha256(self.output()).hexdigest()
   File "/home/jarek/.pyenv/versions/test_encoding/lib/python3.8/site-packages/charset_normalizer/normalizer.py", line 267, in output
     return str(self).encode(encoding)
-UnicodeEncodeError: 'utf-8' codec can't encode character '\uddc5' in position 3404: surrogates not allowed
+UnicodeEncodeError: 'utf-8' codec can't encode character '\ud85d' in position 3428: surrogates not allowed
+################################################################################

@@ -8,8 +8,7 @@ patarimupasaulis.lt,utf-8,utf-8,utf_8
 patasdacasa.com.br,utf-8,utf-8,utf_8
 patbat.com,UTF-8,utf-8,utf_8
 patch.com,utf-8,utf-8,utf_8
-patee.ru,utf-8,,utf_8
-patefon.co,UTF-8,utf-8,utf_8
+patee.ru,utf-8,utf-8,utf_8
 patentati.it,utf-8,ascii,ascii
 pathe.nl,utf-8,utf-8,utf_8
 pathee.com,utf-8,utf-8,utf_8
@@ -26,10 +25,11 @@ patricedebruxelles.com,utf-8,ascii,big5
 patricinhaesperta.com.br,UTF-8,Windows-1254,utf_8
 patrika.com,UTF-8,utf-8,utf_8
 patrimoniocultural.gov.pt,utf-8,utf-8,utf_8
-patris.gr,,ascii,ascii
+patris.gr,UTF-8,utf-8,utf_8
 patrisnews.com,UTF-8,utf-8,utf_8
 patronlardunyasi.com,,utf-8,utf_8
 patuah.co.il,UTF-8,utf-8,utf_8
+pau.edu.tr,utf-8,utf-8,utf_8
 paulinacocina.net,UTF-8,utf-8,utf_8
 paultan.org,UTF-8,utf-8,utf_8
 pauta.cl,utf-8,utf-8,utf_8
@@ -70,7 +70,6 @@ pcel.com,utf-8,utf-8,utf_8
 pcfactory.cl,UTF-8,ascii,ascii
 pcforum.hu,utf-8,utf-8,utf_8
 pcforum.sk,UTF-8,utf-8,utf_8
-pcgamer.com,UTF-8,utf-8,utf_8
 pcgames.de,UTF-8,utf-8,utf_8
 pcgameshardware.de,UTF-8,utf-8,utf_8
 pcgamesn.com,UTF-8,Windows-1252,utf_8
@@ -79,7 +78,7 @@ pcguia.pt,UTF-8,utf-8,utf_8
 pcguru.hu,utf-8,utf-8,utf_8
 pchocasi.com.tr,UTF-8,utf-8,utf_8
 pchome.co.th,UTF-8,utf-8,utf_8
-pchome.com.tw,,Windows-1254,utf_8
+pchome.com.tw,,utf-8,utf_8
 pciconcursos.com.br,UTF-8,utf-8,utf_8
 pcland.hu,UTF-8,utf-8,utf_8
 pcmac.download,UTF-8,utf-8,utf_8
@@ -93,7 +92,6 @@ pcshop.ua,utf-8,utf-8,utf_8
 pcsteps.gr,UTF-8,utf-8,utf_8
 pcstore.com.tw,,utf-8,utf_8
 pctipp.ch,UTF-8,utf-8,utf_8
-pctown.co.nz,,ascii,ascii
 pcwelt.de,UTF-8,utf-8,utf_8
 pcworld.com,UTF-8,utf-8,utf_8
 pcworld.es,UTF-8,utf-8,utf_8
@@ -147,7 +145,6 @@ peixe.com.co,utf-8,ascii,
 pekis.si,utf-8,utf-8,utf_8
 peknebydleni.cz,UTF-8,utf-8,utf_8
 pelajaran.co.id,UTF-8,utf-8,utf_8
-pelando.com.br,UTF-8,utf-8,utf_8
 pelckmans.net,utf-8,utf-8,utf_8
 pelephone.co.il,utf-8,utf-8,utf_8
 pelipecky.sk,,ascii,ascii
@@ -160,7 +157,7 @@ penalbaweb.com,UTF-8,utf-8,utf_8
 pendujatt.net,UTF-8,ascii,ascii
 pendulo.com,UTF-8,utf-8,utf_8
 pengenytt.no,UTF-8,utf-8,utf_8
-penginapan.net,,ascii,ascii
+penginapan.net,UTF-8,ascii,ascii
 penguin.co.nz,utf-8,utf-8,utf_8
 penguin.co.uk,utf-8,utf-8,utf_8
 penguin.com.au,utf-8,utf-8,utf_8
@@ -176,6 +173,8 @@ pentapostagma.gr,UTF-8,utf-8,utf_8
 penti.com,utf-8,utf-8,iso8859_15
 penystonevistastables.com,utf-8,ascii,big5
 penzcentrum.hu,UTF-8,utf-8,utf_8
+penzin.rs,UTF-8,utf-8,utf_8
+penziony.cz,UTF-8,utf-8,utf_8
 people.com,utf-8,utf-8,utf_8
 people.com.cn,,GB2312,gb18030
 peopleenespanol.com,utf-8,utf-8,utf_8
@@ -188,7 +187,7 @@ pepeganga.com,utf-8,utf-8,utf_8
 peperonipizzaypasta.com,utf-8,ascii,big5
 pepita.hu,UTF-8,utf-8,utf_8
 pepper.com,UTF-8,utf-8,utf_8
-pepper.pl,UTF-8,utf-8,utf_8
+pepper.pl,UTF-8,Windows-1254,utf_8
 pepper.ru,UTF-8,utf-8,
 pepperfry.com,,ascii,ascii
 pepstores.com,utf-8,ascii,ascii
@@ -222,7 +221,7 @@ persoenlich.com,UTF-8,utf-8,utf_8
 personal.com.ar,utf-8,utf-8,utf_8
 personaliuudised.ee,utf-8,utf-8,utf_8
 personare.com.br,utf-8,utf-8,utf_8
-pertamax7.com,UTF-8,utf-8,utf_8
+pertamax7.com,UTF-8,ascii,ascii
 pertanian.go.id,UTF-8,ISO-8859-1,
 perthnow.com.au,utf-8,Windows-1254,utf_8
 pertinitoys.com,utf-8,utf-8,utf_8
@@ -233,7 +232,7 @@ pescanik.net,UTF-8,utf-8,utf_8
 pesjanar.si,UTF-8,utf-8,utf_8
 peskiadmin.ru,utf-8,utf-8,utf_8
 pesmarica.rs,utf-8,utf-8,utf_8
-pesmojprijatelj.si,,ascii,ascii
+pesmojprijatelj.si,utf-8,utf-8,utf_8
 pesni.guru,utf-8,utf-8,utf_8
 pesni.net,utf-8,utf-8,utf_8
 pespoti.si,UTF-8,UTF-8-SIG,utf_8_sig
@@ -257,7 +256,6 @@ petitchef.it,UTF-8,utf-8,utf_8
 petitchef.ro,UTF-8,utf-8,utf_8
 petitfute.co.uk,utf-8,utf-8,utf_8
 petitfute.com,utf-8,utf-8,utf_8
-petlove.com.br,utf-8,Windows-1254,utf_8
 petmaya.com,,utf-8,utf_8
 petofilive.hu,,utf-8,utf_8
 petra.ac.id,UTF-8,utf-8,utf_8
@@ -277,7 +275,6 @@ pevex.hr,UTF-8,utf-8,utf_8
 pexels.com,UTF-8,ascii,
 pezinok.sk,UTF-8,utf-8,utf_8
 pfarma.ro,UTF-8,utf-8,utf_8
-pfister.ch,utf-8,utf-8,utf_8
 pfizer.com.br,UTF-8,utf-8,utf_8
 pg.edu.pl,UTF-8,utf-8,utf_8
 pgcasa.it,UTF-8,utf-8,utf_8
@@ -287,9 +284,9 @@ pgsskroton.com,UTF-8,ascii,ascii
 pgz.hr,UTF-8,utf-8,utf_8
 ph.ee,UTF-8,utf-8,utf_8
 ph100.org,utf-8,ascii,big5
+phacdochuabenh.com,UTF-8,utf-8,utf_8
 phaidepviet.com,utf-8,utf-8,utf_8
 phapluatplus.vn,UTF-8,utf-8,utf_8
-pharm16.gr,UTF-8,utf-8,utf_8
 pharm24.gr,utf-8,utf-8,utf_8
 pharma-gdd.com,UTF-8,utf-8,utf_8
 pharmacafennica.fi,utf-8,utf-8,utf_8
@@ -331,13 +328,14 @@ phimsex.red,UTF-8,utf-8,utf_8
 phinemo.com,UTF-8,ascii,ascii
 phitsanulokhotnews.com,UTF-8,utf-8,utf_8
 phoenix-sol.co.jp,UTF-8,utf-8,utf_8
+phoenixcertifiedhomeinspections.com,utf-8,ascii,big5
 pholfoodmafia.com,UTF-8,utf-8,utf_8
 phonandroid.com,UTF-8,utf-8,utf_8
 phoneaqua.com,UTF-8,utf-8,utf_8
 phonearena.com,UTF-8,utf-8,utf_8
 phonebook.lk,UTF-8,ascii,ascii
 phonebunch.com,UTF-8,ascii,ascii
-phonecorridor.com,,ascii,ascii
+phonecorridor.com,UTF-8,utf-8,utf_8
 phonegg.com,,ISO-8859-1,utf_8
 phonehouse.es,UTF-8,utf-8,utf_8
 phoneindex.co.il,utf-8,utf-8,utf_8
@@ -361,6 +359,7 @@ phunuvagiadinh.vn,utf-8,utf-8,utf_8
 phunuvietnam.vn,utf-8,utf-8,utf_8
 phutho.gov.vn,UTF-8,utf-8,utf_8
 phyathai.com,utf-8,utf-8,utf_8
+phymmoi.net,UTF-8,utf-8,utf_8
 phymnhanh.net,UTF-8,utf-8,utf_8
 phys.org,,ascii,ascii
 physics-quest.com,utf-8,ascii,big5
@@ -376,7 +375,7 @@ pianetadonna.it,UTF-8,utf-8,utf_8
 pianetamamma.it,UTF-8,utf-8,utf_8
 pianobattagliaemadonie.it,,utf-8,utf_8
 piazz.com,UTF-8,utf-8,utf_8
-pib.gov.in,utf-8,ascii,shift_jis_2004
+pib.gov.in,utf-8,ascii,ascii
 piccantino.si,UTF-8,utf-8,cp437
 picchu.it,,ascii,ascii
 picclick.at,UTF-8,utf-8,utf_8
@@ -394,7 +393,7 @@ pico.vn,utf-8,utf-8,utf_8
 picodi.com,UTF-8,utf-8,utf_8
 pictame.com,UTF-8,Windows-1252,utf_8
 picturacameracopii.ro,utf-8,ascii,big5
-picturemydress.com,UTF-8,ascii,ascii
+picturemydress.com,utf-8,ascii,big5
 picuki.com,UTF-8,ascii,ascii
 picwictoys.com,,ascii,ascii
 pidru4niki.com,WINDOWS-1251,windows-1251,cp1251
@@ -419,7 +418,7 @@ pik.bg,UTF-8,utf-8,utf_8
 pikapolonica.si,UTF-8,utf-8,utf_8
 pikbest.com,utf-8,utf-8,utf_8
 pikiran-rakyat.com,UTF-8,utf-8,utf_8
-pikist.com,UTF-8,utf-8,utf_8
+pikist.com,UTF-8,ISO-8859-1,utf_8
 pilateshealtheur.it,,ascii,ascii
 pilatustoday.ch,utf-8,utf-8,utf_8
 pilet.ee,utf-8,utf-8,utf_8
@@ -479,6 +478,7 @@ pirk.lt,UTF-8,utf-8,utf_8
 pirkimai365.lt,utf-8,utf-8,utf_8
 pirkumins.com,UTF-8,utf-8,utf_8
 pirogov.eu,UTF-8,utf-8,utf_8
+piroshairandbeauty.ro,utf-8,ascii,big5
 pirs.si,UTF-8,ascii,ascii
 pis.sk,UTF-8,utf-8,utf_8
 pisapapeles.net,UTF-8,utf-8,utf_8
@@ -487,7 +487,7 @@ piscanecmatematika.xyz,,ascii,ascii
 pisnicky-akordy.cz,utf-8,utf-8,utf_8
 pisos.com,utf-8,utf-8,utf_8
 pisrs.si,UTF-8,utf-8,utf_8
-pistik.net,,ascii,ascii
+pistik.net,UTF-8,Windows-1252,utf_8
 pistonheads.com,utf-8,Windows-1252,utf_8
 pit.pl,utf-8,utf-8,utf_8
 pitaronfree.blogspot.com,UTF-8,utf-8,utf_8
@@ -530,7 +530,6 @@ placeralplato.com,UTF-8,utf-8,utf_8
 places.co.za,UTF-8,utf-8,utf_8
 plaisio.gr,utf-8,utf-8,utf_8
 plala.or.jp,,utf-8,utf_8
-planalto.gov.br,,ascii,ascii
 plandoact.com,utf-8,ascii,big5
 planeo.cz,utf-8,utf-8,utf_8
 planeo.sk,utf-8,utf-8,utf_8
@@ -545,6 +544,7 @@ planetamexico.com.mx,,utf-8,utf_8
 planetasport.rs,UTF-8,utf-8,utf_8
 planetauruguay.com,,utf-8,utf_8
 planetavenezuela.com.ve,UTF-8,ascii,ascii
+planetazdorovo.ru,UTF-8,Windows-1254,ptcp154
 planetenjorden.dk,,ascii,ascii
 planetlaguz.site,UTF-8,utf-8,utf_8
 planetofhotels.com,utf-8,utf-8,utf_8
@@ -562,7 +562,7 @@ plantorama.dk,utf-8,utf-8,utf_8
 plantura.garden,UTF-8,utf-8,
 planviewer.nl,UTF-8,utf-8,utf_8
 plasico.bg,utf-8,utf-8,utf_8
-plasto-tech.com,UTF-8,ascii,ascii
+plasto-tech.com,utf-8,ascii,big5
 plataformaarquitectura.cl,utf-8,utf-8,utf_8
 plataformaurbana.cl,UTF-8,utf-8,utf_8
 platekompaniet.no,utf-8,utf-8,utf_8
@@ -595,7 +595,7 @@ plo.vn,utf-8,utf-8,utf_8
 plodine.hr,UTF-8,utf-8,utf_8
 plos.org,UTF-8,Windows-1252,utf_8
 ploshtadslaveikov.com,UTF-8,utf-8,utf_8
-plotek.pl,iso-8859-2,ISO-8859-1,hp_roman8
+plotek.pl,iso-8859-2,ISO-8859-1,cp1252
 plovdiv-press.bg,UTF-8,utf-8,utf_8
 plovdiv24.bg,utf-8,utf-8,utf_8
 plovdivnow.bg,UTF-8,utf-8,utf_8
@@ -611,9 +611,8 @@ plusvalia.com,UTF-8,ascii,ascii
 plutonlogistics.com,UTF-8,utf-8,utf_8
 plweb.online,UTF-8,utf-8,utf_8
 plwiki.pl,utf-8,utf-8,utf_8
-plz.lv,UTF-8,utf-8,utf_8
 plzen.cz,utf-8,utf-8,utf_8
-pm.gov.jo,UTF-8,utf-8,utf_8
+plzen.eu,utf-8,utf-8,utf_8
 pmg.org.za,utf-8,utf-8,utf_8
 pmi.it,UTF-8,utf-8,utf_8
 pmlp.gov.lv,UTF-8,utf-8,utf_8
@@ -648,7 +647,6 @@ podarimo.si,UTF-8,utf-8,utf_8
 podarokideal.ru,iso-8859-1,ascii,ascii
 podatki.biz,,Windows-1252,iso8859_2
 podcast.ee,UTF-8,utf-8,utf_8
-podcastid.ee,,ascii,ascii
 podcastluisteren.nl,utf-8,Windows-1252,utf_8
 podcasts.nu,utf-8,utf-8,utf_8
 poddtoppen.se,UTF-8,utf-8,utf_8
@@ -658,20 +656,20 @@ poderjudicial.gub.uy,UTF-8,ISO-8859-1,utf_8
 podimo.com,utf-8,Windows-1254,utf_8
 podjetniski-portal.si,UTF-8,utf-8,utf_8
 podmosta.bg,UTF-8,utf-8,utf_8
-podnikajte.sk,UTF-8,utf-8,utf_8
+podnikajte.sk,,utf-8,utf_8
 podnikam.sk,UTF-8,utf-8,utf_8
 podnikatel.cz,UTF-8,utf-8,utf_8
 podravka.hr,UTF-8,utf-8,utf_8
 podravski.hr,UTF-8,utf-8,utf_8
 podsvojostreho.net,UTF-8,utf-8,utf_8
-podtail.com,UTF-8,utf-8,utf_8
+podtail.com,UTF-8,Windows-1252,utf_8
 podtail.se,UTF-8,utf-8,utf_8
 podtepeto.com,UTF-8,utf-8,utf_8
 podunavlje.info,iso-8859-1,ascii,ascii
 poduzetnistvo.org,,Windows-1254,iso8859_9
 podyplomie.pl,utf-8,utf-8,utf_8
 poehalisnami.ua,utf-8,UTF-8-SIG,utf_8_sig
-poenta.co.il,utf-8,utf-8,utf_8
+poenta.co.il,UTF-8,utf-8,utf_8
 poet.hu,,ISO-8859-1,cp1250
 pofta-buna.com,UTF-8,utf-8,utf_8
 pogastro.com,utf-8,utf-8,
@@ -682,7 +680,7 @@ pohodo.sk,UTF-8,Windows-1254,utf_8
 point.bg,windows-1251,windows-1251,cp1251
 point2homes.com,,ascii,ascii
 pointp.fr,UTF-8,utf-8,utf_8
-pojoksatu.id,UTF-8,ascii,ascii
+pojoksatu.id,UTF-8,ISO-8859-1,utf_8
 pokelagu.com,,ISO-8859-1,utf_8
 poki.com,utf-8,Windows-1254,utf_8
 pokupon.ua,utf-8,utf-8,utf_8
@@ -770,7 +768,7 @@ popcorntv.it,UTF-8,utf-8,utf_8
 popmama.com,UTF-8,utf-8,utf_8
 popmech.ru,utf-8,utf-8,utf_8
 popolnapostava.com,UTF-8,Windows-1254,utf_8
-popolsku24.pl,,ascii,ascii
+popolsku24.pl,UTF-8,utf-8,utf_8
 popsugar.co.uk,utf-8,utf-8,utf_8
 popsugar.com,utf-8,utf-8,utf_8
 popularabarer.se,iso-8859-1,ascii,ascii
@@ -788,7 +786,7 @@ poradnikzdrowie.pl,utf-8,utf-8,utf_8
 poradte.cz,windows1250,Windows-1252,cp1250
 poranny.pl,UTF-8,utf-8,utf_8
 porch.com,UTF-8,Windows-1252,utf_8
-porestina.info,UTF-8,Windows-1254,hp_roman8
+porestina.info,UTF-8,Windows-1254,iso8859_9
 pori.fi,utf-8,utf-8,utf_8
 pornhub.com,UTF-8,utf-8,utf_8
 porodnice.cz,utf-8,utf-8,utf_8
@@ -809,7 +807,8 @@ portalcorreio.com.br,UTF-8,utf-8,utf_8
 portaldacidade.com,UTF-8,utf-8,utf_8
 portaldalinguaportuguesa.org,UTF-8,utf-8,utf_8
 portaldaqueixa.com,,ascii,ascii
-portaldelcomercio.com,,ascii,ascii
+portaldeangola.com,UTF-8,utf-8,utf_8
+portaldelcomercio.com,,utf-8,utf_8
 portaleabruzzo.com,UTF-8,utf-8,utf_8
 portaleducacao.com.br,utf-8,utf-8,utf_8
 portaleducativo.net,utf-8,utf-8,utf_8
@@ -838,9 +837,10 @@ portoenorte.pt,utf-8,utf-8,utf_8
 portogente.com.br,utf-8,utf-8,utf_8
 portoroz.si,utf-8,utf-8,utf_8
 portoviejo.gob.ec,iso-8859-1,ascii,ascii
+portugal.gov.pt,,utf-8,utf_8
 portugal2020.pt,,ascii,ascii
 portugaldenorteasul.pt,,ascii,ascii
-portugalglobal.pt,utf-8,utf-8,iso8859_14
+portugalglobal.pt,utf-8,utf-8,cp1125
 portugalio.com,utf-8,utf-8,utf_8
 portugues.com.br,UTF-8,utf-8,utf_8
 portuguesaletra.com,UTF-8,utf-8,utf_8
@@ -852,14 +852,15 @@ posb.com.sg,UTF-8,ascii,ascii
 poshmark.com,utf-8,utf-8,utf_8
 posicinamientoweb.pro,UTF-8,,utf-8
 positanonews.it,UTF-8,utf-8,utf_8
+positioningmag.com,,utf-8,utf_8
 poskota.co.id,UTF-8,ascii,ascii
 poslovi.rs,,utf-8,utf_8
 poslovna.hr,utf-8,utf-8,utf_8
 poslovni-savjetnik.com,utf-8,utf-8,utf_8
-poslovni.hr,UTF-8,utf-8,utf_8
+poslovni.hr,UTF-8,Windows-1254,iso8859_9
 poslovniforum.hr,,Windows-1252,cp1250
 poslovnivodic.com,iso-8859-1,ascii,ascii
-post-gazette.com,utf-8,ascii,ascii
+post-gazette.com,,ascii,ascii
 post.ch,utf-8,utf-8,utf_8
 post.lt,UTF-8,utf-8,utf_8
 posta-romana.ro,UTF-8,utf-8,utf_8
@@ -887,10 +888,10 @@ postiindeks.ee,utf-8,utf-8,utf_8
 postila.ru,utf-8,Windows-1254,utf_8
 postimees-documents.s3.amazonaws.com,,ascii,ascii
 postimees.ee,utf-8,utf-8,utf_8
-postjung.com,UTF-8,utf-8,utf_8
+postjung.com,UTF-8,Windows-1254,utf_8
 postmates.com,UTF-8,ascii,ascii
 postoffice.co.uk,UTF-8,utf-8,utf_8
-postoj.sk,UTF-8,utf-8,utf_8
+postoj.sk,UTF-8,Windows-1254,utf_8
 postovabanka.sk,utf-8,utf-8,utf_8
 postovnezdarma.cz,UTF-8,utf-8,utf_8
 postsod.com,,ascii,ascii

@@ -1,10 +1,11 @@
 zm.gov.lv,UTF-8,utf-8,utf_8
 zmaga.com,UTF-8,utf-8,utf_8
-zman.co.il,,utf-8,utf_8
+zman.co.il,UTF-8,utf-8,utf_8
 zmenu.com,utf-8,utf-8,utf_8
 zmiksowani.pl,UTF-8,utf-8,utf_8
 zmones.lt,UTF-8,utf-8,utf_8
 zmoniuknygos.lt,iso-8859-1,ascii,ascii
+zmyhome.com,UTF-8,utf-8,utf_8
 zn.sk,UTF-8,utf-8,utf_8
 zn.ua,UTF-8,utf-8,utf_8
 znaj.ua,UTF-8,utf-8,utf_8
@@ -51,7 +52,6 @@ zoom.us,utf-8,utf-8,utf_8
 zoomcar.fr,utf-8,ascii,ascii
 zoomin.co.nz,utf-8,Windows-1254,utf_8
 zoominfo.com,,ascii,ascii
-zoominmobiliario.com,UTF-8,utf-8,utf_8
 zoomtunisia.net,UTF-8,utf-8,utf_8
 zoomtventertainment.com,utf-8,UTF-8-SIG,utf_8_sig
 zoon.com.ua,utf-8,Windows-1254,utf_8
@@ -97,7 +97,7 @@ zsmu.edu.ua,utf-8,utf-8,utf_8
 zsr.sk,UTF-8,ascii,ascii
 zssk.sk,UTF-8,utf-8,utf_8
 zsz.ch,utf-8,utf-8,utf_8
-zszywka.pl,utf-8,Windows-1252,hp_roman8
+zszywka.pl,utf-8,Windows-1252,iso8859_15
 zu.edu.jo,utf-8,utf-8,utf_8
 zudusilatvija.lv,utf-8,utf-8,utf_8
 zuerich.com,UTF-8,utf-8,utf_8

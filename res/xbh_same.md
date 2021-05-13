@@ -1,4 +1,14 @@
+| znanje.org | utf-8 | utf_8 |
 | zocdoc.com | ascii | ascii |
+| zodio.fr | utf-8 | utf_8 |
+| zoho.com | utf-8 | utf_8 |
 | zomato.com | ascii | ascii |
+| zoohit.sk | utf-8 | utf_8 |
 | zoominfo.com | ascii | ascii |
+| zooplus.de | utf-8 | utf_8 |
+| zooplus.fi | utf-8 | utf_8 |
+| zoznamskol.eu | utf-8 | utf_8 |
 | zozo.jp | ascii | ascii |
+| zrkac.lv | UTF-8-SIG | utf_8_sig |
+| zs.pub | utf-8 | utf_8 |
+| zzjzpgz.hr | UTF-8-SIG | utf_8_sig |

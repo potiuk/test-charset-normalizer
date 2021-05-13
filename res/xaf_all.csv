@@ -19,8 +19,7 @@ catawiki.it,utf-8,utf-8,utf_8
 catawiki.nl,utf-8,utf-8,utf_8
 catawiki.no,utf-8,utf-8,utf_8
 catawiki.se,utf-8,utf-8,utf_8
-catch.co.nz,UTF-8,utf-8,utf_8
-catch.com.au,UTF-8,ascii,ascii
+catch.com.au,UTF-8,Windows-1252,utf_8
 catchnews.com,UTF-8,ascii,ascii
 catdumb.com,UTF-8,utf-8,utf_8
 catdumb.tv,UTF-8,utf-8,utf_8
@@ -40,12 +39,12 @@ cavally.org,UTF-8,ascii,ascii
 cawalisse.com,UTF-8,Windows-1254,utf_8
 cayshconcierge.org,utf-8,ascii,big5
 cazaofertas.com.mx,UTF-8,utf-8,utf_8
+cazeres-arthurimmo.com,utf-8,ascii,big5
 cba.pl,utf-8,utf-8,utf_8
 cba24n.com.ar,utf-8,ISO-8859-1,utf_8
 cbc-eg.com,UTF-8,utf-8,utf_8
 cbc.ca,utf-8,utf-8,utf_8
 cbc.rs,UTF-8,utf-8,utf_8
-cbdb.cz,UTF-8,utf-8,utf_8
 cbf.com.br,UTF-8,utf-8,utf_8
 cbfcameroun.org,UTF-8,utf-8,utf_8
 cbj.gov.jo,utf-8,utf-8,utf_8
@@ -72,19 +71,20 @@ ccm.net,UTF-8,utf-8,utf_8
 ccma.cat,UTF-8,utf-8,utf_8
 ccoo.es,ISO-8859-1,Windows-1252,iso8859_15
 ccpc.ie,UTF-8,Windows-1252,utf_8
-cctv.com,utf-8,,utf-8
+cctv.com,,utf-8,utf_8
 ccute.cc,UTF-8,utf-8,utf_8
 cd.cz,UTF-8,utf-8,utf_8
 cda.pl,UTF-8,utf-8,utf_8
 cdaction.pl,UTF-8,UTF-8-SIG,utf_8_sig
 cdageldrop-mierlo.nl,utf-8,ascii,ascii
 cdc.gov,,utf-8,utf_8
+cdd.go.th,UTF-8,Windows-1254,utf_8
 cdenv.be,utf-8,utf-8,utf_8
 cdep.ro,ISO-8859-2,ISO-8859-1,cp1250
 cdio.cl,UTF-8,ascii,ascii
 cdiscount.com,,utf-8,utf_8
 cdjournal.com,EUC-JP,EUC-JP,euc_jis_2004
-cdm.me,UTF-8,Windows-1254,utf_8
+cdm.me,UTF-8,utf-8,utf_8
 cdmx.gob.mx,UTF-8,utf-8,utf_8
 cdr.cz,,utf-8,utf_8
 cdt-babes.ro,UTF-8,UTF-8-SIG,utf_8_sig
@@ -136,7 +136,6 @@ centarzdravlja.hr,utf-8,utf-8,utf_8
 centauro.com.br,,ascii,ascii
 centerblog.net,UTF-8,utf-8,utf_8
 centerslo.si,UTF-8,Windows-1254,utf_8
-centhini-resort.com,UTF-8,ascii,ascii
 centrakor.com,UTF-8,utf-8,utf_8
 central.co.th,utf-8,utf-8,utf_8
 centralamericadata.com,UTF-8,UTF-8-SIG,utf_8_sig
@@ -186,12 +185,12 @@ cerradodecalderon.es,,ascii,ascii
 cervantesvirtual.com,UTF-8,utf-8,utf_8
 cervantesycia.com,UTF-8,utf-8,utf_8
 cervenykoberec.cz,UTF-8,utf-8,utf_8
-cervera.se,utf-8,Windows-1252,utf_8
+cervera.se,utf-8,utf-8,utf_8
 ces.edu.co,,utf-8,utf_8
 ces.edu.uy,utf-8,utf-8,utf_8
 cesis.lv,,utf-8,utf_8
+ceskaordinace.cz,UTF-8,utf-8,utf_8
 ceskatelevize.cz,UTF-8,UTF-8-SIG,utf_8_sig
-ceske-hospudky.cz,utf-8,ascii,ascii
 ceskehory.cz,UTF-8,UTF-8-SIG,utf_8_sig
 ceskenapady.cz,UTF-8,utf-8,utf_8
 ceskenoviny.cz,utf-8,utf-8,utf_8
@@ -206,12 +205,11 @@ cet.edu.vn,utf-8,utf-8,utf_8
 cetinkaya.com.tr,utf-8,utf-8,utf_8
 cetrogar.com.ar,UTF-8,utf-8,utf_8
 ceupe.com,utf-8,GB2312,utf_8
-cevirce.com,UTF-8,UTF-8-SIG,utf_8_sig
+cevirce.com,UTF-8,utf-8,utf_8
 cevirsozluk.com,,utf-8,utf_8
 ceylonlanka.info,UTF-8,utf-8,utf_8
 ceylontoday.lk,UTF-8,utf-8,utf_8
 cez.cz,utf-8,utf-8,utf_8
-cfaa-antony.fr,UTF-8,utf-8,utf_8
 cfla.gov.lv,UTF-8,utf-8,utf_8
 cfr.org,UTF-8,utf-8,utf_8
 cfrcalatori.ro,UTF-8,utf-8,utf_8
@@ -237,13 +235,12 @@ chamber.org.il,utf-8,utf-8,utf_8
 chamberlains.co.za,UTF-8,utf-8,utf_8
 chambersdesignandbuild.com,UTF-8,utf-8,utf_8
 chambredesrepresentants.ma,utf-8,utf-8,
-chambres-hotes.fr,UTF-8,utf-8,utf_8
 champagnevilla.com,utf-8,ascii,big5
 championat.com,utf-8,ascii,ascii
 changiairport.com,utf-8,utf-8,utf_8
 chanhtuoi.com,UTF-8,utf-8,utf_8
 channelionline.com,UTF-8,utf-8,utf_8
-channelnewsasia.com,,ascii,ascii
+channelnewsasia.com,UTF-8,utf-8,utf_8
 channelranking.com,UTF-8,utf-8,utf_8
 channelstv.com,UTF-8,utf-8,utf_8
 charika.ma,iso-8859-1,ascii,ascii
@@ -265,6 +262,7 @@ checkers.co.za,UTF-8,utf-8,utf_8
 checkid.co.il,utf-8,utf-8,utf_8
 checkinchill.com,UTF-8,Windows-1254,utf_8
 checkincyprus.com,utf-8,utf-8,utf_8
+checkmate-cbd.it,,utf-8,utf_8
 checkmypostcode.uk,,ascii,ascii
 checko.ru,utf-8,ascii,ascii
 checkraka.com,utf-8,utf-8,utf_8
@@ -275,6 +273,7 @@ chedonna.it,UTF-8,utf-8,utf_8
 chedraui.com.mx,UTF-8,utf-8,utf_8
 cheerup.jp,utf-8,Windows-1254,utf_8
 chef-lavan.co.il,,ascii,ascii
+chefaa.com,UTF-8,utf-8,utf_8
 chefkoch.de,UTF-8,utf-8,utf_8
 chefsimon.com,utf-8,utf-8,utf_8
 chegg.com,,ascii,ascii
@@ -287,6 +286,8 @@ chequeado.com,UTF-8,utf-8,utf_8
 cherchons.com,ISO-8859-1,Windows-1252,iso8859_15
 cheridot.com,UTF-8,ascii,ascii
 chernomore.bg,UTF-8,utf-8,utf_8
+chernomorie-bg.com,UTF-8,utf-8,utf_8
+chesser.ie,UTF-8,utf-8,utf_8
 chevalchic.fr,utf-8,utf-8,utf_8
 chevroletlebanon.com,utf-8,ascii,big5
 chhiwati.com,iso-8859-1,ascii,ascii
@@ -329,7 +330,6 @@ chintaistyle.jp,shift_jis,SHIFT_JIS,shift_jis
 chip.com.tr,,utf-8,utf_8
 chip.cz,utf-8,utf-8,utf_8
 chip.de,UTF-8,utf-8,utf_8
-chip.pl,UTF-8,utf-8,utf_8
 chip7.pt,UTF-8,ascii,ascii
 chipdip.ru,utf-8,utf-8,utf_8
 chipest.co.il,utf-8,utf-8,utf_8
@@ -378,6 +378,7 @@ christianperret.es,,ascii,ascii
 christiantour.ro,UTF-8,ascii,ascii
 christinecanepa.com,utf-8,ascii,big5
 christineodea.com,utf-8,ascii,big5
+christristram.com,utf-8,ascii,big5
 chron.com,UTF-8,utf-8,utf_8
 chroniclelive.co.uk,UTF-8,utf-8,utf_8
 chudesa.net,UTF-8,utf-8,utf_8
@@ -413,9 +414,8 @@ cima4u.io,UTF-8,utf-8,utf_8
 cimalight.io,UTF-8,utf-8,utf_8
 cimb.com.my,utf-8,utf-8,utf_8
 cimri.com,utf-8,Windows-1254,utf_8
-cincoquartosdelaranja.com,,ascii,ascii
+cincoquartosdelaranja.com,UTF-8,utf-8,utf_8
 cinefilos.it,,ascii,ascii
-cinefish.bg,windows-1251,windows-1251,cp1251
 cinema.co.il,,ascii,ascii
 cinema.de,UTF-8,utf-8,utf_8
 cinemablend.com,utf-8,utf-8,
@@ -427,10 +427,10 @@ cineman.ch,UTF-8,utf-8,utf_8
 cinemascomics.com,UTF-8,utf-8,utf_8
 cinematoday.jp,UTF-8,utf-8,utf_8
 cinematographe.it,UTF-8,utf-8,utf_8
-cinenews.be,UTF-8,ascii,ascii
 cineplexx.rs,,utf-8,utf_8
 cinepop.com.br,UTF-8,utf-8,utf_8
 cineserie.com,UTF-8,utf-8,utf_8
+cinestaan.com,UTF-8,utf-8,utf_8
 cinfa.com,UTF-8,utf-8,utf_8
 cins.rs,UTF-8,utf-8,utf_8
 cintamobil.com,utf-8,ISO-8859-1,utf_8
@@ -444,7 +444,6 @@ cirkwi.com,,utf-8,utf_8
 cirquenrzique.fr,UTF-8,utf-8,utf_8
 cisalfasport.it,UTF-8,utf-8,utf_8
 cisco.com,,ascii,ascii
-ciscolinksys.com.vn,,ascii,ascii
 cision.com,utf-8,utf-8,utf_8
 cissamagazine.com.br,UTF-8,utf-8,utf_8
 citadele.lv,utf-8,utf-8,utf_8
@@ -495,7 +494,7 @@ citytel.bg,utf-8,utf-8,utf_8
 cityvago.com,utf-8,utf-8,utf_8
 cityzeum.com,utf-8,utf-8,utf_8
 ciudad.com.ar,utf-8,utf-8,utf_8
-civciv.lv,utf-8,utf-8,utf_8
+civciv.lv,utf-8,Windows-1254,iso8859_15
 civicesgroup.com,UTF-8,utf-8,utf_8
 civico.com,utf-8,utf-8,cp1125
 civilhetes.net,utf-8,utf-8,utf_8
@@ -521,7 +520,7 @@ clarodelbosque.com,utf-8,ascii,big5
 claroshop.com,,ISO-8859-1,utf_8
 clasf.co,utf-8,utf-8,utf_8
 clasf.co.ve,utf-8,utf-8,utf_8
-clasf.co.za,utf-8,ascii,ascii
+clasf.co.za,utf-8,utf-8,utf_8
 clasf.com.ar,utf-8,utf-8,utf_8
 clasf.com.br,utf-8,utf-8,utf_8
 clasf.es,utf-8,utf-8,utf_8
@@ -543,7 +542,6 @@ clcar.org,utf-8,ascii,big5
 cld.bz,utf-8,utf-8,utf_8
 cleanpng.com,utf-8,utf-8,utf_8
 cleantouch.com.pk,UTF-8,ascii,ascii
-clearnotebooks.com,,ascii,ascii
 cleartax.in,utf-8,utf-8,utf_8
 cleartrip.ae,,utf-8,utf_8
 cleartrip.com,,utf-8,utf_8
@@ -554,7 +552,7 @@ click.in,UTF-8,Windows-1252,utf_8
 click.ro,utf-8,utf-8,utf_8
 clickatlife.gr,,UTF-8-SIG,utf_8_sig
 clickbd.com,UTF-8,ISO-8859-1,utf_8
-clickcase.it,utf-8,utf-8,utf_8
+clickcase.it,utf-8,ISO-8859-1,utf_8
 clickdisk.com.br,utf-8,UTF-8-SIG,utf_8_sig
 clickgratis.com.br,UTF-8,utf-8,utf_8
 clickneat.gr,UTF-8,utf-8,utf_8
@@ -580,7 +578,8 @@ clovis.ro,UTF-8,utf-8,utf_8
 club-fit.nl,utf-8,ascii,ascii
 club.bg,,utf-8,utf_8
 clubafaceri.ro,UTF-8,ascii,ascii
-clube.bz,UTF-8,Windows-1252,utf_8
+clube.bz,UTF-8,Windows-1254,utf_8
+clubeextra.com.br,utf-8,utf-8,utf_8
 clubensayos.com,UTF-8,utf-8,utf_8
 clubfirst.news,UTF-8,UTF-8-SIG,utf_8_sig
 clubic.com,UTF-8,utf-8,utf_8
@@ -591,11 +590,9 @@ clubsister.com,,ascii,ascii
 clubulbebelusilor.ro,UTF-8,utf-8,utf_8
 clubulscriitoarelor.ro,utf-8,ascii,big5
 clubz.bg,UTF-8,ascii,ascii
-clue.co.il,UTF-8,utf-8,utf_8
 cluj.com,UTF-8,Windows-1254,utf_8
 cluj.info,UTF-8,utf-8,utf_8
 clustrmaps.com,UTF-8,utf-8,utf_8
-cm-lisboa.pt,utf-8,utf-8,utf_8
 cm-tv.pt,utf-8,utf-8,utf_8
 cm.be,UTF-8,utf-8,utf_8
 cm108.com,,ascii,ascii
@@ -617,13 +614,12 @@ cmu.edu,,utf-8,utf_8
 cmz-market.ru,UTF-8,utf-8,utf_8
 cna.com.tw,utf-8,utf-8,utf_8
 cnb.cz,UTF-8,utf-8,utf_8
-cnbc.com,utf-8,utf-8,utf_8
+cnbc.com,utf-8,utf-8,
 cnbcarabia.com,UTF-8,utf-8,utf_8
 cnbcindonesia.com,UTF-8,ascii,ascii
 cnbctv18.com,UTF-8,utf-8,utf_8
 cnbguatemala.org,UTF-8,utf-8,utf_8
 cndh.org.mx,us-ascii,ascii,ascii
-cnet.com,UTF-8,ISO-8859-1,utf_8
 cnetfrance.fr,UTF-8,utf-8,utf_8
 cnews.cz,UTF-8,utf-8,utf_8
 cnews.fr,utf-8,utf-8,utf_8
@@ -641,7 +637,6 @@ cnpjs.rocks,,utf-8,utf_8
 cnrtl.fr,utf-8,utf-8,utf_8
 cntd.ru,UTF-8,utf-8,utf_8
 cntraveler.com,utf-8,utf-8,utf_8
-cnu.edu.ni,,ascii,ascii
 co-trip.jp,UTF-8,utf-8,utf_8
 cobasi.com.br,utf-8,utf-8,utf_8
 cobiss.si,,utf-8,utf_8
@@ -659,6 +654,7 @@ cocinafacil.com.mx,UTF-8,utf-8,utf_8
 cocinavital.mx,UTF-8,utf-8,utf_8
 cocinayvino.com,UTF-8,utf-8,utf_8
 cocinerosargentinos.com,UTF-8,utf-8,utf_8
+cocolocala.jp,utf-8,utf-8,utf_8
 coconala.com,,ascii,ascii
 coconuts.co,,ascii,ascii
 codecanyon.net,utf-8,utf-8,utf_8
@@ -689,6 +685,7 @@ collabo-cafe.com,UTF-8,utf-8,utf_8
 collectandgo.be,UTF-8,ascii,ascii
 collegedekho.com,utf-8,utf-8,utf_8
 collegedunia.com,UTF-8,utf-8,utf_8
+collegesearch.in,UTF-8,ISO-8859-1,utf_8
 collins.co.uk,utf-8,Windows-1254,utf_8
 collinsdictionary.com,UTF-8,ascii,ascii
 colman.ac.il,utf-8,ascii,ascii
@@ -712,7 +709,7 @@ columbia.co.cr,utf-8,utf-8,utf_8
 columbia.edu,UTF-8,utf-8,utf_8
 columbusmagazine.nl,UTF-8,utf-8,utf_8
 comcom.govt.nz,utf-8,utf-8,utf_8
-comertinsaat.com,UTF-8,ascii,ascii
+comertinsaat.com,utf-8,ascii,big5
 comesa.com.gt,iso-8859-1,ascii,ascii
 comet.hr,utf-8,utf-8,utf_8
 comet.it,UTF-8,utf-8,utf_8
@@ -733,6 +730,8 @@ commentcamarche.net,UTF-8,utf-8,utf_8
 commercialguru.com.sg,UTF-8,ascii,ascii
 commercialrealestate.com.au,,ascii,ascii
 commeunefleche.com,UTF-8,utf-8,
+commly.it,,Windows-1254,utf_8
+commonfloor.com,UTF-8,utf-8,utf_8
 commonhealth.com.tw,UTF-8,ascii,
 commonsensemedia.org,utf-8,utf-8,utf_8
 commune-mairie.fr,UTF-8,Windows-1252,utf_8
@@ -772,6 +771,7 @@ compraspublicas.gob.ec,UTF-8,utf-8,utf_8
 comprecar.com.br,UTF-8,utf-8,utf_8
 compro-oro-provinciadimilano.it,UTF-8,Windows-1254,utf_8
 computable.nl,UTF-8,utf-8,utf_8
+computer-wd.com,UTF-8,utf-8,utf_8
 computerbase.de,UTF-8,utf-8,utf_8
 computerbild.de,,Windows-1252,cp1250
 computerhope.com,utf-8,ascii,ascii
@@ -784,6 +784,7 @@ computerworld.ch,UTF-8,utf-8,utf_8
 computerworld.com,UTF-8,utf-8,utf_8
 computerworld.dk,UTF-8,utf-8,utf_8
 computerworld.hu,utf-8,utf-8,utf_8
+computerworld.pl,,ascii,ascii
 computrabajo.cl,,UTF-8-SIG,utf_8_sig
 computrabajo.co.cr,,UTF-8-SIG,utf_8_sig
 computrabajo.com,,UTF-8-SIG,utf_8_sig
@@ -877,4 +878,4 @@ consobaby.com,,utf-8,utf_8
 consoglobe.com,UTF-8,utf-8,utf_8
 consonews.ma,UTF-8,utf-8,utf_8
 constantcontact.com,,utf-8,utf_8
-construction.co.uk,utf-8,ISO-8859-1,utf_8
+construction.co.uk,utf-8,utf-8,utf_8

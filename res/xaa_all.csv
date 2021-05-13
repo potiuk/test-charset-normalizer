@@ -7,7 +7,6 @@
 01portal.hr,UTF-8,utf-8,utf_8
 021.rs,UTF-8,utf-8,utf_8
 025.rs,UTF-8,utf-8,utf_8
-032.ua,UTF-8,utf-8,utf_8
 034portal.hr,,utf-8,utf_8
 037hdmovie.com,UTF-8,utf-8,utf_8
 0404.co.il,UTF-8,utf-8,utf_8
@@ -22,7 +21,7 @@
 1-stop-service-shop.com,utf-8,ascii,big5
 10-4.dk,UTF-8,utf-8,utf_8
 1000.menu,utf-8,utf-8,utf_8
-1000kitap.com,UTF-8,Windows-1254,utf_8
+1000kitap.com,UTF-8,utf-8,utf_8
 1000ps.at,utf-8,utf-8,utf_8
 1000things.at,UTF-8,utf-8,utf_8
 1001eda.com,UTF-8,utf-8,utf_8
@@ -37,11 +36,12 @@
 100sp.ru,UTF-8,Windows-1254,utf_8
 101.ru,utf-8,utf-8,utf_8
 101hotels.com,UTF-8,utf-8,utf_8
-102nueve.com,UTF-8,utf-8,utf_8
+102nueve.com,UTF-8,ascii,ascii
 103.by,utf-8,utf-8,utf_8
 1075.fm,UTF-8,ascii,
 10best.com,UTF-8,ascii,ascii
 10bis.co.il,utf-8,ascii,
+10dakot.co.il,,Windows-1254,utf_8
 10ejemplos.com,UTF-8,utf-8,utf_8
 10marifet.org,UTF-8,Windows-1254,utf_8
 10minuteschool.com,utf-8,utf-8,utf_8
@@ -128,6 +128,7 @@
 1zavse.si,utf-8,utf-8,utf_8
 20.ua,UTF-8,utf-8,utf_8
 2020sneakersitalia.it,UTF-8,utf-8,
+20il.co.il,UTF-8,utf-8,utf_8
 20min.ch,utf-8,utf-8,utf_8
 20minut.ua,UTF-8,utf-8,utf_8
 20minutes.fr,UTF-8,utf-8,utf_8
@@ -148,7 +149,7 @@
 24chasa.bg,utf-8,utf-8,utf_8
 24glo.com,,UTF-8-SIG,utf_8_sig
 24h.com.cy,UTF-8,utf-8,utf_8
-24h.com.vn,UTF-8,utf-8,
+24h.com.vn,UTF-8,utf-8,utf_8
 24heures.ch,utf-8,utf-8,utf_8
 24hod.sk,UTF-8,utf-8,utf_8
 24horas.cl,UTF-8,utf-8,utf_8
@@ -165,6 +166,7 @@
 24sports.com.cy,UTF-8,utf-8,utf_8
 24tv.ua,UTF-8,utf-8,utf_8
 24ur.com,,utf-8,utf_8
+24zdrave.bg,utf-8,utf-8,utf_8
 25u.com,UTF-8,utf-8,utf_8
 2all.co.il,utf-8,utf-8,utf_8
 2b.com.eg,UTF-8,utf-8,utf_8
@@ -223,7 +225,7 @@
 3isk.video,UTF-8,utf-8,utf_8
 3orod.today,UTF-8,utf-8,utf_8
 3rabica.org,UTF-8,utf-8,utf_8
-3rbbazaar.com,us-ascii,ascii,ascii
+3rbbazaar.com,utf-8,utf-8,
 3rbteachers.com,UTF-8,utf-8,utf_8
 3rbu.net,utf-8,utf-8,utf_8
 3roodcom.com,utf-8,utf-8,utf_8
@@ -271,7 +273,7 @@
 4x4community.co.za,UTF-8,ascii,ascii
 4x4unlimited.nl,utf-8,ascii,ascii
 4zida.rs,utf-8,utf-8,gb18030
-5-tv.ru,UTF-8,Windows-1254,utf_8
+5-tv.ru,UTF-8,utf-8,utf_8
 5.ua,UTF-8,utf-8,utf_8
 50style.pl,,ascii,ascii
 51015kids.eu,utf-8,utf-8,utf_8
@@ -328,7 +330,7 @@
 93fm.co.il,UTF-8,utf-8,utf_8
 970universal.com,UTF-8,utf-8,utf_8
 98.lt,utf-8,UTF-8-SIG,utf_8_sig
-98fm.com,UTF-8,utf-8,utf_8
+98fm.com,UTF-8,ascii,ascii
 99.co,utf-8,utf-8,utf_8
 999.md,UTF-8,utf-8,utf_8
 99acres.com,UTF-8,ascii,ascii
@@ -344,7 +346,7 @@
 9lives.be,,ascii,ascii
 9meseca.bg,UTF-8,utf-8,utf_8
 9mobi.vn,utf-8,utf-8,utf_8
-9news.com.au,utf-8,utf-8,cp932
+9news.com.au,utf-8,utf-8,cp1125
 9rayti.com,UTF-8,utf-8,utf_8
 9tana.com,UTF-8,utf-8,utf_8
 9to5google.com,UTF-8,utf-8,utf_8
@@ -372,7 +374,7 @@ aaaauto.cz,UTF-8,utf-8,utf_8
 aaaauto.sk,UTF-8,utf-8,utf_8
 aaannunci.it,utf-8,utf-8,utf_8
 aabu.edu.jo,utf-8,utf-8,utf_8
-aacademica.org,,ascii,ascii
+aacademica.org,UTF-8,utf-8,utf_8
 aachener-zeitung.de,UTF-8,utf-8,utf_8
 aade.gr,UTF-8,utf-8,utf_8
 aafp.org,UTF-8,utf-8,utf_8
@@ -401,7 +403,7 @@ aaz.ro,UTF-8,,utf-8
 ab-in-den-urlaub.at,utf-8,utf-8,utf_8
 ab-in-den-urlaub.de,utf-8,utf-8,utf_8
 ab.gr,,ascii,ascii
-ab.ua,utf-8,utf-8,utf_8
+ab.ua,utf-8,Windows-1254,utf_8
 abacus.coop,UTF-8,Windows-1252,utf_8
 abae.pt,UTF-8,utf-8,utf_8
 abaenglish.com,,utf-8,utf_8
@@ -446,6 +448,7 @@ abi.bo,,GB2312,utf_8
 abicko.cz,UTF-8,Windows-1254,utf_8
 abiem.info,UTF-8,utf-8,utf_8
 abiem.lv,UTF-8,utf-8,utf_8
+abiturient.pro,utf-8,utf-8,utf_8
 abnamro.nl,,ascii,
 abningstider.org,,utf-8,utf_8
 abola.pt,utf-8,utf-8,utf_8
@@ -472,6 +475,7 @@ abritel.fr,,ascii,ascii
 abs.gov.au,UTF-8,ascii,
 absa.co.za,utf-8,ISO-8859-1,utf_8
 abunawaf.com,UTF-8,ascii,ascii
+abyhom.com,UTF-8,utf-8,utf_8
 abz.cz,UTF-8,utf-8,utf_8
 ac-bordeaux.fr,UTF-8,utf-8,utf_8
 ac-dijon.fr,UTF-8,utf-8,utf_8
@@ -487,11 +491,12 @@ academia.edu,utf-8,ascii,ascii
 academic.ru,UTF-8,utf-8,utf_8
 academicbooks.dk,utf-8,utf-8,utf_8
 acarindex.com,UTF-8,utf-8,utf_8
-acasa.ro,utf-8,Windows-1252,hp_roman8
+acasa.ro,utf-8,Windows-1252,cp1125
+acasaencantada.com.br,UTF-8,utf-8,utf_8
 acast.com,utf-8,Windows-1254,utf_8
 accc.gov.au,utf-8,utf-8,utf_8
 accelerista.com,UTF-8,utf-8,utf_8
-accessbankplc.com,utf-8,utf-8,cp1125
+accessbankplc.com,utf-8,utf-8,utf_8
 accessiblejordan.com,UTF-8,utf-8,utf_8
 accessoriami.it,UTF-8,utf-8,
 acciontrabajo.co.cr,UTF-8,utf-8,utf_8
@@ -526,22 +531,18 @@ acnur.org,UTF-8,utf-8,utf_8
 acordesdcanciones.com,UTF-8,utf-8,utf_8
 acordesweb.com,UTF-8,Windows-1252,iso8859_15
 acorianooriental.pt,UTF-8,utf-8,utf_8
-acp.pt,utf-8,utf-8,utf_8
 acqua.fm,,ascii,ascii
 acquasalsa.it,UTF-8,utf-8,utf_8
 acquistosolidaleperugia.it,,ascii,ascii
 acri.org.il,UTF-8,utf-8,utf_8
-acritica.com,utf-8,utf-8,utf_8
 acritica.net,utf-8,utf-8,utf_8
 acronymsandslang.com,utf-8,ISO-8859-1,big5
 acs.org,utf-8,utf-8,utf_8
-acs.si,UTF-8,utf-8,utf_8
 act.gov.au,utf-8,utf-8,utf_8
 actacroatica.com,utf-8,utf-8,utf_8
 actamedicaportuguesa.com,UTF-8,ISO-8859-1,cp1252
-actavis.rs,utf-8,utf-8,gb18030
+actavis.rs,utf-8,utf-8,iso8859_15
 actief50plusbeurs.nl,UTF-8,utf-8,utf_8
-acties.nl,utf-8,ascii,ascii
 action-sociale.org,UTF-8,utf-8,utf_8
 action.com,utf-8,utf-8,utf_8
 activehealthrt.com,iso-8859-1,ascii,ascii
@@ -569,6 +570,7 @@ adaur.ee,UTF-8,Windows-1254,utf_8
 adaybulletin.com,UTF-8,utf-8,utf_8
 adaymagazine.com,utf-8,utf-8,utf_8
 adazi.lv,UTF-8,utf-8,utf_8
+adb.org,utf-8,utf-8,utf_8
 adbgd.top,UTF8,utf-8,utf_8
 adbgf.top,UTF8,utf-8,utf_8
 adbgl.top,UTF8,utf-8,utf_8
@@ -587,10 +589,10 @@ address.bg,UTF-8,utf-8,utf_8
 addressesandpostcodes.co.uk,UTF-8,ISO-8859-1,utf_8
 addustour.com,UTF-8,utf-8,utf_8
 adelaide.edu.au,,utf-8,utf_8
+adelaidenow.com.au,UTF-8,utf-8,utf_8
 adelaparvu.com,UTF-8,utf-8,utf_8
 adevarul.ro,utf-8,utf-8,utf_8
 adformatie.nl,UTF-8,utf-8,utf_8
-adiariocr.com,UTF-8,ascii,ascii
 adidas.cl,,ascii,ascii
 adidas.com.ar,,ascii,ascii
 adidas.com.br,,ascii,ascii
@@ -607,7 +609,7 @@ adme.ru,utf-8,utf-8,utf_8
 admicro.vn,UTF-8,utf-8,utf_8
 admin.ch,utf-8,utf-8,utf_8
 administracion.gob.es,iso-8859-1,ascii,ascii
-administradores.com.br,UTF-8,utf-8,
+administradores.com.br,UTF-8,utf-8,utf_8
 admissionpremium.com,utf-8,utf-8,utf_8
 admissionwar.com,UTF-8,utf-8,utf_8
 admtyumen.ru,UTF-8,utf-8,utf_8
@@ -623,13 +625,12 @@ adonis.bg,windows-1251,windows-1251,cp1251
 adorama.com,,ascii,ascii
 adorio.hr,UTF-8,utf-8,utf_8
 adorocinema.com,UTF-8,utf-8,utf_8
-adozona.hu,utf-8,utf-8,utf_8
 adrenaline.com.br,UTF-8,utf-8,utf_8
 adresa-telefony.ru,utf-8,utf-8,utf_8
 adresglob.ru,utf-8,utf-8,utf_8
 adresowo.pl,utf-8,utf-8,utf_8
-adressa.no,UTF-8,utf-8,utf_8
 adriagate.com,utf-8,utf-8,utf_8
+adrianbenea.com,utf-8,ascii,big5
 adriatic.hr,UTF-8,utf-8,utf_8
 adroa.top,UTF8,utf-8,utf_8
 adroe.top,UTF8,utf-8,utf_8
@@ -715,6 +716,7 @@ agem.sk,utf-8,utf-8,utf_8
 agenciabrasilia.df.gov.br,UTF-8,utf-8,utf_8
 agencialuena.es,utf-8,ascii,big5
 agenciasanluis.com,UTF-8,utf-8,utf_8
+agenciasinc.es,UTF-8,utf-8,utf_8
 agencija-oskar.si,UTF-8,Windows-1254,utf_8
 agendadigitale.eu,UTF-8,utf-8,utf_8
 agendaweb.org,UTF-8,ascii,ascii
@@ -726,11 +728,11 @@ agf.nl,utf-8,utf-8,utf_8
 agfg.com.au,utf-8,utf-8,utf_8
 agh.edu.pl,utf-8,utf-8,utf_8
 aghanilyrics.com,UTF-8,ascii,ascii
-aghanina.net,UTF-8,utf-8,utf_8
+aghanina.net,UTF-8,utf-8,ptcp154
 aghaniyt.com,UTF-8,utf-8,utf_8
-aghanyna.net,UTF-8,utf-8,gb18030
+aghanyna.net,UTF-8,utf-8,utf_8
 agi.it,UTF-8,utf-8,utf_8
-agiare.vn,,ascii,ascii
+agiare.vn,UTF-8,utf-8,utf_8
 agingtheafricanlion.org,utf-8,ascii,big5
 aglasem.com,,ascii,ascii
 agn.gt,UTF-8,utf-8,utf_8
@@ -749,7 +751,7 @@ agribank.com.vn,UTF-8,utf-8,utf_8
 agriculturaemar.com,utf-8,ascii,ascii
 agriculture.gouv.fr,utf-8,utf-8,utf_8
 agriland.ie,UTF-8,utf-8,utf_8
-agriloja.pt,,ascii,ascii
+agriloja.pt,UTF-8,utf-8,utf_8
 agrisupportonline.com,iso-8859-1,ascii,ascii
 agriturismo.it,ISO-8859-1,ISO-8859-1,cp1252
 agro-market.net,UTF-8,utf-8,utf_8
@@ -771,6 +773,7 @@ agroklub.rs,UTF-8,utf-8,utf_8
 agrolink.com.br,utf-8,utf-8,utf_8
 agromassidayu.com,UTF-8,ascii,ascii
 agromedia.rs,UTF-8,utf-8,utf_8
+agronaplo.hu,UTF-8,utf-8,utf_8
 agronet.fi,ISO-8859-1,Windows-1254,latin_1
 agronet.si,utf-8,utf-8,utf_8
 agronomu.com,UTF-8,utf-8,utf_8
@@ -790,6 +793,7 @@ ahaber.com.tr,,utf-8,utf_8
 ahajournals.org,UTF-8,utf-8,utf_8
 ahaonline.cz,UTF-8,utf-8,utf_8
 ahdath.info,UTF-8,utf-8,utf_8
+ahdath24.com,utf-8,utf-8,utf_8
 ahewar.org,,Windows-1254,cp1256
 ahlami.net,UTF-8,utf-8,utf_8
 ahlamontada.com,UTF-8,utf-8,utf_8
@@ -808,6 +812,7 @@ aiandus.ee,,ISO-8859-1,cp1252
 aiasober.ee,UTF-8,utf-8,utf_8
 aib.ie,UTF-8,utf-8,utf_8
 aicipromotii.ro,utf-8,utf-8,gb18030
+aidas.lt,UTF-8,utf-8,utf_8
 aif.ru,UTF-8,utf-8,utf_8
 aiko-bg.com,UTF-8,utf-8,utf_8
 ailab.lv,utf-8,utf-8,utf_8
@@ -865,7 +870,6 @@ aiscore.com,utf-8,utf-8,utf_8
 aisrael.org,,utf-8,utf_8
 aitnews.com,UTF-8,utf-8,utf_8
 aiwa.ae,utf-8,utf-8,utf_8
-aiwah.pk,utf-8,UTF-8-SIG,utf_8_sig
 aiyanqing.com,,UTF-8-SIG,utf_8_sig
 aiyellow.com,,ascii,ascii
 ajaib.co.id,UTF-8,utf-8,utf_8
@@ -877,6 +881,7 @@ ajdnes.sk,UTF-8,utf-8,utf_8
 ajel.sa,UTF-8,utf-8,utf_8
 ajinomoto.co.jp,,utf-8,utf_8
 ajkerdeal.com,utf-8,utf-8,utf_8
+ajmannews.ae,UTF-8,utf-8,utf_8
 ajol.info,utf-8,utf-8,utf_8
 ajpes.si,,utf-8,utf_8
 ak24.fi,UTF-8,utf-8,utf_8
@@ -884,7 +889,7 @@ aka.dk,utf-8,utf-8,utf_8
 akaanseutu.fi,UTF-8,utf-8,utf_8
 akademiasmaku.pl,UTF-8,utf-8,utf_8
 akademibokhandeln.se,utf-8,utf-8,utf_8
-akademija-art.hr,,ascii,ascii
+akademija-art.hr,UTF-8,utf-8,utf_8
 akademijaoxford.com,UTF-8,utf-8,utf_8
 akademika.no,UTF-8,utf-8,utf_8
 akademiska.se,utf-8,utf-8,utf_8
@@ -894,7 +899,7 @@ akbank.com,utf-8,utf-8,utf_8
 akcijskaponuda.rs,UTF-8,utf-8,utf_8
 akcioleso.hu,UTF-8,utf-8,utf_8
 akcios-ujsag.hu,UTF-8,utf-8,utf_8
-akciosujsag.info,,ascii,ascii
+akciosujsag.info,iso-8859-1,ascii,ascii
 akcniceny.cz,utf-8,utf-8,utf_8
 akcniletaky.com,UTF-8,utf-8,utf_8
 akerufeed.com,UTF-8,utf-8,utf_8

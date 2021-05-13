@@ -30,6 +30,18 @@ done = 0
 exceptions = 0
 
 
+def compare_encodings(encoding1: str, encoding2: str):
+    if encoding1 is None and encoding2 is None:
+        # When both report none, they match
+        return True
+    if encoding1 is None or encoding2 is None:
+        # but if only one, they don't
+        return False
+    # otherwise compare it adjusting to case/underscore/hyphen equivalence
+    # https://docs.python.org/3/library/codecs.html#standard-encodings
+    return encoding1.upper().replace("_", "-") == encoding2.upper().replace("_", "-")
+
+
 class Result(NamedTuple):
     url: str
     declared_encoding: Optional[str]
@@ -64,7 +76,6 @@ with open(f'res/{prefix}_same.md', 'w') as same, \
                 console.print(f"\t[yellow]Failed http: {first_line}, skipping[/]")
                 skipped += 1
                 all_skipped_writer.writerow([url, str(https_exception), str(http_exception)])
-                all_skipped.flush()
                 continue
             console.print('\t[green]Succeeded[/]')
         done += 1
@@ -83,30 +94,32 @@ with open(f'res/{prefix}_same.md', 'w') as same, \
         # noinspection PyBroadException
         try:
             normalizer_result = charset_normalizer.detect(response.content)
+            result = Result(url=url,
+                            declared_encoding=declared_encoding,
+                            chardet_encoding=chardet_result['encoding'],
+                            normalizer_encoding=normalizer_result['encoding'])
+            if result.declared_encoding is None:
+                if compare_encodings(result.chardet_encoding, result.normalizer_encoding):
+                    same.write("| {0} | {1} | {2} |\n".format(result.url,
+                                                              result.chardet_encoding,
+                                                              result.normalizer_encoding))
+                    same.flush()
+                else:
+                    different.write("| {0} | {1} | {2} |\n".format(result.url,
+                                                                   result.chardet_encoding,
+                                                                   result.normalizer_encoding))
+                    different.flush()
+            all_succeeded_writer.writerow(result)
+
         except Exception as e:
             exceptions += 1
-            console.print("[red]Exception start[/]")
+            console.print(f"[red]Exception when processing {url}[/]")
             traceback.print_exc()
+            print(f"Exception when processing {url}", file=all_exceptions)
+            print("#" * 80, file=all_exceptions)
             traceback.print_exc(file=all_exceptions)
+            print("#" * 80, file=all_exceptions)
             all_exceptions.flush()
-
-        result = Result(url=url,
-                        declared_encoding=declared_encoding,
-                        chardet_encoding=chardet_result['encoding'],
-                        normalizer_encoding=normalizer_result['encoding'])
-        if result.declared_encoding is None:
-            if result.chardet_encoding == result.normalizer_encoding:
-                same.write("| {0} | {1} | {2} |\n".format(result.url,
-                                                          result.chardet_encoding,
-                                                          result.normalizer_encoding))
-                same.flush()
-            else:
-                different.write("| {0} | {1} | {2} |\n".format(result.url,
-                                                               result.chardet_encoding,
-                                                               result.normalizer_encoding))
-                different.flush()
-        all_succeeded_writer.writerow(result)
-        all_succeeded.flush()
 
     console.print("#" * 80)
     console.print("Run finished, resolved {0} urls successfully, skipped {1}. {2} "

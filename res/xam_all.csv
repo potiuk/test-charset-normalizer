@@ -7,7 +7,7 @@ hanfa.hr,utf-8,utf-8,utf_8
 hang.hu,UTF-8,utf-8,utf_8
 hanganmihai.ro,utf-8,ascii,big5
 hange.ee,UTF-8,utf-8,utf_8
-hanggiagood.com,UTF-8,utf-8,utf_8
+hanggiagood.com,UTF-8,utf-8,iso8859_11
 hangngoainhap.com.vn,utf-8,utf-8,utf_8
 hania.news,UTF-8,utf-8,utf_8
 haninge.se,utf-8,utf-8,utf_8
@@ -16,6 +16,7 @@ hanked.ee,utf-8,utf-8,utf_8
 hankkija.fi,UTF-8,utf-8,utf_8
 hanmoto.com,UTF-8,utf-8,utf_8
 hannansoppa.com,iso-8859-1,ascii,ascii
+hanoi.gov.vn,UTF-8,utf-8,utf_8
 hanoicomputer.vn,UTF-8,Windows-1254,utf_8
 hanoimoi.com.vn,utf-8,utf-8,utf_8
 hansabay.ee,utf-8,utf-8,utf_8
@@ -49,7 +50,7 @@ haraj.com.sa,utf-8,Windows-1254,utf_8
 harakahdaily.net,,ISO-8859-1,utf_8
 harald-nyborg.dk,UTF-8,utf-8,utf_8
 harapanrakyat.com,UTF-8,utf-8,utf_8
-harbourviewsuitespib.com,UTF-8,ascii,ascii
+harbourviewsuitespib.com,utf-8,ascii,big5
 harcourts.co.nz,utf-8,utf-8,utf_8
 harcourts.co.za,utf-8,utf-8,utf_8
 hardcoreteam.nl,utf-8,ascii,ascii
@@ -67,7 +68,7 @@ hardworkout.no,UTF-8,utf-8,utf_8
 hardzone.es,UTF-8,utf-8,utf_8
 haredimnet.co.il,utf-8,Windows-1254,cp855
 harel-group.co.il,utf-8,utf-8,utf_8
-harga.web.id,UTF-8,Windows-1252,utf_8
+harga.web.id,UTF-8,utf-8,utf_8
 hargano.com,UTF-8,ascii,ascii
 harianaceh.co.id,UTF-8,utf-8,utf_8
 harianbhirawa.co.id,iso-8859-1,ascii,ascii
@@ -108,7 +109,7 @@ hashulchan.co.il,UTF-8,utf-8,utf_8
 haskovo.info,UTF-8,utf-8,utf_8
 haskovo.live,UTF-8,utf-8,utf_8
 haskovo.net,UTF-8,utf-8,utf_8
-hasolidit.com,,ascii,ascii
+hasolidit.com,UTF-8,utf-8,utf_8
 hastane.com.tr,,Windows-1252,iso8859_9
 hasznalati-utasitasok.hu,utf-8,utf-8,utf_8
 hasznaltat.hu,utf-8,utf-8,utf_8
@@ -116,7 +117,7 @@ hasznaltauto.hu,UTF-8,utf-8,utf_8
 hasznaltcuccok.com,UTF-8,utf-8,utf_8
 hatalike.jp,Windows-31J,SHIFT_JIS,shift_jis
 hateblo.jp,utf-8,utf-8,utf_8
-hatena.ne.jp,utf-8,Windows-1254,utf_8
+hatena.ne.jp,utf-8,utf-8,utf_8
 hatenablog.com,utf-8,utf-8,utf_8
 hatenablog.jp,utf-8,utf-8,utf_8
 hatenadiary.com,utf-8,utf-8,utf_8
@@ -150,6 +151,7 @@ hawahome.com,UTF-8,utf-8,utf_8
 hawaii.edu,UTF-8,utf-8,utf_8
 hawaii.ee,utf-8,utf-8,utf_8
 hawamer.com,UTF-8,utf-8,utf_8
+haya.es,UTF-8,utf-8,utf_8
 hayadan.org.il,UTF-8,utf-8,utf_8
 hayat.ba,UTF-8,utf-8,utf_8
 hayatouki.com,UTF-8,utf-8,utf_8
@@ -183,7 +185,7 @@ hdblog.it,iso-8859-1,Windows-1252,iso8859_14
 hdfcbank.com,UTF-8,utf-8,utf_8
 hdfilmcehennemi2.pw,,utf-8,utf_8
 hdjum.com,UTF-8,ascii,ascii
-hdmotori.it,iso-8859-1,Windows-1252,iso8859_14
+hdmotori.it,iso-8859-1,Windows-1252,iso8859_15
 hdsaprevodom.com,,ascii,ascii
 hdtvpolska.com,UTF-8,utf-8,utf_8
 hdzo.tv,utf-8,utf-8,utf_8
@@ -191,9 +193,10 @@ he2.wiki,,ascii,ascii
 heaclub.ru,UTF-8,utf-8,utf_8
 headlightmag.com,,utf-8,utf_8
 healcentral.org,UTF-8,utf-8,utf_8
-health-diet.ru,UTF-8,utf-8,utf_8
+health-diet.ru,UTF-8,Windows-1254,utf_8
 health-ua.com,UTF-8,utf-8,utf_8
 health.com,utf-8,utf-8,utf_8
+health.go.ke,UTF-8,utf-8,utf_8
 health.gov.au,,ascii,ascii
 health.gov.il,utf-8,ascii,ascii
 health.gov.lk,UTF-8,ascii,ascii
@@ -254,7 +257,7 @@ hel.fi,UTF-8,utf-8,utf_8
 helagotland.se,,utf-8,utf_8
 helahalsingland.se,utf-8,utf-8,utf_8
 helg.no,utf-8,utf-8,utf_8
-heli-group.co.il,,ascii,ascii
+heli-group.co.il,UTF-8,utf-8,utf_8
 helikon.bg,UTF-8,ascii,ascii
 helion.pl,,ISO-8859-1,iso8859_2
 helios-gesundheit.de,utf-8,utf-8,utf_8
@@ -320,12 +323,13 @@ henw.org,UTF-8,utf-8,utf_8
 heol.hu,UTF-8,utf-8,utf_8
 hep.hr,utf-8,utf-8,utf_8
 hepsiburada.com,,ISO-8859-1,utf_8
-her.ie,UTF-8,utf-8,
+her.ie,UTF-8,utf-8,utf_8
 hera.bg,,windows-1251,cp1251
 heraldlive.co.za,utf-8,utf-8,
 heraldo.es,UTF-8,utf-8,utf_8
 heraldodemexico.com.mx,,Windows-1252,iso8859_15
 heraldscotland.com,UTF-8,utf-8,utf_8
+heraldsun.com.au,UTF-8,utf-8,utf_8
 herbahaz.hu,UTF-8,utf-8,utf_8
 herbandedi.org,utf-8,ascii,big5
 hercegovina.info,utf-8,utf-8,utf_8
@@ -373,7 +377,6 @@ hi.lt,iso-8859-1,ascii,ascii
 hiamag.com,utf-8,utf-8,utf_8
 hiapkdownload.com,UTF-8,utf-8,utf_8
 hibapress.com,UTF-8,ascii,ascii
-hibid.com,utf-8,utf-8,utf_8
 hiclub.bg,utf-8,utf-8,utf_8
 hicomm.bg,UTF-8,utf-8,utf_8
 hidabroot.org,UTF-8,ascii,ascii
@@ -393,6 +396,7 @@ highviewart.com,UTF-8,utf-8,utf_8
 hihi2.com,UTF-8,utf-8,utf_8
 hiiuleht.ee,UTF-8,utf-8,utf_8
 hiiumaa.ee,UTF-8,utf-8,utf_8
+hijabphoto.com,UTF-8,Windows-1254,utf_8
 hikersbay.com,utf-8,utf-8,utf_8
 hiking.sk,utf-8,utf-8,utf_8
 hikr.org,UTF-8,utf-8,utf_8
@@ -418,6 +422,7 @@ hintaseuranta.fi,UTF-8,utf-8,utf_8
 hiof.no,utf-8,utf-8,utf_8
 hipaaspace.com,utf-8,ascii,ascii
 hipages.com.au,utf-8,utf-8,cp1125
+hipdir.com,utf-8,utf-8,utf_8
 hipercor.es,,ascii,ascii
 hiperfarma.lt,iso-8859-1,ascii,ascii
 hipersuper.pt,UTF-8,utf-8,utf_8
@@ -427,12 +432,11 @@ hiphopza.com,UTF-8,utf-8,utf_8
 hipo.ro,UTF-8,utf-8,utf_8
 hippo.co.za,,ascii,ascii
 hippoland.net,UTF-8,utf-8,utf_8
-hippson.se,ISO-8859-1,Windows-1252,cp850
+hippson.se,ISO-8859-1,Windows-1252,cp1252
 hipwee.com,UTF-8,Windows-1252,utf_8
 hir.ma,UTF-8,utf-8,utf_8
 hirado.hu,,utf-8,utf_8
 hirkereso.hu,UTF-8,utf-8,utf_8
-hirnavigator.hu,UTF-8,utf-8,utf_8
 hirslanden.ch,UTF-8,utf-8,utf_8
 hirstart.hu,UTF-8,utf-8,utf_8
 hirtv.hu,UTF-8,UTF-8-SIG,utf_8_sig
@@ -444,7 +448,7 @@ his-j.com,,ascii,ascii
 his-vacation.com,,utf-8,utf_8
 hisadaril.si,utf-8,utf-8,utf_8
 hisarhospital.com,UTF-8,utf-8,utf_8
-histadrut.org.il,UTF-8,Windows-1254,
+histadrut.org.il,UTF-8,Windows-1254,cp855
 histmag.org,utf-8,Windows-1254,utf_8
 histoiredesfax.com,,ascii,ascii
 historia.ro,UTF-8,utf-8,utf_8
@@ -472,7 +476,7 @@ hitnet.lv,UTF-8,utf-8,utf_8
 hitosara.com,UTF-8,utf-8,utf_8
 hitovi.ba,utf-8,utf-8,utf_8
 hitparade.ch,,ISO-8859-1,cp1250
-hitrinibg.com,,ascii,ascii
+hitrinibg.com,UTF-8,Windows-1254,utf_8
 hitta-oppna.se,utf-8,utf-8,utf_8
 hitta.se,utf-8,utf-8,
 hittamenyn.se,UTF-8,utf-8,
@@ -492,11 +496,12 @@ hlb.com.my,UTF-8,utf-8,utf_8
 hlebopechka.ru,UTF-8,Windows-1254,utf_8
 hledat.cz,UTF-8,utf-8,utf_8
 hledejceny.cz,UTF-8,utf-8,utf_8
-hlektronika.gr,ISO-8859-7,ISO-8859-7,cp1253
+hlektronika.gr,ISO-8859-7,ISO-8859-7,iso8859_7
 hlidacstatu.cz,utf-8,utf-8,utf_8
+hlk.hr,utf-8,utf-8,utf_8
 hln.be,,ascii,ascii
 hls-dhs-dss.ch,UTF-8,utf-8,utf_8
-hm-news.co.il,UTF-8,utf-8,utf_8
+hm-news.co.il,UTF-8,Windows-1254,utf_8
 hm.com,,ascii,ascii
 hm.ee,utf-8,utf-8,utf_8
 hmb.gov.tr,,utf-8,utf_8
@@ -505,9 +510,9 @@ hmetro.com.my,UTF-8,ascii,ascii
 hmi-basen.dk,,utf-8,utf_8
 hmsaatyemen.com,,utf-8,utf_8
 hmu.gr,utf-8,utf-8,utf_8
-hmv.com,utf-8,utf-8,utf_8
+hmv.com,utf-8,Windows-1254,utf_8
 hn.se,utf-8,utf-8,utf_8
-hna.de,utf-8,utf-8,
+hna.de,utf-8,utf-8,utf_8
 hnammobile.com,UTF-8,utf-8,utf_8
 hnb.com.ua,utf-8,utf-8,utf_8
 hnb.hr,UTF-8,utf-8,utf_8
@@ -547,7 +552,7 @@ hogarmania.com,,utf-8,utf_8
 hogom.com,UTF-8,Windows-1254,utf_8
 hogyan-kell.com,,utf-8,utf_8
 hogyankell.hu,UTF-8,utf-8,utf_8
-hoidap247.com,utf-8,utf-8,utf_8
+hoidap247.com,utf-8,Windows-1254,utf_8
 hojeemdia.com.br,utf-8,utf-8,utf_8
 hojko.com,UTF-8,utf-8,utf_8
 hokej.cz,utf-8,utf-8,utf_8
@@ -597,6 +602,7 @@ homebydleni.cz,UTF-8,utf-8,utf_8
 homecenter.co.il,,ascii,ascii
 homecenter.com.co,utf-8,utf-8,utf_8
 homecentre.com,UTF-8,ascii,ascii
+homechoice.co.za,UTF-8,ascii,ascii
 homedeco.nl,utf-8,utf-8,utf_8
 homedepot.ca,,ascii,ascii
 homedepot.com,,ascii,ascii
@@ -605,7 +611,7 @@ homedy.com,utf-8,utf-8,utf_8
 homegate.ch,,utf-8,utf_8
 homehardware.ca,,utf-8,utf_8
 homeincube.cz,UTF-8,utf-8,utf_8
-homeinfo.hu,,ascii,ascii
+homeinfo.hu,UTF-8,utf-8,utf_8
 homeless.co.il,utf-8,utf-8,
 homelook.it,utf-8,utf-8,utf_8
 homelux.ro,UTF-8,utf-8,utf_8
@@ -617,7 +623,6 @@ homenayoo.com,UTF-8,utf-8,utf_8
 homeone.com.au,UTF-8,utf-8,utf_8
 homepro.co.th,UTF-8,utf-8,utf_8
 homes.bg,utf-8,utf-8,utf_8
-homes.co.jp,UTF-8,utf-8,utf_8
 homes.com,,ISO-8859-1,utf_8
 homesentry.co,UTF-8,utf-8,utf_8
 homeshop.dk,utf-8,utf-8,utf_8
@@ -649,6 +654,7 @@ hongngochospital.vn,UTF-8,utf-8,utf_8
 hongpak.in.th,UTF-8,utf-8,utf_8
 honto.jp,UTF-8,utf-8,utf_8
 honvedelem.hu,UTF-8,utf-8,utf_8
+hooandja.ee,utf-8,utf-8,utf_8
 hood.de,UTF-8,utf-8,utf_8
 hoodspot.fr,iso-8859-1,ascii,ascii
 hoogvliet.com,,ascii,ascii
@@ -660,6 +666,7 @@ hopamviet.vn,UTF-8,utf-8,utf_8
 hopeinenomena.fi,UTF-8,utf-8,utf_8
 hopkinsmedicine.org,UTF-8,utf-8,utf_8
 hops.id,UTF-8,utf-8,utf_8
+horaire.com,UTF-8,utf-8,utf_8
 horairesdouverture24.fr,iso-8859-1,Windows-1252,iso8859_14
 horario.ninja,,utf-8,utf_8
 horeca.lv,utf-8,UTF-8-SIG,utf_8_sig
@@ -691,7 +698,6 @@ hosptm.ro,UTF-8,utf-8,utf_8
 hosteltur.com,UTF-8,utf-8,utf_8
 hostgator.com,,utf-8,utf_8
 hostinger.com,UTF-8,utf-8,utf_8
-hot.co.il,UTF-8,utf-8,utf_8
 hotarena.net,UTF-8,utf-8,utf_8
 hotcourses.ae,UTF-8,utf-8,utf_8
 hotcourses.in.th,UTF-8,utf-8,utf_8
@@ -741,7 +747,6 @@ hotnews.ro,utf-8,utf-8,utf_8
 hotnigerianjobs.com,,ascii,ascii
 hotpads.com,utf-8,ascii,ascii
 hotpepper.jp,UTF-8,utf-8,utf_8
-hotpress.com,UTF-8,utf-8,
 hotsale.com.ar,utf-8,Windows-1254,utf_8
 hotsport.rs,UTF-8,utf-8,utf_8
 hotstar.com,,Windows-1252,utf_8
@@ -755,22 +760,15 @@ housing.com,utf-8,utf-8,utf_8
 housing.gov.sa,utf-8,utf-8,utf_8
 housing.sa,utf-8,utf-8,utf_8
 houstonchronicle.com,UTF-8,utf-8,utf_8
-houzz.co.nz,utf-8,utf-8,utf_8
 houzz.co.uk,utf-8,utf-8,utf_8
-houzz.com.au,utf-8,utf-8,utf_8
+houzz.com,utf-8,utf-8,utf_8
 houzz.dk,utf-8,utf-8,utf_8
-houzz.fr,utf-8,utf-8,utf_8
-houzz.ie,utf-8,utf-8,utf_8
-houzz.it,utf-8,utf-8,utf_8
-houzz.ru,utf-8,utf-8,utf_8
-houzz.se,utf-8,utf-8,utf_8
-how10.com,iso-8859-1,ascii,ascii
 howiyapress.com,UTF-8,utf-8,utf_8
 howmanysyllables.com,UTF-8,utf-8,utf_8
 howstuffworks.com,UTF-8,utf-8,utf_8
 howtogeek.com,UTF-8,utf-8,utf_8
 howtopronounce.com,UTF-8,utf-8,utf_8
-hoxa.hu,UTF-8,utf-8,utf_8
+hoxa.hu,UTF-8,Windows-1254,utf_8
 hoy.es,UTF-8,utf-8,utf_8
 hp.com,utf-8,utf-8,utf_8
 hpb.hr,utf-8,utf-8,
@@ -794,7 +792,7 @@ hrt-romania.ro,utf-8,ascii,big5
 hrt.hr,utf-8,utf-8,utf_8
 hrturizam.hr,UTF-8,utf-8,utf_8
 hrvaska.net,utf-8,UTF-8-SIG,utf_8_sig
-hrvatska-danas.com,,ascii,ascii
+hrvatska-danas.com,UTF-8,utf-8,utf_8
 hrvatskitelekom.hr,UTF-8,ascii,ascii
 hrw.org,iso-8859-1,ascii,ascii
 hs.fi,utf-8,utf-8,utf_8
@@ -831,6 +829,8 @@ huelvainformacion.es,UTF-8,utf-8,utf_8
 huff.ro,UTF-8,utf-8,utf_8
 huffingtonpost.ca,,utf-8,utf_8
 huffingtonpost.co.uk,,ascii,ascii
+huffingtonpost.es,,ascii,ascii
+huffingtonpost.fr,,ascii,ascii
 huffpost.com,,ascii,ascii
 hugendubel.de,UTF-8,utf-8,utf_8
 huggies.com.vn,utf-8,utf-8,utf_8
@@ -872,7 +872,6 @@ hup.hr,utf-8,utf-8,utf_8
 hup.hu,UTF-8,Windows-1254,utf_8
 hupdfs.com,UTF-8,utf-8,utf_8
 hupont.hu,utf-8,utf-8,utf_8
-huramobil.cz,,Windows-1254,cp1250
 hurb.com,utf-8,utf-8,utf_8
 huren.nl,UTF-8,ascii,ascii
 hurriyet.com.tr,utf-8,utf-8,utf_8
@@ -895,7 +894,7 @@ hvl.no,utf-8,utf-8,utf_8
 hwaml.com,UTF-8,utf-8,utf_8
 hwp.com.tr,UTF-8,utf-8,utf_8
 hwsw.hu,UTF-8,utf-8,utf_8
-hwupgrade.it,iso-8859-1,Windows-1252,cp1125
+hwupgrade.it,iso-8859-1,Windows-1252,cp1252
 hwzone.co.il,UTF-8,utf-8,utf_8
 hyatok.com,UTF-8,utf-8,utf_8
 hyatoky.com,UTF-8,utf-8,utf_8

@@ -17,7 +17,7 @@ sam.gov.lv,UTF-8,utf-8,utf_8
 sam.si,UTF-8,utf-8,utf_8
 samaa.tv,UTF-8,UTF-8-SIG,utf_8_sig
 samajordan.com,UTF-8,utf-8,utf_8
-samakal.com,UTF-8,ascii,utf_8
+samakal.com,UTF-8,ascii,ascii
 samakita.nl,utf-8,ascii,ascii
 samanews.ps,UTF-8,utf-8,utf_8
 samayam.com,UTF-8,utf-8,utf_8
@@ -57,7 +57,6 @@ sanitas.es,UTF-8,utf-8,utf_8
 sanitex.ee,UTF-8,utf-8,utf_8
 sanitex.lv,UTF-8,utf-8,utf_8
 sanity.com.au,utf-8,utf-8,utf_8
-sanjoseahora.com.uy,UTF-8,utf-8,utf_8
 sankei.com,UTF-8,utf-8,utf_8
 sankeibiz.jp,UTF-8,utf-8,utf_8
 sanolabor.si,UTF-8,utf-8,utf_8
@@ -75,7 +74,7 @@ santa.lt,utf-8,utf-8,utf_8
 santa.lv,UTF-8,utf-8,utf_8
 santacruz.gob.bo,,ascii,ascii
 santafe.com.ar,UTF-8,utf-8,utf_8
-santafe.gob.ar,utf-8,utf-8,iso8859_15
+santafe.gob.ar,UTF-8,utf-8,iso8859_15
 santafe.gov.ar,UTF-8,utf-8,iso8859_15
 santaisabel.cl,utf-8,utf-8,utf_8
 santaka.info,iso-8859-1,ascii,ascii
@@ -94,6 +93,7 @@ sanwa.co.jp,,SHIFT_JIS,shift_jis
 saob.se,UTF-8,utf-8,utf_8
 saop.si,,,utf-8
 saopaulo.sp.gov.br,,ascii,ascii
+saostar.vn,utf-8,utf-8,utf_8
 sap.com,,utf-8,utf_8
 sap.org.ar,iso-8859-1,Windows-1252,cp850
 sapas.gob.mx,iso-8859-1,ascii,ascii
@@ -101,13 +101,11 @@ sapeople.com,UTF-8,utf-8,utf_8
 sapere.it,UTF-8,utf-8,utf_8
 saperesalute.it,,ascii,ascii
 sapir.ac.il,UTF-8,utf-8,utf_8
-sapnumedniece.lv,,ascii,ascii
+sapnumedniece.lv,UTF-8,utf-8,utf_8
 sapo.ao,UTF-8,utf-8,utf_8
 sapo.pt,UTF-8,utf-8,utf_8
-sapo.vn,utf-8,utf-8,utf_8
 sarabangla.net,UTF-8,utf-8,
 sarah30.com,utf-8,utf-8,utf_8
-sarahanews.net,UTF-8,utf-8,utf_8
 saraiva.com.br,utf-8,utf-8,utf_8
 saran.id,UTF-8,utf-8,utf_8
 saranukromthai.or.th,UTF-8,UTF-8-SIG,iso8859_11
@@ -120,6 +118,7 @@ sargs.lv,UTF-8,utf-8,utf_8
 sarigama.lk,UTF-8,ascii,ascii
 sarkisozleri.bbs.tr,utf-8,utf-8,utf_8
 sarkisozlerihd.com,UTF-8,utf-8,utf_8
+sarkisozum.gen.tr,UTF-8,utf-8,utf_8
 sarkiyukleindir.com,UTF-8,utf-8,utf_8
 sarouty.ma,UTF-8,utf-8,utf_8
 sars.gov.za,UTF-8,utf-8,utf_8
@@ -139,7 +138,7 @@ sat1.de,utf-8,utf-8,utf_8
 satakunnankansa.fi,utf-8,utf-8,utf_8
 satelitnatv.sk,UTF-8,utf-8,utf_8
 satenai.lt,UTF-8,utf-8,utf_8
-satisgaranti.com,,ascii,ascii
+satisgaranti.com,utf-8,utf-8,utf_8
 satkurier.pl,UTF-8,utf-8,utf_8
 satnica.com,UTF-8,utf-8,utf_8
 satom.ru,UTF-8,utf-8,
@@ -156,8 +155,10 @@ saudiarestaurants.com,UTF-8,utf-8,utf_8
 saudiauto.com.sa,UTF-8,ascii,ascii
 saudiprojects.net,UTF-8,utf-8,utf_8
 saudishift.com,UTF-8,utf-8,utf_8
+sauevald.ee,UTF-8,utf-8,utf_8
 sauletavirtuve.lt,UTF-8,utf-8,utf_8
 saulkrasti.lv,UTF-8,utf-8,utf_8
+saulnaymazerolles.com,utf-8,ascii,big5
 saunalahti.fi,utf-8,utf-8,utf_8
 sauto.cz,UTF-8,utf-8,utf_8
 sav.sk,,utf-8,utf_8
@@ -177,7 +178,7 @@ savonia.fi,UTF-8,utf-8,utf_8
 savonsanomat.fi,UTF-8,utf-8,utf_8
 savoringthehamptons.com,utf-8,ascii,big5
 savoriurbane.com,UTF-8,utf-8,utf_8
-sawad.co.th,UTF-8,Windows-1254,ptcp154
+sawad.co.th,UTF-8,utf-8,utf_8
 sawadee.co.th,UTF-8,utf-8,utf_8
 sawahhost.com,UTF-8,utf-8,utf_8
 sawahmedia.com,UTF-8,utf-8,utf_8
@@ -200,11 +201,12 @@ sbazar.cz,utf-8,utf-8,utf_8
 sbb.ch,UTF-8,utf-8,utf_8
 sbb.gov.tr,UTF-8,utf-8,utf_8
 sbb.rs,UTF-8,UTF-8-SIG,utf_8_sig
+sbc.org.pl,utf-8,utf-8,utf_8
 sbcoaching.com.br,utf-8,ascii,ascii
 sbdesignsquare.com,UTF-8,utf-8,utf_8
 sber-zvuk.com,utf-8,utf-8,utf_8
 sberbank.rs,utf-8,utf-8,utf_8
-sberbank.ru,UTF-8,utf-8,utf_8
+sberbank.ru,UTF-8,utf-8,
 sbermarket.ru,utf-8,utf-8,utf_8
 sbi.co.in,,ascii,ascii
 sbis.ru,utf-8,utf-8,utf_8
@@ -228,7 +230,7 @@ scb.com.vn,,ascii,ascii
 scb.se,utf-8,utf-8,utf_8
 sch.gr,UTF-8,utf-8,utf_8
 schachermayer.com,utf-8,utf-8,utf_8
-schnaeppchenfuchs.com,UTF-8,,
+schnaeppchenfuchs.com,UTF-8,Windows-1254,
 schnaeppchenhelden.de,UTF-8,ascii,ascii
 schneider-lekaren.sk,utf-8,utf-8,utf_8
 schneider.org.il,,utf-8,utf_8
@@ -259,7 +261,7 @@ scialert.net,UTF-8,GB2312,cp1250
 scielo.br,UTF-8,utf-8,utf_8
 scielo.edu.uy,,utf-8,utf_8
 scielo.org,UTF-8,utf-8,utf_8
-scielo.org.bo,,utf-8,utf_8
+scielo.org.mx,,utf-8,utf_8
 scielosp.org,utf-8,utf-8,utf_8
 sciencedaily.com,,ascii,ascii
 sciencedirect.com,UTF-8,utf-8,
@@ -287,6 +289,7 @@ scot.nhs.uk,UTF-8,utf-8,utf_8
 scotiabank.com.uy,,ascii,ascii
 scotiabankcr.com,utf-8,UTF-8-SIG,utf_8_sig
 scotsman.com,utf-8,utf-8,
+scouts388.com,utf-8,ascii,big5
 scr.vn,UTF-8,Windows-1254,utf_8
 screenweek.it,utf-8,utf-8,
 screwfix.com,utf-8,,utf-8
@@ -332,9 +335,8 @@ secondamano.it,utf-8,utf-8,iso8859_9
 secondhand.lk,UTF-8,utf-8,utf_8
 secret-bases.co.uk,UTF-8,ascii,ascii
 sector.sk,windows-1250,Windows-1254,cp1250
-secure-folders.com,utf-8,ascii,big5
 security.nl,UTF-8,utf-8,utf_8
-sederet.com,,ascii,ascii
+sederet.com,,utf-8,utf_8
 seebiz.eu,UTF-8,utf-8,utf_8
 seecult.org,utf-8,utf-8,utf_8
 seed.pr.gov.br,iso-8859-1,ascii,ascii
@@ -342,7 +344,7 @@ seeff.com,utf-8,utf-8,utf_8
 seek.co.nz,,ascii,ascii
 seek.com.au,,ascii,ascii
 seekingalpha.com,utf-8,ascii,ascii
-seekjobsaustralia.com,UTF-8,ascii,ascii
+seekjobsaustralia.com,UTF-8,ISO-8859-1,utf_8
 seeme.me,UTF-8,utf-8,utf_8
 seemnemaailm.ee,utf-8,utf-8,utf_8
 seen.lk,UTF-8,ascii,ascii
@@ -360,6 +362,7 @@ segabg.com,utf-8,UTF-8-SIG,utf_8_sig
 segeplan.gob.gt,utf-8,utf-8,utf_8
 segodnya.ua,UTF-8,utf-8,utf_8
 segundamano.mx,utf-8,Windows-1252,utf_8
+seguso.com,UTF-8,utf-8,utf_8
 sehatok.com,utf-8,utf-8,utf_8
 sehatq.com,utf-8,ascii,ascii
 seher.no,UTF-8,utf-8,utf_8
@@ -368,7 +371,7 @@ seikatsu110.jp,iso-8859-1,ascii,ascii
 seimosgidas.lt,iso-8859-1,ascii,ascii
 seinajoki.fi,UTF-8,utf-8,utf_8
 seiska.fi,utf-8,utf-8,utf_8
-sejm.gov.pl,utf-8,utf-8,cp949
+sejm.gov.pl,utf-8,utf-8,gb18030
 sekho.com.pk,UTF-8,ascii,ascii
 sekoeko.lv,utf-8,utf-8,utf_8
 sekretar.ee,utf-8,utf-8,utf_8
@@ -385,7 +388,6 @@ selectra.info,UTF-8,utf-8,utf_8
 selectra.mx,UTF-8,utf-8,utf_8
 selerasa.com,,utf-8,utf_8
 self.com,utf-8,utf-8,utf_8
-selfridges.com,UTF-8,ascii,ascii
 selfstudys.com,UTF-8,utf-8,utf_8
 selgros24.pl,UTF-8,Windows-1254,utf_8
 selling.lk,UTF-8,utf-8,utf_8
@@ -397,11 +399,12 @@ selver.ee,UTF-8,utf-8,utf_8
 semakanonline.com,UTF-8,ascii,ascii
 semana.com,utf-8,Windows-1254,utf_8
 semana.es,UTF-8,utf-8,utf_8
+semanaacademica.org.br,utf-8,utf-8,utf_8
 semanariolaprensa.com,UTF-8,utf-8,utf_8
 semanariouniversidad.com,UTF-8,utf-8,utf_8
 semanariov.pt,UTF-8,utf-8,utf_8
 semanticscholar.org,utf-8,utf-8,
-semarangkota.go.id,,ascii,ascii
+semarangkota.go.id,UTF-8,ascii,ascii
 semicom.lv,UTF-8,utf-8,utf_8
 seminuevos.com,UTF-8,utf-8,utf_8
 semisena.com,UTF-8,utf-8,utf_8
@@ -435,7 +438,7 @@ senscritique.com,,ascii,ascii
 sensiblu.com,utf-8,utf-8,utf_8
 sentangsedtee.com,UTF-8,utf-8,utf_8
 sentencedict.com,utf-8,utf-8,utf_8
-senthamil.org,,ascii,ascii
+senthamil.org,,utf-8,utf_8
 sentimientosdecristal.org,utf-8,ascii,big5
 sentory.vn,UTF-8,utf-8,utf_8
 senukai.lt,utf-8,utf-8,utf_8
@@ -473,7 +476,6 @@ servicelettrodomestici.it,UTF-8,utf-8,
 servicesaustralia.gov.au,,ascii,ascii
 serviceseeking.com.au,utf-8,utf-8,utf_8
 servidor-alicante.com,UTF-8,utf-8,utf_8
-servina.net,,windows-1251,cp1251
 servindi.org,utf-8,utf-8,utf_8
 servus.com,UTF-8,utf-8,utf_8
 seskocaeli.com,UTF-8,utf-8,utf_8
@@ -495,6 +497,7 @@ seura.fi,UTF-8,utf-8,utf_8
 seusfolhetos.com.br,utf-8,utf-8,utf_8
 sev.gob.mx,,ascii,ascii
 sevem.pro,utf-8,utf-8,utf_8
+sevenspeed.it,,Windows-1254,utf_8
 seventeen.com,UTF-8,Windows-1252,utf_8
 severovychod.sk,UTF-8,utf-8,utf_8
 sevilensarkisozleri.com,utf-8,utf-8,utf_8
@@ -505,7 +508,7 @@ seylan.lk,UTF-8,utf-8,utf_8
 seznam.cz,UTF-8,utf-8,utf_8
 seznamskol.eu,,utf-8,utf_8
 seznamzbozi.cz,UTF-8,utf-8,utf_8
-seznamzpravy.cz,utf-8,Windows-1254,utf_8
+seznamzpravy.cz,utf-8,utf-8,utf_8
 sezoninevirtuve.lt,iso-8859-1,ascii,ascii
 sfanytime.com,UTF-8,ascii,ascii
 sfatulmedicului.ro,utf-8,utf-8,utf_8
@@ -525,7 +528,7 @@ sganswer.com,utf-8,utf-8,utf_8
 sgcarmart.com,,ascii,ascii
 sggp.org.vn,utf-8,utf-8,utf_8
 sgh.waw.pl,utf-8,utf-8,utf_8
-sgpbusiness.com,UTF-8,ascii,utf_8
+sgpbusiness.com,UTF-8,ascii,ascii
 sgpgrid.com,utf-8,utf-8,utf_8
 sgu.ru,utf-8,utf-8,utf_8
 sgv.edu.vn,UTF-8,utf-8,utf_8
@@ -560,7 +563,7 @@ sheba.co.il,utf-8,ascii,ascii
 sheee.co.il,utf-8,utf-8,
 shein.com,,ascii,ascii
 shekem-electric.co.il,UTF-8,utf-8,utf_8
-shemsfm.net,utf-8,utf-8,
+shemsfm.net,utf-8,utf-8,utf_8
 shenkar.ac.il,utf-8,utf-8,utf_8
 sherryfitz.ie,utf-8,utf-8,utf_8
 shertonenglish.com,UTF-8,utf-8,utf_8
@@ -611,7 +614,7 @@ shopalike.pl,utf-8,utf-8,utf_8
 shopalike.se,utf-8,utf-8,utf_8
 shopalike.sk,utf-8,utf-8,utf_8
 shopandfly.com.tr,utf-8,utf-8,utf_8
-shopat24.com,UTF-8,utf-8,utf_8
+shopat24.com,UTF-8,utf-8,
 shopback.co.id,UTF-8,ascii,ascii
 shopback.co.th,UTF-8,ascii,ascii
 shopback.sg,UTF-8,ascii,ascii
@@ -628,7 +631,6 @@ shopee.sg,utf-8,utf-8,utf_8
 shopee.tw,utf-8,utf-8,utf_8
 shopee.vn,utf-8,utf-8,utf_8
 shopello.se,UTF-8,utf-8,utf_8
-shopfacil.com.br,utf-8,utf-8,utf_8
 shopfully.com.br,UTF-8,utf-8,utf_8
 shopfully.mx,UTF-8,utf-8,utf_8
 shophive.com,UTF-8,ascii,ascii
@@ -637,7 +639,7 @@ shopistas.gr,UTF-8,utf-8,utf_8
 shopit.co.ke,utf-8,utf-8,utf_8
 shopix.cl,UTF-8,utf-8,utf_8
 shopix.com.ar,UTF-8,utf-8,utf_8
-shopland.lv,,ascii,ascii
+shopland.lv,utf-8,utf-8,utf_8
 shopmania.bg,utf-8,utf-8,utf_8
 shopmania.hu,utf-8,utf-8,utf_8
 shopmania.ro,utf-8,utf-8,utf_8
@@ -655,7 +657,7 @@ shopping24.de,UTF-8,utf-8,utf_8
 shopping24.ee,UTF-8,utf-8,utf_8
 shopping4net.com,utf-8,ascii,ascii
 shopping4net.dk,utf-8,utf-8,
-shopping4net.se,utf-8,utf-8,utf_8
+shopping4net.se,utf-8,utf-8,
 shoppingbag.pk,UTF-8,utf-8,utf_8
 shoppinginformer.com,utf-8,ascii,ascii
 shoppingspirit.pt,UTF-8,Windows-1254,utf_8
@@ -677,7 +679,6 @@ shopstyle.com.au,utf-8,utf-8,utf_8
 shopsy.com.ua,UTF-8,utf-8,utf_8
 shopsy.pk,utf-8,utf-8,utf_8
 shoptretho.com.vn,utf-8,utf-8,utf_8
-shopu.ro,utf-8,ascii,ascii
 shorouknews.com,utf-8,utf-8,utf_8
 shortcut.lv,,utf-8,utf_8
 shorteng.com,UTF-8,utf-8,utf_8
@@ -735,11 +736,9 @@ sidex.ru,windows-1251,windows-1251,cp1251
 sielok.hu,iso-8859-2,ISO-8859-1,cp1250
 sieuthicholon.com,UTF-8,utf-8,utf_8
 sieuthidienmayxanh.com,UTF-8,utf-8,utf_8
-sieviesuklubs.lv,utf-8,utf-8,utf_8
 sievietespasaule.lv,iso-8859-1,ascii,ascii
 sif.gov.lv,utf-8,utf-8,utf_8
 sifiraracal.com,utf-8,utf-8,utf_8
-sify.com,,utf-8,utf_8
 sigledal.org,utf-8,utf-8,utf_8
 sigmalive.com,UTF-8,utf-8,utf_8
 signal.bg,UTF-8,UTF-8-SIG,utf_8_sig
@@ -799,7 +798,7 @@ sinarharian.com.my,,Windows-1252,utf_8
 sinchew.com.my,UTF-8,UTF-8-SIG,utf_8_sig
 sindhitutorials.com,UTF-8,ascii,ascii
 sindiforell.ee,UTF-8,utf-8,utf_8
-sindonews.com,UTF-8,ascii,ascii
+sindonews.com,UTF-8,ISO-8859-1,utf_8
 sindromekleinelevin.org,UTF-8,utf-8,utf_8
 sindulanthaya.com,UTF-8,Windows-1252,utf_8
 sinemalar.com,UTF-8,utf-8,utf_8
@@ -843,7 +842,7 @@ sio.si,UTF-8,utf-8,utf_8
 siol.net,utf-8,utf-8,utf_8
 siphhospital.com,UTF-8,ascii,ascii
 sipo.hu,UTF-8,utf-8,utf_8
-sipse.com,utf-8,utf-8,utf_8
+sipse.com,utf-8,Windows-1254,utf_8
 sirabee.com,UTF-8,utf-8,utf_8
 siraplimau.com,UTF-8,utf-8,utf_8
 siriuscapitalgh.com,utf-8,ascii,big5
@@ -856,7 +855,6 @@ sisekaitse.ee,UTF-8,utf-8,utf_8
 siseministeerium.ee,utf-8,utf-8,utf_8
 sistacafe.com,utf-8,Windows-1254,utf_8
 sistani.org,UTF-8,utf-8,utf_8
-sistory.si,,utf-8,utf_8
 sisustusweb.ee,utf-8,utf-8,utf_8
 sitchu.com.au,utf-8,utf-8,utf_8
 site-annonce.be,utf-8,utf-8,utf_8
@@ -865,7 +863,6 @@ sitedesmarques.com,UTF-8,utf-8,utf_8
 sitemercado.com.br,,ascii,ascii
 sitepoint.com,,utf-8,utf_8
 sitesi.web.tr,,utf-8,utf_8
-sitfit.si,UTF-8,utf-8,utf_8
 sitoireseto.com,UTF-8,utf-8,utf_8
 sitra.fi,UTF-8,utf-8,utf_8
 siviaggia.it,UTF-8,utf-8,utf_8
@@ -873,18 +870,17 @@ siyasalkitap.com,utf-8,utf-8,utf_8
 sizeer.com,UTF-8,utf-8,utf_8
 sizeer.sk,,ascii,ascii
 sjarrelensjaan.online,UTF-8,utf-8,utf_8
-sjeverni.info,UTF-8,ascii,ascii
-sjittv.co,UTF-8,utf-8,utf_8
 sjp.ac.lk,UTF-8,utf-8,utf_8
 sjp.pl,UTF-8,utf-8,utf_8
-sjvbca.org,UTF-8,ascii,ascii
+sjvbca.org,utf-8,ascii,big5
 sk.rs,,Windows-1254,iso8859_9
+skafeto.com,UTF-8,utf-8,utf_8
 skagenfood.dk,utf-8,utf-8,utf_8
 skai.gr,UTF-8,utf-8,utf_8
 skaitv.gr,UTF-8,utf-8,utf_8
 skandal24.si,UTF-8,utf-8,utf_8
 skandalno.net,UTF-8,utf-8,utf_8
-skanderborg.dk,utf-8,UTF-8-SIG,utf_8_sig
+skanderborg.dk,utf-8,utf-8,utf_8
 skane.se,utf-8,utf-8,utf_8
 skaniausi.net,iso-8859-1,ascii,ascii
 skapiec.pl,UTF-8,utf-8,utf_8
