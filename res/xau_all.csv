@@ -5,7 +5,7 @@ natuurmonumenten.nl,utf-8,utf-8,cp932
 natuurpunt.be,utf-8,utf-8,utf_8
 nau.ch,UTF-8,utf-8,utf_8
 naujasisgelupis.lt,iso-8859-1,ascii,ascii
-nauka.bg,UTF-8,utf-8,utf_8
+nauka.bg,,ascii,ascii
 naukowiec.org,UTF-8,utf-8,utf_8
 naukowy.pl,,utf-8,utf_8
 naukri.com,UTF-8,ascii,ascii
@@ -135,11 +135,11 @@ nepitelet.hu,UTF-8,utf-8,utf_8
 nepremicnine.net,UTF-8,utf-8,utf_8
 nepszava.hu,utf-8,utf-8,utf_8
 nerdwallet.com,utf-8,Windows-1254,utf_8
-nerede360.com,UTF-8,utf-8,utf_8
+nerede360.com,,ascii,ascii
 neredekal.com,utf-8,utf-8,utf_8
 neredennereye.com,UTF-8,utf-8,
 nesabamedia.com,UTF-8,ascii,ascii
-nesan.net,UTF-8,Windows-1254,
+nesan.net,UTF-8,Windows-1254,mac_cyrillic
 nesiojamukompiuteriudetales.blogspot.com,UTF-8,utf-8,utf_8
 neslimo.lv,utf-8,utf-8,utf_8
 nessma.tv,UTF-8,utf-8,utf_8
@@ -209,7 +209,7 @@ nettivuokraus.com,UTF-8,ascii,ascii
 nettkatalogen.no,utf-8,utf-8,utf_8
 netto-online.de,utf-8,utf-8,utf_8
 netto.dk,utf-8,utf-8,utf_8
-nettruyen.com,utf-8,Windows-1254,
+nettruyen.com,utf-8,Windows-1254,utf_8
 nettv4u.com,UTF-8,utf-8,utf_8
 netwerk24.com,utf-8,utf-8,utf_8
 network.hu,utf-8,utf-8,utf_8
@@ -219,6 +219,7 @@ neu.edu.tr,UTF-8,utf-8,utf_8
 neu.edu.vn,utf-8,utf-8,utf_8
 neue.at,utf-8,utf-8,utf_8
 neues-deutschland.de,UTF-8,utf-8,utf_8
+neutrinomobile.hr,UTF-8,utf-8,utf_8
 neuvoo.ca,UTF-8,ascii,ascii
 neuvoo.co.za,UTF-8,ascii,ascii
 neuvoo.com.mx,UTF-8,utf-8,utf_8
@@ -232,7 +233,6 @@ newagebd.net,UTF-8,utf-8,utf_8
 newbalkan.cz,utf-8,ascii,big5
 newcastle.edu.au,utf-8,utf-8,utf_8
 newcastleherald.com.au,utf-8,ISO-8859-1,utf_8
-newedc.com,,utf-8,utf_8
 newegg.ca,UTF-8,utf-8,utf_8
 newegg.com,UTF-8,utf-8,utf_8
 newenglandsquash.com,utf-8,ascii,big5
@@ -243,13 +243,12 @@ newindianexpress.com,,ascii,ascii
 newkaliningrad.ru,UTF-8,utf-8,utf_8
 newlook.com,UTF-8,utf-8,utf_8
 newmobile.com,UTF-8,utf-8,utf_8
-newmoney.gr,UTF-8,utf-8,utf_8
+newmoney.gr,UTF-8,utf-8,
 newmoney.ro,UTF-8,utf-8,utf_8
 newonce.net,utf-8,utf-8,utf_8
 newpharma.be,UTF-8,ascii,ascii
 newpharma.nl,UTF-8,ascii,ascii
 newpost.gr,utf-8,,utf_8
-news-italia-mondo.it,,utf-8,utf_8
 news-mail.com.au,UTF-8,utf-8,utf_8
 news-medical.net,utf-8,utf-8,utf_8
 news-postseven.com,UTF-8,utf-8,utf_8
@@ -300,7 +299,6 @@ newsnowgr.com,,utf-8,utf_8
 newsonair.com,utf-8,utf-8,utf_8
 newspapers.com,UTF-8,ascii,ascii
 newspicks.com,utf-8,utf-8,utf_8
-newsplus.co.th,UTF-8,utf-8,utf_8
 newsroom.co.nz,UTF-8,ascii,ascii
 newstalk.com,UTF-8,utf-8,utf_8
 newstalkzb.co.nz,utf-8,utf-8,utf_8
@@ -313,7 +311,6 @@ newsweek.pl,utf-8,utf-8,utf_8
 newsweekjapan.jp,UTF-8,utf-8,utf_8
 newswire.lk,UTF-8,utf-8,utf_8
 newtoday.cc,,ascii,ascii
-newtv.co.th,UTF-8,utf-8,utf_8
 newworld.co.nz,utf-8,utf-8,utf_8
 newworldencyclopedia.org,UTF-8,utf-8,utf_8
 newyorker.com,utf-8,utf-8,utf_8
@@ -355,7 +352,6 @@ nghmaty.site,UTF-8,utf-8,utf_8
 nglish.com,utf-8,utf-8,utf_8
 ngmisr.com,utf-8,utf-8,utf_8
 ngo.pl,utf-8,utf-8,utf_8
-ngobg.info,utf-8,utf-8,utf_8
 ngoisao.net,utf-8,utf-8,utf_8
 ngoisao.vn,UTF-8,utf-8,utf_8
 ngopibareng.id,UTF-8,ascii,ascii
@@ -377,7 +373,9 @@ nhandan.org.vn,utf-8,utf-8,utf_8
 nhanlucnganhluat.vn,utf-8,utf-8,utf_8
 nhathuocankhang.com,utf-8,utf-8,utf_8
 nhathuoclongchau.com,UTF-8,utf-8,utf_8
+nhattao.com,UTF-8,utf-8,utf_8
 nhg.org,utf-8,utf-8,utf_8
+nhh.no,utf-8,utf-8,
 nhi.no,utf-8,utf-8,utf_8
 nhif.bg,UTF-8,utf-8,utf_8
 nhk.jp,,utf-8,utf_8
@@ -411,7 +409,7 @@ niedersachsen.de,UTF-8,utf-8,utf_8
 niedziela.pl,UTF-8,utf-8,utf_8
 nieprzeczytane.pl,UTF-8,utf-8,utf_8
 nieruchomosci-online.pl,UTF-8,ascii,ascii
-nieuweoogst.nl,,utf-8,
+nieuweoogst.nl,,utf-8,utf_8
 nieuws.nl,UTF-8,utf-8,utf_8
 nieuwsblad.be,utf-8,utf-8,utf_8
 niezalezna.pl,UTF-8,utf-8,utf_8
@@ -420,7 +418,7 @@ nigdeachterhoek.nl,utf-8,utf-8,utf_8
 nigeriagalleria.com,iso-8859-1,ascii,ascii
 nigerianfinder.com,UTF-8,utf-8,utf_8
 nigerianinfopedia.com.ng,UTF-8,utf-8,utf_8
-nigerianprice.com,UTF-8,utf-8,utf_8
+nigerianprice.com,,ascii,ascii
 nigerianscholars.com,,ascii,ascii
 nih.gov,utf-8,utf-8,utf_8
 nihaarstudio.com,utf-8,ascii,big5
@@ -432,7 +430,7 @@ nijz.si,,ascii,ascii
 nik.gov.pl,UTF-8,utf-8,utf_8
 nike.com,utf-8,utf-8,utf_8
 nike.com.br,,ascii,ascii
-nikib.co.il,UTF-8,utf-8,utf_8
+nikib.co.il,UTF-8,Windows-1254,utf_8
 nikkan-gendai.com,UTF-8,utf-8,utf_8
 nikkan-spa.jp,UTF-8,utf-8,utf_8
 nikkan.co.jp,UTF-8,utf-8,utf_8
@@ -447,7 +445,6 @@ nina.az,UTF-8,utf-8,utf_8
 nina.no,utf-8,utf-8,utf_8
 nindyatour.com,utf-8,ascii,big5
 nine.com.au,utf-8,utf-8,utf_8
-ninhbinh.gov.vn,utf-8,utf-8,
 nintenderos.com,UTF-8,utf-8,utf_8
 nintendo.co.jp,,utf-8,utf_8
 nintendo.com,utf-8,utf-8,utf_8
@@ -479,6 +476,7 @@ nj.gov,,utf-8,utf_8
 njafmconference.org,UTF-8,utf-8,utf_8
 njam.tv,UTF-8,ISO-8859-1,big5
 njff.no,utf-8,utf-8,
+njss.info,UTF-8,utf-8,utf_8
 njt.hu,UTF-8,Windows-1254,utf_8
 njuskalo.hr,utf-8,utf-8,utf_8
 nk.pl,UTF-8,utf-8,utf_8
@@ -515,12 +513,13 @@ nocibe.fr,UTF-8,utf-8,utf_8
 noclegi.pl,UTF-8,utf-8,utf_8
 noclegowo.pl,UTF-8,utf-8,utf_8
 nocnoc.com,,utf-8,utf_8
-nocowanie.pl,UTF-8,utf-8,utf_8
+nocowanie.pl,UTF-8,GB2312,utf_8
 nocowboys.co.nz,utf-8,ascii,ascii
 noderes.lv,UTF-8,utf-8,utf_8
 noe.gv.at,utf-8,utf-8,utf_8
+noelleeming.co.nz,utf-8,utf-8,utf_8
 noen.at,utf-8,utf-8,utf_8
-nogetiovnen.dk,UTF-8,utf-8,utf_8
+nogetiovnen.dk,,ascii,ascii
 nogomania.com,utf-8,utf-8,
 nogomi.cc,UTF-8,utf-8,utf_8
 nogoumfm.net,UTF-8,utf-8,utf_8
@@ -593,6 +592,7 @@ norsk-tipping.no,utf-8,utf-8,utf_8
 norskeserier.no,UTF-8,utf-8,utf_8
 norskposten.com,UTF-8,utf-8,utf_8
 northdata.de,utf-8,utf-8,utf_8
+northernstar.com.au,UTF-8,utf-8,utf_8
 northwestern.edu,,utf-8,utf_8
 nos.nl,utf-8,utf-8,utf_8
 nos.pt,utf-8,utf-8,utf_8
@@ -626,6 +626,7 @@ noticiasautomotivas.com.br,UTF-8,utf-8,utf_8
 noticiasconcursos.com.br,UTF-8,utf-8,utf_8
 noticiasdecoimbra.pt,UTF-8,utf-8,utf_8
 noticiasdegipuzkoa.eus,iso-8859-1,ISO-8859-1,cp1252
+noticiasdenavarra.com,iso-8859-1,ISO-8859-1,cp1252
 noticiasetecnologia.com,,ascii,ascii
 noticiasfides.com,UTF-8,utf-8,utf_8
 noticiasmagazine.pt,utf-8,ascii,ascii
@@ -648,7 +649,7 @@ notjustok.com,UTF-8,utf-8,utf_8
 notmywar.com,UTF-8,utf-8,utf_8
 notonthehighstreet.com,utf-8,utf-8,utf_8
 notos.gr,utf-8,utf-8,utf_8
-notranjskoprimorske.si,UTF-8,utf-8,utf_8
+notranjskoprimorske.si,,ascii,ascii
 notrefamille.com,UTF-8,utf-8,utf_8
 notretemps.com,utf-8,utf-8,utf_8
 nottingham.ac.uk,utf-8,utf-8,
@@ -799,7 +800,6 @@ nuevoexito.org,UTF-8,utf-8,utf_8
 nuigalway.ie,UTF-8,utf-8,utf_8
 nuko.lv,UTF-8,utf-8,utf_8
 numerama.com,,utf-8,utf_8
-numo.pl,utf-8,Windows-1254,utf_8
 nuomnews.com,iso-8859-1,ascii,ascii
 nuomone.info,UTF-8,utf-8,utf_8
 nuovecanzoni.com,UTF-8,utf-8,utf_8
@@ -841,20 +841,21 @@ nyitva.hu,UTF-8,ascii,ascii
 nykaa.com,utf-8,utf-8,utf_8
 nykaafashion.com,utf-8,utf-8,utf_8
 nyksciai.lt,iso-8859-1,ascii,ascii
-nylon.com.sg,UTF-8,Windows-1252,utf_8
 nymag.com,utf-8,Windows-1254,utf_8
 nypl.org,utf-8,utf-8,utf_8
 nypost.com,UTF-8,utf-8,utf_8
 nyteknik.se,UTF-8,utf-8,utf_8
-nytimes.com,utf-8,Windows-1254,utf_8
+nytimes.com,utf-8,utf-8,utf_8
 nyu.edu,UTF-8,ascii,ascii
 nyugat.hu,UTF-8,utf-8,utf_8
+nzarn.org.nz,UTF-8,utf-8,utf_8
 nzbluepage.com,UTF-8,ascii,ascii
 nzfarmsource.co.nz,utf-8,ascii,ascii
 nzgeo.com,UTF-8,utf-8,utf_8
 nzherald.co.nz,utf-8,utf-8,utf_8
 nzhistory.govt.nz,utf-8,utf-8,utf_8
 nzip.cz,UTF-8,utf-8,utf_8
+nzlii.org,utf-8,ascii,ascii
 nzonscreen.com,utf-8,utf-8,utf_8
 nzpocketguide.com,UTF-8,utf-8,utf_8
 nzpost.co.nz,UTF-8,utf-8,utf_8

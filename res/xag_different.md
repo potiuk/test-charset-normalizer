@@ -3,6 +3,7 @@
 | creeaza.com | Windows-1252 | hp_roman8 |
 | cronista.com | Windows-1252 | iso8859_15 |
 | cultura.gob.cl | ISO-8859-1 | cp1250 |
+| culturacolectiva.com | Windows-1252 | utf_8 |
 | cvicte.sk | Windows-1254 | cp1250 |
 | cvs.com | ascii | None |
 | cyberforum.ru | windows-1251 | cp1251 |

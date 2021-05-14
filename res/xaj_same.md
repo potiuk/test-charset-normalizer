@@ -11,6 +11,8 @@
 | episodi.fi | ascii | ascii |
 | epn.edu.ec | ascii | ascii |
 | epoli.gr | utf-8 | utf_8 |
+| equiplo.sk | ascii | ascii |
+| erar.si | utf-8 | utf_8 |
 | erling-christensen.dk | utf-8 | utf_8 |
 | escaperoomferrara.it | ascii | ascii |
 | esfondi.lv | utf-8 | utf_8 |
@@ -18,13 +20,14 @@
 | essen24.ch | ascii | ascii |
 | estacio.br | utf-8 | utf_8 |
 | estadao.com.br | utf-8 | utf_8 |
-| estantevirtual.com.br | ascii | ascii |
 | estars.lv | utf-8 | utf_8 |
 | estraviz.org | utf-8 | utf_8 |
 | estudiantes.info | utf-8 | utf_8 |
 | etimolojiturkce.com | utf-8 | utf_8 |
 | etsi-aukioloaika.fi | utf-8 | utf_8 |
+| eureka.org.il | utf-8 | utf_8 |
 | eurobydleni.cz | utf-8 | utf_8 |
+| eurogsm.ro | ascii | ascii |
 | euronics.fi | ascii | ascii |
 | europalibera.org | ascii | ascii |
 | euroresidentes.com | utf-8 | utf_8 |

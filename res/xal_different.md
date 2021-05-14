@@ -5,6 +5,7 @@
 | gotquestions.org | Windows-1252 | utf_8 |
 | gov.mb.ca | ISO-8859-1 | cp1250 |
 | gov.nl.ca | ascii | None |
+| gozlemgazetesi.com | None | utf-8 |
 | grainger.com | ascii | None |
 | grammar-monster.com | Windows-1252 | cp1125 |
 | greengazette.co.za | ISO-8859-1 | utf_8 |

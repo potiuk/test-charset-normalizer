@@ -1,4 +1,4 @@
-localway.ru,utf-8,ascii,ascii
+localway.ru,utf-8,utf-8,utf_8
 locandacortedialbareto.it,,ascii,ascii
 locanto.ae,utf-8,utf-8,utf_8
 locasun.fr,UTF-8,utf-8,utf_8
@@ -19,9 +19,8 @@ logic-immo.com,utf-8,ascii,ascii
 logicno.com,UTF-8,Windows-1254,utf_8
 logismarket.cl,UTF-8,utf-8,utf_8
 logistikauudised.ee,utf-8,utf-8,utf_8
-logitravel.com,utf-8,utf-8,utf_8
+logitravel.com,UTF-8,utf-8,gb18030
 logitravel.pt,UTF-8,utf-8,gb18030
-logout.hu,utf-8,utf-8,utf_8
 lohaco.jp,iso-8859-1,ascii,ascii
 loi.com.uy,UTF-8,utf-8,utf_8
 loibaihat.biz,UTF-8,utf-8,utf_8
@@ -44,7 +43,7 @@ lokalbolig.dk,utf-8,utf-8,utf_8
 lokalec.si,UTF-8,utf-8,utf_8
 lokalguiden.se,UTF-8,utf-8,utf_8
 lokalhistoriewiki.no,UTF-8,utf-8,utf_8
-lokalkompass.de,UTF-8,utf-8,utf_8
+lokalkompass.de,UTF-8,Windows-1254,utf_8
 lokalno.si,utf-8,utf-8,utf_8
 lokmat.com,UTF-8,utf-8,utf_8
 lol-eg.com,UTF-8,utf-8,utf_8
@@ -87,7 +86,7 @@ los40.com,UTF-8,utf-8,utf_8
 losandes.com.ar,utf-8,Windows-1254,utf_8
 loschiaccino.it,UTF-8,utf-8,
 loske-novice.si,UTF-8,utf-8,utf_8
-losmejoresproductos.es,UTF-8,utf-8,utf_8
+losmejoresproductos.es,,ascii,ascii
 lospicchiodaglio.it,UTF-8,utf-8,utf_8
 lossc.co,UTF-8,utf-8,utf_8
 lostiempos.com,utf-8,utf-8,utf_8
@@ -106,7 +105,7 @@ lovely-media.jp,utf-8,utf-8,utf_8
 lovely.sk,UTF-8,utf-8,utf_8
 lovelybooks.de,utf-8,utf-8,utf_8
 lovemedotribute.com,utf-8,ascii,big5
-lovepik.com,UTF-8,ascii,ascii
+lovepik.com,,ascii,ascii
 loverbd.com,UTF-8,utf-8,utf_8
 loveread.ec,windows-1251,windows-1251,cp1251
 loverte.com,UTF-8,utf-8,utf_8
@@ -121,12 +120,10 @@ lovuzdar.sk,UTF-8,utf-8,utf_8
 lowes.ca,,ascii,ascii
 lowes.com,,ascii,ascii
 lowpi.com,UTF-8,utf-8,utf_8
-lowvelder.co.za,UTF-8,utf-8,utf_8
 lowyat.net,UTF-8,Windows-1254,utf_8
 lpp.si,utf-8,utf-8,utf_8
 lpr.gov.lv,UTF-8,utf-8,utf_8
 lpru.ac.th,,utf-8,utf_8
-lps.lv,UTF-8,utf-8,utf_8
 lpwc.nl,utf-8,utf-8,utf_8
 lr21.com.uy,UTF-8,utf-8,utf_8
 lrforum.com,,ascii,ascii
@@ -144,10 +141,10 @@ ls24.fi,utf-8,utf-8,utf_8
 lsa-conso.fr,UTF-8,utf-8,utf_8
 lse.ac.uk,utf-8,utf-8,
 lsm.lv,UTF-8,utf-8,utf_8
-lspa.lv,utf-8,UTF-8-SIG,iso8859_9
+lspa.lv,,ascii,ascii
 lsv-tech.com,iso-8859-1,ascii,ascii
 lsveikata.lt,utf-8,utf-8,utf_8
-lt10digital.com.ar,UTF-8,Windows-1252,utf_8
+lt10digital.com.ar,UTF-8,Windows-1254,utf_8
 lta.gov.sg,,ascii,ascii
 lth.se,utf-8,utf-8,utf_8
 ltn.com.tw,UTF-8,utf-8,utf_8
@@ -156,7 +153,7 @@ ltvirtove.lt,iso-8859-1,ascii,ascii
 ltz.se,utf-8,utf-8,utf_8
 lu.ch,utf-8,utf-8,utf_8
 lu.lv,utf-8,utf-8,utf_8
-luatduonggia.vn,,utf-8,utf_8
+luatduonggia.vn,UTF-8,utf-8,utf_8
 luathoangphi.vn,UTF-8,utf-8,utf_8
 luatminhgia.com.vn,utf-8,utf-8,utf_8
 luatminhkhue.vn,utf-8,utf-8,utf_8
@@ -173,9 +170,9 @@ luftika.rs,UTF-8,utf-8,utf_8
 lugarcerto.com.br,,ISO-8859-1,cp1252
 lugatim.com,utf-8,UTF-8-SIG,utf_8_sig
 lugejakiri.ee,UTF-8,utf-8,utf_8
-luggat.com,UTF-8,utf-8,utf_8
+luggat.com,,ascii,ascii
 luhanhvietnam.com.vn,,utf-8,utf_8
-luisaalexandra.com,UTF-8,Windows-1254,utf_8
+luisaalexandra.com,,ascii,ascii
 luisromanmenendez.com,utf-8,ascii,big5
 luizav.com,UTF-8,utf-8,utf_8
 luke.fi,UTF-8,Windows-1254,utf_8
@@ -183,7 +180,8 @@ lukoprekyba.lt,UTF-8,utf-8,utf_8
 luksusbaby.dk,,utf-8,utf_8
 luluhypermarket.com,iso-8859-1,ascii,ascii
 lumc.nl,UTF-8,utf-8,utf_8
-lumeasatului.ro,utf-8,utf-8,utf_8
+lumeasatului.ro,,ascii,ascii
+lumenlearning.com,UTF-8,utf-8,utf_8
 lumigreen.sk,,ascii,ascii
 luminor.lt,utf-8,utf-8,utf_8
 luminor.lv,utf-8,utf-8,utf_8
@@ -232,7 +230,7 @@ lvportals.lv,UTF-8,utf-8,utf_8
 lvs.fi,UTF-8,utf-8,utf_8
 lvz.de,UTF-8,utf-8,utf_8
 lww.com,,utf-8,utf_8
-lybrate.com,UTF-8,utf-8,cp1125
+lybrate.com,UTF-8,utf-8,cp932
 lydogbilde.no,UTF-8,utf-8,utf_8
 lydogbillede.dk,UTF-8,utf-8,utf_8
 lyft.com,utf-8,utf-8,utf_8
@@ -249,7 +247,7 @@ lyricsfreak.com,UTF-8,utf-8,utf_8
 lyricshub.ru,utf-8,utf-8,utf_8
 lyricsmode.com,UTF-8,utf-8,utf_8
 lyricsondemand.com,utf-8,ascii,ascii
-lyricstranslate.com,utf-8,Windows-1254,utf_8
+lyricstranslate.com,utf-8,utf-8,utf_8
 lyricsworld.ru,UTF-8,utf-8,utf_8
 lyricvn.com,UTF-8,utf-8,utf_8
 lyrix.at,UTF-8,utf-8,utf_8
@@ -267,7 +265,9 @@ m-culture.go.th,,ascii,ascii
 m-habitat.fr,UTF-8,utf-8,utf_8
 m-on-music.jp,UTF-8,utf-8,utf_8
 m-strana.ru,UTF-8,utf-8,utf_8
+m-style-aroma.com,utf-8,ascii,big5
 m.ua,utf-8,utf-8,utf_8
+m24.com.uy,utf-8,utf-8,
 m24.no,UTF-8,utf-8,utf_8
 m24.ru,UTF-8,utf-8,utf_8
 m2bomber.com,UTF-8,utf-8,utf_8
@@ -302,8 +302,8 @@ macaro-ni.jp,UTF-8,utf-8,utf_8
 macartemedia.com,utf-8,ascii,big5
 maccabi4u.co.il,,ascii,ascii
 macg.co,utf-8,Windows-1252,utf_8
+machahid24.com,UTF-8,utf-8,utf_8
 machicon.jp,,ascii,ascii
-machimachi.com,utf-8,utf-8,utf_8
 macitynet.it,UTF-8,utf-8,utf_8
 mackenzie.br,utf-8,utf-8,utf_8
 mackolik.com,utf-8,utf-8,utf_8
@@ -338,7 +338,7 @@ madeinrussiastore.ru,UTF-8,utf-8,utf_8
 madeinvilnius.lt,iso-8859-1,ascii,ascii
 madeira.gov.pt,utf-8,utf-8,utf_8
 madeiramadeira.com.br,UTF-8,utf-8,utf_8
-madenimitliv.dk,UTF-8,utf-8,utf_8
+madenimitliv.dk,,ascii,ascii
 madensverden.dk,UTF-8,utf-8,utf_8
 maderna.sk,UTF-8,utf-8,
 madlan.co.il,,utf-8,
@@ -389,7 +389,7 @@ magltk.com,UTF-8,utf-8,utf_8
 magnit.ru,UTF-8,utf-8,utf_8
 magoosh.com,,ascii,ascii
 magrabi.com.sa,UTF-8,ascii,ascii
-magyar-angol-szotar.hu,UTF-8,utf-8,utf_8
+magro.hu,utf-8,utf-8,utf_8
 magyar-nemet-szotar.hu,UTF-8,utf-8,utf_8
 magyarepitok.hu,UTF-8,utf-8,utf_8
 magyarfutball.hu,utf-8,utf-8,utf_8
@@ -403,7 +403,6 @@ magyarorszag.hu,UTF-8,utf-8,utf_8
 mah6at.net,UTF-8,utf-8,utf_8
 maharashtra.gov.in,utf-8,utf-8,
 maharashtratimes.com,utf-8,utf-8,utf_8
-mahidol.ac.th,UTF-8,utf-8,utf_8
 mahimovers.com,utf-8,ascii,big5
 mahkamahagung.go.id,UTF-8,ascii,ascii
 mahkamaty.com,utf-8,Windows-1254,utf_8
@@ -423,7 +422,7 @@ maison-travaux.fr,,ascii,ascii
 maisonapart.com,utf-8,utf-8,utf_8
 maisondesentreprises.info,UTF-8,ascii,ascii
 maisonsdumonde.com,utf-8,utf-8,utf_8
-maisribatejo.pt,UTF-8,utf-8,utf_8
+maisribatejo.pt,,ascii,ascii
 maistecnologia.com,UTF-8,utf-8,utf_8
 maistorplus.com,UTF-8,utf-8,utf_8
 majalah.com,UTF-8,ascii,ascii
@@ -438,7 +437,7 @@ makart.rs,UTF-8,utf-8,utf_8
 makeleio.gr,UTF-8,utf-8,utf_8
 maketecheasier.com,UTF-8,Windows-1252,utf_8
 makeup.bg,UTF-8,utf-8,
-makeup.com.ua,UTF-8,utf-8,utf_8
+makeup.com.ua,UTF-8,utf-8,
 makeup.pl,UTF-8,utf-8,
 makeup.ro,UTF-8,utf-8,utf_8
 makeup.sk,UTF-8,utf-8,utf_8
@@ -455,7 +454,7 @@ makroclick.com,utf-8,utf-8,utf_8
 makroekonomika.lv,UTF-8,utf-8,utf_8
 makromikrogrupa.hr,UTF-8,utf-8,utf_8
 makroshop.be,utf-8,utf-8,utf_8
-maksavit.ru,,utf-8,
+maksavit.ru,utf-8,ascii,ascii
 makthes.gr,UTF-8,utf-8,utf_8
 makuake.com,utf-8,utf-8,utf_8
 malachitours.com,UTF-8,ascii,ascii
@@ -470,7 +469,7 @@ malaysiakini.com,utf-8,utf-8,utf_8
 malaysiaplaces.net,UTF-8,ascii,ascii
 malcajt.com,UTF-8,utf-8,
 maldita.es,UTF-8,utf-8,utf_8
-maldonado.gub.uy,,Windows-1252,iso8859_15
+maldonado.gub.uy,,ISO-8859-1,cp1252
 maleviziotis.gr,UTF-8,utf-8,utf_8
 mali-vragci.si,UTF-8,utf-8,utf_8
 malinca.si,UTF-8,ascii,ascii
@@ -487,7 +486,6 @@ malliaris.gr,utf-8,utf-8,utf_8
 malloftheemirates.com,utf-8,utf-8,utf_8
 mallplaza.cl,UTF-8,utf-8,utf_8
 mallukas.com,UTF-8,utf-8,utf_8
-malmo.se,UTF-8,utf-8,utf_8
 malomabook.blogspot.com,UTF-8,utf-8,utf_8
 malzwischendurch.net,utf-8,ascii,big5
 mam.cz,UTF-8,utf-8,utf_8
@@ -519,7 +517,6 @@ maminsvijet.hr,UTF-8,utf-8,utf_8
 maminuklubs.lv,utf-8,utf-8,utf_8
 mamlakapress.com,UTF-8,utf-8,utf_8
 mammadaba.lv,utf-8,utf-8,utf_8
-mammamuntetiem.lv,UTF-8,utf-8,
 mammeto.me,UTF-8,utf-8,utf_8
 mammyland.com,UTF-8,Windows-1254,utf_8
 mamoszurnalas.lt,UTF-8,utf-8,utf_8
@@ -534,7 +531,6 @@ manaaptieka.lv,UTF-8,utf-8,utf_8
 manabalss.lv,utf-8,utf-8,utf_8
 manadiskusija.online,UTF-8,utf-8,utf_8
 manadrama.com,UTF-8,utf-8,utf_8
-managementboek.nl,UTF-8,utf-8,utf_8
 manageo.fr,utf-8,utf-8,utf_8
 manager-magazin.de,utf-8,utf-8,utf_8
 manager.bg,utf-8,utf-8,utf_8
@@ -567,7 +563,7 @@ manomano.de,utf-8,utf-8,utf_8
 manomano.es,utf-8,utf-8,utf_8
 manomano.fr,utf-8,utf-8,utf_8
 manomano.it,utf-8,utf-8,utf_8
-manonamai.lt,UTF-8,utf-8,iso8859_9
+manonamai.lt,UTF-8,utf-8,cp1251
 manor.ch,UTF-8,utf-8,utf_8
 manosveikata.lt,iso-8859-1,ascii,ascii
 manoukis.lt,utf-8,utf-8,utf_8
@@ -623,7 +619,7 @@ maqar.com,UTF-8,utf-8,utf_8
 marabraz.com.br,UTF-8,utf-8,utf_8
 marajc.lt,UTF-8,utf-8,utf_8
 marathon100.com,UTF-8,utf-8,utf_8
-marca.com,iso-8859-15,ISO-8859-1,cp1250
+marca.com,iso-8859-15,ISO-8859-1,cp1252
 marcapaisuruguay.gub.uy,,ascii,ascii
 marchdair.com,utf-8,utf-8,utf_8
 marcopolo.si,utf-8,utf-8,utf_8
@@ -639,7 +635,7 @@ mariages.net,UTF-8,utf-8,utf_8
 marialottes.dk,UTF-8,Windows-1252,utf_8
 marialunarillos.com,UTF-8,utf-8,utf_8
 marianne.cz,UTF-8,utf-8,utf_8
-mariavestergaard.dk,UTF-8,utf-8,utf_8
+mariavestergaard.dk,,ascii,ascii
 maribor.si,utf-8,utf-8,utf_8
 maribor24.si,UTF-8,utf-8,utf_8
 mariborinfo.com,UTF-8,utf-8,utf_8
@@ -699,9 +695,7 @@ marn.gob.gt,utf-8,utf-8,utf_8
 maroc.ma,utf-8,utf-8,utf_8
 marocannonces.com,,utf-8,utf_8
 maroctendance.co,UTF-8,utf-8,utf_8
-marquartogsoby.dk,UTF-8,ascii,ascii
 marriott.com,utf-8,Windows-1252,utf_8
-marrybaby.vn,UTF-8,utf-8,utf_8
 martat.fi,UTF-8,utf-8,utf_8
 marthastewart.com,utf-8,utf-8,utf_8
 martin.sk,,utf-8,utf_8
@@ -718,7 +712,6 @@ masakapahariini.com,,ascii,ascii
 mascus.ee,utf-8,utf-8,utf_8
 mascus.fi,utf-8,utf-8,utf_8
 mascus.lt,utf-8,utf-8,utf_8
-mascus.lv,utf-8,utf-8,utf_8
 mascus.si,utf-8,utf-8,utf_8
 mashable.com,utf-8,utf-8,utf_8
 mashreqbank.com,utf-8,utf-8,utf_8
@@ -726,6 +719,7 @@ masii.co.th,,utf-8,utf_8
 masinistit.com,UTF-8,utf-8,utf_8
 maskinbladet.dk,UTF-8,utf-8,utf_8
 masku.com,UTF-8,utf-8,utf_8
+maslina.rs,UTF-8,utf-8,utf_8
 masocongty.vn,UTF-8,,utf-8
 masothue.com,UTF-8,utf-8,utf_8
 maspero.eg,UTF-8,utf-8,utf_8
@@ -751,7 +745,6 @@ mastersportal.com,utf-8,utf-8,utf_8
 masteruid.com,utf-8,ascii,big5
 maszol.ro,UTF-8,utf-8,utf_8
 mat.se,UTF-8,utf-8,utf_8
-mat3am.net,utf-8,utf-8,utf_8
 matadornetwork.com,UTF-8,utf-8,utf_8
 matain.id,,UTF-8-SIG,utf_8_sig
 matalan.co.uk,utf-8,utf-8,utf_8
@@ -790,7 +783,7 @@ matrimonio.com,UTF-8,utf-8,utf_8
 matrimonios.cl,UTF-8,utf-8,utf_8
 matrix24.gr,UTF-8,utf-8,utf_8
 matruschka.net,UTF-8,utf-8,utf_8
-matsaigon.com,UTF-8,utf-8,utf_8
+matsaigon.com,,ascii,ascii
 matspar.se,utf-8,utf-8,utf_8
 matsukiyo.co.jp,,ascii,ascii
 mattblatt.com.au,utf-8,ascii,ascii
@@ -814,11 +807,10 @@ max.co.il,utf-8,utf-8,utf_8
 max.com.gt,UTF-8,utf-8,utf_8
 maxabout.com,utf-8,utf-8,utf_8
 maxapro.hu,UTF-8,utf-8,utf_8
-maxbetsport.rs,UTF-8,utf-8,utf_8
+maxbetsport.rs,,ascii,ascii
 maxbhi.com,utf-8,ascii,ascii
 maxbo.no,,utf-8,utf_8
 maxelektro.pl,utf-8,utf-8,utf_8
-maxgyan.com,UTF-8,utf-8,utf_8
 maxi.rs,,ascii,ascii
 maxicep.com,UTF-8,utf-8,utf_8
 maxicours.com,UTF-8,Windows-1254,utf_8
@@ -844,7 +836,7 @@ maxstores.gr,utf-8,Windows-1254,utf_8
 maxvandaag.nl,UTF-8,utf-8,utf_8
 maybank2u.com.my,ISO-8859-1,ascii,ascii
 maybank2u.com.sg,,ascii,ascii
-maynoothuniversity.ie,utf-8,utf-8,utf_8
+maynoothuniversity.ie,utf-8,Windows-1252,utf_8
 mayoclinic.org,utf-8,utf-8,utf_8
 mayonez.jp,utf-8,utf-8,utf_8
 maz-online.de,UTF-8,utf-8,utf_8
@@ -856,7 +848,7 @@ mbank.pl,,utf-8,utf_8
 mbc.net,UTF-8,utf-8,utf_8
 mbie.govt.nz,,ascii,ascii
 mbmusicasd.it,,ascii,ascii
-mbnet.fi,UTF-8,utf-8,utf_8
+mbnet.fi,,ascii,ascii
 mbok.jp,Shift_JIS,SHIFT_JIS,shift_jis
 mbreport.si,UTF-8,utf-8,utf_8
 mbs.jp,,UTF-8-SIG,utf_8_sig
@@ -887,10 +879,10 @@ mdpr.jp,UTF-8,utf-8,utf_8
 mdr.de,UTF-8,utf-8,utf_8
 mdsaude.com,UTF-8,utf-8,utf_8
 mdundo.com,UTF-8,utf-8,utf_8
-mdzol.com,,ISO-8859-1,cp1252
+mdzol.com,,Windows-1252,iso8859_15
 meaningguru.com,UTF-8,utf-8,utf_8
 meaningin.com,utf-8,utf-8,utf_8
-meaningnames.net,UTF-8,Windows-1254,gb18030
+meaningnames.net,UTF-8,Windows-1254,
 meb.gov.tr,UTF-8,UTF-8-SIG,utf_8_sig
 mebeliarena.bg,utf-8,utf-8,utf_8
 mebelok.com,utf-8,utf-8,utf_8
@@ -905,9 +897,10 @@ mecafi.eu,UTF-8,Windows-1252,utf_8
 mecenat.com,,utf-8,utf_8
 mechords.com,UTF-8,utf-8,utf_8
 mecindo.dk,utf-8,utf-8,utf_8
-meczyki.pl,utf-8,utf-8,
+meczyki.pl,utf-8,utf-8,utf_8
 med-mash.ru,UTF-8,UTF-8-SIG,utf_8_sig
 med.or.jp,,utf-8,utf_8
+med.tn,UTF-8,utf-8,utf_8
 med24.dk,"""UTF-8""",Windows-1252,utf_8
 med24.ee,utf-8,utf-8,utf_8
 med24.no,"""UTF-8""",Windows-1252,utf_8
@@ -917,6 +910,7 @@ medbrowse.com.ua,UTF-8,utf-8,utf_8
 medcentras.lt,utf-8,utf-8,utf_8
 medcentre.com.ua,utf-8,utf-8,utf_8
 medconsult.bg,utf-8,utf-8,utf_8
+medcraveonline.com,UTF-8,ascii,ascii
 medellin.gov.co,,ascii,
 medenosrce.net,utf-8,utf-8,utf_8
 medexpress.pl,UTF-8,utf-8,utf_8

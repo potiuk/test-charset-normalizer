@@ -1,5 +1,4 @@
 storyblocks.com,UTF-8,utf-8,utf_8
-storylog.co,utf-8,Windows-1254,utf_8
 storytel.com,,GB2312,utf_8
 stproperty.sg,UTF-8,ISO-8859-1,utf_8
 stps.dk,utf-8,utf-8,utf_8
@@ -22,7 +21,7 @@ streetrace.org,,ascii,ascii
 streetrapitalia.it,UTF-8,utf-8,utf_8
 strefabiznesu.pl,UTF-8,utf-8,utf_8
 strefainwestorow.pl,utf-8,utf-8,utf_8
-strettoweb.com,UTF-8,Windows-1254,hp_roman8
+strettoweb.com,UTF-8,Windows-1254,iso8859_15
 stringart.ro,utf-8,ascii,big5
 striveme.com,UTF-8,utf-8,utf_8
 stroimdom.com.ua,UTF-8,utf-8,utf_8
@@ -31,8 +30,8 @@ strojnistvo.com,,utf-8,utf_8
 stromstadstidning.se,utf-8,utf-8,utf_8
 stronazdrowia.pl,UTF-8,utf-8,utf_8
 stroy-podskazka.ru,utf-8,utf-8,utf_8
-structum.lt,iso-8859-1,ascii,ascii
 strukturnifondovi.hr,UTF-8,utf-8,utf_8
+struma.bg,UTF-8,utf-8,utf_8
 struma.com,UTF-8,utf-8,utf_8
 sttinfo.fi,utf-8,utf-8,
 sttyuppentek.ac.id,UTF-8,utf-8,utf_8
@@ -48,6 +47,7 @@ studenti.it,UTF-8,utf-8,utf_8
 studentjob.se,utf-8,utf-8,utf_8
 studentnews.pl,UTF-8,utf-8,utf_8
 studentroom.co.za,UTF-8,ISO-8859-1,utf_8
+studentski.hr,utf-8,utf-8,utf_8
 studentski.net,UTF-8,utf-8,utf_8
 studenttorget.no,utf-8,utf-8,utf_8
 studentum.dk,utf-8,utf-8,utf_8
@@ -66,7 +66,7 @@ studijoms.lt,UTF-8,utf-8,utf_8
 studio.co.uk,UTF-8,ascii,ascii
 studio55.fi,UTF-8,utf-8,utf_8
 studiob.rs,UTF-8,utf-8,utf_8
-studiobelajar.com,UTF-8,ascii,ascii
+studiobelajar.com,,ascii,ascii
 studiobinder.com,UTF-8,utf-8,utf_8
 studiocataldi.it,,utf-8,utf_8
 studiodentisticoscaltrito.it,UTF-8,,utf-8
@@ -74,7 +74,6 @@ studiofaca.com,utf-8,utf-8,utf_8
 studiolegalebazzanbettin.it,,utf-8,utf_8
 studioupbologna.it,,ascii,ascii
 studis-online.de,UTF-8,Windows-1254,utf_8
-studium.at,utf-8,utf-8,utf_8
 studme.org,WINDOWS-1251,Windows-1254,cp1251
 studocu.com,,ascii,ascii
 studopedia.ru,,Windows-1254,utf_8
@@ -85,7 +84,7 @@ studyassistant-id.com,UTF-8,utf-8,utf_8
 studyinnewzealand.govt.nz,utf-8,utf-8,utf_8
 studylibid.com,UTF-8,utf-8,utf_8
 studyrama.com,utf-8,utf-8,utf_8
-studyrankersonline.com,utf-8,ISO-8859-1,utf_8
+studysite.org,UTF-8,ascii,ascii
 studysols.com.pk,UTF-8,ascii,ascii
 studysolutions.pk,UTF-8,utf-8,utf_8
 stuff.co.nz,,ascii,ascii
@@ -106,7 +105,7 @@ stylelovely.com,UTF-8,utf-8,utf_8
 stylemagazin.hu,UTF-8,utf-8,utf_8
 stylepit.dk,utf-8,utf-8,utf_8
 styleroom.fi,utf-8,Windows-1252,utf_8
-styleroom.se,utf-8,Windows-1254,utf_8
+styleroom.se,utf-8,Windows-1252,utf_8
 stylesheets.it,UTF-8,utf-8,utf_8
 stylight.at,UTF-8,ascii,ascii
 stylight.be,UTF-8,ascii,ascii
@@ -128,7 +127,7 @@ su.se,utf-8,utf-8,utf_8
 suamusica.com.br,UTF-8,utf-8,utf_8
 suapesquisa.com,,utf-8,utf_8
 suara.com,UTF-8,ascii,ascii
-suarasurabaya.net,UTF-8,ISO-8859-1,utf_8
+suarasurabaya.net,UTF-8,utf-8,utf_8
 suasletras.com,utf-8,utf-8,utf_8
 suaspromos.pt,utf-8,utf-8,utf_8
 suatekno.id,,utf-8,utf_8
@@ -158,6 +157,7 @@ sugihara.lt,iso-8859-1,ascii,ascii
 suin-juriscol.gov.co,,utf-8,utf_8
 suissegourmet.ch,,ISO-8859-1,cp1252
 sukabumiupdate.com,UTF-8,utf-8,utf_8
+sukl.sk,UTF-8,utf-8,utf_8
 sukobinteresa.hr,utf-8,utf-8,utf_8
 sulamo.fi,utf-8,utf-8,utf_8
 sulekha.com,utf-8,UTF-8-SIG,utf_8_sig
@@ -199,11 +199,10 @@ suomalainen.com,utf-8,utf-8,utf_8
 suomalainentyo.fi,UTF-8,utf-8,utf_8
 suomela.fi,UTF-8,Windows-1254,iso8859_9
 suomenkuvalehti.fi,UTF-8,utf-8,utf_8
-suomenluonto.fi,UTF-8,utf-8,utf_8
 suomenmaa.fi,UTF-8,utf-8,utf_8
 suomenuutiset.fi,UTF-8,utf-8,utf_8
 suomenyrityshaku.fi,utf-8,utf-8,utf_8
-suomenyritysrekisteri.fi,utf-8,utf-8,iso8859_9
+suomenyritysrekisteri.fi,utf-8,utf-8,utf_8
 suomi.fi,utf-8,utf-8,
 suomi24.fi,utf-8,Windows-1254,utf_8
 suomienglantisanakirja.fi,utf-8,utf-8,utf_8
@@ -234,6 +233,7 @@ superimoti.bg,windows-1251,windows-1251,cp1251
 superjob.ru,utf-8,utf-8,utf_8
 superknjizara.hr,UTF-8,utf-8,utf_8
 superkora.football,utf-8,utf-8,utf_8
+supermag.bg,UTF-8,utf-8,utf_8
 supermama.lt,WINDOWS-1257,Windows-1252,cp1257
 supermama.me,UTF-8,utf-8,utf_8
 supermarktaanbiedingen.com,UTF-8,utf-8,utf_8
@@ -296,7 +296,7 @@ sv-anuncios.com,UTF-8,utf-8,utf_8
 svaigi.lv,UTF-8,utf-8,utf_8
 svastara.com,,utf-8,utf_8
 svastara.rs,UTF-8,ascii,ascii
-svcommunity.org,ISO-8859-1,ISO-8859-1,cp1252
+svcommunity.org,ISO-8859-1,Windows-1252,iso8859_15
 svd.se,utf-8,utf-8,utf_8
 sveikas.lt,UTF-8,utf-8,utf_8
 sveikaszmogus.lt,,utf-8,utf_8
@@ -311,6 +311,7 @@ svenskfilmdatabas.se,UTF-8,UTF-8-SIG,utf_8_sig
 svenskfotboll.se,,,utf-8
 svenskhalsokost.se,,ISO-8859-1,cp1252
 sveopoznatima.com,UTF-8,utf-8,utf_8
+svepomoci.cz,utf-8,Windows-1254,utf_8
 sverigesradio.se,utf-8,utf-8,utf_8
 svet-scandal.rs,UTF-8,utf-8,utf_8
 svet-svietidiel.sk,utf-8,utf-8,utf_8
@@ -380,7 +381,7 @@ sydney.edu.au,UTF-8,utf-8,utf_8
 sydostran.se,utf-8,utf-8,utf_8
 sydsvenskan.se,utf-8,utf-8,utf_8
 sydvestjysksygehus.dk,,ISO-8859-1,cp1252
-syekhnurjati.ac.id,UTF-8,utf-8,utf_8
+syekhnurjati.ac.id,,ascii,ascii
 syfy.com,utf-8,utf-8,utf_8
 syg.edu.ee,,ascii,ascii
 sykepleien.no,UTF-8,utf-8,utf_8
@@ -404,7 +405,7 @@ synonymbog.com,UTF-8,utf-8,utf_8
 synonyme.de,utf-8,utf-8,utf_8
 synonymer.cc,UTF-8,utf-8,utf_8
 synonymer.se,UTF-8,utf-8,utf_8
-synonymerna.se,UTF-8,utf-8,utf_8
+synonymerna.se,,ascii,ascii
 synonymertill.com,UTF-8,ascii,ascii
 synonymo.fr,,utf-8,utf_8
 synonymordboka.no,UTF-8,utf-8,utf_8
@@ -420,7 +421,7 @@ systembolaget.se,utf-8,utf-8,utf_8
 systemed.fr,UTF-8,utf-8,utf_8
 systime.dk,,utf-8,utf_8
 sz.ch,UTF-8,ascii,ascii
-sz.si,UTF-8,utf-8,utf_8
+sz.si,,ascii,ascii
 szabadfold.hu,UTF-8,utf-8,utf_8
 szafa.pl,utf-8,utf-8,utf_8
 szafamadziary.com,utf-8,ascii,big5
@@ -428,11 +429,11 @@ szakkatalogus.hu,iso-8859-2,ISO-8859-1,cp1250
 szallas.hu,UTF-8,utf-8,utf_8
 szallaskeres.hu,utf-8,utf-8,utf_8
 szallasvadasz.hu,iso-8859-2,ISO-8859-1,cp1250
-szarada.net,utf-8,GB2312,utf_8
+szarada.net,utf-8,utf-8,utf_8
 szd.si,UTF-8,utf-8,utf_8
 sze.hu,UTF-8,utf-8,utf_8
 szeged.hu,UTF-8,utf-8,utf_8
-szegedma.hu,UTF-8,utf-8,utf_8
+szegedma.hu,,utf-8,utf_8
 szekelyhon.ro,utf-8,utf-8,utf_8
 szekesfehervar.hu,UTF-8,utf-8,utf_8
 szene1.at,UTF-8,utf-8,utf_8
@@ -450,7 +451,7 @@ szkolnictwo.pl,,utf-8,utf_8
 szm.com,utf-8,utf-8,utf_8
 szm.sk,windows-1250,Windows-1254,cp1250
 szmc.org.il,utf-8,utf-8,utf_8
-szoljon.hu,utf-8,ascii,ascii
+szoljon.hu,UTF-8,utf-8,utf_8
 szon.hu,UTF-8,utf-8,utf_8
 szotar.net,UTF-8,utf-8,utf_8
 szotarjelentese.com,utf-8,utf-8,utf_8
@@ -468,6 +469,7 @@ t.co.il,utf-8,utf-8,utf_8
 t.me,utf-8,utf-8,utf_8
 t13.cl,utf-8,utf-8,utf_8
 t24.com.tr,utf-8,utf-8,utf_8
+t3.com,UTF-8,utf-8,utf_8
 t3n.de,,Windows-1254,utf_8
 t3tech.si,utf-8,utf-8,utf_8
 ta.fi,utf-8,utf-8,utf_8
@@ -477,7 +479,7 @@ ta3.com,utf-8,utf-8,utf_8
 taalimpress.info,UTF-8,utf-8,utf_8
 taasuka.gov.il,utf-8,ascii,ascii
 tab4u.com,UTF-8,utf-8,utf_8
-tabasco.gob.mx,UTF-8,Windows-1252,utf_8
+tabasco.gob.mx,UTF-8,utf-8,utf_8
 tabelafipebrasil.com,UTF-8,utf-8,utf_8
 tabelaofert.pl,UTF-8,utf-8,utf_8
 tabele-kalorii.pl,utf-8,utf-8,utf_8
@@ -500,7 +502,7 @@ tag24.de,UTF-8,utf-8,utf_8
 tagar.id,UTF-8,Windows-1252,utf_8
 tagblatt.ch,utf-8,utf-8,utf_8
 tagesanzeiger.ch,utf-8,utf-8,utf_8
-tagesschau.de,UTF-8,utf-8,utf_8
+tagesschau.de,utf-8,utf-8,utf_8
 tagesspiegel.de,utf-8,utf-8,utf_8
 tahrirnews.com,utf-8,utf-8,utf_8
 tai.ee,UTF-8,utf-8,utf_8
@@ -512,16 +514,12 @@ taimetoit.ee,UTF-8,utf-8,utf_8
 taimienphi.vn,utf-8,utf-8,utf_8
 tainhac.pro,UTF-8,utf-8,utf_8
 tainhac123.com,UTF-8,Windows-1254,utf_8
-tainhac365.org,UTF-8,utf-8,utf_8
 tainhaccho.net,UTF-8,utf-8,utf_8
-tainhacmienphi.biz,UTF-8,utf-8,utf_8
-tainhacmoi.biz,UTF-8,utf-8,utf_8
 taishu.jp,utf-8,utf-8,utf_8
 tajircom.com,UTF-8,utf-8,utf_8
 tajmeeli.com,,ascii,ascii
 takarekbank.hu,UTF-8,utf-8,utf_8
 takas.lk,UTF-8,utf-8,utf_8
-takashimaya.co.jp,UTF-8,utf-8,utf_8
 takdin.co.il,utf-8,utf-8,utf_8
 takealot.com,,ascii,ascii
 takeaway.com,UTF-8,ascii,ascii
@@ -536,7 +534,6 @@ talcomosoy.org,utf-8,ascii,big5
 talcualdigital.com,UTF-8,utf-8,utf_8
 talent.com,UTF-8,ISO-8859-1,utf_8
 talenteca.com,utf-8,utf-8,utf_8
-talentoincluir.com.br,UTF-8,utf-8,utf_8
 tales.dk,UTF-8,utf-8,utf_8
 talib.pk,UTF-8,ISO-8859-1,utf_8
 talk-it-through.com,utf-8,ascii,big5
@@ -572,6 +569,7 @@ tamperelainen.fi,UTF-8,utf-8,utf_8
 tamu.edu,UTF-8,utf-8,utf_8
 tandfonline.com,UTF-8,utf-8,utf_8
 tandu.it,,utf-8,utf_8
+tanea.gr,UTF-8,utf-8,utf_8
 tangs.com,utf-8,utf-8,utf_8
 taniaksiazka.pl,ISO-8859-2,ISO-8859-1,iso8859_2
 taniomania.pl,utf-8,utf-8,utf_8
@@ -587,7 +585,6 @@ tantis.pl,UTF-8,Windows-1254,utf_8
 tanum.no,UTF-8,utf-8,utf_8
 taobao.com,utf-8,utf-8,utf_8
 taokaemai.com,,ascii,ascii
-tapchicongsan.org.vn,,ascii,ascii
 tapchitaichinh.vn,utf-8,utf-8,utf_8
 tapuz.co.il,UTF-8,ascii,ascii
 taqi.com.br,UTF-8,ascii,ascii
@@ -599,7 +596,6 @@ targeo.pl,utf-8,utf-8,utf_8
 target.com,utf-8,utf-8,utf_8
 target.com.au,,ascii,ascii
 targetstudy.com,,ascii,ascii
-tarimorman.gov.tr,utf-8,utf-8,utf_8
 taringa.net,utf-8,Windows-1254,utf_8
 tarladalal.com,utf-8,utf-8,utf_8
 tarnow.pl,UTF-8,utf-8,utf_8
@@ -637,7 +633,7 @@ tauranga.govt.nz,utf-8,utf-8,utf_8
 tausendkind.at,UTF-8,utf-8,utf_8
 tausendkind.de,UTF-8,utf-8,utf_8
 taust.ee,UTF-8,utf-8,utf_8
-tavaklade.lv,UTF-8,utf-8,utf_8
+tavaklade.lv,,ascii,ascii
 tavaratalohurrikaani.fi,UTF-8,utf-8,utf_8
 tavernoxoros.gr,utf-8,utf-8,utf_8
 tavolartegusto.it,UTF-8,utf-8,utf_8
@@ -686,7 +682,6 @@ tcs.ch,utf-8,utf-8,utf_8
 tctechnology.com.pe,UTF-8,ascii,ascii
 td.com,UTF-8,utf-8,utf_8
 tdg.ch,utf-8,utf-8,utf_8
-tdgtest.it,,utf-8,utf_8
 tdk.gov.tr,UTF-8,utf-8,utf_8
 tdx.cat,utf-8,utf-8,utf_8
 te-palvelut.fi,UTF-8,utf-8,utf_8
@@ -698,7 +693,7 @@ teagasc.ie,UTF-8,utf-8,utf_8
 team-bhp.com,utf-8,Windows-1252,utf_8
 teamdeals.ro,UTF-8,utf-8,utf_8
 teamsportia.se,iso-8859-1,ascii,ascii
-teamworld.it,UTF-8,utf-8,utf_8
+teamworld.it,,utf-8,utf_8
 teanglann.ie,utf-8,utf-8,utf_8
 teaomaori.news,utf-8,utf-8,utf_8
 teara.govt.nz,utf-8,utf-8,utf_8
@@ -716,8 +711,8 @@ tec.mx,UTF-8,utf-8,utf_8
 tecchannel.de,UTF-8,utf-8,utf_8
 tech-wd.com,UTF-8,ascii,ascii
 tech12h.com,utf-8,UTF-8-SIG,utf_8_sig
-techadvisor.co.uk,UTF-8,Windows-1252,utf_8
-techadvisor.com,UTF-8,Windows-1252,utf_8
+techadvisor.co.uk,UTF-8,utf-8,utf_8
+techadvisor.com,UTF-8,utf-8,utf_8
 techadvisor.fr,UTF-8,utf-8,utf_8
 techarena.cz,utf-8,utf-8,utf_8
 techbike.vn,utf-8,utf-8,utf_8
@@ -728,7 +723,7 @@ techcabal.com,UTF-8,utf-8,utf_8
 techcentral.co.za,UTF-8,utf-8,utf_8
 techcrunch.com,UTF-8,utf-8,utf_8
 techdico.com,utf-8,utf-8,utf_8
-techenet.com,UTF-8,utf-8,utf_8
+techenet.com,,ascii,ascii
 techgear.gr,UTF-8,utf-8,utf_8
 techhub.in.th,UTF-8,utf-8,utf_8
 techinasia.com,,,utf-8
@@ -740,7 +735,7 @@ techmart.bg,UTF-8,utf-8,utf_8
 techmoblog.com,,utf-8,utf_8
 technave.com,iso-8859-1,ascii,ascii
 technews.bg,UTF-8,UTF-8-SIG,utf_8_sig
-technext.ng,UTF-8,utf-8,utf_8
+technext.ng,UTF-8,Windows-1252,utf_8
 technicalsalespr.com,utf-8,ascii,big5
 technickytydenik.cz,UTF-8,utf-8,utf_8
 technicongroup.com,utf-8,ascii,big5
@@ -748,8 +743,10 @@ techniekwebshop.nl,UTF-8,ascii,ascii
 technika.bg,utf-8,utf-8,utf_8
 technion.ac.il,UTF-8,utf-8,utf_8
 technipages.com,UTF-8,ascii,ascii
+techno-science.net,UTF-8,utf-8,utf_8
 technologijos.lt,utf-8,utf-8,utf_8
 technologychaoban.com,UTF-8,utf-8,utf_8
+technologytimes.pk,UTF-8,utf-8,utf_8
 technologytoolsforteaching.com,utf-8,ascii,big5
 technoluxpro.com,UTF-8,UTF-8-SIG,utf_8_sig
 technomarket.bg,,utf-8,utf_8
@@ -757,13 +754,13 @@ technopark.ru,utf-8,utf-8,utf_8
 technopat.net,UTF-8,utf-8,utf_8
 technopoint.ru,,ascii,ascii
 technopolis.bg,UTF-8,utf-8,utf_8
-technorama.lt,utf-8,UTF-8-SIG,utf_8_sig
 techoffside.com,UTF-8,utf-8,utf_8
 techopedia.com,utf-8,utf-8,utf_8
 techpoint.africa,UTF-8,utf-8,utf_8
 techport.ru,UTF-8,utf-8,utf_8
 techprincess.it,UTF-8,utf-8,utf_8
 techpulse.be,UTF-8,utf-8,utf_8
+techradar.com,UTF-8,utf-8,utf_8
 techrepublic.com,UTF-8,utf-8,utf_8
 techrum.vn,utf-8,utf-8,utf_8
 techsauce.co,UTF-8,utf-8,utf_8
@@ -786,13 +783,13 @@ tecnocasa.es,UTF-8,utf-8,utf_8
 tecnocasa.it,UTF-8,utf-8,utf_8
 tecoloco.com,utf-8,utf-8,utf_8
 tecoloco.com.gt,UTF-8,ascii,ascii
-tecoloco.com.ni,utf-8,utf-8,utf_8
 tecoloco.com.sv,utf-8,utf-8,utf_8
 ted.com,utf-8,utf-8,utf_8
 tednik.si,utf-8,utf-8,utf_8
 tedxdharavi.com,utf-8,ascii,big5
 tedxuq.com.au,,ascii,ascii
 teedin108.com,,utf-8,utf_8
+teeitse.com,utf-8,utf-8,utf_8
 teenee.com,utf-8,utf-8,utf_8
 teenproblem.net,UTF-8,utf-8,utf_8
 teenus.info,UTF-8,utf-8,utf_8
@@ -847,6 +844,7 @@ tekzen.com.tr,utf-8,utf-8,utf_8
 tel-aviv.gov.il,utf-8,utf-8,utf_8
 telam.com.ar,,Windows-1252,iso8859_9
 telangana.gov.in,utf-8,utf-8,utf_8
+telanganatoday.com,UTF-8,utf-8,utf_8
 telasa.jp,utf-8,utf-8,utf_8
 tele1.com.tr,UTF-8,utf-8,utf_8
 tele2.ee,utf-8,utf-8,utf_8
@@ -906,7 +904,6 @@ telenor.no,utf-8,utf-8,utf_8
 telenor.rs,UTF-8,utf-8,utf_8
 telenor.se,utf-8,utf-8,utf_8
 telephone.city,utf-8,ascii,ascii
-telepolis.pl,UTF-8,utf-8,utf_8
 teleprogramma.pro,UTF-8,utf-8,utf_8
 telepules.com,,ascii,ascii
 telerama.fr,UTF-8,utf-8,utf_8

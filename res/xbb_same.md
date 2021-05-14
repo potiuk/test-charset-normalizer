@@ -2,6 +2,7 @@
 | streetrace.org | ascii | ascii |
 | strojnistvo.com | utf-8 | utf_8 |
 | studeersnel.nl | ascii | ascii |
+| studiobelajar.com | ascii | ascii |
 | studiocataldi.it | utf-8 | utf_8 |
 | studiolegalebazzanbettin.it | utf-8 | utf_8 |
 | studioupbologna.it | ascii | ascii |
@@ -29,9 +30,13 @@
 | sweb.cz | utf-8 | utf_8 |
 | swedol.se | ascii | ascii |
 | swu.ac.th | utf-8 | utf_8 |
+| syekhnurjati.ac.id | ascii | ascii |
 | syg.edu.ee | ascii | ascii |
+| synonymerna.se | ascii | ascii |
 | synonymo.fr | utf-8 | utf_8 |
 | systime.dk | utf-8 | utf_8 |
+| sz.si | ascii | ascii |
+| szegedma.hu | utf-8 | utf_8 |
 | szkolnastrona.pl | utf-8 | utf_8 |
 | szkolnictwo.pl | utf-8 | utf_8 |
 | tajmeeli.com | ascii | ascii |
@@ -41,7 +46,6 @@
 | talouselama.fi | utf-8 | utf_8 |
 | tandu.it | utf-8 | utf_8 |
 | taokaemai.com | ascii | ascii |
-| tapchicongsan.org.vn | ascii | ascii |
 | target.com.au | ascii | ascii |
 | targetstudy.com | ascii | ascii |
 | tase.co.il | utf-8 | utf_8 |
@@ -50,11 +54,13 @@
 | taste.com.au | ascii | ascii |
 | tastemade.com | utf-8 | utf_8 |
 | tatacliq.com | ascii | ascii |
+| tavaklade.lv | ascii | ascii |
 | tawjihnet.net | utf-8 | utf_8 |
 | tbs.co.jp | utf-8 | utf_8 |
-| tdgtest.it | utf-8 | utf_8 |
 | teacup.com | utf-8 | utf_8 |
+| teamworld.it | utf-8 | utf_8 |
 | teater.ee | utf-8 | utf_8 |
+| techenet.com | ascii | ascii |
 | techmoblog.com | utf-8 | utf_8 |
 | technomarket.bg | utf-8 | utf_8 |
 | technopoint.ru | ascii | ascii |

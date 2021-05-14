@@ -1,12 +1,11 @@
 | umfcv.ro | ISO-8859-1 | cp1250 |
 | una.ac.cr | None | utf-8 |
-| unesc.net | Windows-1252 | iso8859_15 |
+| unesc.net | Windows-1252 | iso8859_14 |
 | uni-due.de | None | utf-8 |
 | unidadvictimas.gov.co | utf-8 | None |
 | unilibre.edu.co | ascii | None |
-| unipatika.hu | ISO-8859-1 | cp850 |
+| unipatika.hu | ISO-8859-1 | cp1252 |
 | universities-colleges.org.il | windows-1255 | cp1255 |
-| uokik.gov.pl | Windows-1252 | iso8859_2 |
 | upce.cz | None | utf-8 |
 | upla.cl | ISO-8859-1 | utf_8 |
 | urbe.edu | ISO-8859-1 | cp1250 |

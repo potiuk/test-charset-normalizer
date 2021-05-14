@@ -1,6 +1,6 @@
 | realites.sk | Windows-1254 | cp1250 |
 | really-learn-english.com | ISO-8859-1 | utf_8 |
-| recantodasletras.com.br | ISO-8859-1 | cp1252 |
+| recantodasletras.com.br | Windows-1252 | iso8859_14 |
 | recepty.bg | windows-1251 | cp1251 |
 | redportal.rs | Windows-1254 | utf_8 |
 | referatele.com | Windows-1252 | iso8859_14 |
@@ -8,8 +8,8 @@
 | reforma.com | ISO-8859-1 | cp1252 |
 | region20.com.ar | ISO-8859-1 | cp1252 |
 | regionsyddanmark.dk | Windows-1252 | iso8859_9 |
+| registeruz.sk | ascii | None |
 | reichelt.de | utf-8 | None |
-| restaurants.nl | ISO-8859-1 | utf_8 |
 | ronnie.cz | Windows-1254 | cp1250 |
 | rossaprimavera.ru | utf-8 | None |
 | rotter.net | windows-1255 | cp1255 |

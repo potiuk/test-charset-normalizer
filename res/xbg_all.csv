@@ -20,6 +20,7 @@ wikiwand.com,utf-8,utf-8,utf_8
 wikiwijs.nl,UTF-8,utf-8,utf_8
 wikiwiki.jp,UTF-8,Windows-1254,utf_8
 wikiyat.com,UTF-8,utf-8,utf_8
+wikom.pl,UTF-8,utf-8,utf_8
 wiktionary.org,,utf-8,utf_8
 wikyhracky.cz,UTF-8,utf-8,utf_8
 wildberries.am,utf-8,utf-8,utf_8
@@ -27,7 +28,7 @@ wildberries.kg,utf-8,utf-8,utf_8
 wildberries.ru,utf-8,utf-8,utf_8
 wildeisen.ch,utf-8,utf-8,utf_8
 wiley.com,,ascii,ascii
-wilko.com,UTF-8,ascii,
+wilko.com,UTF-8,ascii,ascii
 willhaben.at,ISO-8859-1,ISO-8859-1,cp1250
 williamdam.dk,utf-8,utf-8,utf_8
 willys.se,UTF-8,utf-8,utf_8
@@ -38,7 +39,7 @@ windeln.de,UTF-8,utf-8,cp1125
 window.edu.ru,UTF-8,utf-8,utf_8
 windows.com,,UTF-8-SIG,utf_8_sig
 windows.net,utf-8,Windows-1252,utf_8
-windowscentral.com,utf-8,utf-8,utf_8
+windowscentral.com,utf-8,Windows-1252,utf_8
 windowsreport.com,UTF-8,utf-8,utf_8
 winesisrael.com,UTF-8,utf-8,utf_8
 winfuture.de,,ISO-8859-1,cp1250
@@ -67,11 +68,10 @@ wireltern.ch,utf-8,utf-8,utf_8
 wirtschaftszeit.at,utf-8,utf-8,utf_8
 wirtualnemedia.pl,,utf-8,utf_8
 wisc.edu,,utf-8,utf_8
-wisdomjobs.com,UTF-8,utf-8,utf_8
 wisebuy.co.il,utf-8,utf-8,utf_8
 wiseclubs.pl,UTF-8,utf-8,utf_8
 wisentwintertrail.nl,utf-8,ascii,ascii
-wish.com,,ascii,ascii
+wish.com,UTF-8,utf-8,utf_8
 wish.hr,UTF-8,utf-8,utf_8
 wishesmsg.com,UTF-8,Windows-1252,utf_8
 wishmama.hr,UTF-8,utf-8,utf_8
@@ -83,7 +83,7 @@ wiwo.de,utf-8,utf-8,utf_8
 wix.com,UTF-8,utf-8,utf_8
 wiz-guide.com,UTF-8,utf-8,utf_8
 wizard.com.br,UTF-8,utf-8,utf_8
-wizaz.pl,UTF-8,utf-8,utf_8
+wizaz.pl,UTF-8,utf-8,
 wizbii.com,utf-8,utf-8,utf_8
 wkiosk.com,,utf-8,utf_8
 wko.at,utf-8,utf-8,utf_8
@@ -116,6 +116,7 @@ woman.ru,utf-8,utf-8,utf_8
 woman.sk,UTF-8,utf-8,utf_8
 woman365pro.com,UTF-8,UTF-8-SIG,utf_8_sig
 womanadvice.ru,utf-8,utf-8,utf_8
+womanandhome.com,UTF-8,utf-8,utf_8
 womanexpertus.com,UTF-8,UTF-8-SIG,utf_8_sig
 womanonly.cz,UTF-8,utf-8,utf_8
 womansday.com,utf-8,Windows-1254,utf_8
@@ -199,7 +200,7 @@ worten.pt,UTF-8,ascii,ascii
 worthen-life.com,UTF-8,UTF-8-SIG,utf_8_sig
 worthpoint.com,UTF-8,ascii,ascii
 wotif.co.nz,utf-8,utf-8,utf_8
-wotif.com,utf-8,utf-8,utf_8
+wotif.com,UTF-8,utf-8,utf_8
 wowbiz.ro,UTF-8,utf-8,utf_8
 wowcher.co.uk,UTF-8,ascii,ascii
 wowdeals.me,UTF-8,utf-8,utf_8
@@ -220,16 +221,17 @@ woxikon.se,UTF-8,utf-8,utf_8
 woz-wekker.nl,UTF-8,utf-8,utf_8
 wp.de,UTF-8,utf-8,utf_8
 wp.mil.pl,UTF-8,Windows-1252,utf_8
-wp.pl,utf-8,utf-8,
+wp.pl,utf-8,utf-8,utf_8
 wpastra.com,UTF-8,utf-8,utf_8
 wpbeginner.com,,ascii,ascii
 wpengine.com,UTF-8,utf-8,utf_8
-wpexplorer.com,UTF-8,ascii,ascii
+wpexplorer.com,UTF-8,Windows-1252,utf_8
 wpforms.com,UTF-8,utf-8,utf_8
 wpml.org,,ascii,ascii
 wpmudev.com,UTF-8,utf-8,utf_8
 wpolityce.pl,utf-8,utf-8,utf_8
 wprost.pl,UTF-8,utf-8,utf_8
+wradio.com.co,utf-8,utf-8,utf_8
 wradio.com.mx,UTF-8,utf-8,utf_8
 wrgat.com,UTF-8,utf-8,utf_8
 write-brothers.nl,utf-8,ascii,ascii
@@ -247,6 +249,7 @@ wunderweib.de,utf-8,utf-8,utf_8
 wunschliste.de,"""utf-8""",utf-8,utf_8
 wupti.com,UTF-8,utf-8,utf_8
 wur.nl,utf-8,utf-8,utf_8
+wurth.fi,utf-8,utf-8,
 wustl.edu,UTF-8,utf-8,utf_8
 wuv.de,UTF-8,utf-8,utf_8
 wuzzuf.net,utf-8,utf-8,utf_8
@@ -296,7 +299,7 @@ x-kom.pl,UTF-8,utf-8,
 x-mol.com,UTF-8,utf-8,utf_8
 x-reality.sk,UTF-8,utf-8,utf_8
 xachtaynhat.net,UTF-8,utf-8,utf_8
-xaluan.com,UTF-8,Windows-1254,utf_8
+xaluan.com,UTF-8,utf-8,utf_8
 xamk.fi,UTF-8,utf-8,utf_8
 xamux.com,UTF-8,utf-8,cp1125
 xasaxa.com,UTF-8,Windows-1254,utf_8
@@ -317,7 +320,7 @@ xda-developers.com,,utf-8,utf_8
 xdalys.lt,utf-8,utf-8,utf_8
 xdocs.ro,UTF-8,utf-8,utf_8
 xe.gr,utf-8,ascii,ascii
-xemloibaihat.com,UTF-8,Windows-1254,utf_8
+xemloibaihat.com,UTF-8,utf-8,utf_8
 xemphimvn2.com,utf-8,utf-8,utf_8
 xemtailieu.com,UTF-8,utf-8,utf_8
 xemtuvi.mobi,UTF-8,utf-8,utf_8
@@ -337,7 +340,7 @@ xl-byg.dk,,utf-8,utf_8
 xlbygg.se,utf-8,utf-8,utf_8
 xmarket.lv,UTF-8,utf-8,utf_8
 xminus.me,UTF-8,ascii,ascii
-xmp3x.online,UTF-8,Windows-1254,utf_8
+xmp3x.online,,ascii,ascii
 xn----1hck4ac5ddw.co.il,,utf-8,utf_8
 xn----2lbcmca4cdtsdb1c.gr,utf-8,utf-8,utf_8
 xn----8hcbjj5cq0blc.co.il,,utf-8,utf_8
@@ -345,7 +348,7 @@ xn----8hcborozt8bdd.xn--9dbq2a,utf-8,utf-8,cp855
 xn----8sbafg9clhjcp.bg,utf-8,utf-8,utf_8
 xn----9hcbajix2gfiog.org.il,UTF-8,utf-8,utf_8
 xn--12cl1ciib2cuc1c0bycxmj1c0c.com,UTF-8,utf-8,utf_8
-xn--12cl9ca5a0ai1ad0bea0clb11a0e.com,UTF-8,utf-8,utf_8
+xn--12cl9ca5a0ai1ad0bea0clb11a0e.com,,ascii,ascii
 xn--12cn0cga1azjg1mtc2h.com,UTF-8,utf-8,utf_8
 xn--22cap5dwcq3d9ac1l0f.com,UTF-8,utf-8,utf_8
 xn--41a.wiki,UTF-8,ascii,ascii
@@ -388,7 +391,6 @@ xoso.me,UTF-8,utf-8,utf_8
 xperiablog.net,UTF-8,utf-8,utf_8
 xphone24.com,,ISO-8859-1,cp1250
 xplorer.co.il,utf-8,utf-8,utf_8
-xpress.jobs,utf-8,utf-8,utf_8
 xrea.com,UTF-8,utf-8,utf_8
 xristika.gr,UTF-8,utf-8,utf_8
 xrysessyntages.com,UTF-8,utf-8,utf_8
@@ -431,7 +433,7 @@ yabla.com,UTF-8,utf-8,
 yably.de,UTF-8,utf-8,utf_8
 yablyk.com,UTF-8,utf-8,utf_8
 yad2.co.il,,ascii,ascii
-yadvashem.org,,ascii,
+yadvashem.org,,ascii,ascii
 yaencontre.com,utf-8,utf-8,utf_8
 yaga.ee,utf-8,Windows-1252,utf_8
 yahoo.co.jp,UTF-8,utf-8,utf_8
@@ -503,7 +505,7 @@ yellowpages.com.eg,,ascii,ascii
 yellowpages.com.jo,UTF-8,utf-8,utf_8
 yellowpages.com.sg,,ascii,ascii
 yellowpages.com.tr,UTF-8,utf-8,
-yellowpages.ee,UTF-8,utf-8,utf_8
+yellowpages.ee,,ascii,ascii
 yellowpages.my,UTF-8,ascii,ascii
 yellowpages.net,utf-8,utf-8,utf_8
 yellowpages.net.za,utf-8,utf-8,utf_8
@@ -514,12 +516,11 @@ yellowpageskenya.com,utf-8,utf-8,utf_8
 yelouruguay.com,UTF-8,utf-8,utf_8
 yelp.ca,UTF-8,utf-8,utf_8
 yelp.com,UTF-8,utf-8,utf_8
-yelp.de,UTF-8,utf-8,utf_8
-yemek.com,utf-8,Windows-1254,iso8859_15
+yelp.de,UTF-8,Windows-1254,utf_8
+yemek.com,utf-8,Windows-1254,utf_8
 yemeksepeti.com,utf-8,utf-8,
 yen.com.gh,UTF-8,utf-8,utf_8
 yenanchen.com,utf-8,ascii,big5
-yenbai.gov.vn,utf-8,utf-8,utf_8
 yeniakit.com.tr,UTF-8,utf-8,utf_8
 yenialanya.com,UTF-8,utf-8,utf_8
 yeniasir.com.tr,utf-8,utf-8,utf_8
@@ -536,7 +537,6 @@ yes.co.il,,ascii,ascii
 yes24.vn,utf-8,utf-8,utf_8
 yeshiva.org.il,utf-8,utf-8,utf_8
 yesiltopuklar.com,UTF-8,utf-8,utf_8
-yeutre.vn,utf-8,utf-8,utf_8
 ygeia-news.com,UTF-8,utf-8,utf_8
 ygeiamou.gr,UTF-8,utf-8,utf_8
 yhdistysavain.fi,UTF-8,utf-8,utf_8
@@ -550,7 +550,7 @@ yildiz.edu.tr,UTF-8,utf-8,utf_8
 yit.fi,utf-8,utf-8,utf_8
 yj.fr,,ascii,ascii
 yk.se,utf-8,utf-8,utf_8
-ykt.ru,UTF-8,utf-8,utf_8
+ykt.ru,UTF-8,Windows-1254,utf_8
 yle.fi,utf-8,utf-8,utf_8
 ylilauta.org,UTF-8,ascii,ascii
 yliopistonapteekki.fi,UTF-8,utf-8,utf_8
@@ -585,6 +585,7 @@ youcontrol.com.ua,,ascii,ascii
 youdo.com,,ascii,ascii
 youget.pt,utf-8,utf-8,utf_8
 youglish.com,UTF-8,utf-8,utf_8
+youku.com,UTF-8,Windows-1254,utf_8
 youla.ru,UTF-8,utf-8,utf_8
 youm7.com,utf-8,utf-8,utf_8
 youmath.it,,utf-8,utf_8
@@ -596,7 +597,7 @@ yourdictionary.com,utf-8,utf-8,
 yourlifeupdated.net,UTF-8,utf-8,utf_8
 yourlittleblackbook.me,UTF-8,Windows-1252,utf_8
 yourlocal.ie,UTF-8,ascii,ascii
-yourmystar.jp,UTF-8,utf-8,utf_8
+yourmystar.jp,UTF-8,Windows-1254,utf_8
 yourquote.in,utf-8,utf-8,utf_8
 yoursingaporemap.com,,ascii,ascii
 yourstory.com,utf-8,utf-8,utf_8
@@ -610,7 +611,6 @@ youtube.com.sg,utf-8,utf-8,utf_8
 youtubeizleindir.org,UTF-8,utf-8,utf_8
 youweekly.gr,UTF-8,utf-8,utf_8
 yowzit.com,UTF-8,ascii,ascii
-yoybuy.com,utf-8,utf-8,utf_8
 yoys.ae,utf-8,utf-8,utf_8
 yoys.co.za,utf-8,utf-8,utf_8
 yoys.ee,utf-8,utf-8,utf_8
@@ -622,6 +622,7 @@ yoys.lv,utf-8,utf-8,utf_8
 yoys.nl,utf-8,utf-8,utf_8
 yoys.no,utf-8,utf-8,utf_8
 yoys.se,utf-8,utf-8,utf_8
+yoys.sg,utf-8,utf-8,utf_8
 yoys.si,utf-8,utf-8,utf_8
 yoys.sk,utf-8,utf-8,utf_8
 yp.ru,UTF-8,utf-8,utf_8
@@ -644,6 +645,7 @@ yubox.com,UTF-8,utf-8,utf_8
 yucatan.com.mx,,utf-8,utf_8
 yucatan.gob.mx,utf-8,utf-8,utf_8
 yuga.ru,utf-8,utf-8,utf_8
+yukepo.com,UTF-8,utf-8,utf_8
 yukoyuko.net,UTF-8,utf-8,utf_8
 yuksinau.id,UTF-8,utf-8,utf_8
 yumama.com,,utf-8,utf_8
@@ -658,6 +660,7 @@ yuppiechef.com,utf-8,Windows-1252,utf_8
 yurtgazetesi.com.tr,UTF-8,utf-8,utf_8
 yusabuy.com,UTF-8,Windows-1254,utf_8
 yuta.rs,utf-8,utf-8,utf_8
+yuvalerel.com,UTF-8,utf-8,utf_8
 yve.ro,UTF-8,utf-8,utf_8
 yxl.no,UTF-8,utf-8,utf_8
 z1.fm,UTF-8,utf-8,utf_8
@@ -726,6 +729,7 @@ zaliastotele.lt,utf-8,utf-8,utf_8
 zaliczaj.pl,UTF-8,utf-8,utf_8
 zalogaj.com,UTF-8,utf-8,utf_8
 zalulietosanasinstrukcija.lv,UTF-8,utf-8,utf_8
+zamanalwsl.net,UTF-8,Windows-1254,
 zameen.com,utf-8,utf-8,utf_8
 zamenej.sk,UTF-8,utf-8,utf_8
 zamg.ac.at,utf-8,utf-8,utf_8
@@ -734,7 +738,7 @@ zamusic.org,UTF-8,utf-8,utf_8
 zando.co.za,utf-8,utf-8,utf_8
 zangeresyvonne.nl,UTF-8,utf-8,utf_8
 zanichelli.it,UTF-8,utf-8,utf_8
-zankyou.com.br,UTF-8,utf-8,iso8859_9
+zankyou.com.br,UTF-8,utf-8,utf_8
 zankyou.com.co,UTF-8,utf-8,utf_8
 zankyou.com.mx,UTF-8,utf-8,utf_8
 zankyou.es,UTF-8,utf-8,utf_8
@@ -754,7 +758,6 @@ zaq2.pl,UTF-8,utf-8,utf_8
 zara.com,,ascii,ascii
 zaracopy.com,ISO-8859-1,ISO-8859-1,cp1252
 zaragoza.es,UTF-8,utf-8,utf_8
-zarata.info,UTF-8,Windows-1254,utf_8
 zargan.com,utf-8,utf-8,utf_8
 zarpanews.gr,UTF-8,utf-8,utf_8
 zarplata.ru,utf-8,utf-8,utf_8
@@ -766,6 +769,7 @@ zattini.com.br,,ascii,ascii
 zauba.com,utf-8,utf-8,utf_8
 zaubacorp.com,utf-8,ascii,ascii
 zav-sava.si,,utf-8,utf_8
+zavedenia.com,,utf-8,utf_8
 zavod-irc.si,utf-8,utf-8,utf_8
 zavod.co.rs,utf-8,utf-8,utf_8
 zawya.com,UTF-8,utf-8,utf_8
@@ -799,7 +803,7 @@ zdopravy.cz,UTF-8,utf-8,utf_8
 zdravailepa.com,UTF-8,utf-8,utf_8
 zdravcity.ru,UTF-8,ascii,ascii
 zdrave.cz,UTF-8,utf-8,utf_8
-zdrave.org,UTF-8,utf-8,utf_8
+zdrave.org,,ascii,ascii
 zdrave.to,UTF-8,utf-8,utf_8
 zdrave.ws,UTF-8,utf-8,utf_8
 zdraveikrasota.bg,utf-8,utf-8,utf_8
@@ -841,7 +845,7 @@ zemereshet.co.il,,utf-8,utf_8
 zemesukis.com,UTF-8,utf-8,utf_8
 zena-in.cz,utf-8,utf-8,utf_8
 zenasamja.me,iso-8859-1,ascii,ascii
-zenavrsna.com,UTF-8,utf-8,utf_8
+zenavrsna.com,,ascii,ascii
 zenbu.co.nz,utf-8,ascii,ascii
 zendesk.com,UTF-8,ascii,ascii
 zeneszoveg.hu,utf-8,utf-8,utf_8
@@ -874,7 +878,7 @@ zf.ro,,utf-8,utf_8
 zg-magazin.com.hr,UTF-8,utf-8,utf_8
 zg.ch,utf-8,utf-8,utf_8
 zgh.hr,utf-8,utf-8,utf_8
-zgportal.com,UTF-8,utf-8,utf_8
+zgportal.com,,ascii,ascii
 zh.ch,utf-8,utf-8,utf_8
 zhaw.ch,utf-8,utf-8,utf_8
 zhihu.com,,ascii,ascii
@@ -893,7 +897,6 @@ ziemelkurzemesslimnica.lv,utf-8,utf-8,utf_8
 ziemellatvija.lv,utf-8,utf-8,utf_8
 zigwheels.com,UTF-8,Windows-1252,utf_8
 zigwheels.my,UTF-8,utf-8,utf_8
-zigya.com,UTF-8,UTF-8-SIG,utf_8_sig
 zigzag.lt,UTF-8,utf-8,utf_8
 ziher.hr,UTF-8,utf-8,utf_8
 zilesinopti.ro,UTF-8,utf-8,utf_8

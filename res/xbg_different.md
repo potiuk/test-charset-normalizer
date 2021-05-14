@@ -11,7 +11,6 @@
 | xphone24.com | ISO-8859-1 | cp1250 |
 | xuite.net | Windows-1254 | utf_8 |
 | xxiamzius.lt | Windows-1252 | cp1257 |
-| yadvashem.org | ascii | None |
 | yellow.co.nz | utf-8 | None |
 | yenimesaj.com.tr | Windows-1252 | iso8859_9 |
 | ymobile.jp | utf-8 | None |

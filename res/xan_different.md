@@ -17,10 +17,13 @@
 | infocif.es | ISO-8859-1 | cp1252 |
 | infohostal.com | Windows-1252 | iso8859_15 |
 | infolanka.com | Windows-1252 | big5hkscs |
+| infonu.nl | Windows-1252 | hp_roman8 |
 | ingilizce.tk | ISO-8859-1 | cp1254 |
-| intercars.pl | utf-8 | cp949 |
-| intercompras.com | ISO-8859-1 | cp1252 |
+| innatia.com | ISO-8859-1 | cp932 |
+| intercars.pl | utf-8 | gb18030 |
+| intercompras.com | ISO-8859-1 | cp1250 |
 | interempresas.net | ISO-8859-1 | cp1252 |
 | interfax.ru | windows-1251 | cp1251 |
 | intersinema.com | ISO-8859-1 | cp1254 |
-| intramed.net | GB2312 | gb18030 |
+| intramed.net | GB2312 | iso8859_15 |
+| inverse.com | Windows-1254 | utf_8 |

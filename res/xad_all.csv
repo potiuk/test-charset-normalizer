@@ -8,8 +8,10 @@ baodauthau.vn,utf-8,utf-8,utf_8
 baodautu.vn,,utf-8,utf_8
 baodongnai.com.vn,,utf-8,utf_8
 baogiaothong.vn,UTF-8,utf-8,utf_8
+baohagiang.vn,,utf-8,utf_8
 baohaiduong.vn,utf-8,utf-8,utf_8
 baohatinh.vn,utf-8,utf-8,utf_8
+baohoabinh.com.vn,,utf-8,utf_8
 baokhanhhoa.vn,,utf-8,utf_8
 baolangson.vn,UTF-8,utf-8,utf_8
 baomoi.com,utf-8,utf-8,utf_8
@@ -20,14 +22,13 @@ baoquangbinh.vn,,utf-8,utf_8
 baoquangnam.vn,utf-8,utf-8,utf_8
 baoquangninh.com.vn,,utf-8,utf_8
 baoquocte.vn,utf-8,utf-8,utf_8
-baosoctrang.org.vn,utf-8,utf-8,utf_8
 baotainguyenmoitruong.vn,utf-8,utf-8,utf_8
 baothaibinh.com.vn,UTF-8,utf-8,utf_8
 baothainguyen.vn,utf-8,utf-8,utf_8
 baothanhhoa.vn,utf-8,utf-8,utf_8
 baotintuc.vn,utf-8,utf-8,utf_8
 baotuyenquang.com.vn,,utf-8,utf_8
-baovanhoa.vn,utf-8,utf-8,utf_8
+baovanhoa.vn,utf-8,utf-8,
 baoxaydung.com.vn,utf-8,utf-8,utf_8
 baoyenbai.com.vn,,utf-8,utf_8
 barb.ua,UTF-8,utf-8,utf_8
@@ -55,6 +56,7 @@ barobirlik.org.tr,utf-8,utf-8,utf_8
 barometern.se,utf-8,utf-8,utf_8
 barona.fi,UTF-8,utf-8,utf_8
 barrandov.tv,UTF-8,utf-8,utf_8
+barricada.com.ni,UTF-8,utf-8,utf_8
 barrons.com,UTF-8,utf-8,utf_8
 barta24.com,UTF-8,utf-8,utf_8
 bartendersmanifesto.com,utf-8,ascii,big5
@@ -105,6 +107,7 @@ bauhof.ee,UTF-8,utf-8,utf_8
 baulinks.de,UTF-8,utf-8,utf_8
 baumax.cz,,ascii,ascii
 baur.de,,utf-8,utf_8
+bausa.lt,utf-8,utf-8,utf_8
 bauska.lv,UTF-8,utf-8,utf_8
 bauskasdzive.lv,utf-8,utf-8,utf_8
 bauundhobby.ch,UTF-8,utf-8,utf_8
@@ -118,7 +121,6 @@ bayerncs.de,utf-8,utf-8,utf_8
 bayindirhastanesi.com.tr,utf-8,utf-8,utf_8
 bayleys.co.nz,utf-8,Windows-1254,utf_8
 bayt.com,UTF-8,utf-8,utf_8
-baytdz.com,UTF-8,utf-8,utf_8
 bayut.com,utf-8,utf-8,utf_8
 bayut.sa,utf-8,Windows-1254,utf_8
 bayviewmotel.net,utf-8,ascii,big5
@@ -132,7 +134,6 @@ bazar.cz,utf-8,utf-8,gb18030
 bazar.sk,UTF-8,utf-8,utf_8
 bazaraki.com,utf-8,utf-8,utf_8
 bazarek.pl,utf-8,utf-8,utf_8
-bazarhorizonte.com.br,utf-8,utf-8,utf_8
 bazonline.ch,utf-8,utf-8,utf_8
 bazos.cz,UTF-8,utf-8,utf_8
 bazos.sk,UTF-8,utf-8,utf_8
@@ -143,7 +144,7 @@ bb-team.org,UTF-8,utf-8,utf_8
 bb.lv,UTF-8,UTF-8-SIG,utf_8_sig
 bb.org.bd,UTF-8,utf-8,utf_8
 bb.si,utf-8,utf-8,utf_8
-bb30.it,,Windows-1252,cp1257
+bb30.it,,Windows-1252,cp850
 bbb.org,,ascii,ascii
 bbc.co.uk,,utf-8,utf_8
 bbc.com,UTF-8,utf-8,utf_8
@@ -165,14 +166,13 @@ bccr.fi.cr,utf-8,ascii,
 bcf.com.au,UTF-8,utf-8,utf_8
 bcgroup-online.com,UTF-8,utf-8,utf_8
 bcn.cl,,utf-8,utf_8
-bcn.gob.ni,,UTF-8-SIG,utf_8_sig
 bcnretail.com,utf-8,utf-8,utf_8
 bcp.com.bo,utf-8,utf-8,utf_8
 bcr.ro,utf-8,utf-8,utf_8
 bd-journal.com,UTF-8,ascii,ascii
 bd-pratidin.com,UTF-8,utf-8,utf_8
 bd.nl,,ascii,ascii
-bdaugava.lv,,utf-8,utf_8
+bdaugava.lv,,ascii,ascii
 bdb.no,utf-8,utf-8,iso8859_9
 bdjobs.com,,utf-8,utf_8
 bdnews24.com,UTF-8,utf-8,utf_8
@@ -182,14 +182,14 @@ bdstall.com,UTF-8,utf-8,utf_8
 bdsviet.info,UTF-8,,utf-8
 bdword.com,,utf-8,utf_8
 bdz.bg,UTF-8,utf-8,utf_8
-be-in.ru,utf-8,utf-8,utf_8
+be-healthy.ro,UTF-8,utf-8,utf_8
 be.ch,utf-8,utf-8,utf_8
 be106.net,UTF-8,ascii,ascii
 beams.co.jp,utf-8,utf-8,utf_8
 beartai.com,,utf-8,utf_8
 beatgogo.it,UTF-8,utf-8,utf_8
 beatgogo.pt,UTF-8,utf-8,utf_8
-beatgogo.ru,UTF-8,utf-8,utf_8
+beatgogo.ru,UTF-8,ascii,ascii
 beatosvirtuve.lt,UTF-8,utf-8,utf_8
 beatport.com,utf-8,utf-8,utf_8
 beaute-test.com,ISO-8859-1,Windows-1252,cp1250
@@ -209,7 +209,6 @@ bebesymas.com,UTF-8,Windows-1252,utf_8
 bebetei.ro,UTF-8,utf-8,utf_8
 bebitus.pt,UTF-8,utf-8,utf_8
 bebo.club,UTF-8,utf-8,utf_8
-bebologija.rs,utf-8,utf-8,utf_8
 beck-shop.de,utf-8,utf-8,utf_8
 beck.de,,utf-8,utf_8
 bectero.com,UTF-8,utf-8,utf_8
@@ -217,6 +216,8 @@ bed-and-breakfast.it,UTF-8,Windows-1252,cp1250
 bedahlagu123.me,UTF-8,utf-8,utf_8
 bedavamobilmp3.net,UTF-8,utf-8,utf_8
 bedavamuzik.biz,UTF-8,Windows-1254,utf_8
+bedbathandbeyond.ca,,utf-8,utf_8
+bedbathandbeyond.com,,utf-8,utf_8
 bedetheque.com,UTF-8,utf-8,utf_8
 bedienungsanleitu.ng,utf-8,utf-8,utf_8
 bedoemmelse.dk,utf-8,utf-8,
@@ -252,10 +253,10 @@ bekia.es,UTF-8,utf-8,utf_8
 beko.com.tr,utf-8,utf-8,utf_8
 beko.ro,UTF-8,utf-8,utf_8
 bekredito.lt,UTF-8,utf-8,utf_8
-belano.rs,UTF-8,Windows-1254,ptcp154
+belano.rs,UTF-8,utf-8,utf_8
 belasmensagens.com.br,UTF-8,utf-8,utf_8
 belastingdienst.nl,utf-8,ascii,ascii
-belbalady.net,UTF-8,utf-8,utf_8
+belbalady.net,UTF-8,utf-8,
 belcy.jp,utf-8,utf-8,utf_8
 beleske.com,UTF-8,utf-8,utf_8
 belesmp3indirelim.co,UTF-8,utf-8,utf_8
@@ -300,7 +301,7 @@ bengo4.com,,ascii,ascii
 benh.vn,UTF-8,utf-8,utf_8
 benhvien108.vn,utf-8,utf-8,utf_8
 benhvienthucuc.vn,UTF-8,utf-8,utf_8
-benimisyerim.net,UTF-8,utf-8,utf_8
+benimisyerim.net,,ascii,ascii
 bennet.com,UTF-8,utf-8,utf_8
 benoitbouchez.com,UTF-8,utf-8,utf_8
 benu.cz,utf-8,Windows-1254,utf_8
@@ -341,6 +342,7 @@ bergzeit.ch,UTF-8,utf-8,utf_8
 bergzeit.de,UTF-8,utf-8,utf_8
 beritagar.id,,ascii,ascii
 beritaharian.sg,utf-8,utf-8,utf_8
+beritajakarta.id,UTF-8,ascii,ascii
 beritasatu.com,UTF-8,ascii,ascii
 beritnordstrand.no,iso-8859-1,ascii,ascii
 berkeley.edu,UTF-8,utf-8,utf_8
@@ -348,7 +350,6 @@ berlin.de,UTF-8,utf-8,utf_8
 berliner-zeitung.de,utf-8,utf-8,utf_8
 berlingske.dk,UTF-8,utf-8,utf_8
 bern.ch,utf-8,utf-8,utf_8
-bernama.com,UTF-8,utf-8,utf_8
 bernardcharpenel.com,utf-8,ascii,big5
 bernardinai.lt,UTF-8,utf-8,utf_8
 berneroberlaender.ch,utf-8,utf-8,utf_8
@@ -356,7 +357,7 @@ bernerzeitung.ch,utf-8,utf-8,utf_8
 bernhoven.nl,utf-8,utf-8,utf_8
 bershka.com,,ascii,ascii
 bertrand.pt,UTF-8,utf-8,utf_8
-beru.ru,utf-8,utf-8,mac_iceland
+beru.ru,utf-8,utf-8,utf_8
 berufsberatung.ch,utf-8,utf-8,utf_8
 besednjak.si,utf-8,utf-8,utf_8
 beslist.be,UTF-8,utf-8,utf_8
@@ -380,9 +381,9 @@ beste.nl,UTF-8,ascii,ascii
 bestenu.nl,UTF-8,utf-8,utf_8
 besteproduct.nl,UTF-8,utf-8,utf_8
 bestie.vn,utf-8,utf-8,utf_8
-bestinau.com.au,UTF-8,Windows-1254,utf_8
 bestinsingapore.co,UTF-8,ascii,ascii
 bestjobs.eu,UTF-8,ascii,ascii
+bestkids.ro,utf-8,ISO-8859-1,utf_8
 bestkru.com,UTF-8,Windows-1254,utf_8
 bestmarkt.hu,UTF-8,utf-8,utf_8
 bestmobile.co.il,UTF-8,utf-8,utf_8
@@ -407,7 +408,7 @@ beta.rs,utf-8,utf-8,utf_8
 betarena.cz,,Windows-1254,utf_8
 betaseries.com,UTF-8,utf-8,utf_8
 betekenis-definitie.nl,utf-8,utf-8,utf_8
-betekenis.be,UTF-8,ISO-8859-1,utf_8
+betekenis.be,UTF-8,utf-8,utf_8
 betermedia.nl,,ascii,ascii
 betexplorer.com,utf-8,utf-8,utf_8
 betipulnet.co.il,utf-8,utf-8,
@@ -430,7 +431,7 @@ bezeq.co.il,utf-8,utf-8,utf_8
 bezformata.com,UTF-8,utf-8,utf_8
 bezhladoveni.cz,UTF-8,Windows-1254,utf_8
 bezpecnostpotravin.cz,utf-8,utf-8,utf_8
-bezplatno.bg,,utf-8,utf_8
+bezplatno.bg,,ascii,big5
 bezplatno.net,UTF-8,utf-8,utf_8
 bezprawnik.pl,UTF-8,utf-8,utf_8
 bezrealitky.cz,UTF-8,utf-8,utf_8
@@ -438,7 +439,7 @@ bezrindas.lv,UTF-8,utf-8,cp1251
 bezvasport.cz,UTF-8,Windows-1254,utf_8
 bfh.ch,UTF-8,utf-8,utf_8
 bfi.org.uk,utf-8,utf-8,utf_8
-bfm.ru,UTF-8,utf-8,utf_8
+bfm.ru,,ascii,ascii
 bfmtv.com,utf-8,utf-8,utf_8
 bfree2work.nl,utf-8,ascii,ascii
 bg-mamma.com,UTF-8,ascii,ascii
@@ -493,7 +494,6 @@ biblestudytools.com,utf-8,utf-8,utf_8
 biblia.work,UTF-8,utf-8,utf_8
 bibliaon.com,ISO-8859-1,ISO-8859-1,cp1252
 bibliatodo.com,UTF-8,utf-8,utf_8
-biblio.toscana.it,utf-8,Windows-1254,utf_8
 bibliocommons.com,utf-8,utf-8,utf_8
 biblionetka.pl,utf-8,utf-8,utf_8
 bibliotecanacionaldigital.gob.cl,UTF-8,utf-8,utf_8
@@ -503,11 +503,11 @@ biblioteksvagten.dk,UTF-8,utf-8,utf_8
 bibliotheek.be,UTF-8,utf-8,utf_8
 bibliotheek.nl,UTF-8,ISO-8859-1,utf_8
 biblos.si,UTF-8,utf-8,utf_8
-bibna.gub.uy,UTF-8,utf-8,utf_8
+bibna.gub.uy,,,utf-8
 bibsent.no,UTF-8,utf-8,utf_8
 bicikel.com,utf-8,utf-8,utf_8
-bidadari.my,UTF-8,utf-8,cp1125
-bidorbuy.co.za,UTF-8,ascii,ascii
+bidadari.my,UTF-8,utf-8,utf_8
+bidorbuy.co.za,UTF-8,utf-8,utf_8
 bidspirit.com,UTF-8,ascii,ascii
 bidv.com.vn,UTF-8,utf-8,utf_8
 biedronka.pl,UTF-8,utf-8,utf_8
@@ -518,7 +518,7 @@ bienici.com,utf-8,utf-8,utf_8
 bienpublic.com,utf-8,utf-8,utf_8
 bif.rs,UTF-8,utf-8,utf_8
 bifarma.com.br,,ascii,ascii
-big4.com.au,utf-8,utf-8,cp850
+big4.com.au,utf-8,utf-8,cp1125
 bigbang.si,utf-8,utf-8,utf_8
 bigbasket.com,utf-8,utf-8,utf_8
 bigbox.ee,UTF-8,ascii,ascii
@@ -537,7 +537,7 @@ biggo.com,UTF-8,utf-8,utf_8
 biggo.com.tw,utf-8,Windows-1254,utf_8
 biggo.my,utf-8,Windows-1254,utf_8
 bigl.ua,utf-8,utf-8,utf_8
-biglion.ru,UTF-8,utf-8,utf_8
+biglion.ru,utf-8,ascii,ascii
 biglobe.ne.jp,,utf-8,utf_8
 bigmir.net,UTF-8,utf-8,utf_8
 bigomart.info,utf-8,utf-8,utf_8
@@ -578,7 +578,7 @@ bilforumet.no,UTF-8,utf-8,utf_8
 bilgalleri.dk,utf-8,utf-8,utf_8
 bilgesugungor.com,utf-8,ascii,big5
 bilgi.edu.tr,utf-8,utf-8,utf_8
-bilgi90.com,utf-8,Windows-1254,utf_8
+bilgi90.com,utf-8,utf-8,utf_8
 bilgicik.com,UTF-8,utf-8,utf_8
 bilgiustam.com,UTF-8,Windows-1254,utf_8
 bilgiyelpazesi.com,,Windows-1252,cp1254
@@ -591,7 +591,6 @@ bilkatogo.dk,UTF-8,utf-8,utf_8
 bilki.bg,UTF-8,utf-8,utf_8
 billa.at,utf-8,utf-8,utf_8
 billa.sk,utf-8,utf-8,utf_8
-billboard-japan.com,UTF-8,utf-8,utf_8
 billboard.com,utf-8,utf-8,utf_8
 billedbladet.dk,utf-8,utf-8,utf_8
 billetto.dk,utf-8,utf-8,utf_8
@@ -601,7 +600,6 @@ billigvvs.dk,utf-8,utf-8,utf_8
 bilmagasinet.dk,utf-8,utf-8,utf_8
 bilnorge.no,iso-8859-1,Windows-1252,iso8859_10
 biltema.dk,utf-8,utf-8,utf_8
-biltema.fi,utf-8,utf-8,utf_8
 biltema.no,utf-8,utf-8,utf_8
 biltema.se,utf-8,utf-8,utf_8
 biltorvet.dk,utf-8,utf-8,utf_8
@@ -615,10 +613,11 @@ bimbyworld.com,UTF-8,utf-8,
 bimmers.no,UTF-8,utf-8,utf_8
 binar.bg,UTF-8,utf-8,utf_8
 binbaz.org.sa,UTF-8,utf-8,utf_8
-binbin.vn,UTF-8,Windows-1254,utf_8
+binbin.vn,UTF-8,utf-8,utf_8
 bing.com,utf-8,utf-8,gb18030
 binglee.com.au,utf-8,ascii,ascii
 bingochezgabi.ro,utf-8,ascii,big5
+binhdinh.gov.vn,UTF-8,ascii,ascii
 binhphuoc.gov.vn,utf-8,utf-8,utf_8
 binnenlandsbestuur.nl,utf-8,utf-8,utf_8
 binothaimeen.net,,UTF-8-SIG,utf_8_sig
@@ -629,9 +628,8 @@ biobio.hr,utf-8,utf-8,utf_8
 biobiochile.cl,,utf-8,utf_8
 bioclinica.ro,utf-8,utf-8,utf_8
 biogaya.co.il,UTF-8,utf-8,utf_8
-biografiasyvidas.com,,ISO-8859-1,cp1252
 biografija.org,UTF-8,utf-8,utf_8
-biography.com,utf-8,utf-8,utf_8
+biography.com,utf-8,utf-8,cp1125
 bioguia.com,UTF-8,utf-8,utf_8
 bioklinika.lt,iso-8859-1,ascii,ascii
 bioland.sk,UTF-8,utf-8,utf_8
@@ -656,7 +654,8 @@ bip.malopolska.pl,UTF-8,utf-8,utf_8
 bipa.at,UTF-8,Windows-1254,utf_8
 bipa.hr,utf-8,utf-8,utf_8
 bipbap.ru,UTF-8,Windows-1254,utf_8
-biplan.be,UTF-8,utf-8,utf_8
+biplan.be,,ascii,ascii
+birdeye.com,UTF-8,utf-8,utf_8
 birdz.sk,UTF-8,utf-8,utf_8
 birgun.net,UTF-8,ascii,ascii
 birmilyonnokta.com,UTF-8,utf-8,utf_8
@@ -688,7 +687,6 @@ biz-manager.com,UTF-8,UTF-8-SIG,utf_8_sig
 bizapore.com,,utf-8,utf_8
 bizbook.be,UTF-8,utf-8,utf_8
 bizbrasov.ro,UTF-8,utf-8,utf_8
-bizcommunity.com,utf-8,utf-8,utf_8
 bizdb.co.nz,UTF-8,utf-8,utf_8
 bizevdeyokuz.com,UTF-8,utf-8,utf_8
 bizi.si,utf-8,utf-8,utf_8
@@ -703,13 +701,11 @@ bizmideast.com,,utf-8,utf_8
 biznesfinder.pl,utf-8,utf-8,utf_8
 biznews.com,UTF-8,utf-8,utf_8
 biznis.rs,UTF-8,utf-8,utf_8
-biznisgroup.com,UTF-8,utf-8,utf_8
 bizoo.ro,UTF-8,ascii,ascii
 bizorg.su,utf-8,utf-8,utf_8
 bizportal.co.il,,ascii,ascii
 bizreview.co.za,utf-8,utf-8,utf_8
 bizseek.co.uk,,utf-8,utf_8
-bizsouthasia.com,,utf-8,utf_8
 bizzdo.se,utf-8,utf-8,utf_8
 bizzness.net,UTF-8,utf-8,utf_8
 bjbikers.com,UTF-8,utf-8,utf_8
@@ -739,7 +735,7 @@ blic.rs,utf-8,utf-8,utf_8
 blick.ch,utf-8,utf-8,utf_8
 blik.co.il,utf-8,utf-8,utf_8
 blikk.hu,utf-8,utf-8,utf_8
-blinker.co.il,UTF-8,utf-8,utf_8
+blinker.co.il,,ascii,ascii
 blitz.bg,UTF-8,utf-8,utf_8
 blitz.pt,UTF-8,utf-8,utf_8
 blitzquotidiano.it,UTF-8,utf-8,utf_8
@@ -755,12 +751,12 @@ blog.bg,windows-1251,windows-1251,cp1251
 blog.google,utf-8,Windows-1252,utf_8
 blog.hu,utf-8,utf-8,utf_8
 blog.jp,utf8,utf-8,utf_8
-blog.rs,UTF-8,Windows-1254,hp_roman8
+blog.rs,UTF-8,Windows-1254,latin_1
 blog200porcento.com,utf-8,utf-8,utf_8
 bloganchoi.com,UTF-8,utf-8,utf_8
 blogchiasekienthuc.com,,ascii,ascii
 blogdoenem.com.br,UTF-8,utf-8,utf_8
-blogdumoderateur.com,,utf-8,utf_8
+blogdumoderateur.com,UTF-8,utf-8,utf_8
 blogg.no,UTF-8,utf-8,utf_8
 blogg.se,utf-8,Windows-1254,utf_8
 bloggang.com,tis-620,TIS-620,iso8859_11
@@ -777,7 +773,7 @@ blogmura.com,UTF-8,Windows-1254,utf_8
 blognone.com,,utf-8,utf_8
 blogovoditel.com,cp1251,windows-1251,cp1251
 blogradio.org,UTF-8,utf-8,utf_8
-blogsicilia.it,UTF-8,utf-8,cp1125
+blogsicilia.it,UTF-8,utf-8,utf_8
 blogstar.hu,UTF-8,ascii,ascii
 blogthinkbig.com,UTF-8,utf-8,utf_8
 blogto.com,utf-8,utf-8,utf_8
@@ -788,7 +784,7 @@ bloodwoodtree.org.au,UTF-8,ascii,ascii
 bloomberg.co.jp,utf-8,utf-8,utf_8
 bloomberg.com,utf-8,ascii,
 bloomberght.com,,utf-8,utf_8
-bloombergquint.com,utf-8,utf-8,utf_8
+bloombergquint.com,utf-8,utf-8,cp1125
 bloombergtv.bg,UTF-8,utf-8,utf_8
 bloomingdales.ae,UTF-8,utf-8,utf_8
 bloomling.si,UTF-8,utf-8,iso8859_15
@@ -802,7 +798,7 @@ bluehost.com,,utf-8,utf_8
 blueprint.ng,UTF-8,utf-8,utf_8
 bluesoft.com.br,iso-8859-1,ascii,ascii
 bluestacks.com,UTF-8,Windows-1254,utf_8
-bluewin.ch,utf-8,Windows-1252,utf_8
+bluewin.ch,utf-8,utf-8,utf_8
 bluradio.com,,ascii,ascii
 bluray-disc.de,UTF-8,utf-8,utf_8
 blutv.com,utf-8,utf-8,utf_8
@@ -813,7 +809,6 @@ bmeia.gv.at,utf-8,utf-8,utf_8
 bmf.gv.at,UTF-8,utf-8,utf_8
 bmi.gv.at,utf-8,utf-8,utf_8
 bmj.com,utf-8,utf-8,utf_8
-bmkg.go.id,,utf-8,utf_8
 bmlrt.gv.at,UTF-8,utf-8,utf_8
 bmsc.com.bo,us-ascii,ascii,ascii
 bmstores.co.uk,UTF-8,utf-8,utf_8
@@ -821,7 +816,7 @@ bmta.co.th,utf-8,utf-8,utf_8
 bmw-klubas.lt,,utf-8,utf_8
 bmwclub.ee,UTF-8,utf-8,utf_8
 bmwklub.sk,UTF-8,utf-8,utf_8
-bmwpower-bg.net,utf-8,utf-8,
+bmwpower.lv,UTF-8,utf-8,utf_8
 bna.bh,utf-8,utf-8,utf_8
 bna.com.ar,utf-8,utf-8,utf_8
 bnamericas.com,UTF-8,utf-8,utf_8
@@ -831,7 +826,6 @@ bndestem.nl,UTF-8,utf-8,utf_8
 bnews.vn,utf-8,utf-8,utf_8
 bni.co.id,utf-8,utf-8,
 bnm.gov.my,UTF-8,utf-8,utf_8
-bnn.in.th,utf-8,utf-8,utf_8
 bnn.lv,UTF-8,utf-8,cp1125
 bnnbloomberg.ca,utf-8,utf-8,utf_8
 bnnvara.nl,utf-8,utf-8,utf_8
@@ -861,6 +855,7 @@ bodeweshuisarts.nl,utf-8,ascii,ascii
 bodieko.si,UTF-8,utf-8,utf_8
 bodo.ua,UTF-8,Windows-1254,utf_8
 body-n-coach.com,utf-8,ascii,big5
+bodyandsoul.com.au,UTF-8,utf-8,
 bodylab.dk,,utf-8,utf_8
 bodzio.pl,UTF-8,utf-8,utf_8
 boe.es,UTF-8,ascii,ascii
@@ -875,13 +870,12 @@ bogastvozdravja.si,utf-8,utf-8,utf_8
 bogota.gov.co,UTF-8,Windows-1254,utf_8
 bohatstvo-prirody.sk,UTF-8,utf-8,utf_8
 bohemiapc.cz,utf-8,utf-8,utf_8
-bohinj.si,UTF-8,utf-8,utf_8
 bohus.no,utf-8,Windows-1252,utf_8
 bohuslaningen.se,utf-8,utf-8,utf_8
-boi.org.il,utf-8,utf-8,
+boi.org.il,utf-8,utf-8,gb18030
 bokadirekt.se,utf-8,utf-8,utf_8
 bokborsen.se,UTF-8,utf-8,utf_8
-bokelskere.no,utf-8,utf-8,utf_8
+bokelskere.no,utf-8,Windows-1252,utf_8
 bokete.jp,UTF-8,utf-8,utf_8
 bokkilden.no,UTF-8,utf-8,utf_8
 bokklubben.no,UTF-8,utf-8,utf_8
@@ -914,4 +908,3 @@ bolivia.com,utf-8,utf-8,utf_8
 boliviaemprende.com,UTF-8,utf-8,utf_8
 boliviaentusmanos.com,UTF-8,utf-8,utf_8
 boliviayp.com,UTF-8,utf-8,utf_8
-bollywoodhungama.com,UTF-8,utf-8,utf_8

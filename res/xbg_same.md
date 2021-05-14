@@ -7,7 +7,6 @@
 | wired.jp | utf-8 | utf_8 |
 | wirtualnemedia.pl | utf-8 | utf_8 |
 | wisc.edu | utf-8 | utf_8 |
-| wish.com | ascii | ascii |
 | wishque.com | utf-8 | utf_8 |
 | wkiosk.com | utf-8 | utf_8 |
 | woman.bg | utf-8 | utf_8 |
@@ -39,8 +38,10 @@
 | xinhuanet.com | utf-8 | utf_8 |
 | xinhuathai.com | ascii | ascii |
 | xl-byg.dk | utf-8 | utf_8 |
+| xmp3x.online | ascii | ascii |
 | xn----1hck4ac5ddw.co.il | utf-8 | utf_8 |
 | xn----8hcbjj5cq0blc.co.il | utf-8 | utf_8 |
+| xn--12cl9ca5a0ai1ad0bea0clb11a0e.com | ascii | ascii |
 | xn--80anjg9azc.me | ascii | ascii |
 | xn--eebamjeu.org.il | utf-8 | utf_8 |
 | xo.gr | ascii | ascii |
@@ -58,6 +59,7 @@
 | xxxlutz.hu | ascii | ascii |
 | xxxlutz.sk | ascii | ascii |
 | yad2.co.il | ascii | ascii |
+| yadvashem.org | ascii | ascii |
 | yan.vn | ascii | ascii |
 | ybz.org.il | utf-8 | utf_8 |
 | yediot.co.il | UTF-8-SIG | utf_8_sig |
@@ -65,6 +67,7 @@
 | yellosa.co.za | ascii | ascii |
 | yellowpages.com.eg | ascii | ascii |
 | yellowpages.com.sg | ascii | ascii |
+| yellowpages.ee | ascii | ascii |
 | yellowpages.vn | utf-8 | utf_8 |
 | yenicaggazetesi.com.tr | utf-8 | utf_8 |
 | yes.co.il | ascii | ascii |
@@ -107,6 +110,7 @@
 | zara.com | ascii | ascii |
 | zattini.com.br | ascii | ascii |
 | zav-sava.si | utf-8 | utf_8 |
+| zavedenia.com | utf-8 | utf_8 |
 | zazzle.be | ascii | ascii |
 | zazzle.ca | ascii | ascii |
 | zazzle.co.nz | ascii | ascii |
@@ -122,14 +126,17 @@
 | zbozi.cz | utf-8 | utf_8 |
 | zcomedy.ru | ascii | ascii |
 | zd-lj.si | ascii | ascii |
+| zdrave.org | ascii | ascii |
 | zdravnitza.com | utf-8 | utf_8 |
 | zemelapis.lt | utf-8 | utf_8 |
 | zemereshet.co.il | utf-8 | utf_8 |
+| zenavrsna.com | ascii | ascii |
 | zentrum-der-gesundheit.de | utf-8 | utf_8 |
 | zet.com | utf-8 | utf_8 |
 | zetblogs.com.au | ascii | ascii |
 | zetblogs.nz | ascii | ascii |
 | zf.ro | utf-8 | utf_8 |
+| zgportal.com | ascii | ascii |
 | zhihu.com | ascii | ascii |
 | zimmer.co.il | ascii | ascii |
 | zip.ch | ascii | ascii |

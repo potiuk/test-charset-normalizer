@@ -1,4 +1,5 @@
 | viaa.gov.lv | utf-8 | utf_8 |
+| viajeauruguay.com | ascii | ascii |
 | viajeselcorteingles.es | ascii | ascii |
 | viasanvitale11.it | ascii | ascii |
 | viaverde.pt | ascii | ascii |
@@ -6,6 +7,7 @@
 | videnskab.dk | ascii | ascii |
 | video-recept.sk | utf-8 | utf_8 |
 | viepratique.fr | ascii | ascii |
+| viesunamiem.lv | ascii | ascii |
 | viet-biz.com | utf-8 | utf_8 |
 | vietas.lv | utf-8 | utf_8 |
 | vietnamnet.vn | ascii | ascii |
@@ -28,6 +30,7 @@
 | visitsingapore.com | utf-8 | utf_8 |
 | viss.lt | utf-8 | utf_8 |
 | viss.lv | utf-8 | utf_8 |
+| vital.hu | ascii | ascii |
 | vivadecora.com.br | utf-8 | utf_8 |
 | vivalocal.com | utf-8 | utf_8 |
 | vivastreet.cl | utf-8 | utf_8 |
@@ -54,7 +57,6 @@
 | vni.lv | utf-8 | utf_8 |
 | vnmedia.vn | utf-8 | utf_8 |
 | vnu.edu.vn | utf-8 | utf_8 |
-| voatiengviet.com | utf-8 | utf_8 |
 | vocabulix.com | ascii | ascii |
 | vodafone.cz | utf-8 | utf_8 |
 | vogue.me | ascii | ascii |
@@ -63,18 +65,22 @@
 | voordeelmuis.nl | ascii | ascii |
 | voresvilla.dk | ascii | ascii |
 | vorkers.com | ascii | ascii |
+| vozz.vn | ascii | ascii |
 | vprok.ru | ascii | ascii |
 | vreme.us | UTF-8-SIG | utf_8_sig |
+| vremeanoua.ro | ascii | ascii |
 | vrisko.gr | ascii | ascii |
 | vsestoritve.com | utf-8 | utf_8 |
+| vsikatalogi.si | ascii | ascii |
 | vsu.ru | utf-8 | utf_8 |
 | vtm.be | ascii | ascii |
+| vtudien.com | ascii | ascii |
 | vukuzenzele.gov.za | ascii | ascii |
 | w3.ee | utf-8 | utf_8 |
 | w3schools.com | ascii | ascii |
 | wa.gov | utf-8 | utf_8 |
-| wahawada2ef.com | ascii | ascii |
 | walmart.com.mx | ascii | ascii |
+| wanhasatama.fi | ascii | ascii |
 | washington.edu | utf-8 | utf_8 |
 | waszaedukacja.pl | utf-8 | utf_8 |
 | watsons.co.id | ascii | ascii |
@@ -89,6 +95,8 @@
 | webindia123.com | ascii | ascii |
 | webmanagercenter.com | utf-8 | utf_8 |
 | webmotors.com.br | utf-8 | utf_8 |
+| webyempresas.com | ascii | ascii |
+| weekendnotes.com | ascii | ascii |
 | weimar-citroen.de | ascii | ascii |
 | welke.nl | ascii | ascii |
 | well.ca | ascii | ascii |

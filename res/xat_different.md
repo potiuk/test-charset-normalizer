@@ -8,13 +8,13 @@
 | monsterboard.nl | utf-8 | None |
 | montevideo.gub.uy | ISO-8859-1 | utf_8 |
 | mos.gov.pl | utf-8 | None |
-| mothership.sg | ISO-8859-1 | utf_8 |
 | motoclub-tingavert.it | ISO-8859-1 | cp1252 |
 | motorgiga.com | Windows-1252 | cp1252 |
 | mototriti.gr | ISO-8859-7 | cp1253 |
+| municipiosefreguesias.pt | ISO-8859-1 | cp1252 |
 | myfanbase.de | ISO-8859-1 | cp1250 |
 | najdislevu.cz | Windows-1252 | cp1250 |
 | najnakup.sk | None | utf-8 |
 | nasa.gov | ISO-8859-1 | utf_8 |
-| naturabuy.fr | Windows-1252 | iso8859_15 |
+| naturabuy.fr | Windows-1252 | iso8859_14 |
 | naturopedia.com | windows-1255 | cp1255 |

@@ -1,3 +1,4 @@
+| consultasec.com | ascii | ascii |
 | contact.bg | ascii | ascii |
 | contrataciondelestado.es | ascii | ascii |
 | coocan.jp | utf-8 | utf_8 |
@@ -11,13 +12,14 @@
 | cornell.edu | utf-8 | utf_8 |
 | correiobraziliense.com.br | utf-8 | utf_8 |
 | corren.se | utf-8 | utf_8 |
+| correodelorinoco.gob.ve | ascii | ascii |
+| correycompra.es | ascii | ascii |
 | cosmopolitan.bg | utf-8 | utf_8 |
 | costco.ca | ascii | ascii |
 | costco.co.uk | ascii | ascii |
 | costco.com | ascii | ascii |
 | costco.com.au | ascii | ascii |
 | costco.com.mx | ascii | ascii |
-| costruzioniab.it | utf-8 | utf_8 |
 | courant.com | ascii | ascii |
 | coursehero.com | ascii | ascii |
 | coursera.org | utf-8 | utf_8 |
@@ -29,7 +31,7 @@
 | credit-agricole.fr | utf-8 | utf_8 |
 | cretangastronomy.gr | ascii | ascii |
 | cronacadiviaggio.it | ascii | ascii |
-| cronachemaceratesi.it | ascii | ascii |
+| cronachemaceratesi.it | utf-8 | utf_8 |
 | cropp.com | utf-8 | utf_8 |
 | crunchbase.com | ascii | ascii |
 | crunchit.co.il | ascii | ascii |
@@ -38,7 +40,6 @@
 | csob.cz | utf-8 | utf_8 |
 | csob.sk | ascii | ascii |
 | cuidadospelavida.com.br | utf-8 | utf_8 |
-| culturacolectiva.com | utf-8 | utf_8 |
 | cuponofesh.co.il | utf-8 | utf_8 |
 | cute1.cc | utf-8 | utf_8 |
 | cw.no | utf-8 | utf_8 |
@@ -46,6 +47,7 @@
 | czechcrunch.cz | utf-8 | utf_8 |
 | d-k.lv | utf-8 | utf_8 |
 | dafatiri.com | ascii | ascii |
+| dagda.lv | ascii | ascii |
 | dagens.dk | ascii | ascii |
 | daihatsu.co.id | ascii | ascii |
 | daily.co.jp | utf-8 | utf_8 |
@@ -53,15 +55,16 @@
 | dailyrecord.co.uk | ascii | ascii |
 | dailystar.co.uk | ascii | ascii |
 | dailysun.co.za | utf-8 | utf_8 |
+| dalil140.com | ascii | ascii |
 | dalili.com.eg | ascii | ascii |
 | dalilmadina.com | ascii | ascii |
 | dama.bg | utf-8 | utf_8 |
 | damejidlo.cz | ascii | ascii |
+| damro.lk | ascii | ascii |
 | danang.gov.vn | ascii | ascii |
 | danannoncer.com | ascii | ascii |
 | danilomastroddi.it | ascii | ascii |
 | danmurphys.com.au | ascii | ascii |
-| dar-alifta.org | UTF-8-SIG | utf_8_sig |
 | daserste.de | utf-8 | utf_8 |
 | datacomp.sk | utf-8 | utf_8 |
 | davidjones.com | ascii | ascii |

@@ -1,4 +1,3 @@
-| harakahdaily.net | ISO-8859-1 | utf_8 |
 | hardware.fr | Windows-1252 | iso8859_15 |
 | hastane.com.tr | Windows-1252 | iso8859_9 |
 | healthgrades.com | None | utf-8 |
@@ -13,8 +12,10 @@
 | hokkoku.co.jp | None | utf-8 |
 | holmes.bg | windows-1251 | cp1251 |
 | homes.com | ISO-8859-1 | utf_8 |
+| hondoscenter.com | None | utf-8 |
 | hospitaldaluz.pt | utf-8 | None |
 | hotel4u.co.il | windows-1255 | cp1255 |
 | hotelsline.com | ascii | None |
 | hotelsline.gr | ISO-8859-7 | iso8859_7 |
 | hotstar.com | Windows-1252 | utf_8 |
+| huramobil.cz | Windows-1254 | cp1250 |

@@ -4,12 +4,13 @@
 | vivo.com.br | utf-8 | None |
 | vivre.ro | ISO-8859-1 | utf_8 |
 | votpusk.ru | windows-1251 | cp1251 |
-| vovve.net | Windows-1252 | iso8859_13 |
+| vovve.net | Windows-1252 | iso8859_14 |
 | voyageforum.com | ISO-8859-1 | cp1252 |
 | vroom.be | None | utf-8 |
 | vrum.com.br | ISO-8859-1 | cp1252 |
 | vsetkyfirmy.sk | Windows-1254 | cp1250 |
 | vudu.com | None | utf-8 |
+| wanderungen.ch | utf-8 | None |
 | weekendhobby.com | TIS-620 | iso8859_11 |
 | wegointer.com | Windows-1254 | utf_8 |
 | weltbild.at | utf-8 | None |

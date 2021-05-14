@@ -11,6 +11,7 @@
 | seret.co.il | windows-1255 | cp1255 |
 | serienjunkies.de | utf-8 | None |
 | serveriai.lt | ISO-8859-1 | cp1257 |
+| servina.net | windows-1251 | cp1251 |
 | sevenspeed.it | Windows-1254 | utf_8 |
 | shutterfly.com | ISO-8859-1 | utf_8 |
 | siamdara.com | None | utf-8 |

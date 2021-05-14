@@ -1,3 +1,4 @@
+| kecsup.hu | ascii | ascii |
 | keio.ac.jp | utf-8 | utf_8 |
 | kemdikbud.go.id | ascii | ascii |
 | kemenkumham.go.id | ascii | ascii |
@@ -16,6 +17,7 @@
 | kinderland.co.il | ascii | ascii |
 | kingsoopers.com | ascii | ascii |
 | kinhtedothi.vn | utf-8 | utf_8 |
+| kinoraksti.lv | ascii | ascii |
 | kinuskikissa.fi | utf-8 | utf_8 |
 | kir.hu | UTF-8-SIG | utf_8_sig |
 | kiskatravel.sk | utf-8 | utf_8 |
@@ -33,6 +35,7 @@
 | knorr.com | ascii | ascii |
 | kodin1.com | ascii | ascii |
 | kodomono-ie.jp | utf-8 | utf_8 |
+| kodukokad.ee | ascii | ascii |
 | koknese.lv | utf-8 | utf_8 |
 | kokuchpro.com | ascii | ascii |
 | komo.co.il | utf-8 | utf_8 |
@@ -62,6 +65,7 @@
 | krymr.com | ascii | ascii |
 | ksou.cn | utf-8 | utf_8 |
 | ksu.edu.sa | ascii | ascii |
+| kthn.edu.vn | ascii | ascii |
 | ktu.edu.tr | ascii | ascii |
 | kultura.bg | utf-8 | utf_8 |
 | kultuurikava.ee | ascii | ascii |
@@ -70,8 +74,11 @@
 | kununu.com | ascii | ascii |
 | kuriren.nu | utf-8 | utf_8 |
 | kursunkalem.com | utf-8 | utf_8 |
+| kurzeme.lv | ascii | ascii |
 | kuwait.tt | ascii | ascii |
+| kvishim.co.il | ascii | ascii |
 | l24.lt | utf-8 | utf_8 |
+| la-epoca.com.bo | ascii | ascii |
 | lacapitalmdp.com | utf-8 | utf_8 |
 | lacasucciadiassisi.it | ascii | ascii |
 | lacoccinellaffittacamere.it | ascii | ascii |

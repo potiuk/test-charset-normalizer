@@ -32,7 +32,7 @@ uludag.edu.tr,UTF-8,utf-8,utf_8
 uludagsozluk.com,UTF-8,utf-8,utf_8
 ulusal.com.tr,utf-8,utf-8,utf_8
 ulusofona.pt,UTF-8,utf-8,utf_8
-ulvr.edu.ec,UTF-8,utf-8,utf_8
+ulvr.edu.ec,,ascii,ascii
 um-palembang.ac.id,UTF-8,utf-8,utf_8
 um.ac.id,UTF-8,ascii,ascii
 um.dk,utf-8,utf-8,
@@ -41,6 +41,7 @@ um.edu.uy,UTF-8,utf-8,utf_8
 um.es,UTF-8,utf-8,utf_8
 um.fi,UTF-8,utf-8,utf_8
 um.si,utf-8,utf-8,utf_8
+uma.ac.id,,ascii,ascii
 uma.pt,UTF-8,utf-8,utf_8
 umami.ee,UTF-8,utf-8,utf_8
 umami.fi,UTF-8,utf-8,utf_8
@@ -61,8 +62,9 @@ umich.edu,utf-8,Windows-1254,utf_8
 umig.it,UTF-8,ascii,ascii
 umin.ac.jp,,utf-8,utf_8
 umitcelik.net,UTF-8,utf-8,utf_8
-umj.ac.id,UTF-8,utf-8,utf_8
+umj.ac.id,,ascii,ascii
 umj.com.ua,UTF-8,utf-8,utf_8
+umk.ac.id,utf-8,utf-8,utf_8
 umk.pl,,utf-8,utf_8
 umma.id,utf-8,ascii,ascii
 umn.edu,UTF-8,utf-8,utf_8
@@ -80,6 +82,7 @@ umu.se,utf-8,utf-8,utf_8
 umy.ac.id,UTF-8,utf-8,utf_8
 un.org,UTF-8,utf-8,utf_8
 una.ac.cr,,,utf-8
+una.edu.ni,utf-8,utf-8,utf_8
 unab.cl,UTF-8,utf-8,utf_8
 unab.edu.co,utf-8,utf-8,utf_8
 unacademy.com,utf-8,utf-8,utf_8
@@ -108,18 +111,18 @@ undelucram.ro,UTF-8,utf-8,utf_8
 undertheradar.co.nz,UTF-8,utf-8,iso8859_9
 undiksha.ac.id,iso-8859-1,ascii,ascii
 undp.org,UTF-8,utf-8,utf_8
-undubzapp.com,UTF-8,utf-8,utf_8
+undubzapp.com,UTF-8,utf-8,
+uned.ac.cr,UTF-8,utf-8,utf_8
 unej.ac.id,UTF-8,utf-8,utf_8
 unejemplosencillo.blogspot.com,UTF-8,utf-8,utf_8
 unemat.br,ISO-8859-1,Windows-1252,iso8859_9
 unep.org,UTF-8,ascii,ascii
 uner.edu.ar,,utf-8,utf_8
 unesa.ac.id,,utf-8,utf_8
-unesc.net,,Windows-1252,iso8859_15
+unesc.net,,Windows-1252,iso8859_14
 unesco.org,utf-8,utf-8,utf_8
 unesp.br,UTF-8,utf-8,utf_8
 unext.jp,utf-8,utf-8,utf_8
-ung.ac.id,,ascii,ascii
 ung.no,UTF-8,utf-8,utf_8
 ung.si,utf-8,utf-8,utf_8
 ungrandmarche.fr,UTF-8,Windows-1254,utf_8
@@ -161,7 +164,7 @@ uniandes.edu.ec,UTF-8,utf-8,utf_8
 uniarea.com,UTF-8,utf-8,utf_8
 unib.ac.id,UTF-8,utf-8,utf_8
 uniba.it,utf-8,utf-8,utf_8
-uniba.sk,utf-8,utf-8,utf_8
+uniba.sk,UTF-8,utf-8,utf_8
 unibas.ch,UTF-8,utf-8,utf_8
 unibe.ch,utf-8,utf-8,utf_8
 unibl.org,utf-8,utf-8,utf_8
@@ -171,7 +174,7 @@ unic.ac.cy,,ascii,ascii
 unica.it,UTF-8,utf-8,utf_8
 unica.ro,UTF-8,utf-8,utf_8
 unica.vn,UTF-8,utf-8,utf_8
-unicartagena.edu.co,utf-8,utf-8,utf_8
+unicartagena.edu.co,iso-8859-1,ascii,ascii
 unicatt.it,UTF-8,utf-8,utf_8
 unicauca.edu.co,,utf-8,utf_8
 unicef.org,UTF-8,utf-8,utf_8
@@ -187,7 +190,6 @@ unict.it,utf-8,utf-8,utf_8
 unicusano.it,utf-8,utf-8,utf_8
 unidadvictimas.gov.co,,utf-8,
 unideb.hu,utf-8,utf-8,utf_8
-unidivers.fr,UTF-8,utf-8,utf_8
 unidiversidad.com.ar,UTF-8,utf-8,utf_8
 unieuro.it,UTF-8,utf-8,utf_8
 unife.it,utf-8,utf-8,utf_8
@@ -200,10 +202,9 @@ unihobby.cz,UTF-8,utf-8,utf_8
 uniindia.com,utf-8,utf-8,
 unijui.edu.br,utf-8,utf-8,utf_8
 unika.ac.id,UTF-8,ascii,ascii
-unikom.ac.id,UTF-8,utf-8,utf_8
 unikum.net,,ascii,ascii
 unil.ch,utf-8,ascii,ascii
-unila.ac.id,,utf-8,utf_8
+unila.ac.id,,ascii,ascii
 unilabs.sk,utf-8,utf-8,utf_8
 unileon.es,UTF-8,utf-8,utf_8
 unilibre.edu.co,,ascii,
@@ -226,7 +227,7 @@ unionpedia.org,UTF-8,utf-8,utf_8
 uniovi.es,UTF-8,utf-8,utf_8
 unipa.it,UTF-8,utf-8,utf_8
 unipampa.edu.br,utf-8,utf-8,utf_8
-unipatika.hu,,ISO-8859-1,cp850
+unipatika.hu,,ISO-8859-1,cp1252
 unipd.it,utf-8,utf-8,utf_8
 unipg.it,iso-8859-1,ascii,ascii
 unipi.gr,UTF-8,ascii,ascii
@@ -236,10 +237,11 @@ unipr.it,utf-8,utf-8,utf_8
 unipu.hr,utf-8,utf-8,utf_8
 unipv.it,UTF-8,Windows-1254,ptcp154
 unir.net,UTF-8,utf-8,utf_8
-unirehberi.com,,utf-8,utf_8
+unirehberi.com,,ascii,ascii
 uniri.hr,UTF-8,utf-8,utf_8
 uniroma1.it,iso-8859-1,ascii,ascii
-unisa.edu.au,utf-8,utf-8,utf_8
+unis.edu.gt,UTF-8,utf-8,utf_8
+unisa.edu.au,utf-8,ascii,ascii
 unisabana.edu.co,utf-8,utf-8,utf_8
 unisalento.it,,ascii,ascii
 unisc.br,utf-8,utf-8,utf_8
@@ -261,6 +263,7 @@ unitn.it,utf-8,utf-8,utf_8
 units.it,,ascii,ascii
 univ-lorraine.fr,UTF-8,utf-8,utf_8
 univ-lyon1.fr,UTF-8,utf-8,utf_8
+univ-oran1.dz,utf-8,utf-8,utf_8
 univ.kiev.ua,utf-8,utf-8,utf_8
 univali.br,,utf-8,utf_8
 univates.br,iso-8859-1,Windows-1252,iso8859_15
@@ -277,10 +280,10 @@ universia.pt,utf-8,utf-8,utf_8
 universidad.edu.uy,utf-8,ascii,ascii
 universidades.cr,utf-8,utf-8,utf_8
 universidadescr.com,utf-8,utf-8,utf_8
-universidadviu.com,UTF-8,utf-8,utf_8
 universitas.no,utf-8,utf-8,utf_8
 universitego.com,UTF-8,utf-8,utf_8
 universities-colleges.org.il,,windows-1255,cp1255
+universityresidences.it,utf-8,utf-8,utf_8
 universobinario.com,utf-8,utf-8,utf_8
 universoformulas.com,UTF-8,utf-8,utf_8
 univeyes.com,,ascii,ascii
@@ -292,6 +295,7 @@ unizar.es,utf-8,utf-8,utf_8
 unizdrav.sk,utf-8,utf-8,utf_8
 unizg.hr,utf-8,utf-8,utf_8
 unizo.be,utf-8,utf-8,utf_8
+unja.ac.id,,ascii,ascii
 unl.edu,utf-8,utf-8,utf_8
 unl.edu.ar,UTF-8,utf-8,utf_8
 unlimit-tech.com,UTF-8,utf-8,utf_8
@@ -313,6 +317,7 @@ unotv.com,,utf-8,utf_8
 unpad.ac.id,UTF-8,Windows-1252,utf_8
 unpak.ac.id,utf-8,utf-8,utf_8
 unpam.ac.id,UTF-8,utf-8,utf_8
+unpar.ac.id,,ascii,ascii
 unpas.ac.id,UTF-8,utf-8,utf_8
 unprofesor.com,UTF-8,utf-8,utf_8
 unq.edu.ar,ISO-8859-1,Windows-1252,iso8859_9
@@ -327,7 +332,7 @@ unsa.ba,UTF-8,utf-8,utf_8
 unsam.edu.ar,,utf-8,utf_8
 unsignedhype.nl,utf-8,ascii,ascii
 unsoed.ac.id,UTF-8,ISO-8859-1,utf_8
-unsplash.com,utf-8,Windows-1254,cp1256
+unsplash.com,utf-8,Windows-1254,utf_8
 unsri.ac.id,UTF-8,utf-8,utf_8
 unsw.edu.au,utf-8,utf-8,utf_8
 unsyiah.ac.id,utf-8,utf-8,utf_8
@@ -337,6 +342,7 @@ untag-sby.ac.id,UTF-8,utf-8,utf_8
 untan.ac.id,UTF-8,utf-8,utf_8
 untappd.com,UTF-8,ascii,ascii
 unternehmen24.info,,ascii,ascii
+untirta.ac.id,UTF-8,utf-8,utf_8
 unud.ac.id,,ascii,ascii
 unugha.ac.id,UTF-8,ascii,ascii
 unwe.bg,utf-8,utf-8,utf_8
@@ -350,7 +356,7 @@ uofa.ru,utf-8,utf-8,utf_8
 uofmhealth.org,utf-8,utf-8,utf_8
 uoguelph.ca,UTF-8,utf-8,utf_8
 uoi.gr,UTF-8,utf-8,utf_8
-uokik.gov.pl,,Windows-1252,iso8859_2
+uokik.gov.pl,,ascii,ascii
 uol.com.br,UTF-8,utf-8,utf_8
 uom.gr,UTF-8,utf-8,utf_8
 uonbi.ac.ke,utf-8,utf-8,utf_8
@@ -384,6 +390,7 @@ uporabnastran.si,,ascii,ascii
 uppladdning.nu,utf-8,utf-8,utf_8
 uppsala.se,utf-8,utf-8,utf_8
 uppsatser.se,,utf-8,utf_8
+upr.si,,ascii,ascii
 upress.link,UTF-8,ascii,ascii
 ups.edu.ec,UTF-8,utf-8,utf_8
 upt.ro,UTF-8,utf-8,utf_8
@@ -394,7 +401,6 @@ upwork.com,,ascii,ascii
 uqam.ca,UTF-8,Windows-1252,utf_8
 uqu.edu.sa,UTF-8,utf-8,utf_8
 ur.gov.lv,utf-8,utf-8,utf_8
-ura.gov.sg,utf-8,utf-8,utf_8
 ura.news,UTF-8,utf-8,utf_8
 uradi-sam.rs,utf-8,utf-8,utf_8
 uradni-list.si,utf-8,utf-8,utf_8
@@ -415,6 +421,7 @@ urbe.edu,,ISO-8859-1,cp1250
 urbia.de,UTF-8,utf-8,utf_8
 urboapp.com,UTF-8,utf-8,utf_8
 urdecision.info,UTF-8,,utf-8
+urdu.co,utf-8,utf-8,utf_8
 urduenglishdictionary.org,UTF-8,utf-8,utf_8
 urdupoint.com,utf-8,utf-8,utf_8
 urdushahkar.org,UTF-8,utf-8,utf_8
@@ -428,6 +435,7 @@ urlaubsguru.at,utf-8,utf-8,utf_8
 urlaubsguru.de,utf-8,utf-8,utf_8
 urlauburlaub.at,,utf-8,utf_8
 urlm.no,UTF-8,utf-8,utf_8
+urm.lt,UTF-8,utf-8,utf_8
 urmas.net,iso-8859-1,ascii,ascii
 urmokaina.lt,utf-8,utf-8,utf_8
 urodaizdrowie.pl,UTF-8,utf-8,utf_8
@@ -447,13 +455,14 @@ usadosbr.com,UTF-8,utf-8,utf_8
 usaid.gov,UTF-8,ascii,ascii
 usal.edu.ar,utf-8,utf-8,utf_8
 usal.es,utf-8,utf-8,utf_8
-usarestaurants.info,utf8,utf-8,utf_8
+usarestaurants.info,utf8,ascii,ascii
 usatoday.com,utf-8,utf-8,utf_8
 usc.edu,,utf-8,
 usc.edu.co,utf-8,utf-8,utf_8
 usceshoppingcenter.rs,UTF-8,utf-8,utf_8
 usd.ac.id,UTF-8,utf-8,utf_8
 usda.gov,,ascii,ascii
+usdwellhouse.com,iso-8859-1,ascii,ascii
 usedoor.jp,UTF-8,Windows-1254,mac_cyrillic
 usembassy.gov,,ascii,ascii
 useraudio.net,utf-8,utf-8,utf_8
@@ -467,13 +476,13 @@ usingenglish.com,UTF-8,ISO-8859-1,utf_8
 usiu.ac.ke,UTF-8,utf-8,utf_8
 usm.ac.id,UTF-8,ascii,ascii
 usm.cl,UTF-8,utf-8,utf_8
-usmagazine.com,UTF-8,Windows-1254,utf_8
+usmagazine.com,UTF-8,utf-8,utf_8
 usmf.md,UTF-8,utf-8,utf_8
 usmp.edu.pe,UTF-8,utf-8,utf_8
 usn.no,UTF-8,utf-8,utf_8
 usp.br,,ascii,ascii
 uspalz.com,UTF-8,utf-8,utf_8
-uspesnazena.com,UTF-8,Windows-1254,utf_8
+uspesnazena.com,UTF-8,utf-8,utf_8
 uspon.rs,UTF-8,utf-8,utf_8
 uss.cl,UTF-8,utf-8,utf_8
 usu.ac.id,utf-8,utf-8,utf_8
@@ -483,7 +492,6 @@ ut.ee,utf-8,utf-8,utf_8
 ut.no,utf-8,utf-8,utf_8
 uta-net.com,UTF-8,utf-8,utf_8
 uta.fi,UTF-8,utf-8,utf_8
-utad.pt,UTF-8,utf-8,utf_8
 utadeo.edu.co,utf-8,ascii,ascii
 utah.edu,UTF-8,utf-8,utf_8
 utamap.com,ISO-8859-1,ascii,ascii
@@ -491,7 +499,6 @@ utas.edu.au,utf-8,utf-8,utf_8
 utaten.com,UTF-8,utf-8,utf_8
 utazom.com,utf-8,utf-8,utf_8
 utazzitthon.hu,UTF-8,utf-8,utf_8
-utb.cz,UTF-8,utf-8,utf_8
 utb.edu.ec,utf-8,utf-8,utf_8
 utc.city,UTF-8,utf-8,utf_8
 utcakereso.hu,utf-8,utf-8,utf_8
@@ -514,9 +521,9 @@ uti.edu.ec,,ascii,ascii
 utisugo.hu,,Windows-1254,iso8859_9
 utkonos.ru,UTF-8,Windows-1254,utf_8
 utm.my,UTF-8,utf-8,utf_8
-utmachala.edu.ec,UTF-8,ascii,ascii
 utn.ac.cr,,ascii,ascii
 utn.edu.ar,utf-8,utf-8,utf_8
+utn.edu.ec,UTF-8,utf-8,utf_8
 utopia.de,UTF-8,Windows-1252,utf_8
 utoronto.ca,utf-8,utf-8,utf_8
 utp.edu.co,,utf-8,utf_8
@@ -543,7 +550,7 @@ uusisuomi.fi,,utf-8,utf_8
 uuskasutus.ee,UTF-8,utf-8,utf_8
 uusmaa.ee,UTF-8,utf-8,utf_8
 uutisvuoksi.fi,UTF-8,utf-8,utf_8
-uv.cl,iso-8859-1,Windows-1252,iso8859_10
+uv.cl,iso-8859-1,Windows-1252,iso8859_14
 uv.mx,,utf-8,utf_8
 uva.es,,utf-8,utf_8
 uva.nl,UTF-8,utf-8,utf_8
@@ -565,7 +572,7 @@ uwm.edu.pl,utf-8,utf-8,utf_8
 uwo.ca,,Windows-1252,utf_8
 uypress.net,,ascii,ascii
 uza.be,utf-8,utf-8,utf_8
-uzdarbis.lt,UTF-8,utf-8,utf_8
+uzdarbis.lt,UTF-8,Windows-1254,utf_8
 uzdevumi.lv,utf-8,utf-8,utf_8
 uzgent.be,us-ascii,ascii,ascii
 uzh.ch,UTF-8,utf-8,utf_8
@@ -573,7 +580,7 @@ uzis.cz,UTF-8,utf-8,utf_8
 uzit.co.il,,utf-8,utf_8
 uzladets.lv,,ascii,ascii
 uzleuven.be,UTF-8,utf-8,utf_8
-uzmandoktor.net,utf-8,utf-8,utf_8
+uzmandoktor.net,utf-8,utf-8,
 uzmantv.com,UTF-8,utf-8,utf_8
 uznayvse.ru,UTF-8,utf-8,utf_8
 uzone.id,UTF-8,utf-8,utf_8
@@ -601,11 +608,11 @@ vahankaytetty.fi,UTF-8,utf-8,utf_8
 vaikams.lt,UTF-8,utf-8,utf_8
 vaikodiena.lt,UTF-8,utf-8,utf_8
 vaikuligonine.lt,UTF-8,utf-8,utf_8
-vaikuttajamedia.fi,UTF-8,Windows-1254,utf_8
+vaikuttajamedia.fi,UTF-8,utf-8,utf_8
 vainu.io,UTF-8,utf-8,utf_8
 vaistai.lt,utf-8,UTF-8-SIG,utf_8_sig
 vaivaton.com,UTF-8,utf-8,utf_8
-vakanser.se,iso-8859-1,ISO-8859-1,cp1252
+vakanser.se,iso-8859-1,ISO-8859-1,cp775
 vakantiediscounter.nl,,utf-8,utf_8
 vakifbank.com.tr,,utf-8,utf_8
 valais.ch,UTF-8,utf-8,utf_8
@@ -632,7 +639,7 @@ valtioneuvosto.fi,utf-8,utf-8,utf_8
 value-press.com,utf-8,utf-8,utf_8
 valuechampion.sg,utf-8,utf-8,utf_8
 valueforest.co.za,UTF-8,ascii,ascii
-vanaraamat.ee,UTF-8,utf-8,utf_8
+vanaraamat.ee,UTF-8,Windows-1252,iso8859_9
 vancouverisawesome.com,utf-8,utf-8,utf_8
 vancouversun.com,utf-8,utf-8,utf_8
 vandale.nl,utf-8,utf-8,utf_8
@@ -661,14 +668,13 @@ varazdinske-vijesti.hr,utf-8,utf-8,utf_8
 varcevanje-energije.si,utf-8,utf-8,utf_8
 varden.no,UTF-8,utf-8,utf_8
 varden.se,utf-8,utf-8,utf_8
-vardfokus.se,UTF-8,utf-8,utf_8
+vardfokus.se,,ascii,ascii
 vardgivarguiden.se,utf-8,utf-8,utf_8
 vardhandboken.se,utf-8,utf-8,utf_8
 vardnica.lv,UTF-8,utf-8,utf_8
 varena.lt,UTF-8,utf-8,utf_8
 vareni.cz,utf-8,utf-8,utf_8
 varenie.sk,UTF-8,utf-8,utf_8
-varesenews.it,UTF-8,utf-8,utf_8
 variety.com,UTF-8,utf-8,utf_8
 varimeschuti.cz,UTF-8,utf-8,utf_8
 varle.lt,utf-8,utf-8,utf_8
@@ -748,6 +754,7 @@ vegis.ro,utf-8,utf-8,utf_8
 vegrecipesofindia.com,UTF-8,utf-8,utf_8
 vegroove.com,utf-8,ascii,big5
 vegvesen.no,utf-8,utf-8,utf_8
+veidas.lt,UTF-8,utf-8,utf_8
 veientilhelse.no,utf-8,utf-8,utf_8
 veikalsdarzam.lv,utf-8,utf-8,utf_8
 veikkaus.fi,,utf-8,utf_8
@@ -803,7 +810,6 @@ verfilmeshd.gratis,UTF-8,utf-8,utf_8
 vergelijk.be,utf-8,utf-8,utf_8
 vergelijk.nl,utf-8,utf-8,utf_8
 vergleich.org,utf-8,utf-8,utf_8
-verif.com,ISO-8859-1,ISO-8859-1,cp1252
 verivox.de,utf-8,utf-8,utf_8
 verkkokauppa.com,utf-8,utf-8,utf_8
 verkkosivuapteekki.fi,utf-8,utf-8,utf_8
@@ -849,7 +855,7 @@ veterinarylabsupply.com,iso-8859-1,ascii,ascii
 vetogate.com,utf-8,utf-8,utf_8
 vetrinamotori.it,utf-8,utf-8,utf_8
 vets.co.il,utf-8,utf-8,utf_8
-vexio.ro,utf-8,ascii,ascii
+vexio.ro,utf-8,utf-8,utf_8
 vezeeta.com,UTF-8,ascii,ascii
 vezess.hu,UTF-8,utf-8,utf_8
 vezionline.net,UTF-8,Windows-1254,iso8859_15

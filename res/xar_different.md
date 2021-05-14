@@ -6,13 +6,12 @@
 | madlan.co.il | utf-8 | None |
 | mag.go.cr | ISO-8859-1 | cp1250 |
 | makaan.com | Windows-1252 | utf_8 |
-| maksavit.ru | utf-8 | None |
-| maldonado.gub.uy | Windows-1252 | iso8859_15 |
+| maldonado.gub.uy | ISO-8859-1 | cp1252 |
 | mansioningles.com | ISO-8859-1 | cp1252 |
 | manual-user-guide.com | ISO-8859-1 | cp1250 |
 | mapaobchodu.cz | utf-8 | None |
 | mapstr.com | Windows-1252 | utf_8 |
 | mathem.se | EUC-KR | cp1250 |
 | mathsisfun.com | ISO-8859-1 | utf_8 |
-| mdzol.com | ISO-8859-1 | cp1252 |
+| mdzol.com | Windows-1252 | iso8859_15 |
 | medellin.gov.co | ascii | None |

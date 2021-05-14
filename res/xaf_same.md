@@ -2,7 +2,6 @@
 | catholic.net | utf-8 | utf_8 |
 | cca.org.mx | ascii | ascii |
 | ccea.org.uy | ascii | ascii |
-| cctv.com | utf-8 | utf_8 |
 | cdc.gov | utf-8 | utf_8 |
 | cdiscount.com | utf-8 | utf_8 |
 | cdr.cz | utf-8 | utf_8 |
@@ -24,7 +23,7 @@
 | cgasofa.it | ascii | ascii |
 | cgtn.com | utf-8 | utf_8 |
 | chabad.info | ascii | ascii |
-| checkmate-cbd.it | utf-8 | utf_8 |
+| channelnewsasia.com | ascii | ascii |
 | checkmypostcode.uk | ascii | ascii |
 | chef-lavan.co.il | ascii | ascii |
 | chegg.com | ascii | ascii |
@@ -60,6 +59,7 @@
 | claro.cr | ascii | ascii |
 | classes.ru | ascii | ascii |
 | classroom69.cl | ascii | ascii |
+| clearnotebooks.com | ascii | ascii |
 | cleartrip.ae | utf-8 | utf_8 |
 | cleartrip.com | utf-8 | utf_8 |
 | clickatlife.gr | UTF-8-SIG | utf_8_sig |
@@ -90,6 +90,7 @@
 | computrabajo.com.mx | UTF-8-SIG | utf_8_sig |
 | computrabajo.com.uy | UTF-8-SIG | utf_8_sig |
 | comunagencia.es | ascii | ascii |
+| comunicatorbg.com | utf-8 | utf_8 |
 | comuniecitta.it | utf-8 | utf_8 |
 | conare.ac.cr | ascii | ascii |
 | conceito.de | ascii | ascii |

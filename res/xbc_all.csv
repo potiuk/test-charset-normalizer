@@ -2,7 +2,7 @@ tellitoit.ee,UTF-8,utf-8,utf_8
 tellows.de,UTF-8,utf-8,utf_8
 telnavi.jp,UTF-8,utf-8,utf_8
 telquel.ma,UTF-8,utf-8,utf_8
-telset.id,UTF-8,ascii,ascii
+telset.id,UTF-8,ISO-8859-1,utf_8
 telsiusuaugusiuju.lt,UTF-8,utf-8,utf_8
 telstra.com.au,utf-8,utf-8,utf_8
 telsu.fi,utf-8,utf-8,utf_8
@@ -14,7 +14,7 @@ temax.bg,utf-8,utf-8,utf_8
 template.net,,utf-8,
 templatemonster.com,UTF-8,utf-8,utf_8
 templeandwebster.com.au,UTF-8,utf-8,utf_8
-tempo.co,UTF-8,utf-8,utf_8
+tempo.co,UTF-8,ascii,ascii
 tempo.com,UTF-8,utf-8,utf_8
 tempo.pt,UTF-8,utf-8,utf_8
 tempo24.news,utf-8,utf-8,utf_8
@@ -24,9 +24,10 @@ tendaatacado.com.br,utf-8,utf-8,utf_8
 tendanceouest.com,UTF-8,utf-8,utf_8
 tendapiusnc.it,,ascii,ascii
 tenderarena.cz,,ascii,ascii
-tenderbulletins.co.za,UTF-8,utf-8,utf_8
+tenderbulletins.co.za,,ascii,ascii
 tenderi.hr,UTF-8,utf-8,utf_8
 tenders.go.ke,UTF-8,ascii,ascii
+tenfield.com.uy,UTF-8,utf-8,iso8859_15
 tenhomaisdiscosqueamigos.com,UTF-8,utf-8,utf_8
 tenki.jp,UTF-8,utf-8,utf_8
 tenor.com,utf-8,utf-8,utf_8
@@ -39,7 +40,7 @@ teratail.com,UTF-8,utf-8,utf_8
 teraz-otwarte.pl,utf-8,utf-8,utf_8
 teraz.sk,utf-8,utf-8,utf_8
 tercihiniyap.net,UTF-8,utf-8,utf_8
-terkini.id,UTF-8,ascii,ascii
+terkini.id,,ascii,ascii
 termalfurdo.hu,UTF-8,utf-8,utf_8
 termania.net,utf-8,utf-8,utf_8
 termedia.pl,,utf-8,utf_8
@@ -131,16 +132,15 @@ tgcom24.it,utf-8,utf-8,utf_8
 tgrthaber.com.tr,UTF-8,utf-8,utf_8
 tgspot.co.il,UTF-8,ascii,ascii
 tgy-magazin.hu,,ascii,ascii
-thai-novel.com,UTF-8,Windows-1254,
+thai-novel.com,UTF-8,Windows-1254,ptcp154
 thai-tour.com,,utf-8,utf_8
 thai.ac,iso-8859-1,ascii,ascii
 thai2english.com,utf-8,utf-8,utf_8
-thaibestcost.com,UTF-8,Windows-1254,utf_8
+thaibestcost.com,UTF-8,utf-8,utf_8
 thaibinh.gov.vn,iso-8859-1,ascii,ascii
 thaibizpost.com,utf-8,utf-8,utf_8
 thaibookfair.com,utf-8,utf-8,utf_8
 thaich8.com,UTF-8,utf-8,utf_8
-thaifranchisecenter.com,,utf-8,utf_8
 thaigarnish.com,UTF-8,utf-8,utf_8
 thaigoodprice.fun,UTF-8,utf-8,utf_8
 thaigoodview.com,utf-8,utf-8,utf_8
@@ -148,15 +148,15 @@ thaihitz.com,,ascii,ascii
 thaihometown.com,windows-874,TIS-620,iso8859_11
 thaijobsgov.com,,ascii,ascii
 thailandpost.co.th,UTF-8,ascii,ascii
-thailandpostmart.com,UTF-8,utf-8,utf_8
+thailandpostmart.com,UTF-8,utf-8,
 thailandsuperstar.com,UTF-8,Windows-1254,utf_8
-thailandtopvote.com,UTF-8,utf-8,utf_8
 thaimobilecenter.com,,TIS-620,iso8859_11
 thainarak.net,UTF-8,utf-8,utf_8
 thainguyen.gov.vn,UTF-8,utf-8,utf_8
 thainguyentv.vn,utf-8,utf-8,utf_8
 thaipbs.or.th,UTF-8,utf-8,utf_8
 thaipediatrics.org,UTF-8,utf-8,utf_8
+thaiphotos.net,UTF-8,Windows-1254,utf_8
 thaipng.com,utf-8,utf-8,utf_8
 thaipost.net,UTF-8,ascii,ascii
 thaipr.net,UTF-8,utf-8,utf_8
@@ -164,7 +164,6 @@ thaipricegood.com,UTF-8,Windows-1254,utf_8
 thaiproaz.com,UTF-8,utf-8,utf_8
 thaipublica.org,UTF-8,utf-8,utf_8
 thairath.co.th,utf-8,utf-8,utf_8
-thaischool.in.th,UTF-8,utf-8,utf_8
 thaischool1.in.th,,ascii,ascii
 thaisecondhand.com,UTF-8,utf-8,utf_8
 thaiseoboard.com,UTF-8,utf-8,utf_8
@@ -177,7 +176,7 @@ thaiticketmajor.com,,utf-8,utf_8
 thaitopic.net,UTF-8,utf-8,utf_8
 thaitvshow.com,UTF-8,utf-8,utf_8
 thaiware.com,UTF-8,utf-8,utf_8
-thaiwatsadu.com,utf-8,utf-8,cp852
+thaiwatsadu.com,utf-8,utf-8,
 thaiwhere.org,utf-8,utf-8,utf_8
 thalia.at,UTF-8,utf-8,utf_8
 thalia.de,UTF-8,utf-8,utf_8
@@ -200,7 +199,7 @@ thaythuocvietnam.vn,UTF-8,utf-8,utf_8
 the-crossword-solver.com,UTF-8,ascii,ascii
 the-health-site.com,,ascii,ascii
 the-numbers.com,,utf-8,iso8859_9
-the-riotact.com,,Windows-1254,utf_8
+the-riotact.com,,Windows-1254,cp1125
 the-star.co.ke,utf-8,utf-8,
 the-village.com.ua,utf-8,utf-8,utf_8
 the-village.ru,utf-8,utf-8,utf_8
@@ -215,6 +214,7 @@ theargus.co.uk,UTF-8,utf-8,utf_8
 theasianparent.com,,utf-8,utf_8
 theater.nl,utf-8,utf-8,utf_8
 theatlantic.com,utf-8,utf-8,utf_8
+theaustralian.com.au,UTF-8,utf-8,utf_8
 theb.lv,UTF-8,utf-8,utf_8
 thebalance.com,utf-8,utf-8,utf_8
 thebalancecareers.com,utf-8,Windows-1252,utf_8
@@ -265,7 +265,7 @@ thefork.nl,utf-8,ascii,ascii
 thefork.pt,utf-8,ascii,ascii
 thefork.se,utf-8,ascii,ascii
 thefreedictionary.com,utf-8,utf-8,cp1125
-thegardenshop.ie,UTF-8,ascii,
+thegardenshop.ie,UTF-8,ascii,ascii
 thegioidiadiem.com,UTF-8,utf-8,utf_8
 thegioididong.com,,ascii,ascii
 thegioidienanh.vn,utf-8,utf-8,utf_8
@@ -279,6 +279,7 @@ thehealthsite.com,UTF-8,utf-8,utf_8
 thehealthy.com,UTF-8,ascii,ascii
 thehindu.com,UTF-8,utf-8,utf_8
 thehindubusinessline.com,UTF-8,utf-8,utf_8
+thehoneycombers.com,UTF-8,utf-8,utf_8
 thehoneyscript.com,utf-8,ascii,big5
 thehouseofchronic.com,UTF-8,ascii,ascii
 theiconic.co.nz,utf-8,utf-8,utf_8
@@ -308,7 +309,6 @@ themedicaltips.com,UTF-8,ascii,ascii
 themeforest.net,utf-8,utf-8,utf_8
 themegrill.com,UTF-8,utf-8,utf_8
 themeisle.com,UTF-8,utf-8,utf_8
-themercury.com.au,UTF-8,utf-8,utf_8
 themobileindian.com,UTF-8,utf-8,utf_8
 themomentum.co,UTF-8,utf-8,utf_8
 themorning.lk,UTF-8,utf-8,utf_8
@@ -323,8 +323,6 @@ thenetizennews.com,UTF-8,utf-8,utf_8
 thenewdaily.com.au,,ascii,ascii
 thenewkhalij.news,UTF-8,utf-8,utf_8
 thenews.com.pk,UTF-8,utf-8,utf_8
-thenewslens.com,UTF-8,utf-8,utf_8
-thenewsminute.com,utf-8,utf-8,utf_8
 thenewspaper.gr,UTF-8,utf-8,utf_8
 thenextweb.com,UTF-8,utf-8,utf_8
 thenigerianvoice.com,,utf-8,utf_8
@@ -337,6 +335,7 @@ thepeople.co,UTF-8,utf-8,utf_8
 theperfectwedding.nl,UTF-8,utf-8,utf_8
 thepitchforkrevolution.com,utf-8,ascii,big5
 thepointsguy.com,UTF-8,utf-8,utf_8
+thepresentation.ru,utf-8,utf-8,utf_8
 thepressroom.gr,UTF-8,utf-8,utf_8
 theprint.in,,ascii,ascii
 thequint.com,utf-8,utf-8,utf_8
@@ -355,9 +354,10 @@ theses.cz,utf-8,utf-8,utf_8
 theses.fr,UTF-8,utf-8,utf_8
 theseus.fi,utf-8,utf-8,utf_8
 thesmartlocal.com,UTF-8,utf-8,utf_8
-thesmartstore.no,iso-8859-1,ascii,ascii
+thesmartstore.no,UTF-8,utf-8,utf_8
 thesouthafrican.com,UTF-8,utf-8,utf_8
 thesouvenirsmusic.com,utf-8,ascii,big5
+thespec.com,utf-8,utf-8,utf_8
 thespinoff.co.nz,UTF-8,utf-8,utf_8
 thesportsrush.com,UTF-8,utf-8,utf_8
 thespruce.com,utf-8,utf-8,utf_8
@@ -373,13 +373,13 @@ thestar.com.my,UTF-8,ISO-8859-1,utf_8
 thestatesman.com,UTF-8,utf-8,utf_8
 thestival.gr,UTF-8,ascii,ascii
 thestreet.com,utf-8,utf-8,utf_8
-thestudentroom.co.uk,UTF-8,utf-8,cp1125
+thestudentroom.co.uk,UTF-8,Windows-1252,cp1125
 thesundaily.my,,utf-8,utf_8
 thetab.com,utf-8,utf-8,utf_8
 thetaste.ie,UTF-8,utf-8,utf_8
 thetelegraphandargus.co.uk,UTF-8,utf-8,utf_8
 thethaiger.com,UTF-8,utf-8,utf_8
-thethaipress.com,UTF-8,utf-8,utf_8
+thethaipress.com,,ascii,ascii
 thethaovanhoa.vn,utf-8,utf-8,utf_8
 thetimes.co.uk,utf-8,utf-8,utf_8
 thetoc.gr,utf-8,utf-8,utf_8
@@ -392,7 +392,6 @@ theurdudictionary.com,,utf-8,utf_8
 theverge.com,utf-8,utf-8,utf_8
 thevocket.com,UTF-8,utf-8,utf_8
 thewall.in,UTF-8,utf-8,utf_8
-thewarehouse.co.nz,UTF-8,Windows-1252,utf_8
 theweathernetwork.com,UTF-8,utf-8,utf_8
 theweddingvowsg.com,,ascii,ascii
 theweek.co.uk,utf-8,utf-8,utf_8
@@ -403,14 +402,13 @@ thewilliamswoolshed.com.au,iso-8859-1,ascii,ascii
 thewindowsclub.com,UTF-8,utf-8,utf_8
 thewire.in,utf-8,utf-8,utf_8
 theworldnews.net,UTF-8,utf-8,utf_8
-thewrap.com,UTF-8,utf-8,utf_8
+thewrap.com,UTF-8,Windows-1252,utf_8
 thibaupsy.fr,utf-8,ascii,big5
 thieme-connect.com,UTF-8,utf-8,utf_8
 thieme-connect.de,UTF-8,utf-8,utf_8
 thieme.de,UTF-8,utf-8,utf_8
 thienmaonline.vn,UTF-8,utf-8,utf_8
 thinkofliving.com,utf-8,utf-8,utf_8
-thisdaylive.com,UTF-8,utf-8,utf_8
 thisisappstation.com,UTF-8,utf-8,utf_8
 thisisgamethailand.com,utf-8,utf-8,utf_8
 thisismoney.co.uk,UTF-8,utf-8,utf_8
@@ -484,6 +482,7 @@ tiendanimal.es,UTF-8,utf-8,utf_8
 tiendas.com,UTF-8,utf-8,utf_8
 tiendasjumbo.co,utf-8,utf-8,utf_8
 tiendasmetro.co,utf-8,utf-8,utf_8
+tiendauniversal.com,utf-8,utf-8,utf_8
 tiendeo.ae,utf-8,utf-8,utf_8
 tiendeo.at,utf-8,utf-8,utf_8
 tiendeo.be,utf-8,utf-8,utf_8
@@ -618,7 +617,6 @@ tipli.cz,utf-8,utf-8,utf_8
 tipli.sk,utf-8,utf-8,utf_8
 tipogruppress.ro,utf-8,ascii,big5
 tipomur.ro,utf-8,ascii,big5
-tips.at,UTF-8,utf-8,utf_8
 tipsbladet.dk,utf-8,utf-8,utf_8
 tipsfull.com,utf-8,utf-8,utf_8
 tipulpsychology.co.il,,ascii,ascii
@@ -656,7 +654,7 @@ tlum.ru,UTF-8,utf-8,utf_8
 tm.gov.lv,UTF-8,utf-8,utf_8
 tmbbank.com,,utf-8,utf_8
 tmd.go.th,tis-620,TIS-620,iso8859_11
-tmzmp3.xyz,utf-8,utf-8,utf_8
+tmzmp3.xyz,utf-8,Windows-1254,utf_8
 tn.com.ar,utf-8,utf-8,utf_8
 tn.gov,utf-8,utf-8,utf_8
 tn.gov.in,utf-8,utf-8,utf_8
@@ -665,6 +663,7 @@ tnews.co.th,UTF-8,utf-8,utf_8
 tnnthailand.com,,utf-8,utf_8
 tnp.sg,utf-8,utf-8,utf_8
 tnuva.co.il,UTF-8,utf-8,utf_8
+to10.gr,UTF-8,utf-8,utf_8
 toate-ofertele.ro,utf-8,utf-8,utf_8
 tobuy.jp,UTF-8,utf-8,utf_8
 tochinavi.net,UTF-8,utf-8,utf_8
@@ -696,13 +695,13 @@ todostuslibros.com,UTF-8,utf-8,utf_8
 tofarmakeiomou.gr,utf-8,utf-8,utf_8
 tofler.in,UTF-8,utf-8,utf_8
 toftiaxa.gr,UTF-8,Windows-1254,utf_8
-togetter.com,UTF-8,utf-8,utf_8
+togetter.com,UTF-8,Windows-1254,utf_8
 toidukas.ee,utf-8,utf-8,utf_8
 toidutare.ee,utf-8,utf-8,utf_8
 toinayangi.vn,UTF-8,utf-8,utf_8
 toitumine.ee,UTF-8,utf-8,utf_8
 tokendublin.ie,iso-8859-1,ascii,ascii
-tokfm.pl,ISO-8859-2,ISO-8859-1,cp1252
+tokfm.pl,ISO-8859-2,ISO-8859-1,hp_roman8
 tokheimservice.it,,ascii,ascii
 tokmanni.fi,UTF-8,utf-8,utf_8
 tokomesin.com,iso-8859-1,ascii,ascii
@@ -719,7 +718,9 @@ tomatazos.com,UTF-8,utf-8,utf_8
 tomaticket.es,UTF-8,utf-8,utf_8
 tomato.ua,,ascii,ascii
 tomi.digital,utf-8,utf-8,utf_8
+tomsguide.com,UTF-8,utf-8,utf_8
 tomsguide.fr,UTF-8,ascii,ascii
+tomshardware.com,UTF-8,utf-8,utf_8
 tomshardware.fr,UTF-8,ascii,ascii
 tomshw.it,UTF-8,utf-8,utf_8
 tomsk.ru,utf-8,Windows-1254,utf_8
@@ -750,7 +751,7 @@ topagrar.com,UTF-8,utf-8,utf_8
 topankovo.sk,UTF-8,ascii,ascii
 topautodalys.lt,UTF-8,ascii,ascii
 topbargains.com.au,utf-8,Windows-1254,utf_8
-topbestbrand.com,UTF-8,utf-8,utf_8
+topbestbrand.com,,ascii,ascii
 topchinasupplier.com,UTF-8,ascii,ascii
 topcv.vn,UTF-8,utf-8,utf_8
 topdoctors.es,UTF-8,utf-8,utf_8
@@ -797,7 +798,7 @@ topshop.si,UTF-8,utf-8,utf_8
 topsinhalamp3.com,UTF-8,ascii,ascii
 topspb.tv,utf-8,utf-8,utf_8
 topspeed.com,utf-8,utf-8,utf_8
-topspeed.sk,UTF-8,utf-8,utf_8
+topspeed.sk,UTF-8,ascii,ascii
 topsport.bg,UTF-8,utf-8,utf_8
 topspravy.sk,utf-8,utf-8,utf_8
 topsto-crimea.ru,utf-8,utf-8,utf_8
@@ -807,7 +808,7 @@ toptal.com,utf-8,utf-8,utf_8
 toptesti.it,ISO-8859-1,ISO-8859-1,cp1252
 topthuthuat.com,UTF-8,utf-8,utf_8
 topuniversities.com,UTF-8,utf-8,utf_8
-topvesti.bg,utf-8,utf-8,utf_8
+topvesti.bg,utf-8,Windows-1254,utf_8
 topvesti.rs,utf-8,utf-8,utf_8
 topz.vn,,ascii,ascii
 topzine.cz,UTF-8,utf-8,utf_8
@@ -863,7 +864,6 @@ touslesprix.com,utf-8,utf-8,utf_8
 tousvoisins.fr,UTF-8,utf-8,utf_8
 toute-la-franchise.com,UTF-8,utf-8,
 toutsurmesfinances.com,iso-8859-1,ascii,ascii
-tovima.gr,UTF-8,utf-8,utf_8
 tovtoda.co.il,windows-1255,windows-1255,cp1251
 towardsdatascience.com,utf-8,Windows-1254,utf_8
 tower.jp,utf-8,utf-8,utf_8
@@ -901,6 +901,7 @@ tr-ex.me,UTF-8,utf-8,utf_8
 tr.gg,utf-8,utf-8,iso8859_15
 traasgpu.com,UTF-8,utf-8,utf_8
 trabajando.cl,UTF-8,utf-8,utf_8
+trabajo.gob.ec,UTF-8,utf-8,utf_8
 trabajopolis.bo,utf-8,utf-8,utf_8
 trabalhabrasil.com.br,utf-8,Windows-1254,utf_8
 trabalhosfeitos.com,utf-8,utf-8,utf_8

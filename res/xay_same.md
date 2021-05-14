@@ -16,6 +16,7 @@
 | receptnajedlo.sk | utf-8 | utf_8 |
 | receptneked.hu | utf-8 | utf_8 |
 | recipe-blog.jp | utf-8 | utf_8 |
+| recruit.se | ascii | ascii |
 | redargentina.com.ar | utf-8 | utf_8 |
 | redfin.ca | ascii | ascii |
 | redfin.com | ascii | ascii |
@@ -26,7 +27,6 @@
 | referati.org | utf-8 | utf_8 |
 | regione.abruzzo.it | ascii | ascii |
 | regione.sardegna.it | utf-8 | utf_8 |
-| registeruz.sk | ascii | ascii |
 | regtorg.ru | ascii | ascii |
 | reklama.lv | utf-8 | utf_8 |
 | rema.no | ascii | ascii |
@@ -38,12 +38,14 @@
 | repec.org | ascii | ascii |
 | rescue.ee | utf-8 | utf_8 |
 | researchweb.org | ascii | ascii |
+| resepmasakanku.net | ascii | ascii |
 | reserved.com | utf-8 | utf_8 |
 | residenzak1.it | utf-8 | utf_8 |
 | ressourcen.dk | ascii | ascii |
 | restartme.it | ascii | ascii |
 | restaurangkartan.se | utf-8 | utf_8 |
 | restaurantbuffalo.dk | ascii | ascii |
+| restaurants.nl | utf-8 | utf_8 |
 | resultadosdigitais.com.br | ascii | ascii |
 | retsinformation.dk | ascii | ascii |
 | revenue.ie | ascii | ascii |
@@ -57,7 +59,9 @@
 | rgboutique.it | utf-8 | utf_8 |
 | riachuelo.com.br | ascii | ascii |
 | ricette100.it | utf-8 | utf_8 |
-| ridikul.hu | utf-8 | utf_8 |
+| rid.go.th | ascii | ascii |
+| rigla.ru | ascii | ascii |
+| riimc.lv | ascii | ascii |
 | ringaraja.net | utf-8 | utf_8 |
 | ringeraja.ba | utf-8 | utf_8 |
 | ringeraja.hr | utf-8 | utf_8 |
@@ -65,6 +69,7 @@
 | rinta-jouppi.com | utf-8 | utf_8 |
 | rionegro.gov.ar | utf-8 | utf_8 |
 | risorseimmobiliari.it | utf-8 | utf_8 |
+| ristorantedatonino.it | ascii | ascii |
 | ristorantefricandoagazzano.it | ascii | ascii |
 | riznicasrpska.net | ascii | ascii |
 | rmutsb.ac.th | utf-8 | utf_8 |
@@ -77,9 +82,11 @@
 | rodina.cz | ascii | ascii |
 | roede.com | utf-8 | utf_8 |
 | roksh.com | utf-8 | utf_8 |
+| roladin.co.il | ascii | ascii |
 | romstal.ro | ascii | ascii |
 | rosh-haayin.muni.il | ascii | ascii |
 | rossmann.pl | utf-8 | utf_8 |
+| rotise.gr | utf-8 | utf_8 |
 | rottentomatoes.com | ascii | ascii |
 | rotter.name | utf-8 | utf_8 |
 | rozhlas.cz | utf-8 | utf_8 |
@@ -101,8 +108,10 @@
 | ruparupa.com | ascii | ascii |
 | rutube.ru | ascii | ascii |
 | ruutu.fi | utf-8 | utf_8 |
+| rvt.lv | ascii | ascii |
 | rxlist.com | ascii | ascii |
 | sabah.com.tr | utf-8 | utf_8 |
+| saberviver.pt | ascii | ascii |
 | saborintenso.com | ascii | ascii |
 | saflii.org | ascii | ascii |
 | sahhawhana.com | utf-8 | utf_8 |

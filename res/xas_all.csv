@@ -60,6 +60,7 @@ medicinfo.nl,,ascii,
 medicitalia.it,UTF-8,utf-8,utf_8
 medico.co.il,UTF-8,utf-8,utf_8
 medicoresponde.com.br,UTF-8,utf-8,utf_8
+medicosdeelsalvador.com,,ISO-8859-1,cp1250
 medicover.hu,UTF-8,utf-8,utf_8
 medicover.pl,utf-8,utf-8,utf_8
 medicover.ro,utf-8,utf-8,utf_8
@@ -78,10 +79,12 @@ medimagazin.com.tr,UTF-8,utf-8,utf_8
 medimfarm.ro,utf-8,utf-8,utf_8
 medimops.de,UTF-8,ascii,ascii
 medindia.net,,Windows-1252,iso8859_9
+medinet.gov.vn,UTF-8,ascii,ascii
 medinfo.bg,UTF-8,utf-8,utf_8
 mediotejo.net,,ascii,ascii
 mediotiempo.com,UTF-8,utf-8,utf_8
 medipol.com.tr,utf-8,utf-8,utf_8
+medis.pt,utf-8,utf-8,utf_8
 medischcontact.nl,UTF-8,ascii,ascii
 medisite.fr,utf-8,utf-8,utf_8
 medistore.sk,UTF-8,utf-8,utf_8
@@ -94,7 +97,7 @@ medlabgr.blogspot.com,UTF-8,utf-8,utf_8
 medlatec.vn,utf-8,utf-8,utf_8
 medley.life,utf-8,utf-8,utf_8
 medlicker.com,utf-8,utf-8,utf_8
-medlife.ro,UTF-8,utf-8,utf_8
+medlife.ro,,ascii,ascii
 medlineplus.gov,,utf-8,utf_8
 medliv.se,UTF-8,utf-8,utf_8
 medme.pl,UTF-8,utf-8,utf_8
@@ -119,7 +122,7 @@ medvedkiigrace.si,UTF-8,utf-8,utf_8
 medyabar.com,UTF-8,utf-8,utf_8
 medyafaresi.com,UTF-8,utf-8,utf_8
 medyagazete.com,UTF-8,utf-8,utf_8
-medyaradar.com,UTF-8,utf-8,utf_8
+medyaradar.com,UTF-8,utf-8,iso8859_9
 medyascope.tv,UTF-8,utf-8,utf_8
 meemessasinhalasongs.com,iso-8859-1,ascii,ascii
 meemodel.com,UTF-8,utf-8,utf_8
@@ -146,8 +149,10 @@ megapesni.cc,utf-8,ascii,ascii
 megapixel.cz,utf-8,Windows-1254,utf_8
 megaport.hu,,utf-8,utf_8
 megapraca.pl,utf-8,utf-8,utf_8
+megashop.si,utf-8,utf-8,utf_8
 megasport.co.il,UTF-8,utf-8,utf_8
 megatone.net,utf-8,ascii,ascii
+megaturg.ee,UTF-8,utf-8,utf_8
 megatv.com,utf-8,utf-8,utf_8
 megaubytko.cz,utf-8,utf-8,utf_8
 megaubytovanie.sk,utf-8,utf-8,utf_8
@@ -179,7 +184,6 @@ mekanika.com.my,UTF-8,ascii,ascii
 mekomit.co.il,UTF-8,utf-8,utf_8
 mekonomen.no,utf-8,utf-8,utf_8
 mekonomen.se,utf-8,utf-8,utf_8
-mekshat.com,utf-8,utf-8,utf_8
 mel.fm,utf-8,utf-8,utf_8
 melabes.co.il,UTF-8,utf-8,utf_8
 melarossa.it,UTF-8,utf-8,utf_8
@@ -218,7 +222,6 @@ mendetails.com,,ascii,ascii
 mendoza.edu.ar,UTF-8,utf-8,utf_8
 mendozapost.com,,ISO-8859-1,cp1252
 meneame.net,utf-8,ascii,ascii
-menessaptieka.lv,UTF-8,utf-8,utf_8
 menicka.cz,windows-1250,Windows-1254,cp1250
 meniu.lt,UTF-8,utf-8,utf_8
 mensagenscomamor.com,UTF-8,utf-8,utf_8
@@ -251,7 +254,7 @@ meny.no,utf-8,utf-8,utf_8
 meo.pt,utf-8,utf-8,utf_8
 mephisto.com.tr,utf-8,utf-8,utf_8
 merahmaron.com,utf-8,ascii,big5
-merahputih.com,UTF-8,ascii,ascii
+merahputih.com,UTF-8,utf-8,utf_8
 merca2.es,UTF-8,utf-8,utf_8
 merca20.com,UTF-8,utf-8,utf_8
 mercadolibre.cl,utf-8,utf-8,utf_8
@@ -278,7 +281,7 @@ mercateo.com,UTF-8,ascii,ascii
 mercatinousato.com,utf-8,utf-8,
 mercator.si,utf-8,utf-8,utf_8
 merce.hu,UTF-8,utf-8,utf_8
-mercell.com,utf-8,utf-8,cp1125
+mercell.com,utf-8,utf-8,cp437
 merckmanuals.com,utf-8,utf-8,utf_8
 mercubuana-yogya.ac.id,,utf-8,utf_8
 mercubuana.ac.id,,ascii,ascii
@@ -290,18 +293,17 @@ merhavimsong.com,utf-8,ascii,big5
 merinfo.se,UTF-8,utf-8,utf_8
 meritnation.com,UTF-8,Windows-1252,utf_8
 meritschool.com,UTF-8,UTF-8-SIG,utf_8_sig
-merkbagus.id,UTF-8,utf-8,utf_8
-merkur.de,utf-8,utf-8,utf_8
+merkbagus.id,UTF-8,Windows-1252,utf_8
+merkur.de,utf-8,utf-8,
 merkur.si,UTF-8,utf-8,utf_8
 merkurymarket.hu,,ascii,ascii
 merkurymarket.pl,,ascii,ascii
 merkurymarket.sk,,ascii,ascii
-merlin.pl,UTF-8,Windows-1254,utf_8
 merlininkazani.com,utf-8,utf-8,utf_8
 merriam-webster.com,UTF-8,utf-8,utf_8
 mersin.edu.tr,UTF-8,utf-8,utf_8
 mersinhaber.com,utf-8,utf-8,gb18030
-mersuforum.net,UTF-8,Windows-1254,iso8859_9
+mersuforum.net,UTF-8,Windows-1252,iso8859_9
 mersz.hu,utf-8,utf-8,utf_8
 merumo.ne.jp,UTF-8,ascii,ascii
 merxu.com,utf-8,utf-8,
@@ -319,6 +321,7 @@ mestomladih.si,UTF-8,utf-8,utf_8
 met.hu,utf-8,utf-8,utf_8
 meta-preisvergleich.de,,Windows-1252,iso8859_10
 meta.ua,,utf-8,utf_8
+meta.vn,utf-8,Windows-1254,utf_8
 metabook.gr,UTF-8,utf-8,utf_8
 metacritic.com,utf-8,ascii,ascii
 metajob.at,UTF-8,utf-8,utf_8
@@ -340,7 +343,7 @@ meteoconsult.es,UTF-8,utf-8,utf_8
 meteoconsult.fr,UTF-8,utf-8,utf_8
 meteofrance.com,UTF-8,utf-8,utf_8
 meteojob.com,utf-8,utf-8,utf_8
-meteolive.it,UTF-8,ISO-8859-1,cp1125
+meteolive.it,UTF-8,utf-8,utf_8
 meteonews.ch,utf-8,utf-8,utf_8
 meteonova.ru,,utf-8,utf_8
 meteoprog.ua,utf-8,utf-8,utf_8
@@ -354,6 +357,7 @@ meteoweb.eu,UTF-8,utf-8,utf_8
 meteoweek.com,,utf-8,utf_8
 metlife.eg,utf-8,utf-8,utf_8
 metodista.br,utf-8,utf-8,utf_8
+metrip.vn,utf-8,utf-8,
 metro-cc.ru,utf-8,utf-8,gb18030
 metro-online.pk,UTF-8,ascii,ascii
 metro-portal.hr,,utf-8,utf_8
@@ -368,7 +372,7 @@ metro.sk,utf-8,utf-8,iso8859_9
 metrobyt-mobile.com,utf-8,utf-8,utf_8
 metrocentro.com,utf-8,utf-8,utf_8
 metrocuadrado.com,,ascii,ascii
-metroecuador.com.ec,utf-8,utf-8,utf_8
+metroecuador.com.ec,utf-8,Windows-1254,utf_8
 metrolagu.site,UTF-8,ISO-8859-1,utf_8
 metrolagu1.me,UTF-8,ascii,ascii
 metrolyrics.com,,utf-8,utf_8
@@ -388,16 +392,17 @@ metrotime.be,UTF-8,utf-8,utf_8
 metroturizm.com.tr,utf-8,utf-8,utf_8
 metrotvnews.com,UTF-8,ISO-8859-1,utf_8
 metsa.fi,UTF-8,utf-8,utf_8
+metsalehti.fi,UTF-8,utf-8,utf_8
 metservice.com,UTF-8,ascii,ascii
 metu.edu.tr,utf-8,utf-8,utf_8
 metukimil.co.il,UTF-8,utf-8,utf_8
-metukimsheli.com,UTF-8,ascii,ascii
+metukimsheli.com,,ascii,ascii
 meu.edu.jo,UTF-8,utf-8,utf_8
 meubel2outlet.nl,utf-8,ascii,ascii
 meudicionario.org,utf-8,utf-8,utf_8
 meuhedet.co.il,utf-8,ascii,ascii
 meupositivo.com.br,UTF-8,utf-8,utf_8
-meutimao.com.br,windows-1252,ISO-8859-1,cp1252
+meutimao.com.br,windows-1252,Windows-1252,cp1252
 mev.hr,,ascii,ascii
 mevaker.gov.il,utf-8,utf-8,utf_8
 mevzuat.gov.tr,utf-8,utf-8,utf_8
@@ -454,7 +459,6 @@ michelin.com,UTF-8,utf-8,utf_8
 michigan.gov,,ascii,ascii
 michill.jp,UTF-8,utf-8,utf_8
 michlalot.co.il,UTF-8,utf-8,utf_8
-michoacan.gob.mx,UTF-8,utf-8,utf_8
 micolet.com,utf-8,utf-8,utf_8
 microless.com,UTF-8,utf-8,utf_8
 micromagma.ma,utf-8,utf-8,utf_8
@@ -474,7 +478,7 @@ midrag.co.il,utf-8,utf-8,utf_8
 midtjyllandsavis.dk,UTF-8,utf-8,utf_8
 midtnorskdebatt.no,UTF-8,utf-8,utf_8
 midural.ru,UTF-8,UTF-8-SIG,utf_8_sig
-midvakuhava.si,UTF-8,utf-8,utf_8
+midvakuhava.si,,ascii,ascii
 midwestradio.ie,utf-8,utf-8,utf_8
 mieli.fi,utf-8,utf-8,utf_8
 miem.gub.uy,UTF-8,utf-8,utf_8
@@ -518,7 +522,7 @@ milanotoday.it,utf-8,utf-8,utf_8
 milanuncios.com,utf-8,utf-8,utf_8
 milatgazetesi.com,UTF-8,utf-8,utf_8
 milenio.com,UTF-8,utf-8,utf_8
-milideas.net,UTF-8,utf-8,utf_8
+milideas.net,UTF-8,ascii,ascii
 milieucentraal.nl,utf-8,utf-8,utf_8
 milijonasazuolu.lt,UTF-8,utf-8,utf_8
 milinkuvar.com,UTF-8,utf-8,utf_8
@@ -543,12 +547,14 @@ mims.com,utf-8,utf-8,utf_8
 minagric.gr,utf-8,utf-8,utf_8
 minambiente.gov.co,utf-8,utf-8,utf_8
 minambiente.it,utf-8,utf-8,utf_8
-minbynews.dk,UTF-8,utf-8,utf_8
+minbynews.dk,,ascii,ascii
+minci.gob.ve,UTF-8,utf-8,utf_8
 mincit.gov.co,utf-8,utf-8,utf_8
 mincultura.gov.co,utf-8,utf-8,utf_8
 mincyt.gob.ar,utf-8,utf-8,utf_8
 mind.ua,windows-1251,windows-1251,cp1251
 mindbodygreen.com,utf-8,utf-8,utf_8
+mindef.gob.bo,,ascii,ascii
 minden-akcio.hu,utf-8,utf-8,utf_8
 mindfactory.de,iso-8859-15,ISO-8859-1,iso8859_15
 mindillusion.nl,utf-8,ascii,ascii
@@ -564,7 +570,7 @@ minedu.gov.gr,utf-8,utf-8,utf_8
 mineduc.cl,UTF-8,utf-8,utf_8
 mineduc.gob.gt,,utf-8,utf_8
 mineoppskrifter.no,UTF-8,utf-8,utf_8
-minews.id,utf-8,utf-8,utf_8
+minews.id,utf-8,Windows-1252,utf_8
 minex.gob.gt,iso-8859-1,ISO-8859-1,cp1252
 minfin.com.ua,UTF-8,Windows-1254,utf_8
 minfin.gob.gt,utf-8,utf-8,utf_8
@@ -579,7 +585,7 @@ minicvaldes.com,utf-8,ascii,big5
 minifarmonline.ro,UTF-8,Windows-1254,utf_8
 minijuegos.com,utf-8,Windows-1254,utf_8
 minikar.ru,utf-8,utf-8,utf_8
-minikid.lv,UTF-8,Windows-1254,hp_roman8
+minikid.lv,UTF-8,Windows-1254,iso8859_9
 minilex.fi,utf-8,utf-8,utf_8
 minimagazin.info,UTF-8,utf-8,utf_8
 minimani.fi,UTF-8,utf-8,utf_8
@@ -614,7 +620,7 @@ minube.com.ve,UTF-8,utf-8,gb18030
 minube.pt,UTF-8,utf-8,cp949
 minukataloogid.ee,utf-8,utf-8,utf_8
 minulaps.ee,utf-8,utf-8,utf_8
-minuneanaturii.ro,utf-8,utf-8,utf_8
+minuneanaturii.ro,,ascii,ascii
 minuntarjouslehteni.fi,utf-8,utf-8,utf_8
 minuto30.com,,ascii,ascii
 minutoneuquen.com,,Windows-1252,iso8859_15
@@ -628,6 +634,7 @@ mioaffitto.it,ISO-8859-1,Windows-1252,iso8859_14
 miodottore.it,UTF-8,utf-8,utf_8
 mir24.tv,UTF-8,utf-8,utf_8
 miracomosehace.com,UTF-8,utf-8,utf_8
+miragenews.com,,utf-8,utf_8
 mirandre.com,,utf-8,utf_8
 mirapolnext.pl,utf-8,utf-8,utf_8
 mirela.bg,UTF-8,utf-8,utf_8
@@ -648,7 +655,7 @@ mishlohim.co.il,utf-8,UTF-8-SIG,utf_8_sig
 misiamoiatdom.com,UTF-8,utf-8,utf_8
 misionesonline.net,UTF-8,utf-8,utf_8
 misiuneacasa.ro,utf-8,utf-8,utf_8
-misr-alan.com,UTF-8,Windows-1254,utf_8
+misr-alan.com,UTF-8,utf-8,utf_8
 misr365.com,UTF-8,utf-8,utf_8
 misr5.com,UTF-8,utf-8,utf_8
 miss.at,UTF-8,utf-8,utf_8
@@ -678,7 +685,7 @@ mitihoon.com,UTF-8,utf-8,utf_8
 mitre10.co.nz,UTF-8,utf-8,utf_8
 mitre10.com.au,UTF-8,utf-8,utf_8
 mitsui-shopping-park.com,utf-8,utf-8,utf_8
-mittag.at,UTF-8,utf-8,iso8859_9
+mittag.at,UTF-8,utf-8,utf_8
 mittanbud.no,utf-8,utf-8,utf_8
 mitti.se,UTF-8,utf-8,utf_8
 mitula.ae,UTF-8,utf-8,utf_8
@@ -729,7 +736,7 @@ mixanitouxronou.gr,UTF-8,utf-8,utf_8
 mixcloud.com,utf-8,ascii,ascii
 mixi-caravaning.si,UTF-8,utf-8,utf_8
 mixi.jp,EUC-JP,EUC-JP,euc_jis_2004
-mixzote.com,UTF-8,Windows-1254,utf_8
+mixzote.com,UTF-8,utf-8,utf_8
 mizrahi-tefahot.co.il,utf-8,utf-8,utf_8
 mj-krasazdravi.cz,UTF-8,utf-8,utf_8
 mjakmama24.pl,utf-8,utf-8,utf_8
@@ -746,7 +753,6 @@ ml7z.com,UTF-8,utf-8,utf_8
 mladina.si,utf-8,utf-8,utf_8
 mladipodjetnik.si,UTF-8,utf-8,utf_8
 mlaikas.lt,iso-8859-1,ascii,ascii
-mlap.hu,UTF-8,utf-8,utf_8
 mlb.com,utf-8,Windows-1252,utf_8
 mlive.com,utf-8,utf-8,utf_8
 mll.fi,UTF-8,utf-8,utf_8
@@ -781,7 +787,7 @@ mnt.ee,utf-8,utf-8,utf_8
 mo-72.spb.ru,utf-8,utf-8,utf_8
 mo.gov,UTF-8,ascii,ascii
 mo5talfoon.com,UTF-8,utf-8,utf_8
-moag.gov.il,utf-8,utf-8,utf_8
+moa.gov.cy,,ascii,ascii
 mob.hr,UTF-8,utf-8,utf_8
 mobareco.jp,UTF-8,utf-8,utf_8
 mobcup.net,utf-8,ISO-8859-1,big5
@@ -802,9 +808,9 @@ mobile.de,UTF-8,utf-8,utf_8
 mobile01.com,UTF-8,ascii,ascii
 mobile57.com,UTF-8,ISO-8859-1,utf_8
 mobilebd.co,UTF-8,utf-8,utf_8
-mobilebulgaria.com,UTF-8,utf-8,utf_8
+mobilebulgaria.com,UTF-8,Windows-1254,ptcp154
 mobilecentre.am,UTF-8,utf-8,utf_8
-mobilecity.vn,UTF-8,ascii,
+mobilecity.vn,UTF-8,ascii,ascii
 mobiledokan.co,UTF-8,ISO-8859-1,utf_8
 mobiledokan.com,,ascii,ascii
 mobiledor.com,UTF-8,utf-8,utf_8
@@ -816,7 +822,6 @@ mobilemaya.com,,utf-8,utf_8
 mobilenet.cz,UTF-8,utf-8,utf_8
 mobileplanet.ua,,utf-8,utf_8
 mobileprice-bangladesh.com,,utf-8,utf_8
-mobilepriceall.com,UTF-8,utf-8,utf_8
 mobilesacademy.com,,utf-8,utf_8
 mobilesyrup.com,UTF-8,Windows-1252,cp1125
 mobilewithprices.com,UTF-8,ascii,ascii
@@ -843,10 +848,10 @@ mocbilja.rs,UTF-8,utf-8,utf_8
 mod.gov.il,,ascii,ascii
 mod.gov.lv,UTF-8,utf-8,utf_8
 mod.gov.rs,UTF-8,utf-8,utf_8
+modacruz.com,UTF-8,utf-8,utf_8
 modamoda.ro,utf-8,utf-8,utf_8
 modanisa.com,,ascii,ascii
 modars1.com,utf-8,utf-8,utf_8
-modenaora.it,,utf-8,utf_8
 modernaskola.sk,,utf-8,utf_8
 modernschemers.com,utf-8,ascii,big5
 modesdemploi.fr,utf-8,utf-8,utf_8
@@ -862,7 +867,7 @@ modrastrecha.cz,utf-8,Windows-1254,
 modrastrecha.sk,utf-8,Windows-1254,
 modrsbook.com,UTF-8,utf-8,utf_8
 modrykonik.cz,utf-8,Windows-1254,utf_8
-modrykonik.sk,utf-8,Windows-1254,utf_8
+modrykonik.sk,utf-8,Windows-1254,
 moe.gov.bh,utf-8,utf-8,utf_8
 moe.gov.sa,utf-8,utf-8,cp1125
 moe.gov.sg,utf-8,utf-8,utf_8
@@ -895,7 +900,6 @@ moh.gov.gr,,ascii,ascii
 moh.gov.sa,utf-8,utf-8,utf_8
 moh.gov.sg,utf-8,utf-8,utf_8
 moha.gov.vn,utf-8,utf-8,utf_8
-mohap.gov.ae,,ascii,
 mohe.gov.jo,utf-8,utf-8,utf_8
 mohito.com,,utf-8,utf_8
 mohw.gov.tw,utf-8,utf-8,utf_8

@@ -1,4 +1,3 @@
-| pracuj.pl | utf-8 | utf_8 |
 | praha11.cz | utf-8 | utf_8 |
 | praha12.cz | utf-8 | utf_8 |
 | prakard.com | ascii | ascii |
@@ -22,6 +21,7 @@
 | primabanka.sk | utf-8 | utf_8 |
 | primorski.eu | utf-8 | utf_8 |
 | primorsky.ru | ascii | ascii |
+| prirodnilek.com | ascii | ascii |
 | procolombia.co | utf-8 | utf_8 |
 | procomer.com | ascii | ascii |
 | prodavinci.com | ascii | ascii |
@@ -33,7 +33,7 @@
 | property.ie | ascii | ascii |
 | propertyshark.com | ascii | ascii |
 | propertyvalue.co.nz | utf-8 | utf_8 |
-| propisi.hr | utf-8 | utf_8 |
+| propisi.hr | ascii | ascii |
 | provincia.bz.it | utf-8 | utf_8 |
 | proyectodescartes.org | ascii | ascii |
 | prozorro.gov.ua | ascii | ascii |
@@ -53,6 +53,7 @@
 | pwa.co.th | utf-8 | utf_8 |
 | pwc.com | ascii | ascii |
 | pzc.nl | ascii | ascii |
+| pzdnes.com | ascii | ascii |
 | pzs.si | utf-8 | utf_8 |
 | qantas.com | ascii | ascii |
 | qha.com.tr | utf-8 | utf_8 |
@@ -68,13 +69,17 @@
 | quikr.com | ascii | ascii |
 | quotidiano.net | utf-8 | utf_8 |
 | quotidianosanita.it | utf-8 | utf_8 |
+| qwords.com | ascii | ascii |
 | raamatuvahetus.ee | ascii | ascii |
 | racunalo.com | utf-8 | utf_8 |
+| radardemedia.ro | ascii | ascii |
 | rademar.ee | ascii | ascii |
 | radio.com | ascii | ascii |
 | radioagricultura.cl | utf-8 | utf_8 |
+| radiokrizevci.hr | ascii | ascii |
 | radiosawa.com | ascii | ascii |
 | radiosvoboda.org | ascii | ascii |
+| radnovrijeme.info | ascii | ascii |
 | ralphs.com | ascii | ascii |
 | ramthavoice.com | ascii | ascii |
 | rasfoiesc.com | ascii | ascii |

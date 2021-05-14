@@ -24,11 +24,11 @@ destentor.nl,,ascii,ascii
 destepti.ro,UTF-8,utf-8,utf_8
 destinia.com,UTF-8,utf-8,utf_8
 detail.cz,utf-8,utf-8,utf_8
-detailersclub.no,UTF-8,utf-8,utf_8
+detailersclub.no,,ascii,ascii
 dete.bg,UTF-8,utf-8,utf_8
 detector.media,utf-8,utf-8,utf_8
 detelefoongids.nl,utf-8,utf-8,cp1252
-detgladekjokken.no,UTF-8,Windows-1252,utf_8
+detgladekjokken.no,,ascii,ascii
 dethikiemtra.com,,utf-8,utf_8
 deti-online.com,UTF-8,utf-8,utf_8
 detiamy.sk,UTF-8,utf-8,utf_8
@@ -46,7 +46,7 @@ dev.to,utf-8,Windows-1254,utf_8
 developpement-durable.gouv.fr,UTF-8,utf-8,utf_8
 developpez.com,,Windows-1252,iso8859_15
 devetletka.net,UTF-8,utf-8,utf_8
-devex.com,utf-8,utf-8,cp437
+devex.com,utf-8,utf-8,utf_8
 deviantart.com,utf-8,utf-8,utf_8
 devicespecifications.com,UTF-8,utf-8,utf_8
 devletdestekli.com,UTF-8,utf-8,utf_8
@@ -73,9 +73,10 @@ df.cl,utf-8,utf-8,utf_8
 dfa.ie,,utf-8,utf_8
 dfcc.lk,,ascii,ascii
 dfi.dk,,ascii,ascii
-dfly.no,UTF-8,Windows-1252,iso8859_11
+dfly.no,,ascii,ascii
 dges.gov.pt,utf-8,utf-8,utf_8
 dgi.dk,utf-8,utf-8,utf_8
+dgi.gub.uy,utf-8,utf-8,utf_8
 dgip.gov.pk,utf-8,ascii,ascii
 dh.hu,UTF-8,utf-8,utf_8
 dha.com.tr,,Windows-1252,cp1254
@@ -95,6 +96,7 @@ diabetes.fi,utf-8,utf-8,utf_8
 diabetes.no,utf-8,utf-8,utf_8
 diabetes.nu,UTF-8,utf-8,utf_8
 diadiem247.com,UTF-8,ascii,ascii
+diadiemanuong.com,,ascii,ascii
 diadona.id,UTF-8,ascii,ascii
 diaforetiko.gr,UTF-8,utf-8,utf_8
 diag.pl,UTF-8,utf-8,utf_8
@@ -120,9 +122,10 @@ diariodaregiao.com.br,,UTF-8-SIG,utf_8_sig
 diariodealmeria.es,UTF-8,utf-8,utf_8
 diariodecadiz.es,UTF-8,utf-8,utf_8
 diariodecuyo.com.ar,UTF-8,utf-8,utf_8
+diariodeibiza.es,UTF-8,utf-8,utf_8
 diariodeleon.es,UTF-8,utf-8,utf_8
 diariodemallorca.es,UTF-8,utf-8,utf_8
-diariodemocracia.com,utf-8,Windows-1254,utf_8
+diariodemocracia.com,utf-8,utf-8,utf_8
 diariodenavarra.es,UTF-8,utf-8,utf_8
 diariodepernambuco.com.br,,ISO-8859-1,cp1252
 diariodesevilla.es,UTF-8,utf-8,utf_8
@@ -130,6 +133,7 @@ diariodocomercio.com.br,UTF-8,utf-8,utf_8
 diariodorio.com,,ascii,ascii
 diariodotransporte.com.br,UTF-8,utf-8,utf_8
 diarioeldia.cl,UTF-8,ascii,ascii
+diarioelpueblo.com.uy,UTF-8,utf-8,utf_8
 diarioelsalvador.com,UTF-8,utf-8,utf_8
 diarioextra.com,UTF-8,utf-8,utf_8
 diariofemenino.com,UTF-8,utf-8,utf_8
@@ -172,12 +176,12 @@ dictindustry.de,utf-8,utf-8,utf_8
 dictio.id,utf-8,utf-8,utf_8
 dictionaries24.com,,utf-8,utf_8
 dictionarist.com,,utf-8,utf_8
-dictionarroman.ro,UTF-8,utf-8,utf_8
+dictionarroman.ro,,ascii,ascii
 dictionary.com,utf-8,utf-8,utf_8
 dictionary.nl,utf-8,utf-8,utf_8
 dictionary.university,utf-8,utf-8,utf_8
 dictionaryenglishtourdu.com,UTF-8,utf-8,utf_8
-dictionarylist.com,UTF-8,utf-8,iso8859_11
+dictionarylist.com,UTF-8,utf-8,cp1125
 dictzone.com,UTF-8,utf-8,utf_8
 did.ie,UTF-8,utf-8,utf_8
 didactalia.net,utf-8,utf-8,utf_8
@@ -185,7 +189,6 @@ didactic.ro,utf-8,utf-8,utf_8
 didaktorika.gr,UTF-8,utf-8,utf_8
 didaucungduoc.com,UTF-8,ascii,ascii
 dideo.ir,UTF-8,Windows-1254,utf_8
-didongthongminh.vn,UTF-8,utf-8,
 didongviet.vn,UTF-8,utf-8,utf_8
 diena.lt,utf-8,UTF-8-SIG,utf_8_sig
 diena.lv,UTF-8,utf-8,utf_8
@@ -214,11 +217,13 @@ digi.no,UTF-8,utf-8,utf_8
 digi.ro,UTF-8,utf-8,utf_8
 digi24.ro,UTF-8,utf-8,utf_8
 digibron.nl,UTF-8,ISO-8859-1,utf_8
-digisport.ro,UTF-8,utf-8,
+digisport.ro,UTF-8,utf-8,utf_8
 digit.in,UTF-8,utf-8,utf_8
 digital.bg,UTF-8,utf-8,utf_8
+digitalcameraworld.com,UTF-8,utf-8,utf_8
 digitalfernsehen.de,,utf-8,utf_8
 digitall.sk,UTF-8,utf-8,utf_8
+digitallife.gr,UTF-8,utf-8,utf_8
 digitalocean.com,,utf-8,utf_8
 digitalschool.club,,ascii,ascii
 digitalsport.com.ar,UTF-8,utf-8,utf_8
@@ -227,6 +232,7 @@ digitalt.tv,UTF-8,utf-8,utf_8
 digitaltmuseum.no,utf-8,utf-8,utf_8
 digitaltmuseum.org,utf-8,utf-8,utf_8
 digitaltmuseum.se,utf-8,utf-8,utf_8
+digitaltrends.com,UTF-8,utf-8,utf_8
 digitark.ee,UTF-8,utf-8,utf_8
 digitirso.com,utf-8,utf-8,utf_8
 digizone.ee,UTF-8,utf-8,utf_8
@@ -239,7 +245,7 @@ dijaspora.online,UTF-8,UTF-8-SIG,utf_8_sig
 dijaspora.shop,UTF-8,utf-8,utf_8
 dijeta.net,,utf-8,utf_8
 dijetamesecevemene.com,UTF-8,utf-8,utf_8
-dijetaplus.com,UTF-8,utf-8,utf_8
+dijetaplus.com,,ascii,ascii
 dikaiologitika.gr,utf-8,utf-8,utf_8
 diken.com.tr,,ascii,ascii
 dikgazete.com,utf-8,utf-8,utf_8
@@ -247,13 +253,12 @@ dikhawa.pk,utf-8,Windows-1254,utf_8
 diki.pl,UTF-8,utf-8,utf_8
 dilei.it,UTF-8,utf-8,utf_8
 dillards.com,utf-8,utf-8,utf_8
-dimanaja.com,UTF-8,ascii,ascii
+dimanaja.com,,ascii,ascii
 dime.jp,UTF-8,utf-8,utf_8
 dimedic.eu,UTF-8,utf-8,utf_8
-dimensioneotticadiabbattista.it,,utf-8,utf_8
 dimeprecio.com,UTF-8,Windows-1254,utf_8
 dimitrisskarmoutsos.gr,UTF-8,utf-8,utf_8
-dimm.com.uy,windows-1252,ISO-8859-1,cp1252
+dimm.com.uy,windows-1252,ISO-8859-1,cp1250
 dimokratiki.gr,,ascii,ascii
 din-online.info,,UTF-8-SIG,utf_8_sig
 din.org.il,UTF-8,utf-8,utf_8
@@ -343,7 +348,7 @@ disney.co.jp,UTF-8,utf-8,utf_8
 dispatchlive.co.za,utf-8,utf-8,
 dissapore.com,UTF-8,utf-8,utf_8
 dissercat.com,utf-8,utf-8,utf_8
-distancesfrom.com,utf-8,utf-8,cp860
+distancesfrom.com,utf-8,utf-8,cp1125
 distanta.ro,UTF-8,ascii,ascii
 distractify.com,utf-8,utf-8,utf_8
 distribuicaohoje.com,UTF-8,utf-8,utf_8
@@ -352,6 +357,7 @@ distrifood.nl,UTF-8,ascii,ascii
 dit.ie,UTF-8,utf-8,utf_8
 ditjesendatjes.nl,UTF-8,utf-8,utf_8
 dituttounpop.it,UTF-8,utf-8,utf_8
+div.bg,UTF-8,utf-8,utf_8
 diva-portal.org,UTF-8,utf-8,big5
 divahair.ro,utf-8,utf-8,utf_8
 divainbucatarie.ro,UTF-8,utf-8,utf_8
@@ -370,7 +376,7 @@ diyanet.tv,UTF-8,utf-8,utf_8
 diyanethaber.com.tr,UTF-8,utf-8,utf_8
 diyetasistan.com,UTF-8,utf-8,utf_8
 diyetkolik.com,utf-8,utf-8,utf_8
-diyinspirenow.com,UTF-8,Windows-1254,utf_8
+diyinspirenow.com,,ascii,ascii
 diynetwork.com,,ascii,ascii
 diynot.com,UTF-8,ascii,ascii
 dizengof-center.co.il,UTF-8,Windows-1254,utf_8
@@ -402,6 +408,7 @@ dm.hu,utf-8,utf-8,
 dm.rs,utf-8,Windows-1252,
 dm.si,utf-8,Windows-1252,
 dmag.co.il,,windows-1255,cp1255
+dmc.tv,utf-8,utf-8,utf_8
 dmm.com,UTF-8,utf-8,utf_8
 dn.dk,utf-8,utf-8,utf_8
 dn.ee,UTF-8,utf-8,utf_8
@@ -410,7 +417,7 @@ dn.pt,utf-8,utf-8,utf_8
 dn.se,utf-8,utf-8,utf_8
 dna.fi,UTF-8,utf-8,utf_8
 dna.fr,utf-8,utf-8,utf_8
-dnaindia.com,utf-8,utf-8,utf_8
+dnaindia.com,utf-8,ascii,ascii
 dnb.com,,ascii,ascii
 dnb.no,,ascii,ascii
 dnbeiendom.no,utf-8,utf-8,utf_8
@@ -424,7 +431,7 @@ dndnha.online,utf-8,utf-8,utf_8
 dndnha.site,utf-8,utf-8,utf_8
 dnes.bg,windows-1251,windows-1251,cp1251
 dnes24.sk,utf-8,utf-8,
-dnesbg.com,UTF-8,utf-8,utf_8
+dnesbg.com,,ascii,ascii
 dnevnik.bg,UTF-8,utf-8,utf_8
 dnevnik.hr,UTF-8,utf-8,utf_8
 dnevnik.rs,UTF-8,utf-8,utf_8
@@ -473,7 +480,7 @@ doc.ua,UTF-8,Windows-1254,utf_8
 doccheck.com,,ascii,ascii
 docdoc.com,,utf-8,utf_8
 docdoc.ru,utf-8,utf-8,utf_8
-docer.pl,UTF-8,utf-8,utf_8
+docer.pl,UTF-8,utf-8,gb18030
 docero.com.br,UTF-8,utf-8,utf_8
 docfinder.at,UTF-8,utf-8,utf_8
 dochkisinochki.ru,,ascii,ascii
@@ -490,7 +497,6 @@ docplayer.es,UTF-8,utf-8,utf_8
 docplayer.fi,UTF-8,utf-8,utf_8
 docplayer.fr,UTF-8,utf-8,utf_8
 docplayer.gr,UTF-8,utf-8,utf_8
-docplayer.hu,UTF-8,utf-8,utf_8
 docplayer.info,UTF-8,utf-8,utf_8
 docplayer.it,UTF-8,utf-8,utf_8
 docplayer.lt,UTF-8,utf-8,utf_8
@@ -502,7 +508,6 @@ docplayer.pl,UTF-8,utf-8,utf_8
 docplayer.ro,UTF-8,utf-8,utf_8
 docplayer.rs,UTF-8,utf-8,utf_8
 docplayer.ru,UTF-8,utf-8,utf_8
-docplayer.se,UTF-8,utf-8,utf_8
 docplayer.si,UTF-8,utf-8,utf_8
 docplayer.sk,UTF-8,utf-8,utf_8
 docshare.tips,UTF-8,ascii,ascii
@@ -529,7 +534,7 @@ doctoranytime.gr,utf-8,utf-8,utf_8
 doctorbg.com,,windows-1251,cp1251
 doctorbun.ro,UTF-8,utf-8,utf_8
 doctorim.co.il,UTF-8,utf-8,utf_8
-doctoroncall.com.my,utf-8,Windows-1252,utf_8
+doctoroncall.com.my,utf-8,utf-8,utf_8
 doctoronline.bg,,windows-1251,cp1251
 doctors.co.il,utf-8,utf-8,utf_8
 doctorsfile.jp,utf-8,utf-8,utf_8
@@ -555,7 +560,7 @@ dohome.co.th,UTF-8,utf-8,utf_8
 doi.org,,ascii,ascii
 doisongphapluat.com,UTF-8,utf-8,utf_8
 doisongvietnam.vn,UTF-8,UTF-8-SIG,utf_8_sig
-doitgarden.ch,utf-8,utf-8,cp1125
+doitgarden.ch,utf-8,utf-8,cp1252
 doity.com.br,utf-8,utf-8,utf_8
 dok.ua,UTF-8,utf-8,utf_8
 doki.net,windows-1250,Windows-1252,
@@ -582,7 +587,6 @@ dolap.bg,UTF-8,utf-8,utf_8
 dolap.com,UTF-8,Windows-1254,utf_8
 dolcidee.it,UTF-8,utf-8,utf_8
 dolenjskanews.com,UTF-8,utf-8,utf_8
-dolenjskilist.si,utf-8,utf-8,utf_8
 dollarsandsense.sg,UTF-8,utf-8,utf_8
 dom.pl,,utf-8,utf_8
 doma.sk,UTF-8,Windows-1254,utf_8
@@ -634,7 +638,6 @@ donedeal.co.uk,UTF-8,ascii,ascii
 donedeal.ie,UTF-8,ascii,ascii
 donegaldaily.com,UTF-8,utf-8,utf_8
 donesi.com,UTF-8,utf-8,utf_8
-dongphym.net,UTF-8,utf-8,utf_8
 donki.com,UTF-8,utf-8,utf_8
 donland.ru,UTF-8,utf-8,utf_8
 donnad.it,utf-8,utf-8,utf_8
@@ -664,6 +667,7 @@ dosenpendidikan.co.id,UTF-8,ascii,ascii
 dosfarma.com,utf-8,utf-8,utf_8
 dospara.co.jp,UTF-8,utf-8,utf_8
 dossierfamilial.com,UTF-8,utf-8,utf_8
+dostop.si,UTF-8,utf-8,utf_8
 dostor.org,utf-8,utf-8,utf_8
 dostupnarovinka.sk,UTF-8,,utf-8
 dotaceeu.cz,utf-8,utf-8,
@@ -679,16 +683,16 @@ dotyk.cz,utf-8,utf-8,utf_8
 dou.ua,,ascii,ascii
 douban.com,,,utf-8
 doubtnut.com,utf-8,utf-8,utf_8
-doucma.sk,utf-8,Windows-1254,utf_8
+doucma.sk,utf-8,utf-8,utf_8
 douglas.de,,ascii,ascii
 douglas.hr,utf-8,utf-8,utf_8
 douglas.it,,ascii,ascii
 douglas.lt,utf-8,utf-8,utf_8
-douglas.lv,utf-8,utf-8,utf_8
 douglas.nl,,ISO-8859-1,utf_8
 douglas.pl,,ascii,ascii
 douglas.ro,,ascii,ascii
 douleutaras.gr,utf-8,utf-8,utf_8
+doutorfinancas.pt,UTF-8,utf-8,utf_8
 dovanusala.lt,utf-8,utf-8,utf_8
 doveconviene.it,UTF-8,utf-8,utf_8
 doveecomemicuro.it,utf-8,utf-8,utf_8
@@ -719,6 +723,7 @@ dpt.go.th,utf-8,utf-8,utf_8
 dpu.ac.th,utf-8,Windows-1254,utf_8
 dr-gumpert.de,utf-8,utf-8,utf_8
 dr.com.tr,utf-8,utf-8,utf_8
+dr.dk,utf-8,utf-8,
 dr.lv,UTF-8,utf-8,utf_8
 dracik.cz,utf-8,utf-8,utf_8
 dracik.sk,utf-8,utf-8,utf_8
@@ -734,7 +739,7 @@ drconsulta.com,UTF-8,ascii,ascii
 drdchati.com,UTF-8,utf-8,utf_8
 drderamus.com,iso-8859-1,ascii,ascii
 dre.pt,UTF-8,utf-8,utf_8
-dream.co.id,UTF-8,utf-8,gb18030
+dream.co.id,UTF-8,utf-8,
 dreamers.id,UTF-8,utf-8,utf_8
 dreamjob.ma,UTF-8,utf-8,utf_8
 dreamjobs.lk,UTF-8,utf-8,utf_8
@@ -766,6 +771,7 @@ drmax.pl,utf-8,utf-8,utf_8
 drmax.ro,utf-8,utf-8,utf_8
 drmax.rs,UTF-8,utf-8,utf_8
 drmax.sk,utf-8,utf-8,utf_8
+drmed.org,UTF-8,utf-8,utf_8
 drogaraia.com.br,UTF-8,utf-8,utf_8
 drogariaminasbrasil.com.br,UTF-8,utf-8,utf_8
 drogarianovaesperanca.com.br,utf-8,utf-8,utf_8
@@ -775,14 +781,13 @@ drogariavenancio.com.br,utf-8,utf-8,
 drogasil.com.br,utf-8,utf-8,utf_8
 drogeria-vmd.sk,utf-8,utf-8,utf_8
 drogerienatura.pl,,utf-8,utf_8
-drogisterij.net,,Windows-1252,iso8859_10
 drogueriascafam.com.co,utf-8,UTF-8-SIG,utf_8_sig
-droidapp.nl,,utf-8,utf_8
+droidapp.nl,UTF-8,utf-8,utf_8
 droidsans.com,,utf-8,utf_8
 drom.ru,windows-1251,windows-1251,cp1251
 droom.in,UTF-8,utf-8,utf_8
 drosadiena.lv,UTF-8,,utf-8
-drozdogan.com,UTF-8,utf-8,utf_8
+drozdogan.com,,ascii,ascii
 drtechno.rs,UTF-8,utf-8,utf_8
 drug-store.sk,utf-8,utf-8,utf_8
 drugs.com,UTF-8,utf-8,utf_8
@@ -811,7 +816,7 @@ dt.no,utf-8,utf-8,utf_8
 dt.se,utf-8,utf-8,utf_8
 dtac.co.th,UTF-8,utf-8,utf_8
 dtest.cz,UTF-8,utf-8,utf_8
-dtf.ru,UTF-8,utf-8,utf_8
+dtf.ru,UTF-8,Windows-1254,utf_8
 dtihik.co,UTF-8,utf-8,utf_8
 dtkt.ua,UTF-8,utf-8,utf_8
 dtnext.in,utf-8,utf-8,utf_8
@@ -844,7 +849,6 @@ duic.nl,UTF-8,utf-8,
 dukakeen.com,utf-8,utf-8,utf_8
 duke.edu,UTF-8,Windows-1252,utf_8
 dulich24.com.vn,utf-8,utf-8,utf_8
-dulichvietnam.com.vn,,utf-8,utf_8
 dulist.hr,UTF-8,utf-8,utf_8
 duma.bg,utf-8,utf-8,utf_8
 duma.gov.ru,UTF-8,utf-8,utf_8
@@ -862,7 +866,7 @@ dunelm.com,,utf-8,utf_8
 duniagames.co.id,utf-8,ascii,ascii
 dunnesstores.com,UTF-8,utf-8,utf_8
 duns100.co.il,utf-8,utf-8,utf_8
-dunsguide.co.il,utf-8,utf-8,
+dunsguide.co.il,utf-8,utf-8,utf_8
 dunya.com,UTF-8,utf-8,utf_8
 dunyabulteni.net,UTF-8,utf-8,utf_8
 dunyanews.tv,UTF-8,utf-8,utf_8

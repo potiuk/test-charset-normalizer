@@ -6,6 +6,7 @@ realestate.co.nz,,ascii,ascii
 realestate.com.au,,ascii,ascii
 realestatecroatia.com,,utf-8,utf_8
 realestateview.com.au,utf-8,ascii,ascii
+realhomes.com,UTF-8,utf-8,utf_8
 realingo.cz,utf-8,utf-8,utf_8
 realitatea.net,UTF-8,utf-8,utf_8
 realites.com.tn,,ascii,ascii
@@ -38,7 +39,7 @@ reblog.hu,UTF-8,utf-8,utf_8
 rebooks.org.il,,utf-8,utf_8
 rebounderzjacksonville.com,utf-8,ascii,big5
 rebuy.de,UTF-8,utf-8,utf_8
-recantodasletras.com.br,,ISO-8859-1,cp1252
+recantodasletras.com.br,,Windows-1252,iso8859_14
 receitadevovo.com.br,utf-8,utf-8,utf_8
 receitas-sem-fronteiras.com,UTF-8,utf-8,utf_8
 receitasdeminuto.com,,ascii,ascii
@@ -51,7 +52,7 @@ recepedia.com,,ascii,ascii
 recept.se,UTF-8,utf-8,utf_8
 receptai.lt,UTF-8,utf-8,utf_8
 receptar.sk,UTF-8,utf-8,utf_8
-recepten.se,UTF-8,Windows-1252,utf_8
+recepten.se,UTF-8,Windows-1254,utf_8
 recepten100.nl,,utf-8,utf_8
 receptfavoriter.se,utf-8,utf-8,utf_8
 recepti-svijeta.com,UTF-8,utf-8,utf_8
@@ -96,7 +97,7 @@ reclamefolder.nl,utf-8,Windows-1252,utf_8
 reclamos.cl,utf-8,utf-8,utf_8
 recnik.org,utf-8,utf-8,utf_8
 reco.se,UTF-8,utf-8,utf_8
-recochoku.jp,UTF-8,utf-8,utf_8
+recochoku.jp,UTF-8,utf-8,
 recollect.co.nz,UTF-8,ascii,ascii
 recomespar.ro,utf-8,ascii,big5
 record.com.mx,utf-8,utf-8,utf_8
@@ -104,6 +105,7 @@ record.pt,utf-8,utf-8,utf_8
 recordere.dk,UTF-8,utf-8,utf_8
 recordowl.com,UTF-8,ascii,ascii
 recorrido.cl,utf-8,utf-8,utf_8
+recruit.se,,ascii,ascii
 recruter.tn,UTF-8,Windows-1254,utf_8
 recube-best.site,iso-8859-1,ascii,ascii
 redaccionmedica.com,UTF-8,utf-8,utf_8
@@ -114,9 +116,10 @@ redbubble.com,utf-8,utf-8,utf_8
 redbull.com,utf-8,utf-8,
 redbus.in,utf-8,utf-8,cp863
 redcube.lk,UTF-8,ISO-8859-1,utf_8
-reddit.com,utf-8,utf-8,utf_8
+reddit.com,utf-8,Windows-1254,utf_8
+reddoorz.com,utf-8,ascii,ascii
 redeangola.info,UTF-8,utf-8,utf_8
-redebrasilatual.com.br,UTF-8,Windows-1254,utf_8
+redebrasilatual.com.br,UTF-8,utf-8,utf_8
 rededorsaoluiz.com.br,utf-8,utf-8,utf_8
 redeszone.net,UTF-8,utf-8,utf_8
 redfin.ca,,ascii,ascii
@@ -183,16 +186,15 @@ regionhalland.se,UTF-8,utf-8,utf_8
 regionkosice.com,UTF-8,ascii,ascii
 regionkronoberg.se,utf-8,UTF-8-SIG,utf_8_sig
 regionostergotland.se,utf-8,UTF-8-SIG,
-regionsjaelland.dk,utf-8,utf-8,
+regionsjaelland.dk,utf-8,utf-8,utf_8
 regionsjob.com,utf-8,utf-8,utf_8
 regionsyddanmark.dk,,Windows-1252,iso8859_9
 regionunaujienos.lt,UTF-8,utf-8,utf_8
 regionuppsala.se,utf-8,utf-8,utf_8
 regionvasterbotten.se,utf-8,utf-8,utf_8
 regiowiki.at,UTF-8,utf-8,utf_8
-registeruz.sk,,ascii,ascii
+registeruz.sk,,ascii,
 registracija-vozila.rs,iso-8859-1,ascii,ascii
-registrocivil.cl,utf-8,utf-8,utf_8
 registrocivil.gob.ec,UTF-8,utf-8,utf_8
 registros19862.cl,UTF-8,utf-8,utf_8
 registrucentras.lt,UTF-8,utf-8,utf_8
@@ -215,7 +217,7 @@ reitingi.lv,UTF-8,utf-8,utf_8
 rejestr.io,UTF-8,utf-8,utf_8
 rejtvenylexikon.hu,UTF-8,utf-8,utf_8
 reka.ch,utf-8,utf-8,utf_8
-rekhta.org,utf-8,utf-8,hp_roman8
+rekhta.org,utf-8,utf-8,utf_8
 rekhtadictionary.com,utf-8,utf-8,utf_8
 rekki.fi,UTF-8,utf-8,utf_8
 reklaam.ee,UTF-8,utf-8,utf_8
@@ -266,9 +268,9 @@ rent.com.au,,ascii,ascii
 rent.ie,,ascii,ascii
 rentalia.com,UTF-8,utf-8,utf_8
 rentcafe.com,utf-8,utf-8,utf_8
-renthub.in.th,utf-8,Windows-1254,utf_8
+renthub.in.th,utf-8,utf-8,utf_8
 rentuncle.co.za,UTF-8,utf-8,utf_8
-renuane3.com,UTF-8,Windows-1254,utf_8
+renuane3.com,UTF-8,utf-8,utf_8
 repco.co.nz,UTF-8,ascii,
 repco.com.au,UTF-8,ascii,
 repec.org,,ascii,ascii
@@ -276,14 +278,14 @@ replicaonline.ro,UTF-8,utf-8,utf_8
 reporteindigo.com,UTF-8,utf-8,utf_8
 reporteinmobiliario.com,iso-8859-1,ISO-8859-1,hp_roman8
 reporter.com.cy,utf-8,utf-8,utf_8
-reporter.gr,utf-8,utf-8,utf_8
+reporter.gr,UTF-8,utf-8,utf_8
 reporter.si,UTF-8,utf-8,utf_8
 repretel.com,UTF-8,utf-8,utf_8
 repubblica.it,utf-8,utf-8,utf_8
 republica.com,UTF-8,utf-8,utf_8
 republica.gt,UTF-8,utf-8,utf_8
 republica.ro,UTF-8,utf-8,utf_8
-republicain-lorrain.fr,utf-8,Windows-1254,utf_8
+republicain-lorrain.fr,utf-8,Windows-1252,utf_8
 republicworld.com,UTF-8,utf-8,utf_8
 republika.co.id,UTF-8,utf-8,utf_8
 republika.rs,UTF-8,utf-8,utf_8
@@ -299,6 +301,7 @@ reseguiden.se,utf-8,utf-8,utf_8
 resemom.jp,utf-8,utf-8,utf_8
 resene.co.nz,UTF-8,utf-8,utf_8
 resepkoki.id,UTF-8,utf-8,utf_8
+resepmasakanku.net,,ascii,ascii
 reseptiohje.com,utf-8,Windows-1254,iso8859_9
 reseptitaivas.fi,UTF-8,utf-8,utf_8
 reserved.com,,utf-8,utf_8
@@ -327,7 +330,7 @@ restaurantguru.com.br,utf-8,ascii,ascii
 restaurantguru.it,utf-8,ascii,ascii
 restauranthub.co.nz,utf-8,utf-8,utf_8
 restaurantji.com,UTF-8,utf-8,utf_8
-restaurants.nl,,ISO-8859-1,utf_8
+restaurants.nl,,utf-8,utf_8
 restaurantscorner.com,UTF-8,utf-8,utf_8
 restauranttester.at,utf-8,utf-8,utf_8
 resto.be,UTF-8,utf-8,big5
@@ -352,6 +355,7 @@ reteimprese.it,utf-8,,utf-8
 retete-gustoase.ro,UTF-8,utf-8,utf_8
 retete-usoare.info,UTF-8,utf-8,utf_8
 retetepractice.ro,UTF-8,UTF-8-SIG,utf_8_sig
+retikul.hu,UTF-8,utf-8,utf_8
 retkipaikka.fi,UTF-8,utf-8,utf_8
 retro.bg,UTF-8,utf-8,utf_8
 retseptisahtel.ee,UTF-8,utf-8,utf_8
@@ -369,6 +373,7 @@ reviewaraidee.com,UTF-8,utf-8,utf_8
 reviewbox.com.br,UTF-8,utf-8,utf_8
 reviewchiangmai.com,UTF-8,utf-8,utf_8
 revieweuro.com,UTF-8,,utf-8
+reviewit.pk,UTF-8,utf-8,utf_8
 reviews.org,UTF-8,utf-8,utf_8
 reviewsaudi.com,UTF-8,,utf-8
 revija-vita.com,UTF-8,utf-8,utf_8
@@ -377,7 +382,7 @@ revijazamojezdravje.si,UTF-8,utf-8,utf_8
 revijazarja.si,UTF-8,utf-8,utf_8
 revista.inf.br,,utf-8,utf_8
 revistaad.es,UTF-8,utf-8,utf_8
-revistaartesanato.com.br,UTF-8,ISO-8859-1,cp1252
+revistaartesanato.com.br,UTF-8,Windows-1252,cp1252
 revistabiz.ro,UTF-8,utf-8,utf_8
 revistabula.com,UTF-8,utf-8,utf_8
 revistadiners.com.co,UTF-8,utf-8,utf_8
@@ -427,7 +432,7 @@ riachuelo.com.br,,ascii,ascii
 riamo.ru,UTF-8,utf-8,utf_8
 riavrn.ru,UTF-8,utf-8,utf_8
 ribnica24.eu,UTF-8,utf-8,utf_8
-ricardo.ch,utf-8,utf-8,utf_8
+ricardo.ch,utf-8,utf-8,cp1252
 ricardocuisine.com,utf-8,utf-8,utf_8
 ricardoeletro.com.br,ISO-8859-1,ISO-8859-1,cp1252
 ricebowl.my,utf-8,ISO-8859-1,utf_8
@@ -441,7 +446,8 @@ ricetteperbimby.it,UTF-8,utf-8,utf_8
 richmondfuture.org,utf-8,ascii,big5
 richtlijnendatabase.nl,UTF-8,utf-8,utf_8
 ricmais.com.br,UTF-8,utf-8,utf_8
-ridikul.hu,,utf-8,utf_8
+rid.go.th,,ascii,ascii
+ridikul.hu,UTF-8,utf-8,utf_8
 rieltor.ua,UTF-8,utf-8,utf_8
 riemurasia.net,utf-8,utf-8,utf_8
 rieoei.org,utf-8,utf-8,utf_8
@@ -452,12 +458,13 @@ rigaslaiks.lv,UTF-8,utf-8,utf_8
 rigassatiksme.lv,UTF-8,utf-8,utf_8
 rigasveseliba.lv,UTF-8,utf-8,utf_8
 rightmove.co.uk,ISO-8859-1,ascii,ascii
+rigla.ru,,ascii,ascii
 rigshospitalet.dk,utf-8,utf-8,utf_8
 rihappy.com.br,utf-8,utf-8,utf_8
 riigikogu.ee,UTF-8,utf-8,utf_8
 riigiteataja.ee,UTF-8,utf-8,utf_8
 riihimaki.fi,UTF-8,utf-8,utf_8
-riimc.lv,UTF-8,utf-8,utf_8
+riimc.lv,,ascii,ascii
 rijeka.hr,UTF-8,utf-8,utf_8
 rijksmuseum.nl,utf-8,ascii,ascii
 rijksoverheid.nl,UTF-8,utf-8,utf_8
@@ -499,7 +506,7 @@ risingbd.com,UTF-8,utf-8,utf_8
 riskommunal.net,utf-8,utf-8,cp775
 risorseimmobiliari.it,,utf-8,utf_8
 ristekbrin.go.id,UTF-8,utf-8,utf_8
-ristorantedatonino.it,UTF-8,utf-8,utf_8
+ristorantedatonino.it,,ascii,ascii
 ristorantefricandoagazzano.it,,ascii,ascii
 ristorantelafamiglia.com.au,UTF-8,ascii,ascii
 risy.cz,UTF-8,utf-8,utf_8
@@ -508,8 +515,9 @@ ritlen.ru,UTF-8,utf-8,utf_8
 rito.dk,utf-8,Windows-1254,utf_8
 ritzau.dk,UTF-8,utf-8,utf_8
 riverisland.com,utf-8,utf-8,utf_8
-riviu.vn,utf-8,Windows-1254,utf_8
+riviu.vn,utf-8,Windows-1254,
 rivm.nl,UTF-8,utf-8,utf_8
+riyadbank.com,utf-8,utf-8,utf_8
 riyapola.com,UTF-8,utf-8,utf_8
 riyasewana.com,UTF-8,ascii,ascii
 riznicasrpska.net,,ascii,ascii
@@ -578,9 +586,10 @@ rodina.cz,,ascii,ascii
 rodinka.sk,utf-8,utf-8,utf_8
 roditel.bg,UTF-8,utf-8,utf_8
 roditelji.hr,UTF-8,utf-8,utf_8
+roditelji.me,UTF-8,utf-8,utf_8
 roditeljsrbija.com,UTF-8,utf-8,utf_8
 rodopi24.blogspot.com,UTF-8,utf-8,utf_8
-rodzice.pl,UTF-8,Windows-1254,utf_8
+rodzice.pl,UTF-8,utf-8,utf_8
 roede.com,,utf-8,utf_8
 rogerebert.com,utf-8,utf-8,utf_8
 rohlik.cz,UTF-8,ascii,ascii
@@ -589,14 +598,14 @@ rokiskiosirena.lt,UTF-8,utf-8,utf_8
 rokomari.com,UTF-8,IBM866,utf_8
 roksh.com,,utf-8,utf_8
 rol.co.il,UTF-8,utf-8,utf_8
-roladin.co.il,UTF-8,GB2312,utf_8
+roladin.co.il,,ascii,ascii
 rolexforum.ru,utf-8,utf-8,utf_8
 roller.de,UTF-8,utf-8,utf_8
 rollingpin.at,UTF-8,utf-8,utf_8
 rollingstone.com,UTF-8,utf-8,utf_8
 rollingstone.de,UTF-8,utf-8,utf_8
 rollingstone.it,UTF-8,utf-8,utf_8
-roma.rs,UTF-8,utf-8,utf_8
+roma.rs,UTF-8,ascii,ascii
 romania-actualitati.ro,UTF-8,utf-8,utf_8
 romania-insider.com,UTF-8,utf-8,utf_8
 romanialibera.ro,UTF-8,utf-8,utf_8
@@ -636,7 +645,6 @@ rosheta.com,utf-8,utf-8,utf_8
 roskilde.dk,utf-8,utf-8,utf_8
 rospotrebnadzor.ru,windows-1251,windows-1251,cp1251
 rossaprimavera.ru,,utf-8,
-rossisport.si,us-ascii,ascii,ascii
 rossmann.com.tr,UTF-8,utf-8,utf_8
 rossmann.cz,utf-8,utf-8,utf_8
 rossmann.de,UTF-8,utf-8,utf_8
@@ -645,6 +653,7 @@ rossmann.pl,,utf-8,utf_8
 rosuchebnik.ru,UTF-8,utf-8,utf_8
 rotana.net,UTF-8,utf-8,utf_8
 rotanaprojects.com,utf-8,ascii,big5
+rotise.gr,,utf-8,utf_8
 rotteml.com,UTF-8,Windows-1254,utf_8
 rottentomatoes.com,,ascii,ascii
 rotter.name,,utf-8,utf_8
@@ -683,6 +692,7 @@ rpp.pe,UTF-8,utf-8,utf_8
 rqeeqa.com,UTF-8,utf-8,utf_8
 rree.gob.sv,UTF-8,utf-8,utf_8
 rri.co.id,UTF-8,utf-8,utf_8
+rri.ro,UTF-8,utf-8,utf_8
 rrif.hr,UTF-8,utf-8,utf_8
 rrr.co.il,utf-8,Windows-1254,utf_8
 rrr.lt,utf-8,utf-8,utf_8
@@ -690,6 +700,7 @@ rs-plovdiv.com,UTF-8,utf-8,utf_8
 rsc.org,utf-8,utf-8,utf_8
 rshb.ru,UTF-8,utf-8,utf_8
 rsi.ch,UTF-8,utf-8,utf_8
+rspdf.info,UTF-8,utf-8,utf_8
 rssing.com,UTF-8,utf-8,utf_8
 rst.ua,windows-1251,windows-1251,cp1251
 rsu.ac.th,,utf-8,utf_8
@@ -708,7 +719,7 @@ rtdco.ru,,utf-8,utf_8
 rte.ie,utf-8,utf-8,utf_8
 rti.org.tw,UTF-8,utf-8,utf_8
 rtl.be,UTF-8,UTF-8-SIG,utf_8_sig
-rtl.de,utf-8,utf-8,iso8859_9
+rtl.de,utf-8,utf-8,utf_8
 rtl.fr,UTF-8,utf-8,utf_8
 rtl.hr,UTF-8,utf-8,utf_8
 rtl.hu,utf-8,utf-8,utf_8
@@ -755,7 +766,6 @@ rudersdal.dk,,ascii,ascii
 rudn.ru,UTF-8,ascii,ascii
 rue20.com,UTF-8,utf-8,utf_8
 rueducommerce.fr,UTF-8,utf-8,utf_8
-ruforum.org,utf-8,utf-8,utf_8
 rug.nl,UTF-8,ascii,ascii
 ruh.ac.lk,utf-8,utf-8,utf_8
 ruhr24.de,utf-8,utf-8,utf_8
@@ -766,7 +776,7 @@ rukkola.hu,utf-8,utf-8,utf_8
 ruling.co.il,utf-8,utf-8,utf_8
 rulit.me,UTF-8,utf-8,utf_8
 rumah.com,UTF-8,ascii,ascii
-rumahdijual.com,UTF-8,utf-8,utf_8
+rumahdijual.com,UTF-8,Windows-1254,utf_8
 rumaysho.com,UTF-8,utf-8,utf_8
 rumba.fi,,ascii,ascii
 rumbo.es,utf-8,utf-8,utf_8
@@ -806,13 +816,13 @@ ruzinov.sk,utf-8,utf-8,utf_8
 rvn.se,utf-8,UTF-8-SIG,utf_8_sig
 rvo.nl,utf-8,utf-8,utf_8
 rvp.cz,UTF-8,utf-8,utf_8
-rvt.lv,utf-8,utf-8,utf_8
+rvt.lv,,ascii,ascii
 rwth-aachen.de,,,utf-8
 rxlist.com,,ascii,ascii
 rxwab.com,UTF-8,Windows-1254,utf_8
 ryanscomputers.com,UTF-8,utf-8,utf_8
 rydo.ru,utf-8,utf-8,utf_8
-rynekpierwotny.pl,UTF-8,ascii,ascii
+rynekpierwotny.pl,utf-8,utf-8,utf_8
 rynekzdrowia.pl,UTF-8,utf-8,utf_8
 ryoiireview.com,utf-8,UTF-8-SIG,utf_8_sig
 ryt9.com,UTF-8,utf-8,utf_8
@@ -834,7 +844,6 @@ saabiklubi.ee,utf-8,utf-8,utf_8
 saaecearamirim.com.br,UTF-8,utf-8,utf_8
 saaid.net,,ISO-8859-9,cp1256
 saarbruecker-zeitung.de,UTF-8,utf-8,utf_8
-saaremaavald.ee,UTF-8,utf-8,utf_8
 saarlane.ee,,Windows-1252,iso8859_9
 saartehaal.ee,utf-8,utf-8,utf_8
 saastopankki.fi,utf-8,utf-8,utf_8
@@ -842,7 +851,7 @@ sabado.pt,utf-8,utf-8,utf_8
 sabah.com.tr,,utf-8,utf_8
 sabaharabi.com,UTF-8,utf-8,utf_8
 saberespractico.com,UTF-8,Windows-1254,utf_8
-saberviver.pt,UTF-8,utf-8,utf_8
+saberviver.pt,,ascii,ascii
 sabervivirtv.com,utf-8,utf-8,utf_8
 sabor.hr,UTF-8,utf-8,utf_8
 saboresajinomoto.com.br,UTF-8,utf-8,utf_8
@@ -870,6 +879,7 @@ safetysolutions.lv,UTF-8,utf-8,utf_8
 saflii.org,,ascii,ascii
 saga-s.co.jp,utf-8,utf-8,utf_8
 saga.co.uk,utf-8,utf-8,utf_8
+sagepub.com,utf-8,utf-8,utf_8
 sageyogact.com,utf-8,ascii,big5
 sagit.cz,,Windows-1252,cp1250
 sagligabiradim.com,utf-8,utf-8,utf_8
@@ -893,7 +903,6 @@ sainsburys.co.uk,,utf-8,utf_8
 saint-flour-communaute.fr,UTF-8,utf-8,utf_8
 saintif.com,UTF-8,ISO-8859-1,utf_8
 saiyasune.com,iso-8859-1,ascii,ascii
-saji.my,UTF-8,utf-8,utf_8
 sakarya.edu.tr,utf-8,UTF-8-SIG,utf_8_sig
 sakaryahostel.com,utf-8,ascii,big5
 sakh.com,utf-8,utf-8,utf_8

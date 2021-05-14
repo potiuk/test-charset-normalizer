@@ -1,7 +1,6 @@
 | finanzas.com | utf-8 | utf_8 |
 | findanyanswer.com | ascii | ascii |
 | findit.fi | utf-8 | utf_8 |
-| findlaw.com | utf-8 | utf_8 |
 | finedictionary.com | ascii | ascii |
 | firmy.cz | utf-8 | utf_8 |
 | fishing-mania.com | utf-8 | utf_8 |
@@ -12,6 +11,7 @@
 | flatfy.ee | utf-8 | utf_8 |
 | flatfy.lt | utf-8 | utf_8 |
 | flatfy.ro | utf-8 | utf_8 |
+| fleetmagazine.pt | ascii | ascii |
 | fleury.com.br | utf-8 | utf_8 |
 | flixbus.hr | utf-8 | utf_8 |
 | flowerparadise.it | ascii | ascii |
@@ -19,6 +19,7 @@
 | fmderana.lk | utf-8 | utf_8 |
 | fmdos.cl | utf-8 | utf_8 |
 | fof.se | utf-8 | utf_8 |
+| folhadelondrina.com.br | utf-8 | utf_8 |
 | folhavitoria.com.br | utf-8 | utf_8 |
 | folkbladet.se | utf-8 | utf_8 |
 | fonq.be | UTF-8-SIG | utf_8_sig |
@@ -40,6 +41,7 @@
 | formula1passion.it | ascii | ascii |
 | forrent.com | ascii | ascii |
 | foschini.co.za | ascii | ascii |
+| fotbollskanalen.se | utf-8 | utf_8 |
 | foursquare.com | utf-8 | utf_8 |
 | foxnews.com | ascii | ascii |
 | foxsports.com | ascii | ascii |
@@ -50,11 +52,11 @@
 | frasimania.it | ascii | ascii |
 | fredmeyer.com | ascii | ascii |
 | free.fr | utf-8 | utf_8 |
+| freebrowsinglink.com | ascii | ascii |
 | freedisc.pl | utf-8 | utf_8 |
 | freedownloadmanager.org | ascii | ascii |
 | freeforumzone.com | UTF-8-SIG | utf_8_sig |
 | freeindex.co.il | ascii | ascii |
-| freeindex.co.uk | utf-8 | utf_8 |
 | freemake.com | utf-8 | utf_8 |
 | freepik.com | ascii | ascii |
 | freepik.es | ascii | ascii |
@@ -71,6 +73,7 @@
 | gamestop.com | ascii | ascii |
 | gamma.be | utf-8 | utf_8 |
 | gartentipps.com | utf-8 | utf_8 |
+| gastrofun.dk | ascii | ascii |
 | gastronomia.com.uy | ascii | ascii |
 | gastronomieguide.de | utf-8 | utf_8 |
 | gaultmillau.com | ascii | ascii |

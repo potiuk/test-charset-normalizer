@@ -20,6 +20,7 @@
 | brendon.sk | ascii | ascii |
 | bricodepot.es | ascii | ascii |
 | bricodepot.pt | ascii | ascii |
+| brilhantego.net | ascii | ascii |
 | brill.com | ascii | ascii |
 | britishcouncil.es | ascii | ascii |
 | britishcouncil.in | ascii | ascii |
@@ -33,6 +34,7 @@
 | bt1.lv | utf-8 | utf_8 |
 | btvnovinite.bg | utf-8 | utf_8 |
 | bu.edu | utf-8 | utf_8 |
+| bucate-aromate.ro | ascii | ascii |
 | budas.lt | utf-8 | utf_8 |
 | buienradar.nl | ascii | ascii |
 | builk.com | ascii | ascii |
@@ -50,7 +52,7 @@
 | businessmagazin.ro | utf-8 | utf_8 |
 | businessofapps.com | ascii | ascii |
 | bustle.com | utf-8 | utf_8 |
-| butikkene.no | utf-8 | utf_8 |
+| butikkene.no | ascii | ascii |
 | buvserviss.lv | utf-8 | utf_8 |
 | buyme.co.il | ascii | ascii |
 | buzznigeria.com | ascii | ascii |
@@ -66,15 +68,18 @@
 | cainz.com | utf-8 | utf_8 |
 | cairo.gov.eg | ascii | ascii |
 | cali.gov.co | ascii | ascii |
+| camnangtienganh.vn | ascii | ascii |
 | campingkartan.se | utf-8 | utf_8 |
 | canadiantire.ca | ascii | ascii |
 | canalnet.tv | utf-8 | utf_8 |
 | canalrcn.com | utf-8 | utf_8 |
+| canoticias.pt | ascii | ascii |
 | capetown.gov.za | ascii | ascii |
 | capital.de | utf-8 | utf_8 |
 | capitalfm.co.ke | ascii | ascii |
 | capterra.com | ascii | ascii |
 | caracoltv.com | ascii | ascii |
+| caracteristicas.co | ascii | ascii |
 | caranddriver.gr | utf-8 | utf_8 |
 | cardekho.com | ascii | ascii |
 | careerlauncher.com | ascii | ascii |
@@ -86,4 +91,5 @@
 | carm.es | ascii | ascii |
 | carrefour.es | ascii | ascii |
 | carsensor.net | utf-8 | utf_8 |
+| carsguide.com.au | ascii | ascii |
 | casaseneleste.com | utf-8 | utf_8 |

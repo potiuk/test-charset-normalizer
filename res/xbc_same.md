@@ -1,6 +1,8 @@
 | tendapiusnc.it | ascii | ascii |
 | tenderarena.cz | ascii | ascii |
+| tenderbulletins.co.za | ascii | ascii |
 | tepleev.ru | utf-8 | utf_8 |
+| terkini.id | ascii | ascii |
 | termedia.pl | utf-8 | utf_8 |
 | terveysportti.mobi | ascii | ascii |
 | tescolotus.com | utf-8 | utf_8 |
@@ -13,7 +15,6 @@
 | tfahat.com | utf-8 | utf_8 |
 | tgy-magazin.hu | ascii | ascii |
 | thai-tour.com | utf-8 | utf_8 |
-| thaifranchisecenter.com | utf-8 | utf_8 |
 | thaihitz.com | ascii | ascii |
 | thaijobsgov.com | ascii | ascii |
 | thaischool1.in.th | ascii | ascii |
@@ -40,6 +41,7 @@
 | theprint.in | ascii | ascii |
 | thessnews.gr | utf-8 | utf_8 |
 | thesundaily.my | utf-8 | utf_8 |
+| thethaipress.com | ascii | ascii |
 | theurdudictionary.com | utf-8 | utf_8 |
 | theweddingvowsg.com | ascii | ascii |
 | theweek.in | utf-8 | utf_8 |
@@ -74,6 +76,7 @@
 | tomassport2.si | utf-8 | utf_8 |
 | tomato.ua | ascii | ascii |
 | tonkosti.ru | ascii | ascii |
+| topbestbrand.com | ascii | ascii |
 | topgear.com | ascii | ascii |
 | topline.ie | ascii | ascii |
 | topperlearning.com | ascii | ascii |

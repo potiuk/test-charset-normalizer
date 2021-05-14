@@ -20,6 +20,7 @@ mojagaraza.rs,UTF-8,utf-8,utf_8
 mojalbum.com,UTF-8,utf-8,utf_8
 mojalekaren.sk,utf-8,utf-8,utf_8
 mojaleta.si,utf-8,utf-8,utf_8
+mojaljekarna.hr,utf-8,utf-8,utf_8
 mojandroid.sk,UTF-8,utf-8,utf_8
 mojanekretnina.rs,UTF-8,utf-8,utf_8
 mojanitra.sk,windows-1250,Windows-1254,cp1250
@@ -30,13 +31,13 @@ mojbutik.si,utf-8,utf-8,utf_8
 moje-grne.com,UTF-8,Windows-1254,utf_8
 moje-podjetje.net,utf-8,utf-8,utf_8
 mojeauto.pl,,utf-8,utf_8
-mojecelebrity.cz,utf-8,utf-8,utf_8
+mojecelebrity.cz,utf-8,utf-8,ptcp154
 mojedelo.com,utf-8,utf-8,utf_8
 mojedopyty.sk,UTF-8,utf-8,utf_8
 mojeforum.online,UTF-8,utf-8,utf_8
 mojegotowanie.pl,UTF-8,utf-8,utf_8
 mojekarte.si,UTF-8,utf-8,utf_8
-mojekrpice.hr,utf-8,Windows-1254,utf_8
+mojekrpice.hr,utf-8,utf-8,utf_8
 mojekrpice.rs,utf-8,Windows-1254,utf_8
 mojelekarna.cz,UTF-8,utf-8,utf_8
 mojenterijer.rs,UTF-8,utf-8,utf_8
@@ -63,11 +64,12 @@ mojok.co,UTF-8,utf-8,utf_8
 mojpedijatar.co.rs,UTF-8,utf-8,utf_8
 mojpes.com,UTF-8,utf-8,utf_8
 mojpogled.com,UTF-8,utf-8,utf_8
+mojprihranek.si,UTF-8,utf-8,utf_8
 mojsajt.rs,,Windows-1254,iso8859_9
 mojslovnik.sk,,Windows-1254,cp1250
 mojtrg.rs,utf-8,utf-8,hp_roman8
 mojtv.hr,utf-8,utf-8,iso8859_9
-mojtv.net,utf-8,utf-8,iso8859_9
+mojtv.net,utf-8,utf-8,utf_8
 mokesciu-sufleris.lt,UTF-8,utf-8,utf_8
 mokhtsr.com,UTF-8,utf-8,utf_8
 mokivezi.lt,UTF-8,utf-8,utf_8
@@ -76,7 +78,7 @@ mokslinciai.lt,UTF-8,utf-8,utf_8
 moksliniaidarbai.lt,UTF-8,utf-8,utf_8
 mokslobaze.lt,utf-8,utf-8,utf_8
 mokslolietuva.lt,UTF-8,utf-8,utf_8
-mol.go.th,UTF-8,utf-8,
+mol.go.th,UTF-8,utf-8,utf_8
 moladin.com,UTF-8,ascii,ascii
 molatdar.co,UTF-8,Windows-1254,utf_8
 molbuk.ua,,windows-1251,cp1251
@@ -108,7 +110,7 @@ monclick.it,UTF-8,ascii,
 moncloa.com,UTF-8,utf-8,utf_8
 mondadorieducation.it,UTF-8,utf-8,utf_8
 mondadoristore.it,UTF-8,utf-8,utf_8
-mondo.ba,utf-8,utf-8,
+mondo.ba,utf-8,utf-8,utf_8
 mondo.me,utf-8,utf-8,utf_8
 mondo.rs,utf-8,utf-8,utf_8
 mondofilm.it,UTF-8,utf-8,utf_8
@@ -161,7 +163,6 @@ monster.fi,utf-8,utf-8,utf_8
 monsterboard.nl,,utf-8,
 monstergulf.com,,ascii,ascii
 monsterindia.com,,ascii,ascii
-montaggimobilitorino.it,,utf-8,utf_8
 montepio.org,us-ascii,ascii,ascii
 monter.no,utf-8,utf-8,utf_8
 montereyinstitute.org,,ascii,ascii
@@ -202,7 +203,7 @@ morrisons.com,UTF-8,utf-8,utf_8
 morski.hr,UTF-8,utf-8,utf_8
 mos.gov.pl,,utf-8,
 mos.ru,utf-8,utf-8,utf_8
-mosaiquefm.net,utf-8,utf-8,utf_8
+mosaiquefm.net,utf-8,utf-8,
 mosca.com.uy,UTF-8,utf-8,utf_8
 moscowbooks.ru,utf-8,utf-8,utf_8
 moscowmap.ru,UTF-8,utf-8,utf_8
@@ -213,7 +214,6 @@ moskisvet.com,,utf-8,utf_8
 mosmetod.ru,utf-8,utf-8,utf_8
 moso3a-shamela.com,UTF-8,utf-8,utf_8
 mosoah.com,UTF-8,utf-8,utf_8
-mosquitoproject.org,UTF-8,utf-8,utf_8
 mosreg.ru,UTF-8,utf-8,utf_8
 moss-avis.no,utf-8,Windows-1252,utf_8
 mostajad.com,UTF-8,utf-8,utf_8
@@ -225,7 +225,7 @@ motherandbaby.co.id,UTF-8,utf-8,utf_8
 mothercare.gr,utf-8,utf-8,utf_8
 mothercare.ru,UTF-8,utf-8,utf_8
 mothersblog.gr,utf-8,utf-8,utf_8
-mothership.sg,,ISO-8859-1,utf_8
+mothership.sg,,utf-8,utf_8
 motion-online.dk,UTF-8,utf-8,utf_8
 motiva.fi,utf-8,utf-8,utf_8
 motke.co.il,utf-8,utf-8,utf_8
@@ -263,7 +263,7 @@ motoride.sk,UTF-8,utf-8,utf_8
 motorionline.com,UTF-8,utf-8,utf_8
 motorkari.cz,UTF-8,utf-8,utf_8
 motormagasinet.dk,UTF-8,utf-8,utf_8
-motoroctane.com,UTF-8,utf-8,utf_8
+motoroctane.com,UTF-8,ISO-8859-1,utf_8
 motorpage.ru,utf-8,utf-8,utf_8
 motorpasion.com,UTF-8,utf-8,utf_8
 motorpasion.com.mx,UTF-8,utf-8,utf_8
@@ -295,7 +295,7 @@ moustakastoys.gr,,ascii,ascii
 moutamadris.ma,UTF-8,utf-8,utf_8
 mouthshut.com,utf-8,utf-8,utf_8
 mouthsofmums.com.au,UTF-8,utf-8,utf_8
-mouv.fr,utf-8,utf-8,utf_8
+mouv.fr,utf-8,utf-8,
 move.ru,utf-8,utf-8,utf_8
 movenoticias.com,UTF-8,utf-8,utf_8
 mover.in.th,UTF-8,utf-8,utf_8
@@ -304,7 +304,7 @@ movervip.com,utf-8,utf-8,utf_8
 moveyouremotion.it,UTF-8,utf-8,
 movie2uhd.com,UTF-8,ascii,ascii
 moviejones.de,UTF-8,utf-8,utf_8
-moviemeter.nl,UTF-8,utf-8,utf_8
+moviemeter.nl,UTF-8,Windows-1252,utf_8
 moviepilot.de,utf-8,utf-8,utf_8
 movieplayer.it,utf-8,utf-8,utf_8
 moviesroom.pl,UTF-8,utf-8,utf_8
@@ -388,7 +388,7 @@ mr.gov.il,UTF-8,utf-8,
 mrakyhracek.cz,UTF-8,utf-8,utf_8
 mrdfood.com,utf-8,utf-8,utf_8
 mrdiy.com,UTF-8,utf-8,utf_8
-mrjet.se,UTF-8,utf-8,utf_8
+mrjet.se,utf-8,utf-8,utf_8
 mrk.cz,iso-8859-2,ISO-8859-1,iso8859_2
 mrkoll.se,UTF-8,ascii,ascii
 mrmiyagi.com.au,UTF-8,utf-8,utf_8
@@ -417,10 +417,10 @@ msry.org,UTF-8,utf-8,utf_8
 mssader.com,UTF-8,utf-8,utf_8
 mst.dk,utf-8,utf-8,utf_8
 mstaml.com,utf-8,ascii,ascii
-mstar.com.my,UTF-8,utf-8,iso8859_9
+mstar.com.my,UTF-8,utf-8,iso8859_10
 msu.ac.th,,ascii,ascii
 msu.edu,utf-8,utf-8,utf_8
-msu.ru,UTF-8,utf-8,utf_8
+msu.ru,utf-8,utf-8,utf_8
 msystems.gr,UTF-8,utf-8,utf_8
 mta.hu,UTF-8,UTF-8-SIG,utf_8_sig
 mtak.hu,,utf-8,utf_8
@@ -439,7 +439,6 @@ mts.ru,utf-8,utf-8,utf_8
 mtsprout.nl,UTF-8,utf-8,utf_8
 mtss.go.cr,,ascii,ascii
 mtv.fi,utf-8,utf-8,utf_8
-mtv.it,utf-8,utf-8,utf_8
 mtva.hu,,utf-8,utf_8
 mtvuutiset.fi,UTF-8,utf-8,utf_8
 mu-mo.net,UTF-8,utf-8,utf_8
@@ -506,6 +505,7 @@ mundoprimaria.com,UTF-8,utf-8,utf_8
 mundovestibular.com.br,UTF-8,utf-8,utf_8
 muni.cz,utf-8,utf-8,utf_8
 municipalidad-argentina.com.ar,utf-8,utf-8,utf_8
+municipiosefreguesias.pt,,ISO-8859-1,cp1252
 muniguate.com,UTF-8,utf-8,utf_8
 munistgo.cl,UTF-8,utf-8,utf_8
 munitel.cl,UTF-8,ascii,ascii
@@ -517,8 +517,9 @@ muovijalelu.fi,UTF-8,Windows-1252,utf_8
 mup.gov.rs,UTF-8,utf-8,utf_8
 muratordom.pl,utf-8,utf-8,utf_8
 muratorplus.pl,utf-8,utf-8,utf_8
+murciasalud.es,iso-8859-1,ISO-8859-1,cp1252
 muresta.lt,UTF-8,utf-8,utf_8
-murha.info,UTF-8,utf-8,utf_8
+murha.info,UTF-8,ascii,ascii
 muropaketti.com,UTF-8,utf-8,utf_8
 musafir.com,utf-8,ascii,ascii
 museot.fi,windows-1252,Windows-1252,cp1252
@@ -527,6 +528,7 @@ music-box.hr,UTF-8,Windows-1254,utf_8
 music.lt,UTF-8,utf-8,utf_8
 musica.com,,utf-8,utf_8
 musicadvocatescc.com,utf-8,ascii,big5
+musicatm.com,UTF-8,utf-8,utf_8
 musicayletras.co,UTF-8,utf-8,utf_8
 musichallnewport.com,utf-8,ascii,big5
 musicjuice.xyz,UTF-8,utf-8,utf_8
@@ -559,7 +561,7 @@ muzebra.me,UTF-8,ascii,ascii
 muzhp.pl,UTF-8,utf-8,utf_8
 muzicahot.pro,UTF-8,ascii,ascii
 muziekweb.nl,UTF-8,utf-8,utf_8
-muzikaspasaule.lv,utf-8,utf-8,utf_8
+muzikaspasaule.lv,,ascii,ascii
 muziken.me,UTF-8,utf-8,utf_8
 muziken.org,UTF-8,utf-8,utf_8
 muziker.cz,utf-8,utf-8,utf_8
@@ -607,7 +609,7 @@ myanimelist.net,UTF-8,utf-8,cp1125
 myavne.co.il,utf-8,utf-8,utf_8
 mybest-brazil.com.br,utf-8,utf-8,utf_8
 mybestbrands.de,utf-8,utf-8,utf_8
-mybike.gr,UTF-8,Windows-1254,utf_8
+mybike.gr,UTF-8,utf-8,utf_8
 myblog.it,ISO-8859-1,UTF-8-SIG,utf_8_sig
 myblog.ro,UTF-8,utf-8,utf_8
 mybook.ru,utf-8,Windows-1254,utf_8
@@ -617,8 +619,8 @@ mycareersfuture.gov.sg,UTF-8,ascii,ascii
 mycarforum.com,,ascii,ascii
 mycashflow.fi,UTF-8,utf-8,
 mycbseguide.com,utf-8,utf-8,utf_8
-mychords.net,utf-8,utf-8,utf_8
-myciti.gr,UTF-8,UTF-8-SIG,mac_cyrillic
+mychords.net,utf-8,Windows-1254,utf_8
+myciti.gr,UTF-8,UTF-8-SIG,utf_8_sig
 mycity.rs,Windows-1250,Windows-1252,cp1250
 myclip.vn,UTF-8,utf-8,utf_8
 mycommunitydirectory.com.au,UTF-8,ascii,ascii
@@ -628,7 +630,6 @@ mydailyspace.dk,UTF-8,utf-8,utf_8
 mydeal.com.au,utf-8,utf-8,utf_8
 mydealz.de,UTF-8,ascii,
 mydestinationcyprus.com,utf-8,ascii,big5
-mydict.com,utf-8,utf-8,utf_8
 mydiv.net,UTF-8,UTF-8-SIG,utf_8_sig
 mydramalist.com,UTF-8,utf-8,utf_8
 mydream.lk,UTF-8,ISO-8859-1,utf_8
@@ -648,7 +649,7 @@ myheimat.de,UTF-8,Windows-1254,utf_8
 myhelsinki.fi,,ascii,ascii
 myheritage.com,UTF-8,utf-8,hp_roman8
 myhindienglish.com,UTF-8,utf-8,utf_8
-myhome.ie,utf-8,utf-8,utf_8
+myhome.ie,utf-8,ISO-8859-1,utf_8
 myhora.com,utf-8,utf-8,utf_8
 myjcom.jp,UTF-8,utf-8,utf_8
 myjob.ch,utf-8,utf-8,utf_8
@@ -679,8 +680,8 @@ mynavi.jp,UTF-8,utf-8,utf_8
 mynet.co.il,UTF-8,utf-8,utf_8
 mynet.com,UTF-8,utf-8,utf_8
 mynewsdesk.com,UTF-8,utf-8,utf_8
-mynewshub.tv,UTF-8,Windows-1254,utf_8
-mynight.si,UTF-8,Windows-1254,utf_8
+mynewshub.tv,,ascii,ascii
+mynight.si,UTF-8,utf-8,utf_8
 myntra.com,,ascii,ascii
 myofer.co.il,utf-8,utf-8,utf_8
 mypharmacy.bg,utf-8,utf-8,utf_8
@@ -688,7 +689,6 @@ mypharmacy.com.ua,UTF-8,utf-8,utf_8
 mypharmacy.gr,UTF-8,Windows-1254,utf_8
 myphone.gr,utf-8,utf-8,utf_8
 mypl.net,UTF-8,utf-8,utf_8
-mypornsnap.top,utf-8,utf-8,utf_8
 mypornvid.cc,utf-8,utf-8,utf_8
 mypornvid.fun,utf-8,utf-8,utf_8
 mypresswire.com,UTF-8,utf-8,utf_8
@@ -706,7 +706,6 @@ myseldon.com,utf-8,utf-8,utf_8
 myshared.ru,UTF-8,utf-8,utf_8
 myshoe.gr,utf-8,utf-8,utf_8
 myshopi.com,utf-8,utf-8,utf_8
-myshopping.com.au,utf-8,ascii,ascii
 myskey-online.com,utf-8,ascii,big5
 mysku.ru,utf-8,utf-8,utf_8
 mysmartprice.com,utf-8,utf-8,utf_8
@@ -723,7 +722,7 @@ mytrendyphone.dk,,utf-8,utf_8
 mytrendyphone.eu,,utf-8,utf_8
 mytrendyphone.no,,utf-8,utf_8
 mytrips.lt,UTF-8,utf-8,utf_8
-mytutor.lk,UTF-8,ascii,
+mytutor.lk,UTF-8,utf-8,
 myupchar.com,utf-8,utf-8,
 myvadesigns.com,UTF-8,ascii,ascii
 mz-mz.net,UTF-8,utf-8,utf_8
@@ -747,7 +746,6 @@ n.nu,,utf-8,utf_8
 n1info.com,,utf-8,utf_8
 n49.com,utf-8,ascii,ascii
 na.gov.pk,UTF-8,utf-8,utf_8
-na.se,utf-8,utf-8,utf_8
 naaf.no,utf-8,utf-8,utf_8
 nab.no,utf-8,utf-8,utf_8
 nabava.net,utf-8,utf-8,utf_8
@@ -785,7 +783,7 @@ naijagists.com,UTF-8,utf-8,utf_8
 naijagreen.com.ng,UTF-8,ascii,ascii
 naijagreentv.com,UTF-8,ascii,ascii
 naijahomebased.com,UTF-8,utf-8,utf_8
-naijaloaded.com.ng,UTF-8,Windows-1254,hp_roman8
+naijaloaded.com.ng,UTF-8,Windows-1254,iso8859_9
 naijamusic.com.ng,UTF-8,utf-8,utf_8
 naijanews.com,UTF-8,utf-8,utf_8
 naijapals.com,utf-8,utf-8,utf_8
@@ -813,7 +811,6 @@ najlacnejsisport.sk,windows-1250,Windows-1254,cp1250
 najlekaren.eu,utf-8,utf-8,utf_8
 najlepszerankingi.pl,UTF-8,utf-8,utf_8
 najnakup.sk,,,utf-8
-najnakupi.si,UTF-8,utf-8,utf_8
 najrecept.sk,UTF-8,utf-8,utf_8
 najrecepty.sk,utf-8,utf-8,utf_8
 najstudent.com,UTF-8,utf-8,utf_8
@@ -823,13 +820,13 @@ naldo.com.ar,UTF-8,utf-8,utf_8
 nalis.bg,utf-8,utf-8,utf_8
 nalog.ru,utf-8,utf-8,utf_8
 namama.bg,utf-8,utf-8,utf_8
-namdaik.name.vn,UTF-8,utf-8,utf_8
-namdinh.gov.vn,utf-8,utf-8,
+namdaik.name.vn,UTF-8,Windows-1254,utf_8
+namdinh.gov.vn,utf-8,utf-8,mac_greek
 namecheap.com,UTF-8,utf-8,utf_8
 names.org,,ascii,ascii
 namestaj.rs,UTF-8,utf-8,utf_8
 nami-nami.ee,UTF-8,utf-8,utf_8
-namk.name.vn,UTF-8,utf-8,utf_8
+namk.name.vn,UTF-8,Windows-1254,utf_8
 namobilu.com,utf-8,utf-8,utf_8
 namoreto.bg,UTF-8,utf-8,utf_8
 namshi.com,utf-8,utf-8,utf_8
@@ -845,7 +842,7 @@ naob.no,UTF-8,ascii,ascii
 naoko.asia,UTF-8,Windows-1252,utf_8
 naomiklein.de,UTF-8,Windows-1254,utf_8
 nap-camp.com,utf-8,utf-8,utf_8
-nap.edu,UTF-8,ascii,ascii
+nap.edu,UTF-8,utf-8,utf_8
 napadynavody.sk,utf-8,utf-8,utf_8
 napaonline.com,UTF-8,ascii,ascii
 napi.hu,UTF-8,utf-8,utf_8
@@ -864,13 +861,14 @@ napster.com,utf-8,utf-8,utf_8
 napsu.fi,UTF-8,ascii,ascii
 naradiehornig.sk,UTF-8,utf-8,utf_8
 naranja.com,utf-8,utf-8,
-narcity.com,utf-8,utf-8,utf_8
+narcity.com,utf-8,Windows-1252,utf_8
 nariba.com,utf-8,utf-8,utf_8
 narkive.com,utf-8,utf-8,utf_8
 narod.hr,,ascii,ascii
 narod.ru,UTF-8,utf-8,utf_8
 narodni-list.hr,utf-8,utf-8,utf_8
 narva.ee,,utf-8,utf_8
+nas.gov.sg,UTF-8,utf-8,utf_8
 nasa-lekarna.si,utf-8,utf-8,utf_8
 nasa.gov,,ISO-8859-1,utf_8
 nasainarabic.net,UTF-8,utf-8,
@@ -881,7 +879,6 @@ nasdaq.com,,ascii,ascii
 nasdaqbaltic.com,UTF-8,utf-8,utf_8
 nasehvezdy.cz,utf-8,utf-8,utf_8
 nasemesto.rs,UTF-8,utf-8,utf_8
-nashiterecepti.com,utf-8,utf-8,utf_8
 nasjonalmuseet.no,,ascii,ascii
 naskoties.com,utf-8,utf-8,utf_8
 naslovi.net,utf-8,utf-8,utf_8
@@ -901,6 +898,7 @@ nation.co.ke,,ascii,ascii
 nation.com.pk,utf-8,utf-8,utf_8
 national-geographic.pl,UTF-8,utf-8,utf_8
 national.ro,UTF-8,utf-8,utf_8
+nationalarchives.gov.uk,UTF-8,utf-8,utf_8
 nationaleberoepengids.nl,UTF-8,utf-8,utf_8
 nationalevacaturebank.nl,UTF-8,utf-8,utf_8
 nationalgeographic.bg,UTF-8,utf-8,utf_8
@@ -924,7 +922,7 @@ natlib.govt.nz,utf-8,utf-8,utf_8
 natmat.se,utf-8,utf-8,utf_8
 natmus.dk,utf-8,utf-8,utf_8
 natura.com.br,,ascii,ascii
-naturabuy.fr,,Windows-1252,iso8859_15
+naturabuy.fr,,Windows-1252,iso8859_14
 natural-gardener.com,UTF-8,ascii,ascii
 naturala.hr,UTF-8,utf-8,utf_8
 naturalista.mx,utf-8,utf-8,utf_8

@@ -1,4 +1,3 @@
-| kecsup.hu | ISO-8859-1 | None |
 | keizai.biz | None | utf-8 |
 | kenyonim.com | windows-1255 | cp1255 |
 | kibrispdr.org | ascii | None |
@@ -16,4 +15,3 @@
 | ktl.co.il | windows-1255 | cp1255 |
 | kukbuk.pl | Windows-1254 | utf_8 |
 | kurzy.cz | Windows-1254 | cp1250 |
-| laboratorioartisticoferraro.it | Windows-1254 | utf_8 |

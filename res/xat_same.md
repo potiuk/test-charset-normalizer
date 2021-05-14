@@ -13,13 +13,13 @@
 | monster.com.sg | ascii | ascii |
 | monstergulf.com | ascii | ascii |
 | monsterindia.com | ascii | ascii |
-| montaggimobilitorino.it | utf-8 | utf_8 |
 | montereyinstitute.org | ascii | ascii |
 | montevideo.com.uy | UTF-8-SIG | utf_8_sig |
 | moon.vn | UTF-8-SIG | utf_8_sig |
 | more.tv | ascii | ascii |
 | morioh.com | ascii | ascii |
 | moskisvet.com | utf-8 | utf_8 |
+| mothership.sg | utf-8 | utf_8 |
 | moto-station.com | utf-8 | utf_8 |
 | motokzn.ru | UTF-8-SIG | utf_8_sig |
 | motomanai.lt | utf-8 | utf_8 |
@@ -43,6 +43,7 @@
 | musica.com | utf-8 | utf_8 |
 | musixmatch.com | ascii | ascii |
 | muslimthaipost.com | utf-8 | utf_8 |
+| muzikaspasaule.lv | ascii | ascii |
 | mvideo.ru | ascii | ascii |
 | mxphone.com | UTF-8-SIG | utf_8_sig |
 | mxphotos.it | ascii | ascii |
@@ -56,6 +57,7 @@
 | myhelsinki.fi | ascii | ascii |
 | myliving.info | utf-8 | utf_8 |
 | mymovies.it | utf-8 | utf_8 |
+| mynewshub.tv | ascii | ascii |
 | myntra.com | ascii | ascii |
 | myproperty.co.za | utf-8 | utf_8 |
 | myswitzerland.com | ascii | ascii |

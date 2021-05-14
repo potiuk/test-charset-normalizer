@@ -16,10 +16,12 @@
 | 5giay.vn | ascii | ascii |
 | 7sur7.be | ascii | ascii |
 | 90min.com | utf-8 | utf_8 |
+| 99wat.com | utf-8 | utf_8 |
 | 9annas.tn | ascii | ascii |
 | 9lives.be | ascii | ascii |
 | a1.bg | utf-8 | utf_8 |
 | aaa.com | utf-8 | utf_8 |
+| aacademica.org | ascii | ascii |
 | ab.gr | ascii | ascii |
 | abaenglish.com | utf-8 | utf_8 |
 | abbinanteimpianti.it | ascii | ascii |
@@ -49,11 +51,12 @@
 | affaritaliani.it | UTF-8-SIG | utf_8_sig |
 | affarsliv.com | utf-8 | utf_8 |
 | afip.gob.ar | ascii | ascii |
-| africabizinfo.com | utf-8 | utf_8 |
 | agapea.com | utf-8 | utf_8 |
 | agendor.com.br | utf-8 | utf_8 |
+| agiare.vn | ascii | ascii |
 | aglasem.com | ascii | ascii |
 | agora.co.il | utf-8 | utf_8 |
+| agriloja.pt | ascii | ascii |
 | agrobiz.hr | ascii | ascii |
 | agrooglasi.si | utf-8 | utf_8 |
 | agroportal.pt | ascii | ascii |
@@ -67,6 +70,8 @@
 | aiyellow.com | ascii | ascii |
 | ajinomoto.co.jp | utf-8 | utf_8 |
 | ajpes.si | utf-8 | utf_8 |
+| akademija-art.hr | ascii | ascii |
 | akakce.com | ascii | ascii |
+| akciosujsag.info | ascii | ascii |
 | akjournals.com | ascii | ascii |
 | akormerkezi.net | utf-8 | utf_8 |

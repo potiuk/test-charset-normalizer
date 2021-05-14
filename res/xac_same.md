@@ -1,4 +1,5 @@
 | archyvai.lt | utf-8 | utf_8 |
+| ardra.biz | ascii | ascii |
 | argiro.gr | ascii | ascii |
 | argos.co.uk | ascii | ascii |
 | argos.ie | ascii | ascii |
@@ -15,6 +16,7 @@
 | asahi.com | utf-8 | utf_8 |
 | asahibeer.co.jp | ascii | ascii |
 | asamblea.gob.sv | ascii | ascii |
+| asbilligt.se | ascii | ascii |
 | asbis.sk | utf-8 | utf_8 |
 | ascensorichiapella.it | ascii | ascii |
 | asda.com | ascii | ascii |
@@ -43,6 +45,8 @@
 | au.com | utf-8 | utf_8 |
 | aucfree.com | ascii | ascii |
 | audioteka.com | utf-8 | utf_8 |
+| auf.org.uy | ascii | ascii |
+| augstskola.lv | ascii | ascii |
 | aujourdhui.fr | ascii | ascii |
 | aukcionas123.lt | utf-8 | utf_8 |
 | aukro.cz | utf-8 | utf_8 |
@@ -56,6 +60,7 @@
 | autojournal.fr | ascii | ascii |
 | automag.co.il | utf-8 | utf_8 |
 | automapa.pl | utf-8 | utf_8 |
+| automobili.hr | ascii | ascii |
 | autoplus.fr | ascii | ascii |
 | autoscuolam13.it | ascii | ascii |
 | autosphere.fr | utf-8 | utf_8 |
@@ -65,10 +70,12 @@
 | autozone.com.mx | ascii | ascii |
 | av.ru | ascii | ascii |
 | avianca.com | ascii | ascii |
+| ayudaenaccion.org | ascii | ascii |
 | azlyrics.com | utf-8 | utf_8 |
+| ba.lv | ascii | ascii |
+| baanjomyut.com | ascii | ascii |
 | babanet.hu | utf-8 | utf_8 |
 | baby.bg | utf-8 | utf_8 |
-| babybook.si | ascii | ascii |
 | babycentre.co.uk | ascii | ascii |
 | badkartan.se | utf-8 | utf_8 |
 | bahn.de | utf-8 | utf_8 |

@@ -32,7 +32,7 @@ skolskiportal.hr,UTF-8,utf-8,utf_8
 skolskysport.sk,UTF-8,utf-8,utf_8
 skolverket.se,UTF-8,utf-8,utf_8
 skonahem.com,utf-8,utf-8,utf_8
-skoob.com.br,ISO-8859-1,Windows-1252,iso8859_14
+skoob.com.br,ISO-8859-1,ISO-8859-1,cp1252
 skor.id,UTF-8,ascii,ascii
 skousen.dk,UTF-8,utf-8,utf_8
 skoven-i-skolen.dk,utf-8,utf-8,utf_8
@@ -106,9 +106,9 @@ slava.bg,UTF-8,utf-8,utf_8
 slavishow.com,UTF-8,utf-8,utf_8
 slbenfica.pt,,ascii,ascii
 slbusinessdirectory.com,UTF-8,utf-8,utf_8
-slchords.com,UTF-8,utf-8,utf_8
+slchords.com,,ascii,ascii
 sleeping-out.co.za,,ascii,ascii
-slektogdata.no,utf-8,utf-8,utf_8
+slektogdata.no,utf-8,utf-8,
 sleky.cz,UTF-8,utf-8,utf_8
 slemankab.go.id,UTF-8,utf-8,utf_8
 sleviste.cz,UTF-8,utf-8,utf_8
@@ -133,7 +133,7 @@ slideshare.net,utf-8,utf-8,utf_8
 slideum.com,UTF-8,ascii,ascii
 sligro.nl,utf-8,utf-8,utf_8
 sliit.lk,UTF-8,UTF-8-SIG,utf_8_sig
-sliven.net,utf-8,windows-1251,
+sliven.net,utf-8,utf-8,utf_8
 sljaka.com,UTF-8,utf-8,utf_8
 sljol.info,utf-8,utf-8,utf_8
 slks.dk,utf-8,utf-8,utf_8
@@ -146,7 +146,7 @@ slo.fi,UTF-8,utf-8,utf_8
 slobodna-bosna.ba,UTF-8,utf-8,utf_8
 slobodnadalmacija.hr,UTF-8,utf-8,utf_8
 slobodnaevropa.org,,ascii,ascii
-sloexport.si,utf-8,utf-8,utf_8
+sloexport.si,utf-8,utf-8,
 sloneczna24.pl,UTF-8,utf-8,utf_8
 slonep.net,utf-8,utf-8,utf_8
 slotrips.si,,ascii,ascii
@@ -185,9 +185,9 @@ slyngebarn.dk,UTF-8,utf-8,utf_8
 sm-tools.com.ua,UTF-8,Windows-1254,utf_8
 sm.ee,utf-8,utf-8,utf_8
 sm2ha.buzz,utf-8,Windows-1254,utf_8
-sm2ha.co,utf-8,utf-8,utf_8
+sm2ha.co,utf-8,Windows-1254,utf_8
 sm3ha.com,,,utf-8
-sm3ha.cyou,utf-8,Windows-1254,utf_8
+sm3ha.cyou,utf-8,utf-8,utf_8
 sm3ha.net,UTF-8,utf-8,utf_8
 sm3ha.org,UTF-8,utf-8,utf_8
 sm3ha.ru,utf-8,utf-8,utf_8
@@ -208,7 +208,7 @@ smarthealthmagazine.org,utf-8,ascii,big5
 smartick.es,UTF-8,utf-8,utf_8
 smarticular.net,,utf-8,utf_8
 smartlog.jp,utf-8,utf-8,utf_8
-smartmania.cz,UTF-8,utf-8,
+smartmania.cz,UTF-8,utf-8,utf_8
 smartmeny.no,utf-8,utf-8,utf_8
 smartprix.com,utf-8,utf-8,utf_8
 smartsme.co.th,UTF-8,utf-8,utf_8
@@ -255,7 +255,6 @@ snagajob.com,utf-8,utf-8,utf_8
 snapdeal.com,UTF-8,utf-8,utf_8
 snapdish.co,UTF-8,Windows-1254,utf_8
 snappe.nu,UTF-8,utf-8,utf_8
-snapz.dk,UTF-8,ascii,ascii
 snaujienos.lt,iso-8859-1,ascii,ascii
 sncf.com,UTF-8,utf-8,utf_8
 sneaker10.gr,utf-8,utf-8,utf_8
@@ -273,7 +272,7 @@ snupit.co.za,utf-8,Windows-1252,utf_8
 so-net.ne.jp,,utf-8,utf_8
 so-rummet.se,UTF-8,utf-8,utf_8
 so.ch,utf-8,utf-8,utf_8
-so.com,UTF-8,utf-8,utf_8
+so.com,UTF-8,utf-8,
 sobaka.ru,UTF-8,utf-8,utf_8
 sobe-smestaj.com,UTF-8,Windows-1254,iso8859_9
 sobiad.com,,ascii,ascii
@@ -283,7 +282,6 @@ sobotainfo.com,UTF-8,ascii,ascii
 soca-valley.com,UTF-8,utf-8,utf_8
 socalremodeling.org,utf-8,ascii,big5
 soccer-magog.com,UTF-8,utf-8,utf_8
-soccerbase.com,UTF-8,utf-8,utf_8
 soccerladuma.co.za,utf-8,utf-8,utf_8
 soccernet.ee,utf-8,utf-8,utf_8
 soccerpunter.com,UTF-8,utf-8,utf_8
@@ -318,7 +316,7 @@ sofiatraffic.bg,utf-8,utf-8,utf_8
 sofmap.com,us-ascii,ascii,ascii
 sofokleousin.gr,UTF-8,utf-8,utf_8
 sofoot.com,,utf-8,
-soft112.com,UTF-8,Windows-1252,utf_8
+soft112.com,UTF-8,utf-8,utf_8
 softbank.jp,,utf-8,utf_8
 softcom.cz,,utf-8,utf_8
 softfamous.com,UTF-8,ascii,ascii
@@ -337,6 +335,8 @@ softwaretestinghelp.com,UTF-8,ascii,ascii
 softzone.es,UTF-8,utf-8,utf_8
 sogou.com,utf-8,utf-8,utf_8
 soha.vn,utf-8,utf-8,utf_8
+sohag-univ.edu.eg,UTF-8,utf-8,utf_8
+sohati.com,utf-8,utf-8,utf_8
 sohu.com,UTF-8,utf-8,utf_8
 soimilk.com,utf-8,utf-8,utf_8
 soinfo.org,UTF-8,Windows-1254,utf_8
@@ -391,7 +391,7 @@ sonnenklar.tv,UTF-8,utf-8,utf_8
 sonora.id,UTF-8,utf-8,utf_8
 sonsbeek2001.nl,,ascii,ascii
 sonumid.ee,UTF-8,utf-8,utf_8
-sonumitooja.ee,UTF-8,utf-8,utf_8
+sonumitooja.ee,,ascii,ascii
 sony-asia.com,utf-8,utf-8,utf_8
 sony-mea.com,utf-8,utf-8,utf_8
 sony.co.in,utf-8,utf-8,utf_8
@@ -413,7 +413,7 @@ soppa365.fi,utf-8,utf-8,utf_8
 sopsr.sk,,utf-8,utf_8
 sorainen.com,UTF-8,utf-8,utf_8
 sorger.sk,UTF-8,UTF-8-SIG,utf_8_sig
-sorhadi.net,utf-8,utf-8,utf_8
+sorhadi.net,utf-8,Windows-1252,utf_8
 soriana.com,UTF-8,utf-8,utf_8
 sorms.lv,UTF-8,,utf-8
 sorozatjunkie.hu,UTF-8,utf-8,utf_8
@@ -442,7 +442,7 @@ souq.com,UTF-8,utf-8,utf_8
 souqalmal.com,,ascii,ascii
 sourceforge.net,utf-8,Windows-1252,utf_8
 sousede.cz,utf-8,utf-8,utf_8
-soutalomma.com,utf-8,utf-8,utf_8
+soutalomma.com,utf-8,utf-8,
 southafrica.net,utf-8,utf-8,utf_8
 southerncookinglight.com,UTF-8,ascii,ascii
 southerncross.co.nz,utf-8,utf-8,utf_8
@@ -472,7 +472,7 @@ spain.info,UTF-8,utf-8,utf_8
 spainlyrics.com,UTF-8,utf-8,utf_8
 span.si,UTF-8,utf-8,utf_8
 spanish.cl,,utf-8,utf_8
-spanishdict.com,utf-8,Windows-1254,utf_8
+spanishdict.com,utf-8,Windows-1252,utf_8
 spar.at,UTF-8,utf-8,utf_8
 spar.co.za,utf-8,utf-8,utf_8
 spar.hr,UTF-8,utf-8,utf_8
@@ -529,7 +529,7 @@ spidersweb.pl,utf-8,utf-8,utf_8
 spiegel.de,utf-8,utf-8,utf_8
 spieletipps.de,UTF-8,utf-8,utf_8
 spielfilm.de,windows-1252,Windows-1252,
-spirea.no,UTF-8,utf-8,utf_8
+spirea.no,,ascii,ascii
 spiritfanfiction.com,utf-8,utf-8,utf_8
 spiritsandwine.lv,UTF-8,utf-8,utf_8
 spirossoulis.com,UTF-8,utf-8,utf_8
@@ -575,7 +575,7 @@ sport24.dk,UTF-8,utf-8,utf_8
 sport24.gr,UTF-8,utf-8,utf_8
 sport24.ru,utf-8,utf-8,utf_8
 sport360.com,UTF-8,utf-8,utf_8
-sport5.co.il,,utf-8,utf_8
+sport5.co.il,utf-8,utf-8,gb18030
 sport7.sk,UTF-8,utf-8,utf_8
 sportacentrs.com,utf-8,Windows-1254,utf_8
 sportal.bg,UTF-8,Windows-1254,utf_8
@@ -613,7 +613,7 @@ sportmaster.ua,UTF-8,utf-8,utf_8
 sportnieuws.nl,UTF-8,Windows-1252,utf_8
 sporto.lv,UTF-8,utf-8,utf_8
 sportobchod.cz,utf-8,utf-8,utf_8
-sportobchod.sk,utf-8,utf-8,iso8859_9
+sportobchod.sk,utf-8,utf-8,utf_8
 sportos.eu,UTF-8,utf-8,utf_8
 sportrbc.ru,UTF-8,utf-8,utf_8
 sportrysy.sk,UTF-8,utf-8,utf_8
@@ -635,11 +635,10 @@ sportvision.me,UTF-8,utf-8,utf_8
 sportvision.ro,UTF-8,utf-8,utf_8
 sportvision.rs,UTF-8,utf-8,utf_8
 sportxx.ch,utf-8,utf-8,cp1125
-sporty.co.nz,utf-8,utf-8,utf_8
-sportytrader.com,UTF-8,utf-8,iso8859_14
+sportytrader.com,UTF-8,utf-8,utf_8
 sportzwiki.com,utf-8,utf-8,utf_8
 sporx.com,,Windows-1252,cp1254
-sporza.be,utf-8,utf-8,hp_roman8
+sporza.be,utf-8,utf-8,cp437
 spotawheel.gr,UTF-8,utf-8,utf_8
 spotdeal.dk,utf-8,utf-8,utf_8
 spotify.com,utf-8,utf-8,utf_8
@@ -654,7 +653,6 @@ spravker.ru,utf-8,utf-8,utf_8
 spravochnick.ru,utf-8,utf-8,utf_8
 sprawdzianiks.pl,utf-8,utf-8,utf_8
 spreadshirt.at,UTF-8,utf-8,utf_8
-spreadshirt.de,UTF-8,utf-8,utf_8
 spreadshirt.dk,UTF-8,utf-8,utf_8
 spreadshirt.fi,UTF-8,utf-8,utf_8
 spreadshirt.fr,UTF-8,utf-8,utf_8
@@ -690,6 +688,7 @@ spyur.am,,utf-8,utf_8
 sqorebda3.com,utf-8,utf-8,utf_8
 square.site,utf-8,utf-8,utf_8
 squarefoot.com.sg,utf-8,utf-8,utf_8
+squaremeal.co.uk,utf-8,utf-8,utf_8
 squarespace.com,utf-8,utf-8,utf_8
 sra7h.com,UTF-8,utf-8,utf_8
 sratim.co.il,UTF-8,utf-8,utf_8
@@ -737,7 +736,7 @@ st.nu,utf-8,utf-8,utf_8
 sta.si,utf-8,utf-8,utf_8
 staatsbladmonitor.be,iso-8859-1,ascii,ascii
 stackedhomes.com,UTF-8,utf-8,utf_8
-stackexchange.com,,utf-8,utf_8
+stackexchange.com,,ascii,ascii
 stackoverflow.com,utf-8,utf-8,cp1125
 stad.gent,UTF-8,utf-8,utf_8
 stadindex.nl,UTF-8,utf-8,utf_8
@@ -865,11 +864,10 @@ steamcommunity.com,UTF-8,utf-8,utf_8
 steampowered.com,UTF-8,utf-8,utf_8
 steemit.com,utf-8,Windows-1254,utf_8
 stefajir.cz,utf-8,utf-8,utf_8
-stefaniagioielliblog.it,,utf-8,utf_8
 steg-electronics.ch,UTF-8,ascii,ascii
 stegforhalsa.se,utf-8,utf-8,utf_8
 steiermark.at,,utf-8,utf_8
-steiermark.com,UTF-8,utf-8,utf_8
+steiermark.com,UTF-8,utf-8,
 steimatzky.co.il,UTF-8,utf-8,utf_8
 stellatech.com,utf-8,utf-8,utf_8
 stepagency-sy.net,UTF-8,utf-8,utf_8
@@ -916,8 +914,9 @@ stockfresh.com,,utf-8,utf_8
 stockland.com.au,utf-8,UTF-8-SIG,utf_8_sig
 stockmann.com,UTF-8,utf-8,utf_8
 stockmann.lv,UTF-8,utf-8,utf_8
-stockopedia.com,UTF-8,utf-8,utf_8
+stockopedia.com,UTF-8,utf-8,cp932
 stockwatch.com.cy,utf-8,utf-8,utf_8
+stockwatch.pl,utf-8,utf-8,utf_8
 stof2000.dk,UTF-8,utf-8,utf_8
 stokesentinel.co.uk,UTF-8,utf-8,utf_8
 stokker.ee,UTF-8,utf-8,utf_8
@@ -932,14 +931,13 @@ stomdet.ru,UTF-8,utf-8,utf_8
 stoodi.com.br,utf-8,utf-8,utf_8
 stop-neplacniki.si,utf-8,utf-8,gb18030
 stopgame.ru,UTF-8,utf-8,utf_8
-stopini.lv,UTF-8,utf-8,utf_8
+stopini.lv,,ascii,ascii
 stoplusjednicka.cz,utf-8,utf-8,utf_8
-store.bg,,windows-1251,cp1251
 storeallbds.com,,ascii,ascii
 storeonline2020.net,utf-8,ascii,big5
 stores.jp,,utf-8,utf_8
 storia.ro,UTF-8,utf-8,utf_8
-storie.id,utf-8,ISO-8859-1,utf_8
+storie.id,utf-8,Windows-1252,utf_8
 storm.mg,UTF-8,utf-8,utf_8
 stortinget.no,utf-8,UTF-8-SIG,
 story.hr,utf-8,utf-8,utf_8

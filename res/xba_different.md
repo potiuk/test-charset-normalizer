@@ -10,4 +10,3 @@
 | sporx.com | Windows-1252 | cp1254 |
 | star.com.tr | Windows-1252 | iso8859_9 |
 | statcan.gc.ca | UTF-8-SIG | None |
-| store.bg | windows-1251 | cp1251 |

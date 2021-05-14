@@ -1,10 +1,12 @@
 | haniotika-nea.gr | utf-8 | utf_8 |
 | happycow.net | ascii | ascii |
+| harakahdaily.net | utf-8 | utf_8 |
 | haridus.ee | utf-8 | utf_8 |
 | hartvannederland.nl | ascii | ascii |
 | harveynorman.com.my | ascii | ascii |
 | harveynorman.com.sg | ascii | ascii |
 | harveynorman.ie | ascii | ascii |
+| hasolidit.com | ascii | ascii |
 | hausjournal.net | ascii | ascii |
 | hbl.com | ascii | ascii |
 | hc.com.vn | utf-8 | utf_8 |
@@ -21,6 +23,7 @@
 | hebpsy.net | ascii | ascii |
 | heilpraxisnet.de | utf-8 | utf_8 |
 | helagotland.se | utf-8 | utf_8 |
+| heli-group.co.il | ascii | ascii |
 | hellenicparliament.gr | ascii | ascii |
 | helles-koepfchen.de | utf-8 | utf_8 |
 | hellomagazine.com | utf-8 | utf_8 |
@@ -39,6 +42,7 @@
 | his-vacation.com | utf-8 | utf_8 |
 | histoiredesfax.com | ascii | ascii |
 | hites.com | ascii | ascii |
+| hitrinibg.com | ascii | ascii |
 | hivisasa.com | utf-8 | utf_8 |
 | hjerteforeningen.dk | ascii | ascii |
 | hln.be | ascii | ascii |
@@ -61,6 +65,7 @@
 | homedepot.com | ascii | ascii |
 | homegate.ch | utf-8 | utf_8 |
 | homehardware.ca | utf-8 | utf_8 |
+| homeinfo.hu | ascii | ascii |
 | homestars.com | ascii | ascii |
 | homestolove.co.nz | ascii | ascii |
 | hoogvliet.com | ascii | ascii |
@@ -84,11 +89,11 @@
 | hrs.com | ascii | ascii |
 | hrs.de | ascii | ascii |
 | hrsd.gov.sa | ascii | ascii |
+| hrvatska-danas.com | ascii | ascii |
 | hsoub.com | utf-8 | utf_8 |
 | huffingtonpost.ca | utf-8 | utf_8 |
 | huffingtonpost.co.uk | ascii | ascii |
 | huffingtonpost.es | ascii | ascii |
-| huffingtonpost.fr | ascii | ascii |
 | huffpost.com | ascii | ascii |
 | huji.ac.il | ascii | ascii |
 | hul2israel.com | utf-8 | utf_8 |

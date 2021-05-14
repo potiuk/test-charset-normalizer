@@ -2,6 +2,7 @@
 | trangvangvietnam.com | utf-8 | utf_8 |
 | transport-online.nl | ascii | ascii |
 | transport-publiczny.pl | UTF-8-SIG | utf_8_sig |
+| transportecarretero.com.uy | ascii | ascii |
 | travel.co.jp | SHIFT_JIS | shift_jis |
 | travelbook.co.jp | ascii | ascii |
 | travelguide.sk | utf-8 | utf_8 |
@@ -11,6 +12,7 @@
 | traveltriangle.com | utf-8 | utf_8 |
 | trh.sk | utf-8 | utf_8 |
 | tribuna.com | utf-8 | utf_8 |
+| tris.com.hr | ascii | ascii |
 | trivago.ae | ascii | ascii |
 | trivago.at | ascii | ascii |
 | trivago.be | ascii | ascii |
@@ -57,6 +59,7 @@
 | truemoney.com | utf-8 | utf_8 |
 | trueplookpanya.com | ascii | ascii |
 | truyenhinhthanhhoa.vn | utf-8 | utf_8 |
+| tryit.lk | ascii | ascii |
 | tsbohemia.cz | utf-8 | utf_8 |
 | tse.go.cr | utf-8 | utf_8 |
 | tsum.ru | ascii | ascii |
@@ -79,7 +82,6 @@
 | turisticke-znamky.cz | utf-8 | utf_8 |
 | turkiyegazetesi.com.tr | utf-8 | utf_8 |
 | tutkrabov.net | utf-8 | utf_8 |
-| tutti-gli-orari.it | utf-8 | utf_8 |
 | tuttitalia.it | utf-8 | utf_8 |
 | tv-tokyo.co.jp | utf-8 | utf_8 |
 | tv2.hu | utf-8 | utf_8 |
@@ -97,6 +99,7 @@
 | twipple.jp | utf-8 | utf_8 |
 | twojapogoda.pl | ascii | ascii |
 | tycsports.com | utf-8 | utf_8 |
+| typepad.com | utf-8 | utf_8 |
 | u-buy.co.nz | ascii | ascii |
 | u-mama.ru | ascii | ascii |
 | uab.cat | utf-8 | utf_8 |
@@ -104,7 +107,6 @@
 | uaeu.ac.ae | utf-8 | utf_8 |
 | ub.edu | utf-8 | utf_8 |
 | uba.ar | utf-8 | utf_8 |
-| ubagroup.com | ascii | ascii |
 | ubuy.ae | ascii | ascii |
 | ubuy.com | ascii | ascii |
 | ubuy.com.bh | ascii | ascii |

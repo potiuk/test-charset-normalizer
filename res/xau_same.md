@@ -1,3 +1,4 @@
+| nauka.bg | ascii | ascii |
 | naukowy.pl | utf-8 | utf_8 |
 | navarra.es | ascii | ascii |
 | navigator.nl | ascii | ascii |
@@ -11,14 +12,13 @@
 | negocio.site | utf-8 | utf_8 |
 | nei.com.br | ascii | ascii |
 | neimanmarcus.com | ascii | ascii |
+| nerede360.com | ascii | ascii |
 | netanya.muni.il | utf-8 | utf_8 |
 | netpincer.hu | ascii | ascii |
 | netshoes.com.br | ascii | ascii |
 | nettimyynti.fi | ascii | ascii |
 | new-girls.ws | utf-8 | utf_8 |
-| newedc.com | utf-8 | utf_8 |
 | newindianexpress.com | ascii | ascii |
-| news-italia-mondo.it | utf-8 | utf_8 |
 | news1.co.il | utf-8 | utf_8 |
 | news24.jp | utf-8 | utf_8 |
 | newsnowgr.com | utf-8 | utf_8 |
@@ -35,7 +35,9 @@
 | nichepoliambulatorio.it | utf-8 | utf_8 |
 | nichiduta.ro | ascii | ascii |
 | nida.ac.th | utf-8 | utf_8 |
+| nieuweoogst.nl | utf-8 | utf_8 |
 | nifty.com | SHIFT_JIS | shift_jis |
+| nigerianprice.com | ascii | ascii |
 | nigerianscholars.com | ascii | ascii |
 | nijz.si | ascii | ascii |
 | nike.com.br | ascii | ascii |
@@ -49,6 +51,7 @@
 | nla.gov.au | ascii | ascii |
 | nlb.si | utf-8 | utf_8 |
 | nocnoc.com | utf-8 | utf_8 |
+| nogetiovnen.dk | ascii | ascii |
 | nonstopshop.rs | utf-8 | utf_8 |
 | noon.com | ascii | ascii |
 | norgebiz.com | utf-8 | utf_8 |
@@ -59,6 +62,7 @@
 | noterancamina.it | ascii | ascii |
 | noticiasetecnologia.com | ascii | ascii |
 | noticiasrcn.com | utf-8 | utf_8 |
+| notranjskoprimorske.si | ascii | ascii |
 | novabizz.com | utf-8 | utf_8 |
 | novayagazeta.ru | utf-8 | utf_8 |
 | novezamky.sk | utf-8 | utf_8 |

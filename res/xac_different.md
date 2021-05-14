@@ -12,12 +12,10 @@
 | automobile.at | ISO-8859-1 | big5hkscs |
 | automoto.ee | ISO-8859-1 | utf_8 |
 | autopower.se | ISO-8859-1 | cp1252 |
-| autoscout24.de | Windows-1252 | utf_8 |
 | autotrader.com | ascii | shift_jis_2004 |
 | autotriti.gr | Windows-1253 | iso8859_7 |
 | avtomanija.com | Windows-1252 | cp1250 |
 | avxperten.dk | ISO-8859-1 | cp1252 |
 | b92.net | Windows-1252 | cp1250 |
-| baanjomyut.com | TIS-620 | iso8859_11 |
 | babycenter.com | ascii | None |
 | badi-info.ch | ISO-8859-1 | cp1250 |

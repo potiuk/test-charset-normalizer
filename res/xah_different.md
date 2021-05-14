@@ -14,7 +14,6 @@
 | doctoronline.bg | windows-1251 | cp1251 |
 | douban.com | None | utf-8 |
 | douglas.nl | ISO-8859-1 | utf_8 |
-| drogisterij.net | Windows-1252 | iso8859_10 |
 | dwango.jp | SHIFT_JIS | cp932 |
 | dziedava.lv | ISO-8859-1 | cp1257 |
 | e-bebek.com | None | utf-8 |

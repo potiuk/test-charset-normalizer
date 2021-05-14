@@ -5,6 +5,7 @@
 | skysportaustria.at | ascii | ascii |
 | sladicagora.xyz | ascii | ascii |
 | slbenfica.pt | ascii | ascii |
+| slchords.com | ascii | ascii |
 | sleeping-out.co.za | ascii | ascii |
 | sli.se | utf-8 | utf_8 |
 | slobodnaevropa.org | ascii | ascii |
@@ -27,6 +28,7 @@
 | softcom.cz | utf-8 | utf_8 |
 | sonderborg.dk | utf-8 | utf_8 |
 | sonsbeek2001.nl | ascii | ascii |
+| sonumitooja.ee | ascii | ascii |
 | sony.com | utf-8 | utf_8 |
 | sopsr.sk | utf-8 | utf_8 |
 | sorubak.com | utf-8 | utf_8 |
@@ -43,11 +45,11 @@
 | speakspeak.com | ascii | ascii |
 | spectrum.com | ascii | ascii |
 | spiceworks.com | ascii | ascii |
+| spirea.no | ascii | ascii |
 | spiti24.gr | ascii | ascii |
 | spitogatos.gr | ascii | ascii |
 | sporcle.com | ascii | ascii |
 | sport.es | utf-8 | utf_8 |
-| sport5.co.il | utf-8 | utf_8 |
 | sportbible.com | utf-8 | utf_8 |
 | sportchek.ca | ascii | ascii |
 | sportisimo.cz | utf-8 | utf_8 |
@@ -62,7 +64,7 @@
 | srilankan.com | ascii | ascii |
 | srita.net | ascii | ascii |
 | srugim.co.il | utf-8 | utf_8 |
-| stackexchange.com | utf-8 | utf_8 |
+| stackexchange.com | ascii | ascii |
 | stampeprofessionalisutela.it | ascii | ascii |
 | stanford.edu | ascii | ascii |
 | staples.com | ascii | ascii |
@@ -71,7 +73,6 @@
 | state.nj.us | utf-8 | utf_8 |
 | stayz.com.au | ascii | ascii |
 | stcars.sg | ascii | ascii |
-| stefaniagioielliblog.it | utf-8 | utf_8 |
 | steiermark.at | utf-8 | utf_8 |
 | steps.me | utf-8 | utf_8 |
 | stf.jus.br | ascii | ascii |
@@ -80,5 +81,6 @@
 | stobklub.cz | utf-8 | utf_8 |
 | stockfresh.com | utf-8 | utf_8 |
 | stoklasa.cz | utf-8 | utf_8 |
+| stopini.lv | ascii | ascii |
 | storeallbds.com | ascii | ascii |
 | stores.jp | utf-8 | utf_8 |

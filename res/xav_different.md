@@ -13,6 +13,7 @@
 | osijek031.com | Windows-1252 | cp1250 |
 | osu.edu | Windows-1252 | utf_8 |
 | otosia.com | ISO-8859-1 | cp1250 |
+| otzyv.ru | windows-1251 | cp1251 |
 | ouh.dk | ISO-8859-1 | cp1252 |
 | outletarredamento.it | ISO-8859-1 | cp1252 |
 | paginainizio.com | ISO-8859-1 | cp1252 |

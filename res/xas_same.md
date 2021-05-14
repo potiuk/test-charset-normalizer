@@ -6,6 +6,7 @@
 | medicinenet.com | ascii | ascii |
 | mediotejo.net | ascii | ascii |
 | mediuutiset.fi | utf-8 | utf_8 |
+| medlife.ro | ascii | ascii |
 | medlineplus.gov | utf-8 | utf_8 |
 | mega-image.ro | ascii | ascii |
 | megafon.tv | utf-8 | utf_8 |
@@ -38,6 +39,7 @@
 | metro.fr | ascii | ascii |
 | metrocuadrado.com | ascii | ascii |
 | metrolyrics.com | utf-8 | utf_8 |
+| metukimsheli.com | ascii | ascii |
 | mev.hr | ascii | ascii |
 | mexicodesconocido.com.mx | ascii | ascii |
 | mexicoo.mx | ascii | ascii |
@@ -48,14 +50,19 @@
 | micheleabruzzese.it | utf-8 | utf_8 |
 | michigan.gov | ascii | ascii |
 | mida.org.il | ascii | ascii |
+| midvakuhava.si | ascii | ascii |
 | miete-aktuell.de | ascii | ascii |
 | mikrobitti.fi | utf-8 | utf_8 |
+| minbynews.dk | ascii | ascii |
+| mindef.gob.bo | ascii | ascii |
 | mineduc.gob.gt | utf-8 | utf_8 |
 | mininterno.net | ascii | ascii |
 | minsalud.gov.co | UTF-8-SIG | utf_8_sig |
 | mintic.gov.co | ascii | ascii |
+| minuneanaturii.ro | ascii | ascii |
 | minuto30.com | ascii | ascii |
 | minv.sk | utf-8 | utf_8 |
+| miragenews.com | utf-8 | utf_8 |
 | mirandre.com | utf-8 | utf_8 |
 | mirror.co.uk | ascii | ascii |
 | mistore.jp | ascii | ascii |
@@ -63,6 +70,7 @@
 | mlsz.hu | ascii | ascii |
 | mmlakaty.com | ascii | ascii |
 | mnamrecepty.eu | utf-8 | utf_8 |
+| moa.gov.cy | ascii | ascii |
 | mobiledokan.com | ascii | ascii |
 | mobilemaya.com | utf-8 | utf_8 |
 | mobileplanet.ua | utf-8 | utf_8 |
@@ -70,7 +78,6 @@
 | mobilesacademy.com | utf-8 | utf_8 |
 | mod.gov.il | ascii | ascii |
 | modanisa.com | ascii | ascii |
-| modenaora.it | utf-8 | utf_8 |
 | modernaskola.sk | utf-8 | utf_8 |
 | modiin.muni.il | ascii | ascii |
 | modna.si | ascii | ascii |

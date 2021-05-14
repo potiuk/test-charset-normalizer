@@ -3,6 +3,7 @@
 | bookme.co.nz | ISO-8859-1 | utf_8 |
 | bouwenwonen.net | Windows-1252 | iso8859_10 |
 | bsearch.be | ISO-8859-1 | None |
+| bsi.ac.id | ascii | big5 |
 | bucatareselevesele.ro | Windows-1254 | utf_8 |
 | bulgarianproperties.bg | windows-1251 | cp1251 |
 | business.gov.au | utf-8 | cp932 |
@@ -10,5 +11,4 @@
 | busyteacher.org | Windows-1252 | cp1251 |
 | buu.ac.th | ascii | utf_16 |
 | bvs.br | ISO-8859-1 | cp1252 |
-| carsguide.com.au | None | utf-8 |
 | carzone.co.il | Windows-1254 | utf_8 |
