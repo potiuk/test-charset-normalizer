@@ -1,6 +1,6 @@
 zm.gov.lv,UTF-8,utf-8,utf_8
 zmaga.com,UTF-8,utf-8,utf_8
-zman.co.il,UTF-8,utf-8,utf_8
+zman.co.il,,utf-8,utf_8
 zmenu.com,utf-8,utf-8,utf_8
 zmiksowani.pl,UTF-8,utf-8,utf_8
 zmones.lt,UTF-8,utf-8,utf_8
@@ -61,7 +61,7 @@ zoopla.co.uk,utf-8,utf-8,utf_8
 zooplus.de,,utf-8,utf_8
 zooplus.fi,,utf-8,utf_8
 zooplus.hu,,Windows-1254,utf_8
-zooplus.nl,,Windows-1254,utf_8
+zooplus.nl,,Windows-1252,utf_8
 zooplus.pl,,Windows-1254,utf_8
 zoot.cz,UTF-8,utf-8,utf_8
 zoot.sk,UTF-8,utf-8,utf_8
@@ -80,7 +80,6 @@ zoznam.sk,utf-8,utf-8,utf_8
 zoznamrealit.sk,UTF-8,utf-8,utf_8
 zoznamskol.eu,,utf-8,utf_8
 zoznamtovaru.sk,UTF-8,utf-8,utf_8
-zozo.jp,,ascii,ascii
 zpierwszegotloczenia.pl,utf-8,utf-8,utf_8
 zpm-mb.si,UTF-8,utf-8,utf_8
 zppaol.co,UTF-8,utf-8,utf_8
@@ -89,7 +88,7 @@ zr.ru,UTF-8,utf-8,utf_8
 zrc-sazu.si,utf-8,utf-8,
 zrenjaninski.com,UTF-8,utf-8,utf_8
 zrkac.lv,,UTF-8-SIG,utf_8_sig
-zrss.si,windows-1250,ascii,utf_16
+zrss.si,windows-1250,ascii,ascii
 zrzutka.pl,UTF-8,utf-8,utf_8
 zs.pub,,utf-8,utf_8
 zse.hr,utf-8,utf-8,utf_8
@@ -110,6 +109,7 @@ zurnal24.si,utf-8,utf-8,utf_8
 zus.pl,UTF-8,utf-8,utf_8
 zutestranice.hr,utf-8,utf-8,utf_8
 zutiklik.hr,utf-8,utf-8,utf_8
+zuze.co.il,UTF-8,utf-8,utf_8
 zuzu.deals,UTF-8,utf-8,utf_8
 zva.gov.lv,UTF-8,utf-8,utf_8
 zvab.com,ISO-8859-1,ISO-8859-1,cp864

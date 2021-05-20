@@ -1,14 +1,13 @@
 | pracuj.pl | utf-8 | None |
 | presse-citron.net | Windows-1252 | utf_8 |
-| proceso.com.mx | Windows-1252 | iso8859_15 |
+| proceso.com.mx | Windows-1252 | iso8859_14 |
 | profesor.pl | ISO-8859-1 | iso8859_2 |
 | proline.pl | None | utf-8 |
 | pronto.com.ar | Windows-1252 | iso8859_15 |
 | qassimy.com | ISO-8859-1 | cp1256 |
 | qatarshares.com | ISO-8859-9 | cp1256 |
-| rabobank.nl | ascii | None |
+| quotidianosanita.it | Windows-1254 | hp_roman8 |
 | racunovodja.com | Windows-1252 | cp1250 |
 | radio.lublin.pl | Windows-1254 | utf_8 |
-| rasamalaysia.com | Windows-1252 | utf_8 |
 | rbt.ru | Windows-1252 | utf_8 |
 | re-store.ru | Windows-1252 | utf_8 |

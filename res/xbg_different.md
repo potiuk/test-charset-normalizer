@@ -4,8 +4,7 @@
 | wowturkey.com | ISO-8859-1 | cp1254 |
 | wroom.ru | windows-1251 | cp1251 |
 | wukong.com | None | utf-8 |
-| wypr.pl | GB2312 | utf_8 |
-| xero.com | ascii | None |
+| wypr.pl | Windows-1252 | utf_8 |
 | xn--8dbacwhj3a.co.il | windows-1255 | cp1255 |
 | xn--altiniai-4wb.info | ISO-8859-1 | cp1257 |
 | xphone24.com | ISO-8859-1 | cp1250 |
@@ -13,8 +12,7 @@
 | xxiamzius.lt | Windows-1252 | cp1257 |
 | yellow.co.nz | utf-8 | None |
 | yenimesaj.com.tr | Windows-1252 | iso8859_9 |
-| ymobile.jp | utf-8 | None |
 | yo-yoo.co.il | windows-1255 | cp1255 |
 | zazoom.it | Windows-1254 | utf_8 |
-| zeno.org | ISO-8859-1 | cp1250 |
+| zeno.org | Windows-1252 | iso8859_10 |
 | zerozero.pt | Windows-1252 | cp1252 |

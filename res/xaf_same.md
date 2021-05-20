@@ -13,6 +13,7 @@
 | centauro.com.br | ascii | ascii |
 | centralpoint.nl | utf-8 | utf_8 |
 | centrocongressipantarei.it | ascii | ascii |
+| centrolinguebenaco.com | ascii | ascii |
 | centrotoys.it | ascii | ascii |
 | cercacasa.it | utf-8 | utf_8 |
 | cercasicasa.it | utf-8 | utf_8 |
@@ -39,6 +40,7 @@
 | chip.com.tr | utf-8 | utf_8 |
 | chitai-gorod.ru | ascii | ascii |
 | choowap.com | utf-8 | utf_8 |
+| chordguitar.net | ascii | ascii |
 | christianperret.es | ascii | ascii |
 | cia.gov | utf-8 | utf_8 |
 | ciencuadras.com | utf-8 | utf_8 |
@@ -51,15 +53,14 @@
 | citizentv.co.ke | ascii | ascii |
 | city.chiba.jp | utf-8 | utf_8 |
 | citydo.com | utf-8 | utf_8 |
-| cityexpress.com | ascii | ascii |
 | citygross.se | utf-8 | utf_8 |
 | cityon.pl | ascii | ascii |
 | clalitmashlima.co.il | ascii | ascii |
+| claro.com.ni | utf-8 | utf_8 |
 | claro.com.sv | utf-8 | utf_8 |
 | claro.cr | ascii | ascii |
 | classes.ru | ascii | ascii |
 | classroom69.cl | ascii | ascii |
-| clearnotebooks.com | ascii | ascii |
 | cleartrip.ae | utf-8 | utf_8 |
 | cleartrip.com | utf-8 | utf_8 |
 | clickatlife.gr | UTF-8-SIG | utf_8_sig |
@@ -70,6 +71,7 @@
 | cmhy.city | utf-8 | utf_8 |
 | cmu.edu | utf-8 | utf_8 |
 | cnpjs.rocks | utf-8 | utf_8 |
+| cnu.edu.ni | ascii | ascii |
 | cobiss.si | utf-8 | utf_8 |
 | coccoc.com | utf-8 | utf_8 |
 | coconala.com | ascii | ascii |
@@ -78,9 +80,7 @@
 | colpensiones.gov.co | ascii | ascii |
 | colsubsidio.com | ascii | ascii |
 | comfy.ua | ascii | ascii |
-| commercialrealestate.com.au | ascii | ascii |
 | comparis.ch | ascii | ascii |
-| computerworld.pl | ascii | ascii |
 | computrabajo.cl | UTF-8-SIG | utf_8_sig |
 | computrabajo.co.cr | UTF-8-SIG | utf_8_sig |
 | computrabajo.com | UTF-8-SIG | utf_8_sig |
@@ -89,8 +89,6 @@
 | computrabajo.com.ec | UTF-8-SIG | utf_8_sig |
 | computrabajo.com.mx | UTF-8-SIG | utf_8_sig |
 | computrabajo.com.uy | UTF-8-SIG | utf_8_sig |
-| comunagencia.es | ascii | ascii |
-| comunicatorbg.com | utf-8 | utf_8 |
 | comuniecitta.it | utf-8 | utf_8 |
 | conare.ac.cr | ascii | ascii |
 | conceito.de | ascii | ascii |

@@ -1,13 +1,11 @@
 | transindex.ro | Windows-1252 | iso8859_2 |
-| travelnews.ch | utf-8 | None |
 | travelstart.co.za | Windows-1252 | utf_8 |
 | treking.cz | Windows-1254 | cp1250 |
 | troostwijkauctions.com | UTF-8-SIG | None |
 | trovanumeri.com | ISO-8859-1 | cp1125 |
-| trulia.com | ascii | big5 |
 | tudosobreprodutos.com.br | Windows-1254 | utf_8 |
 | tunisie-annonce.com | ISO-8859-1 | cp1252 |
-| tutti-gli-orari.it | ISO-8859-1 | utf_8 |
+| turismodeportugal.pt | None | utf-8 |
 | tvojlekar.sk | Windows-1254 | cp1250 |
 | twitch.tv | Windows-1252 | utf_8 |
 | uach.cl | ISO-8859-1 | cp1252 |

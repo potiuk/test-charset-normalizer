@@ -2,7 +2,6 @@
 | bom.gov.au | ascii | ascii |
 | bonbonijezero.xyz | ascii | ascii |
 | bontonland.cz | utf-8 | utf_8 |
-| bookabach.co.nz | ascii | ascii |
 | bookis.com | utf-8 | utf_8 |
 | booktopia.com.au | ascii | ascii |
 | boonthavorn.com | ascii | ascii |
@@ -20,7 +19,6 @@
 | brendon.sk | ascii | ascii |
 | bricodepot.es | ascii | ascii |
 | bricodepot.pt | ascii | ascii |
-| brilhantego.net | ascii | ascii |
 | brill.com | ascii | ascii |
 | britishcouncil.es | ascii | ascii |
 | britishcouncil.in | ascii | ascii |
@@ -34,9 +32,7 @@
 | bt1.lv | utf-8 | utf_8 |
 | btvnovinite.bg | utf-8 | utf_8 |
 | bu.edu | utf-8 | utf_8 |
-| bucate-aromate.ro | ascii | ascii |
 | budas.lt | utf-8 | utf_8 |
-| buienradar.nl | ascii | ascii |
 | builk.com | ascii | ascii |
 | bukvar.bg | ascii | ascii |
 | bulgarianhistory.org | utf-8 | utf_8 |
@@ -44,6 +40,7 @@
 | buro247.my | utf-8 | utf_8 |
 | bursa.ro | utf-8 | utf_8 |
 | buscapalabras.com.ar | utf-8 | utf_8 |
+| business.gov.au | UTF-8-SIG | utf_8_sig |
 | business.govt.nz | ascii | ascii |
 | business.site | utf-8 | utf_8 |
 | businessinsider.co.za | utf-8 | utf_8 |
@@ -53,12 +50,12 @@
 | businessofapps.com | ascii | ascii |
 | bustle.com | utf-8 | utf_8 |
 | butikkene.no | ascii | ascii |
+| buu.ac.th | ascii | ascii |
 | buvserviss.lv | utf-8 | utf_8 |
 | buyme.co.il | ascii | ascii |
 | buzznigeria.com | ascii | ascii |
 | bva-auctions.com | ascii | ascii |
 | bydleni.cz | utf-8 | utf_8 |
-| byjus.com | ascii | ascii |
 | c.ua | utf-8 | utf_8 |
 | c3.hu | utf-8 | utf_8 |
 | ca.gov | UTF-8-SIG | utf_8_sig |
@@ -82,14 +79,13 @@
 | caracteristicas.co | ascii | ascii |
 | caranddriver.gr | utf-8 | utf_8 |
 | cardekho.com | ascii | ascii |
-| careerlauncher.com | ascii | ascii |
 | carehome.co.uk | ascii | ascii |
 | carfax.com | ascii | ascii |
 | carid.com | ascii | ascii |
+| carine.co.il | ascii | ascii |
 | carl-ras.dk | utf-8 | utf_8 |
 | carlofrauvini.it | ascii | ascii |
 | carm.es | ascii | ascii |
 | carrefour.es | ascii | ascii |
 | carsensor.net | utf-8 | utf_8 |
-| carsguide.com.au | ascii | ascii |
 | casaseneleste.com | utf-8 | utf_8 |

@@ -1,6 +1,10 @@
 #!/usr/bin/env bash
 export PYTHONUNBUFFERED=1
-parallel --linebuffer --tag -j 34 ./test_encoding.py ::: xaa xab xac xad xae xaf xag xah xai xaj xak xal xam xan xao xap xaq xar xas xat xau xav xaw xax xay xaz xba xbb xbc xbd xbe xbf xbg xbh
+parallel --linebuffer --tag -j 34 ./test_encoding.py --input-directory "URLS-split" --output-directory "res" \
+    ::: xaa xab xac xad xae xaf xag xah xai xaj \
+        xak xal xam xan xao xap xaq xar xas xat \
+        xau xav xaw xax xay xaz xba xbb xbc xbd \
+        xbe xbf xbg xbh
 cat header.md res/x*_different.md > res/combined_different.md
 cat header.md res/x*_same.md > res/combined_same.md
 cat res/x*all.csv > res/combined_all.csv

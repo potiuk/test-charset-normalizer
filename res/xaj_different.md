@@ -3,9 +3,9 @@
 | esm3ha.net | None | utf-8 |
 | est.hu | ISO-8859-1 | cp1250 |
 | etagi.com | None | utf-8 |
-| etihad.com | UTF-8-SIG | None |
 | evripidis.gr | None | utf-8 |
 | farmakeutikoskosmos.gr | ISO-8859-7 | cp1253 |
 | fc2web.com | SHIFT_JIS | cp932 |
 | feebee.com.tw | None | utf-8 |
 | femaledaily.com | Windows-1254 | utf_8 |
+| filmpolski.pl | Windows-1254 | iso8859_9 |

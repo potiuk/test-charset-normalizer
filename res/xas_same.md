@@ -4,11 +4,10 @@
 | mediaspeed.net | utf-8 | utf_8 |
 | medicifamiglia.it | ascii | ascii |
 | medicinenet.com | ascii | ascii |
+| medicinfo.nl | ascii | ascii |
 | mediotejo.net | ascii | ascii |
 | mediuutiset.fi | utf-8 | utf_8 |
-| medlife.ro | ascii | ascii |
 | medlineplus.gov | utf-8 | utf_8 |
-| mega-image.ro | ascii | ascii |
 | megafon.tv | utf-8 | utf_8 |
 | megaport.hu | utf-8 | utf_8 |
 | meic.go.cr | utf-8 | utf_8 |
@@ -26,7 +25,6 @@
 | menulog.com.au | ascii | ascii |
 | menus.co.nz | utf-8 | utf_8 |
 | mercadolibre.com | utf-8 | utf_8 |
-| mercubuana-yogya.ac.id | utf-8 | utf_8 |
 | mercubuana.ac.id | ascii | ascii |
 | merkurymarket.hu | ascii | ascii |
 | merkurymarket.pl | ascii | ascii |
@@ -39,7 +37,6 @@
 | metro.fr | ascii | ascii |
 | metrocuadrado.com | ascii | ascii |
 | metrolyrics.com | utf-8 | utf_8 |
-| metukimsheli.com | ascii | ascii |
 | mev.hr | ascii | ascii |
 | mexicodesconocido.com.mx | ascii | ascii |
 | mexicoo.mx | ascii | ascii |
@@ -47,17 +44,16 @@
 | mgronline.com | utf-8 | utf_8 |
 | mhmedical.com | ascii | ascii |
 | miadn.mx | ascii | ascii |
-| micheleabruzzese.it | utf-8 | utf_8 |
 | michigan.gov | ascii | ascii |
 | mida.org.il | ascii | ascii |
-| midvakuhava.si | ascii | ascii |
 | miete-aktuell.de | ascii | ascii |
 | mikrobitti.fi | utf-8 | utf_8 |
+| milog.co.il | utf-8 | utf_8 |
 | minbynews.dk | ascii | ascii |
 | mindef.gob.bo | ascii | ascii |
 | mineduc.gob.gt | utf-8 | utf_8 |
+| mingpao.com | utf-8 | utf_8 |
 | mininterno.net | ascii | ascii |
-| minsalud.gov.co | UTF-8-SIG | utf_8_sig |
 | mintic.gov.co | ascii | ascii |
 | minuneanaturii.ro | ascii | ascii |
 | minuto30.com | ascii | ascii |
@@ -77,7 +73,6 @@
 | mobileprice-bangladesh.com | utf-8 | utf_8 |
 | mobilesacademy.com | utf-8 | utf_8 |
 | mod.gov.il | ascii | ascii |
-| modanisa.com | ascii | ascii |
 | modernaskola.sk | utf-8 | utf_8 |
 | modiin.muni.il | ascii | ascii |
 | modna.si | ascii | ascii |
@@ -88,3 +83,4 @@
 | moh.gov.gr | ascii | ascii |
 | mohito.com | utf-8 | utf_8 |
 | moi.go.th | ascii | ascii |
+| moi.gov.ae | ascii | ascii |

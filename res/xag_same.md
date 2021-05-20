@@ -1,4 +1,3 @@
-| consultasec.com | ascii | ascii |
 | contact.bg | ascii | ascii |
 | contrataciondelestado.es | ascii | ascii |
 | coocan.jp | utf-8 | utf_8 |
@@ -7,13 +6,10 @@
 | coolshop.com | ascii | ascii |
 | coolshop.rs | utf-8 | utf_8 |
 | coopshop.it | utf-8 | utf_8 |
-| coppel.com | ascii | ascii |
 | cordvida.com.br | ascii | ascii |
 | cornell.edu | utf-8 | utf_8 |
 | correiobraziliense.com.br | utf-8 | utf_8 |
 | corren.se | utf-8 | utf_8 |
-| correodelorinoco.gob.ve | ascii | ascii |
-| correycompra.es | ascii | ascii |
 | cosmopolitan.bg | utf-8 | utf_8 |
 | costco.ca | ascii | ascii |
 | costco.co.uk | ascii | ascii |
@@ -38,12 +34,12 @@
 | cse.lk | ascii | ascii |
 | cso.ie | ascii | ascii |
 | csob.cz | utf-8 | utf_8 |
-| csob.sk | ascii | ascii |
 | cuidadospelavida.com.br | utf-8 | utf_8 |
+| culturacolectiva.com | utf-8 | utf_8 |
 | cuponofesh.co.il | utf-8 | utf_8 |
 | cute1.cc | utf-8 | utf_8 |
+| cvs.com | ascii | ascii |
 | cw.no | utf-8 | utf_8 |
-| cyberspaceandtime.com | ascii | ascii |
 | czechcrunch.cz | utf-8 | utf_8 |
 | d-k.lv | utf-8 | utf_8 |
 | dafatiri.com | ascii | ascii |
@@ -65,6 +61,7 @@
 | danannoncer.com | ascii | ascii |
 | danilomastroddi.it | ascii | ascii |
 | danmurphys.com.au | ascii | ascii |
+| dar-alifta.org | UTF-8-SIG | utf_8_sig |
 | daserste.de | utf-8 | utf_8 |
 | datacomp.sk | utf-8 | utf_8 |
 | davidjones.com | ascii | ascii |
@@ -92,10 +89,7 @@
 | dek-d.com | ascii | ascii |
 | dekoruma.com | utf-8 | utf_8 |
 | dekrantenkoppen.be | utf-8 | utf_8 |
-| delhaize.be | ascii | ascii |
-| delicious.com.au | ascii | ascii |
 | delta.co.il | ascii | ascii |
-| demae-can.com | ascii | ascii |
 | demi.fi | utf-8 | utf_8 |
 | demorgen.be | ascii | ascii |
 | demre.cl | UTF-8-SIG | utf_8_sig |

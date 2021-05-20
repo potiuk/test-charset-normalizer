@@ -1,5 +1,3 @@
-| medicinfo.nl | ascii | None |
-| medicosdeelsalvador.com | ISO-8859-1 | cp1250 |
 | medigraphic.com | ISO-8859-1 | cp850 |
 | medindia.net | Windows-1252 | iso8859_9 |
 | memorial.com.tr | None | utf-8 |

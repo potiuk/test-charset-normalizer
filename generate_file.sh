@@ -10,27 +10,18 @@ FILENAME=${3?:Missing filename as third parameter}
 
 CONTENT_LENGTH=${#CONTENT}
 
-function confirm() {
-    read -p "Are you sure? " -n 1 -r
-    echo
-    if [[ ! $REPLY =~ ^[Yy]$ ]]
-    then
-        exit 1
-    fi
-}
-
 echo "Creating file of the size of $(numfmt --to=iec $(( CONTENT_LENGTH * 2 ** NUM_LOOPS)))B"
-
-confirm
 
 echo -n "${CONTENT}" > "${FILENAME}"
 
 for loop in $(seq 1 "${NUM_LOOPS}")
 do
-    echo "Loop ${loop}"
+    echo -n "."
     # shellcheck disable=SC2094
     cp "${FILENAME}" "${FILENAME}.tmp"
     mv "${FILENAME}" "${FILENAME}.tmp2"
     cat "${FILENAME}.tmp" "${FILENAME}.tmp2" > "${FILENAME}"
     rm "${FILENAME}.tmp" "${FILENAME}.tmp2"
 done
+
+echo

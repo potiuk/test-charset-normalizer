@@ -12,10 +12,11 @@
 | sydvestjysksygehus.dk | ISO-8859-1 | cp1252 |
 | t3n.de | Windows-1254 | utf_8 |
 | talniri.co.il | windows-1255 | cp1255 |
-| taste.co.za | Windows-1252 | utf_8 |
+| taste.co.za | Windows-1254 | cp1125 |
 | tbmm.gov.tr | ISO-8859-1 | cp1250 |
 | techinasia.com | None | utf-8 |
 | teknologisk.dk | ISO-8859-1 | cp1252 |
 | teksty.org | Windows-1254 | hp_roman8 |
 | telam.com.ar | Windows-1252 | iso8859_9 |
 | telebasel.ch | utf-8 | None |
+| telecomnews.co.il | utf-8 | None |

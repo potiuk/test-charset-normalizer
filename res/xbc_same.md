@@ -1,10 +1,9 @@
 | tendapiusnc.it | ascii | ascii |
 | tenderarena.cz | ascii | ascii |
-| tenderbulletins.co.za | ascii | ascii |
 | tepleev.ru | utf-8 | utf_8 |
-| terkini.id | ascii | ascii |
 | termedia.pl | utf-8 | utf_8 |
 | terveysportti.mobi | ascii | ascii |
+| tervisliktoitumine.ee | ascii | ascii |
 | tescolotus.com | utf-8 | utf_8 |
 | test.se | utf-8 | utf_8 |
 | testado.cz | utf-8 | utf_8 |
@@ -15,11 +14,13 @@
 | tfahat.com | utf-8 | utf_8 |
 | tgy-magazin.hu | ascii | ascii |
 | thai-tour.com | utf-8 | utf_8 |
+| thaifranchisecenter.com | utf-8 | utf_8 |
 | thaihitz.com | ascii | ascii |
 | thaijobsgov.com | ascii | ascii |
 | thaischool1.in.th | ascii | ascii |
 | thaithurkic.com | utf-8 | utf_8 |
 | thaiticketmajor.com | utf-8 | utf_8 |
+| thaiza.com | utf-8 | utf_8 |
 | thanachartbank.co.th | ascii | ascii |
 | thanhphohaiphong.gov.vn | utf-8 | utf_8 |
 | thansen.dk | utf-8 | utf_8 |
@@ -41,11 +42,10 @@
 | theprint.in | ascii | ascii |
 | thessnews.gr | utf-8 | utf_8 |
 | thesundaily.my | utf-8 | utf_8 |
-| thethaipress.com | ascii | ascii |
 | theurdudictionary.com | utf-8 | utf_8 |
 | theweddingvowsg.com | ascii | ascii |
 | theweek.in | utf-8 | utf_8 |
-| thomsonlocal.com | ascii | ascii |
+| thomsonlocal.com | UTF-8-SIG | utf_8_sig |
 | thriftbooks.com | ascii | ascii |
 | ticketmaster.no | ascii | ascii |
 | tigo.com.bo | ascii | ascii |
@@ -65,7 +65,6 @@
 | tivi.fi | utf-8 | utf_8 |
 | tmbbank.com | utf-8 | utf_8 |
 | tnnthailand.com | utf-8 | utf_8 |
-| toctoc.com | utf-8 | utf_8 |
 | todosbiz.com | utf-8 | utf_8 |
 | todosbiz.es | utf-8 | utf_8 |
 | todosnegocios.com | utf-8 | utf_8 |
@@ -76,6 +75,7 @@
 | tomassport2.si | utf-8 | utf_8 |
 | tomato.ua | ascii | ascii |
 | tonkosti.ru | ascii | ascii |
+| tooelu.ee | utf-8 | utf_8 |
 | topbestbrand.com | ascii | ascii |
 | topgear.com | ascii | ascii |
 | topline.ie | ascii | ascii |
@@ -91,6 +91,7 @@
 | toys-empire.co.il | ascii | ascii |
 | tractorsupply.com | ascii | ascii |
 | trade.sk | utf-8 | utf_8 |
+| tradeindia.com | ascii | ascii |
 | trademax.dk | ascii | ascii |
 | trademax.no | ascii | ascii |
 | trademax.se | ascii | ascii |

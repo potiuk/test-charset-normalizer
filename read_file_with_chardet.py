@@ -7,9 +7,10 @@ from timebudget import timebudget
 
 @timebudget
 def detect(data_to_detect: bytes):
-    return chardet.detect(data)
+    return chardet.detect(data_to_detect)
 
 
+# noinspection DuplicatedCode
 @timebudget
 def read_file():
     file = sys.argv[1]
@@ -17,6 +18,10 @@ def read_file():
         return fp.read()
 
 
+def main():
+    data = read_file()
+    chardet_result = detect(data)
 
-data=read_file()
-chardet_result = detect(data)
+
+if __name__ == '__main__':
+    main()

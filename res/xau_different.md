@@ -1,12 +1,12 @@
 | net-empregos.com | ISO-8859-1 | cp1252 |
+| netanya.muni.il | Windows-1254 | utf_8 |
 | netauktion.se | ISO-8859-1 | cp1252 |
 | netkeiba.com | EUC-JP | euc_jis_2004 |
-| nfe.go.th | TIS-620 | iso8859_11 |
 | nghmat.com | ISO-8859-9 | cp1256 |
+| nieuweoogst.nl | utf-8 | None |
 | nosavis.com | ISO-8859-1 | cp1252 |
 | nostal.co.il | windows-1255 | cp1255 |
-| novamedia.rs | Windows-1254 | iso8859_9 |
+| novamedia.rs | Windows-1254 | gb18030 |
 | novinite.bg | windows-1251 | cp1251 |
 | npmjs.com | Windows-1252 | utf_8 |
-| nporadio2.nl | ISO-8859-1 | big5 |
 | nta.co.jp | SHIFT_JIS | cp932 |

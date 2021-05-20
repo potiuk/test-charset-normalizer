@@ -10,5 +10,4 @@
 | kasetporpeang.com | TIS-620 | iso8859_11 |
 | kazanexpress.ru | ascii | cp037 |
 | kazanlak.com | windows-1251 | cp1251 |
-| kbc.be | ascii | None |
 | kboing.com.br | ISO-8859-1 | cp1252 |

@@ -23,7 +23,6 @@
 | moto-station.com | utf-8 | utf_8 |
 | motokzn.ru | UTF-8-SIG | utf_8_sig |
 | motomanai.lt | utf-8 | utf_8 |
-| motortrend.com | ascii | ascii |
 | moustakastoys.gr | ascii | ascii |
 | movistar.com.uy | ascii | ascii |
 | mp.cz | utf-8 | utf_8 |
@@ -31,13 +30,13 @@
 | mp3kulisi.com | UTF-8-SIG | utf_8_sig |
 | mp3xi.net | ascii | ascii |
 | mpo.cz | utf-8 | utf_8 |
+| mps.hr | ascii | ascii |
 | mr-jatt.in | ascii | ascii |
 | mskobr.ru | ascii | ascii |
 | msu.ac.th | ascii | ascii |
 | mtak.hu | utf-8 | utf_8 |
 | mtss.go.cr | ascii | ascii |
 | mtva.hu | utf-8 | utf_8 |
-| mujerhoy.com | utf-8 | utf_8 |
 | muji.com | utf-8 | utf_8 |
 | multi-news.gr | ascii | ascii |
 | musica.com | utf-8 | utf_8 |
@@ -50,6 +49,7 @@
 | mxplayer.in | ascii | ascii |
 | my-hammer.de | ascii | ascii |
 | mycarforum.com | ascii | ascii |
+| mycashflow.fi | utf-8 | utf_8 |
 | myfave.com | utf-8 | utf_8 |
 | myfitnesspal.com | utf-8 | utf_8 |
 | mygarage.ro | ascii | ascii |
@@ -58,7 +58,6 @@
 | myliving.info | utf-8 | utf_8 |
 | mymovies.it | utf-8 | utf_8 |
 | mynewshub.tv | ascii | ascii |
-| myntra.com | ascii | ascii |
 | myproperty.co.za | utf-8 | utf_8 |
 | myswitzerland.com | ascii | ascii |
 | mytoys.de | ascii | ascii |
@@ -71,6 +70,7 @@
 | n1info.com | utf-8 | utf_8 |
 | nabavke.com | ascii | ascii |
 | nafeza2world.com | ascii | ascii |
+| naijanews.com | ascii | ascii |
 | najboljamamanasvetu.com | ascii | ascii |
 | names.org | ascii | ascii |
 | napolovina.com | utf-8 | utf_8 |
@@ -79,7 +79,6 @@
 | narod.hr | ascii | ascii |
 | narva.ee | utf-8 | utf_8 |
 | nasamnatam.com | utf-8 | utf_8 |
-| nasdaq.com | ascii | ascii |
 | nasjonalmuseet.no | ascii | ascii |
 | natgeo.pt | utf-8 | utf_8 |
 | nathaliestaarten.nl | utf-8 | utf_8 |

@@ -2,9 +2,8 @@
 | vita.bg | windows-1251 | cp1251 |
 | vitaexpress.ru | Windows-1252 | utf_8 |
 | vivo.com.br | utf-8 | None |
-| vivre.ro | ISO-8859-1 | utf_8 |
 | votpusk.ru | windows-1251 | cp1251 |
-| vovve.net | Windows-1252 | iso8859_14 |
+| vovve.net | Windows-1252 | iso8859_13 |
 | voyageforum.com | ISO-8859-1 | cp1252 |
 | vroom.be | None | utf-8 |
 | vrum.com.br | ISO-8859-1 | cp1252 |

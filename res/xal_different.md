@@ -1,12 +1,10 @@
-| giardinaggio.it | ISO-8859-1 | cp1252 |
+| giardinaggio.it | ISO-8859-1 | hp_roman8 |
 | goingapp.pl | Windows-1254 | utf_8 |
 | goo-net.com | EUC-JP | euc_jis_2004 |
 | goobike.com | Windows-1252 | iso8859_5 |
 | gotquestions.org | Windows-1252 | utf_8 |
 | gov.mb.ca | ISO-8859-1 | cp1250 |
-| gov.nl.ca | ascii | None |
 | gozlemgazetesi.com | None | utf-8 |
-| grainger.com | ascii | None |
 | grammar-monster.com | Windows-1252 | cp1125 |
 | greengazette.co.za | ISO-8859-1 | utf_8 |
 | gry-online.pl | Windows-1254 | cp1250 |

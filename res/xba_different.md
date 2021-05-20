@@ -2,7 +2,7 @@
 | slovenskainzercia.sk | utf-8 | None |
 | slovored.com | windows-1251 | cp1251 |
 | sm3ha.com | None | utf-8 |
-| smulweb.nl | Windows-1252 | utf_8 |
+| sms.cz | Windows-1254 | cp1250 |
 | societe.com | Windows-1252 | iso8859_15 |
 | sofoot.com | utf-8 | None |
 | spleis.no | Windows-1252 | utf_8 |
@@ -10,3 +10,4 @@
 | sporx.com | Windows-1252 | cp1254 |
 | star.com.tr | Windows-1252 | iso8859_9 |
 | statcan.gc.ca | UTF-8-SIG | None |
+| store.bg | windows-1251 | cp1251 |

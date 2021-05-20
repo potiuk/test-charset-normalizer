@@ -15,13 +15,14 @@ def detect(data_to_detect: bytes):
     return CnM.from_bytes(
         data_to_detect,
         steps=10,  # Number of steps/block to extract from my_byte_str
-        chunk_size=10240,  # Set block size of each extraction
+        chunk_size=1024,  # Set block size of each extraction
         threshold=0.2,  # Maximum amount of chaos allowed on first pass
-        preemptive_behaviour=False,  # Determine if we should look into my_byte_str (ASCII-Mode) for pre-defined encoding
+        preemptive_behaviour=False,  # Determine if we should look into my_byte_str for pre-defined encoding
         explain=False  # Print on screen what is happening when searching for a match
     )
 
 
+# noinspection DuplicatedCode
 @timebudget
 def read_file():
     file = sys.argv[1]
@@ -29,5 +30,10 @@ def read_file():
         return fp.read()
 
 
-data = read_file()
-charset_normalizer_result = detect(data)
+def main():
+    data = read_file()
+    charset_normalizer_result = detect(data)
+
+
+if __name__ == '__main__':
+    main()

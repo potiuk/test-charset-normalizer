@@ -4,10 +4,9 @@
 | ogol.com.br | ISO-8859-1 | cp1252 |
 | oldi.ru | Windows-1252 | utf_8 |
 | olx.com.br | None | utf-8 |
-| oncoguia.org.br | Windows-1252 | cp1252 |
+| oncoguia.org.br | ISO-8859-1 | cp1252 |
 | opening-hours-ireland.com | ISO-8859-1 | utf_8 |
 | opening-hours.nz | ISO-8859-1 | utf_8 |
-| openingsurengids.be | ISO-8859-1 | utf_8 |
 | openpr.de | ISO-8859-1 | cp1250 |
 | orsr.sk | Windows-1254 | cp1250 |
 | osijek031.com | Windows-1252 | cp1250 |
@@ -20,3 +19,4 @@
 | paginasiete.bo | Windows-1252 | iso8859_15 |
 | pakash.co.il | Windows-1254 | utf_8 |
 | pandia.ru | windows-1251 | cp1251 |
+| parliament.lk | ISO-8859-1 | utf_8 |
