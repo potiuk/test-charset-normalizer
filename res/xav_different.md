@@ -19,4 +19,3 @@
 | paginasiete.bo | Windows-1252 | iso8859_15 |
 | pakash.co.il | Windows-1254 | utf_8 |
 | pandia.ru | windows-1251 | cp1251 |
-| parliament.lk | ISO-8859-1 | utf_8 |

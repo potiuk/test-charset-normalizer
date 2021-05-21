@@ -6,10 +6,11 @@
 | travelbook.co.jp | ascii | ascii |
 | travelguide.sk | utf-8 | utf_8 |
 | travelland.rs | utf-8 | utf_8 |
-| travelnews.lv | utf-8 | utf_8 |
 | traveltriangle.com | utf-8 | utf_8 |
+| travessa.com.br | ascii | ascii |
+| trendexmexico.com | ascii | ascii |
 | trh.sk | utf-8 | utf_8 |
-| tribuna.com | utf-8 | utf_8 |
+| tribuna.com | None | None |
 | tribunadonorte.com.br | utf-8 | utf_8 |
 | trivago.ae | ascii | ascii |
 | trivago.at | ascii | ascii |
@@ -59,7 +60,6 @@
 | truyenhinhthanhhoa.vn | utf-8 | utf_8 |
 | tsbohemia.cz | utf-8 | utf_8 |
 | tse.go.cr | utf-8 | utf_8 |
-| tsk.sk | ascii | ascii |
 | tsum.ru | ascii | ascii |
 | tubantia.nl | ascii | ascii |
 | tucasa.com | utf-8 | utf_8 |
@@ -97,7 +97,6 @@
 | twipple.jp | utf-8 | utf_8 |
 | twojapogoda.pl | ascii | ascii |
 | tycsports.com | utf-8 | utf_8 |
-| typepad.com | utf-8 | utf_8 |
 | u-buy.co.nz | ascii | ascii |
 | u-mama.ru | ascii | ascii |
 | uab.cat | utf-8 | utf_8 |
@@ -117,7 +116,6 @@
 | uca.edu.ar | ascii | ascii |
 | ucom.am | ascii | ascii |
 | udru.ac.th | UTF-8-SIG | utf_8_sig |
-| uees.edu.ec | utf-8 | utf_8 |
 | uel.br | ascii | ascii |
 | ufg.edu.sv | utf-8 | utf_8 |
 | ufrn.br | utf-8 | utf_8 |

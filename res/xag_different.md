@@ -7,7 +7,7 @@
 | cyberforum.ru | windows-1251 | cp1251 |
 | cylaw.org | ISO-8859-7 | cp1253 |
 | dafatir.net | utf-8 | cp949 |
-| daisoeshop.com | TIS-620 | cp1252 |
+| daisoeshop.com | TIS-620 | iso8859_11 |
 | darbo.lt | Windows-1252 | cp1257 |
 | dashofer.sk | ISO-8859-1 | iso8859_2 |
 | datacheck.co.il | windows-1255 | cp1255 |

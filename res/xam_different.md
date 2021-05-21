@@ -1,7 +1,5 @@
-| harakahdaily.net | ISO-8859-1 | utf_8 |
 | hardware.fr | Windows-1252 | iso8859_15 |
 | hastane.com.tr | Windows-1252 | iso8859_9 |
-| healthgrades.com | None | utf-8 |
 | helion.pl | ISO-8859-1 | iso8859_2 |
 | hellenicaworld.com | ISO-8859-1 | utf_8 |
 | helsi.me | utf-8 | None |
@@ -9,9 +7,8 @@
 | hera.bg | windows-1251 | cp1251 |
 | heraldodemexico.com.mx | Windows-1252 | iso8859_15 |
 | hitachi.co.jp | SHIFT_JIS | cp932 |
-| hitparade.ch | ISO-8859-1 | cp775 |
+| hitparade.ch | ISO-8859-1 | cp1250 |
 | hokkoku.co.jp | None | utf-8 |
-| hollandandbarrett.com | utf-8 | None |
 | hollandandbarrett.nl | utf-8 | None |
 | holmes.bg | windows-1251 | cp1251 |
 | homes.com | ISO-8859-1 | utf_8 |
@@ -19,5 +16,4 @@
 | hotel4u.co.il | windows-1255 | cp1255 |
 | hotelguides.com | Windows-1252 | utf_8 |
 | hotelsline.gr | ISO-8859-7 | iso8859_7 |
-| hotstar.com | Windows-1252 | utf_8 |
 | huramobil.cz | Windows-1254 | cp1250 |

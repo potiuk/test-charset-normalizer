@@ -42,8 +42,8 @@
 | grammarbank.com | utf-8 | utf_8 |
 | greece.com | utf-8 | utf_8 |
 | greenfacts.org | ascii | ascii |
-| greengeeks.com | ascii | ascii |
 | grubhub.com | ascii | ascii |
+| gsb.gov.tr | ascii | ascii |
 | gsfattorini.it | ascii | ascii |
 | gsmonline.pl | utf-8 | utf_8 |
 | gtbank.com | ascii | ascii |
@@ -66,4 +66,3 @@
 | hail.to | utf-8 | utf_8 |
 | haisagatim.ro | ascii | ascii |
 | hallowedgaming.com | utf-8 | utf_8 |
-| halodoc.com | ascii | ascii |

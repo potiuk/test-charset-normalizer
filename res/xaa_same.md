@@ -5,6 +5,7 @@
 | 19min.bg | utf-8 | utf_8 |
 | 24-horas.mx | ascii | ascii |
 | 24glo.com | UTF-8-SIG | utf_8_sig |
+| 24sedam.rs | utf-8 | utf_8 |
 | 24ur.com | utf-8 | utf_8 |
 | 2find2.co.il | utf-8 | utf_8 |
 | 2net.co.il | UTF-8-SIG | utf_8_sig |
@@ -25,6 +26,7 @@
 | abbinanteimpianti.it | ascii | ascii |
 | abningstider.org | utf-8 | utf_8 |
 | abril.com.br | ascii | ascii |
+| ac-illust.com | ascii | ascii |
 | ac-lyon.fr | ascii | ascii |
 | accuweather.com | ascii | ascii |
 | acehardware.com | ascii | ascii |
@@ -46,6 +48,7 @@
 | africabizinfo.com | utf-8 | utf_8 |
 | agapea.com | utf-8 | utf_8 |
 | agendor.com.br | utf-8 | utf_8 |
+| aghanina.net | ascii | ascii |
 | agiare.vn | ascii | ascii |
 | aglasem.com | ascii | ascii |
 | agora.co.il | utf-8 | utf_8 |
@@ -55,10 +58,10 @@
 | agroportal.pt | ascii | ascii |
 | ahaber.com.tr | utf-8 | utf_8 |
 | aina.lt | ascii | ascii |
+| airarabia.com | ascii | ascii |
 | ais.co.th | utf-8 | utf_8 |
 | aisrael.org | utf-8 | utf_8 |
 | aiyellow.com | ascii | ascii |
-| ajc.com | ascii | ascii |
 | ajinomoto.co.jp | utf-8 | utf_8 |
 | ajpes.si | utf-8 | utf_8 |
 | akademija-art.hr | ascii | ascii |

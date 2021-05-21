@@ -1,6 +1,6 @@
 | barbora.lv | Windows-1254 | utf_8 |
 | bassin.ru | windows-1251 | cp1251 |
-| bb30.it | Windows-1252 | cp1257 |
+| bb30.it | Windows-1252 | mac_iceland |
 | benu.ee | Windows-1254 | utf_8 |
 | benu.lt | Windows-1254 | utf_8 |
 | benu.lv | Windows-1254 | utf_8 |
@@ -11,6 +11,7 @@
 | betarena.cz | Windows-1254 | utf_8 |
 | beymen.com | None | utf-8 |
 | bghotelite.com | windows-1251 | cp1251 |
+| bhphotovideo.com | Windows-1252 | utf_8 |
 | bielsko.pl | ISO-8859-1 | iso8859_2 |
 | bikeboard.at | ISO-8859-1 | cp1250 |
 | bilbasen.dk | None | utf-8 |

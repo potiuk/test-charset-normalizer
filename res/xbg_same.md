@@ -54,7 +54,6 @@
 | xxxlutz.de | ascii | ascii |
 | xxxlutz.hu | ascii | ascii |
 | xxxlutz.sk | ascii | ascii |
-| yad2.co.il | ascii | ascii |
 | yadvashem.org | ascii | ascii |
 | yan.vn | ascii | ascii |
 | yediot.co.il | UTF-8-SIG | utf_8_sig |
@@ -64,7 +63,6 @@
 | yellowpages.com.sg | ascii | ascii |
 | yellowpages.vn | utf-8 | utf_8 |
 | yenicaggazetesi.com.tr | utf-8 | utf_8 |
-| yes.co.il | ascii | ascii |
 | yicai.com | ascii | ascii |
 | yj.fr | ascii | ascii |
 | ymall.jp | utf-8 | utf_8 |
@@ -79,9 +77,7 @@
 | yrityshakemistot.fi | ascii | ascii |
 | yru.ac.th | utf-8 | utf_8 |
 | yucatan.com.mx | utf-8 | utf_8 |
-| yukoyuko.net | utf-8 | utf_8 |
 | yumama.com | utf-8 | utf_8 |
-| yyu.edu.tr | utf-8 | utf_8 |
 | zaba.hr | ascii | ascii |
 | zadovoljna.si | utf-8 | utf_8 |
 | zagarins.net | utf-8 | utf_8 |

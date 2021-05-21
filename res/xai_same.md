@@ -19,16 +19,13 @@
 | echoboomer.pt | ascii | ascii |
 | economistas.gr | ascii | ascii |
 | economynext.com | ascii | ascii |
-| ecuadorenvivo.com | utf-8 | utf_8 |
 | ecuadornegocios.com | utf-8 | utf_8 |
 | ed.nl | ascii | ascii |
 | edb.cz | ascii | ascii |
 | edb.eu | ascii | ascii |
 | edb.gov.hk | ascii | ascii |
-| edgeprop.sg | ascii | ascii |
 | edu.gdansk.pl | utf-8 | utf_8 |
 | educamaisbrasil.com.br | utf-8 | utf_8 |
-| edufever.com | utf-8 | utf_8 |
 | edx.org | utf-8 | utf_8 |
 | eesti.ee | ascii | ascii |
 | eestiloodus.ee | ascii | ascii |
@@ -36,6 +33,7 @@
 | egged.co.il | ascii | ascii |
 | ejercito.mil.ni | ascii | ascii |
 | ekb.eg | ascii | ascii |
+| eki.ee | utf-8 | utf_8 |
 | ekirikas.com | utf-8 | utf_8 |
 | ekladata.com | ascii | ascii |
 | ekologia.pl | ascii | ascii |
@@ -43,7 +41,6 @@
 | ekspertai.lt | utf-8 | utf_8 |
 | ekuriren.se | utf-8 | utf_8 |
 | el-emarat.com | ascii | ascii |
-| elabueloeduca.com | ascii | ascii |
 | elbil.no | ascii | ascii |
 | elcolombiano.com | utf-8 | utf_8 |
 | elconfidencial.com | utf-8 | utf_8 |
@@ -62,6 +59,7 @@
 | elisaviihde.fi | utf-8 | utf_8 |
 | elitedaily.com | utf-8 | utf_8 |
 | elkor.lv | utf-8 | utf_8 |
+| ellas-cookies.com | ascii | ascii |
 | elle.rs | utf-8 | utf_8 |
 | ellisphere.fr | ascii | ascii |
 | elmundo.sv | utf-8 | utf_8 |
@@ -92,6 +90,7 @@
 | english-malay.net | ascii | ascii |
 | english-marathi.net | utf-8 | utf_8 |
 | english-nepali.com | utf-8 | utf_8 |
+| english-practice.at | utf-8 | utf_8 |
 | english.com | utf-8 | utf_8 |
 | englishbanana.com | utf-8 | utf_8 |
 | englishforeveryone.org | ascii | ascii |

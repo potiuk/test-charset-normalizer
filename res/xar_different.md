@@ -4,15 +4,12 @@
 | maainfo.ee | ISO-8859-1 | cp1252 |
 | made-in-tunisia.net | Windows-1252 | iso8859_14 |
 | madlan.co.il | utf-8 | None |
-| mag.go.cr | ISO-8859-1 | cp1250 |
-| maghreb.space | Windows-1252 | iso8859_14 |
 | makaan.com | Windows-1252 | utf_8 |
 | maldonado.gub.uy | Windows-1252 | iso8859_15 |
 | mansioningles.com | ISO-8859-1 | cp1252 |
 | manual-user-guide.com | ISO-8859-1 | cp1250 |
 | mapaobchodu.cz | utf-8 | None |
 | mapstr.com | Windows-1252 | utf_8 |
-| marocannonces.com | Windows-1252 | utf_8 |
 | mathem.se | EUC-KR | utf_8 |
 | mathsisfun.com | ISO-8859-1 | utf_8 |
 | mdzol.com | ISO-8859-1 | cp1252 |

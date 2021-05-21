@@ -12,7 +12,6 @@
 | poduzetnistvo.org | Windows-1254 | iso8859_9 |
 | poet.hu | ISO-8859-1 | cp1250 |
 | pokelagu.com | ISO-8859-1 | utf_8 |
-| polignosi.com | ISO-8859-7 | cp1253 |
+| polignosi.com | windows-1253 | cp1253 |
 | politsei.ee | utf-8 | None |
 | poslovniforum.hr | Windows-1252 | cp1250 |
-| pozri.sk | Windows-1254 | iso8859_9 |

@@ -10,6 +10,7 @@
 | citatum.hu | ISO-8859-1 | cp1250 |
 | claroshop.com | ISO-8859-1 | utf_8 |
 | codigoespagueti.com | Windows-1254 | utf_8 |
-| computerbild.de | Windows-1252 | cp775 |
+| computerbild.de | Windows-1252 | mac_iceland |
+| computerworld.dk | utf-8 | None |
 | comune.torino.it | Windows-1252 | iso8859_14 |
 | comuni-italiani.it | ISO-8859-1 | cp1252 |

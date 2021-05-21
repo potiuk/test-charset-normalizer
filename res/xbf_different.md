@@ -1,14 +1,12 @@
 | vietgiaitri.com | utf-8 | None |
-| vita.bg | windows-1251 | cp1251 |
+| vimeo.com | Windows-1252 | utf_8 |
 | vitaexpress.ru | Windows-1252 | utf_8 |
 | vivo.com.br | utf-8 | None |
 | votpusk.ru | windows-1251 | cp1251 |
-| vovve.net | Windows-1252 | iso8859_13 |
-| voyageforum.com | ISO-8859-1 | cp1252 |
+| vovve.net | Windows-1252 | iso8859_14 |
 | vroom.be | None | utf-8 |
 | vrum.com.br | ISO-8859-1 | cp1252 |
 | vsetkyfirmy.sk | Windows-1254 | cp1250 |
-| vudu.com | None | utf-8 |
 | wanderungen.ch | utf-8 | None |
 | weekendhobby.com | TIS-620 | iso8859_11 |
 | wegointer.com | Windows-1254 | utf_8 |
@@ -16,4 +14,4 @@
 | weltbild.ch | utf-8 | None |
 | weltbild.de | utf-8 | None |
 | wemystic.com.br | utf-8 | None |
-| wikimapia.org | Windows-1254 | utf_8 |
+| wikimapia.org | ISO-8859-1 | utf_8 |

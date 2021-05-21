@@ -1,12 +1,12 @@
 | baobariavungtau.com.vn | utf-8 | utf_8 |
 | baodautu.vn | utf-8 | utf_8 |
 | baodongnai.com.vn | utf-8 | utf_8 |
-| baogialai.com.vn | utf-8 | utf_8 |
 | baohagiang.vn | utf-8 | utf_8 |
 | baohoabinh.com.vn | utf-8 | utf_8 |
 | baokhanhhoa.vn | utf-8 | utf_8 |
 | baoquangbinh.vn | utf-8 | utf_8 |
 | baotuyenquang.com.vn | utf-8 | utf_8 |
+| baoyenbai.com.vn | utf-8 | utf_8 |
 | barbora.ee | ascii | ascii |
 | barbora.lt | utf-8 | utf_8 |
 | baria-vungtau.gov.vn | ascii | ascii |
@@ -22,8 +22,10 @@
 | bbb.org | ascii | ascii |
 | bbc.co.uk | utf-8 | utf_8 |
 | bbvaopenmind.com | utf-8 | utf_8 |
+| bca.gov.sg | UTF-8-SIG | utf_8_sig |
 | bcci.bg | utf-8 | utf_8 |
 | bcn.cl | utf-8 | utf_8 |
+| bcn.gob.ni | UTF-8-SIG | utf_8_sig |
 | bd.nl | ascii | ascii |
 | bdaugava.lv | utf-8 | utf_8 |
 | bdjobs.com | utf-8 | utf_8 |
@@ -32,7 +34,7 @@
 | beautypassage.nl | ascii | ascii |
 | beautyy.cc | utf-8 | utf_8 |
 | beck.de | utf-8 | utf_8 |
-| bedbathandbeyond.ca | utf-8 | utf_8 |
+| bedbathandbeyond.com | utf-8 | utf_8 |
 | bedrijvenpagina.nl | utf-8 | utf_8 |
 | beinconnect.com.tr | ascii | ascii |
 | belgiantrain.be | utf-8 | utf_8 |
@@ -50,7 +52,6 @@
 | beyazperde.com | ascii | ascii |
 | bezplatno.bg | utf-8 | utf_8 |
 | bgvakancia.com | utf-8 | utf_8 |
-| bhphotovideo.com | ascii | ascii |
 | bia-bg.com | utf-8 | utf_8 |
 | bianet.org | ascii | ascii |
 | bibaleze.si | utf-8 | utf_8 |
@@ -80,12 +81,14 @@
 | bkklovehoro.com | ascii | ascii |
 | blaauwberg.net | ascii | ascii |
 | blacksheepraw.it | ascii | ascii |
+| blackwells.co.uk | ascii | ascii |
 | blinker.co.il | ascii | ascii |
 | blockbuster.dk | ascii | ascii |
 | blogchiasekienthuc.com | ascii | ascii |
 | bloggen.be | utf-8 | utf_8 |
 | blognone.com | utf-8 | utf_8 |
 | bloomberght.com | utf-8 | utf_8 |
+| bloomingdales.com | ascii | ascii |
 | bluehost.com | utf-8 | utf_8 |
 | bluradio.com | ascii | ascii |
 | bmw-klubas.lt | utf-8 | utf_8 |

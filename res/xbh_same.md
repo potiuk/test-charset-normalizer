@@ -6,6 +6,7 @@
 | zomato.com | ascii | ascii |
 | zoohit.sk | utf-8 | utf_8 |
 | zoominfo.com | ascii | ascii |
+| zoopla.co.uk | ascii | ascii |
 | zooplus.de | utf-8 | utf_8 |
 | zooplus.fi | utf-8 | utf_8 |
 | zoznamskol.eu | utf-8 | utf_8 |

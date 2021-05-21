@@ -1,11 +1,10 @@
 | epa.hu | ISO-8859-1 | cp1250 |
 | eq.ee | ISO-8859-1 | cp1252 |
 | esm3ha.net | None | utf-8 |
-| est.hu | ISO-8859-1 | cp1250 |
+| est.hu | None | utf-8 |
 | etagi.com | None | utf-8 |
 | evripidis.gr | None | utf-8 |
 | farmakeutikoskosmos.gr | ISO-8859-7 | cp1253 |
 | fc2web.com | SHIFT_JIS | cp932 |
 | feebee.com.tw | None | utf-8 |
 | femaledaily.com | Windows-1254 | utf_8 |
-| filmpolski.pl | Windows-1254 | iso8859_9 |

@@ -1,6 +1,6 @@
 | realites.sk | Windows-1254 | cp1250 |
 | really-learn-english.com | ISO-8859-1 | utf_8 |
-| recantodasletras.com.br | Windows-1252 | iso8859_14 |
+| recantodasletras.com.br | ISO-8859-1 | cp1252 |
 | recepty.bg | windows-1251 | cp1251 |
 | redportal.rs | Windows-1254 | utf_8 |
 | referatele.com | Windows-1252 | iso8859_14 |
@@ -9,16 +9,15 @@
 | region20.com.ar | Windows-1252 | iso8859_15 |
 | regionsyddanmark.dk | ISO-8859-1 | cp1252 |
 | reichelt.de | utf-8 | None |
-| rero.ch | ISO-8859-1 | cp1252 |
 | rescue.ee | utf-8 | None |
 | ronnie.cz | Windows-1254 | cp1250 |
 | rotter.net | windows-1255 | cp1255 |
 | rtarf.mi.th | TIS-620 | iso8859_11 |
-| rtvutrecht.nl | Windows-1252 | cp1250 |
+| rtvutrecht.nl | Windows-1252 | utf_8 |
 | rund-ums-baby.de | ISO-8859-1 | cp1250 |
 | runeberg.org | ISO-8859-1 | cp1252 |
 | rwth-aachen.de | None | utf-8 |
 | saaid.net | ISO-8859-9 | cp1256 |
-| saarlane.ee | Windows-1252 | iso8859_13 |
-| sadafah.com | Windows-1254 | cp1256 |
+| saarlane.ee | Windows-1252 | iso8859_9 |
+| sadafah.com | ISO-8859-9 | cp1256 |
 | sagit.cz | Windows-1254 | cp1250 |

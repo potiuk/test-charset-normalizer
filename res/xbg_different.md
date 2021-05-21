@@ -1,6 +1,6 @@
 | wikipedia.org | Windows-1254 | utf_8 |
 | wikisage.org | Windows-1252 | hp_roman8 |
-| winfuture.de | ISO-8859-1 | cp1250 |
+| winfuture.de | Windows-1252 | iso8859_10 |
 | wowturkey.com | ISO-8859-1 | cp1254 |
 | wroom.ru | windows-1251 | cp1251 |
 | wukong.com | None | utf-8 |
@@ -14,5 +14,5 @@
 | yenimesaj.com.tr | Windows-1252 | iso8859_9 |
 | yo-yoo.co.il | windows-1255 | cp1255 |
 | zazoom.it | Windows-1254 | utf_8 |
-| zeno.org | Windows-1252 | iso8859_10 |
+| zeno.org | ISO-8859-1 | cp1250 |
 | zerozero.pt | Windows-1252 | cp1252 |

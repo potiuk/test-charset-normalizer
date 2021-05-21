@@ -11,9 +11,6 @@
 | motoclub-tingavert.it | ISO-8859-1 | cp1252 |
 | motorgiga.com | Windows-1252 | cp1252 |
 | mototriti.gr | ISO-8859-7 | cp1253 |
-| mr.gov.il | windows-1255 | cp1255 |
-| mujerhoy.com | Windows-1252 | gb18030 |
-| myfanbase.de | ISO-8859-1 | cp1250 |
 | najdislevu.cz | Windows-1252 | cp1250 |
 | najnakup.sk | None | utf-8 |
 | nasa.gov | ISO-8859-1 | utf_8 |

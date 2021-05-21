@@ -4,7 +4,6 @@
 | kenguru.bg | UTF-8-SIG | utf_8_sig |
 | kenshiroabbe.it | ascii | ascii |
 | kenyacradle.com | ascii | ascii |
-| kfc.co.th | ascii | ascii |
 | khanhhoa.gov.vn | ascii | ascii |
 | khaosod.co.th | ascii | ascii |
 | kiasuparents.com | ascii | ascii |
@@ -14,6 +13,7 @@
 | kidteung.com | ascii | ascii |
 | kilokalori.net | utf-8 | utf_8 |
 | kinderland.co.il | ascii | ascii |
+| kinhtedothi.vn | utf-8 | utf_8 |
 | kinuskikissa.fi | utf-8 | utf_8 |
 | kir.hu | UTF-8-SIG | utf_8_sig |
 | kiskatravel.sk | utf-8 | utf_8 |
@@ -39,7 +39,6 @@
 | kontraktai.eu | utf-8 | utf_8 |
 | korrekturen.de | utf-8 | utf_8 |
 | koshachek.com | utf-8 | utf_8 |
-| kosmosn.ru | ascii | ascii |
 | kotlet.tv | utf-8 | utf_8 |
 | koton.com | utf-8 | utf_8 |
 | kpru.ac.th | utf-8 | utf_8 |
@@ -49,15 +48,16 @@
 | krka.biz | utf-8 | utf_8 |
 | krka.si | utf-8 | utf_8 |
 | kronansapotek.se | utf-8 | utf_8 |
-| krone.at | utf-8 | utf_8 |
 | krstarica.com | utf-8 | utf_8 |
 | krua.co | ascii | ascii |
 | kruachieve.com | utf-8 | utf_8 |
 | kruhzgodovina.xyz | ascii | ascii |
 | ksou.cn | utf-8 | utf_8 |
+| ksta.de | ascii | ascii |
 | ksu.edu.sa | ascii | ascii |
 | kthn.edu.vn | ascii | ascii |
 | ktu.edu.tr | ascii | ascii |
+| kulinarika.net | utf-8 | utf_8 |
 | kultura.bg | utf-8 | utf_8 |
 | kultuurikava.ee | ascii | ascii |
 | kuminaluna.xyz | ascii | ascii |
@@ -75,5 +75,4 @@
 | lacoccinellaffittacamere.it | ascii | ascii |
 | lacortedelronchetto.it | ascii | ascii |
 | laczynaspilka.pl | utf-8 | utf_8 |
-| ladyzone.bg | utf-8 | utf_8 |
 | lagacetadesalamanca.es | utf-8 | utf_8 |

@@ -2,10 +2,8 @@
 | oesel.ee | utf-8 | utf_8 |
 | ofertia.com.co | ascii | ascii |
 | officedepot.com.gt | ascii | ascii |
-| officeworks.com.au | ascii | ascii |
 | ofuxico.com.br | utf-8 | utf_8 |
 | oglasi.si | utf-8 | utf_8 |
-| ohio.gov | ascii | ascii |
 | oikotie.fi | utf-8 | utf_8 |
 | okna-samari.ru | ascii | ascii |
 | okokorecepten.nl | utf-8 | utf_8 |
@@ -16,6 +14,7 @@
 | olhares.com | utf-8 | utf_8 |
 | olive-hitomawashi.com | utf-8 | utf_8 |
 | olsale.co.il | ascii | ascii |
+| olx.com.eg | ascii | ascii |
 | olx.com.lb | ascii | ascii |
 | olx.com.om | ascii | ascii |
 | omarpirovano.it | ascii | ascii |
@@ -29,6 +28,7 @@
 | ontario.ca | utf-8 | utf_8 |
 | onthehouse.com.au | ascii | ascii |
 | onthemarket.com | ascii | ascii |
+| oocities.org | ascii | ascii |
 | op-koti.fi | utf-8 | utf_8 |
 | openarchivaris.nl | utf-8 | utf_8 |
 | opening-hours.co.za | ascii | ascii |
@@ -44,15 +44,13 @@
 | oppettider.org | utf-8 | utf_8 |
 | optimus.lv | utf-8 | utf_8 |
 | orange.ro | utf-8 | utf_8 |
-| orari-di-apertura.com | ascii | ascii |
+| orari-di-apertura.com | utf-8 | utf_8 |
 | oref.org.il | ascii | ascii |
 | oreilly.com | utf-8 | utf_8 |
 | origin.com | ascii | ascii |
 | oriondomacepotreby.sk | ascii | ascii |
-| orlandosentinel.com | ascii | ascii |
 | ospedalebambinogesu.it | ascii | ascii |
 | oteviraci-doba.cz | utf-8 | utf_8 |
-| otoflik.com | ascii | ascii |
 | otomaniac.com | ascii | ascii |
 | otomotifo.com | ascii | ascii |
 | otpbank.hu | utf-8 | utf_8 |
@@ -75,13 +73,11 @@
 | palsawa.com | utf-8 | utf_8 |
 | paltoday.ps | utf-8 | utf_8 |
 | pampanorama.it | ascii | ascii |
-| panasonic.com | utf-8 | utf_8 |
 | panrotas.com.br | utf-8 | utf_8 |
 | pantallazo.com.uy | ascii | ascii |
 | paragraf.rs | utf-8 | utf_8 |
 | parati.com.ar | ascii | ascii |
 | parco.jp | utf-8 | utf_8 |
-| parhaatruokablogit.fi | UTF-8-SIG | utf_8_sig |
 | parlament.gv.at | utf-8 | utf_8 |
 | pasaangkit.com | ascii | ascii |
 | pasajeen.com | ascii | ascii |

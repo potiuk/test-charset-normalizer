@@ -1,5 +1,6 @@
 | 1-day.co.nz | utf-8 | None |
 | 1001recepti.com | windows-1251 | cp1251 |
+| 10dakot.co.il | Windows-1254 | utf_8 |
 | 247sports.com | None | utf-8 |
 | 4gamer.net | EUC-JP | euc_jis_2004 |
 | 4travel.jp | EUC-JP | euc_jis_2004 |
@@ -8,6 +9,7 @@
 | abi.bo | GB2312 | utf_8 |
 | adslgate.com | Windows-1252 | cp1250 |
 | adu.edu.tr | Windows-1252 | iso8859_9 |
+| advanceautoparts.com | Windows-1252 | utf_8 |
 | aerzteblatt.de | Windows-1252 | cp1250 |
 | ahewar.org | Windows-1254 | cp1256 |
 | aiandus.ee | ISO-8859-1 | cp1252 |

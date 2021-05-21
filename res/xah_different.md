@@ -8,8 +8,10 @@
 | diariodepernambuco.com.br | ISO-8859-1 | cp1252 |
 | dlastudenta.pl | ISO-8859-1 | iso8859_2 |
 | dmag.co.il | windows-1255 | cp1255 |
+| dmh.go.th | Windows-1254 | utf_8 |
 | dndnha.com | None | utf-8 |
 | dndnha.net | None | utf-8 |
+| docer.pl | utf-8 | gb18030 |
 | doctorbg.com | windows-1251 | cp1251 |
 | doctoronline.bg | windows-1251 | cp1251 |
 | dotalkhaleej.com | utf-8 | None |

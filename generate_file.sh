@@ -10,7 +10,7 @@ FILENAME=${3?:Missing filename as third parameter}
 
 CONTENT_LENGTH=${#CONTENT}
 
-echo "Creating file of the size of $(numfmt --to=iec $(( CONTENT_LENGTH * 2 ** NUM_LOOPS)))B"
+echo "Creating file ${FILENAME} of the size of $(numfmt --to=iec $(( CONTENT_LENGTH * 2 ** NUM_LOOPS)))B"
 
 echo -n "${CONTENT}" > "${FILENAME}"
 

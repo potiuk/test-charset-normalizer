@@ -1,9 +1,9 @@
-| storytel.com | GB2312 | utf_8 |
 | streetcheck.co.uk | None | utf-8 |
 | studopedia.ru | Windows-1254 | utf_8 |
 | stylecraze.com | utf-8 | None |
 | suissegourmet.ch | ISO-8859-1 | cp1252 |
 | superesportes.com.br | ISO-8859-1 | cp1252 |
+| superimmo.com | ISO-8859-1 | utf_8 |
 | svenskalag.se | Windows-1252 | iso8859_10 |
 | svenskfotboll.se | None | utf-8 |
 | svenskhalsokost.se | ISO-8859-1 | cp1252 |
@@ -16,7 +16,7 @@
 | tbmm.gov.tr | ISO-8859-1 | cp1250 |
 | techinasia.com | None | utf-8 |
 | teknologisk.dk | ISO-8859-1 | cp1252 |
-| teksty.org | Windows-1254 | hp_roman8 |
+| teksty.org | Windows-1254 | iso8859_9 |
 | telam.com.ar | Windows-1252 | iso8859_9 |
 | telebasel.ch | utf-8 | None |
 | telecomnews.co.il | utf-8 | None |

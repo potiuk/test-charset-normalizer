@@ -22,7 +22,6 @@
 | latvenergo.lv | utf-8 | utf_8 |
 | latviatravel.lv | utf-8 | utf_8 |
 | latviesi.com | utf-8 | utf_8 |
-| lavozdigital.es | ascii | ascii |
 | ldd.go.th | ascii | ascii |
 | le360.ma | ascii | ascii |
 | learnsideinfocademy.xyz | ascii | ascii |
@@ -36,6 +35,7 @@
 | lejournaldelamaison.fr | ascii | ascii |
 | lekar.sk | utf-8 | utf_8 |
 | lekhaporabd.com | ascii | ascii |
+| lekuva.net | utf-8 | utf_8 |
 | lemillericette.it | ascii | ascii |
 | lenovo.com | ascii | ascii |
 | lenta.com | ascii | ascii |
@@ -49,7 +49,7 @@
 | levykauppax.fi | utf-8 | utf_8 |
 | lexilogos.com | utf-8 | utf_8 |
 | lf-hestedag.dk | ascii | ascii |
-| lhf.lv | ascii | ascii |
+| liberal.gr | utf-8 | utf_8 |
 | liberecky-kraj.cz | utf-8 | utf_8 |
 | libertaddigital.com | utf-8 | utf_8 |
 | library.sk | utf-8 | utf_8 |
@@ -60,7 +60,6 @@
 | lif.co.id | ascii | ascii |
 | lifestyleasia.com | ascii | ascii |
 | likechocolate.net | ascii | ascii |
-| lindaikejisblog.com | ascii | ascii |
 | lingolia.com | ascii | ascii |
 | linguapress.com | utf-8 | utf_8 |
 | list-org.com | ascii | ascii |
@@ -71,6 +70,7 @@
 | livecamcroatia.com | utf-8 | utf_8 |
 | livecity.pl | utf-8 | utf_8 |
 | livehindustan.com | ascii | ascii |
+| livelib.ru | utf-8 | utf_8 |
 | livetsgoda.se | ascii | ascii |
 | liveworksheets.com | utf-8 | utf_8 |
 | liviacorsetti.it | ascii | ascii |

@@ -120,7 +120,76 @@ Changing the parameters did not seem to have significant impact on the timing
 ```
 
 
-# 20.05.2021 (charset-normalizer 1.4.0 candidate)
+# 21.05.2021 (charset-normalizer 1.4.0 candidate)
 
-* Encoding comparision: no exception 83% match on no-encoding sites chardet vs. charset normalizer
-* 
+* Encoding comparision: no exception, 83% match on no-encoding sites chardet vs. charset normalizer
+* Performance comparision
+
+Seems that Chardet does very good on simple content. After some improvements in 1.4.0 candidate
+the difference for Charset vs. Charset normalizer for ASCII only files decreased to ~10x from ~20x
+(tests performed on a different machine):
+
+| Size  | Reading file | Chardet detection | Charset-normalizer detection |
+|-------|--------------|-------------------|------------------------------|
+| 16MB  | 4.5ms        | 0.20s             | 1.9s                         |
+| 32MB  | 8ms          | 0.45s             | 3.17s                        |
+| 64MB  | 14ms         | 0.91s             | 7.32s                        |
+| 128MB | 27ms         | 1.8s              | 14.7s                        |
+| 256MB | 51ms         | 3.6s              | 28.6s                        |
+
+However, things get more interesting when the files contain actual encoded
+characters other than only ASCII characters. Seems that chardet-normalizer is
+able to decode even big files but chardet performs very poor on big files
+containing non-ASCII characters.
+
+Processing time of chardet seems in this case proportional to the size of the data
+and in case of charset-normalized it is much less linearly depending on the
+size. In both cases below the size where charset-normalizer starts to
+be faster than chardet is between 32K and 64K of data.
+
+Detecting Polish characters:
+
+| Size  | Reading file | Chardet detection | Charset-normalizer detection |
+|-------|--------------|-------------------|------------------------------|
+| 4K    | 0.027ms      | 0.05s             | 0.28s                        |
+| 8K    | 0.036ms      | 0.17s             | 0.52s                        |
+| 16K   | 0.032ms      | 0.18s             | 0.54s                        |
+| 32K   | 0.039ms      | 0.35s             | 0.29s                        |
+| 64K   | 0.075ms      | 0.7s              | 0.68s                        |
+| 128K  | 0.087ms      | 1.4s              | 0.68s                        |
+| 256K  | 0.153ms      | 2.78s             | 0.57s                        |
+| 512K  | 0.242ms      | 5.63s             | 0.34s                        |
+| 1MB   | 0.470ms      | 11.2s             | 0.77s                        |
+| 2MB   | 0.942ms      | 22.2s             | 1.38s                        |
+| 4MB   | 1.45ms       | 45s               | 0.93s                        |
+| 8MB   | 2.39ms       | 90s               | 1.08s                        |
+| 16MB  | 4ms          | 180s              | 0.85s                        |
+| 32MB  | 8ms          | - >>3m            | 3.17s                        |
+| 64MB  | 14ms         | - >>3m            | 7.32s                        |
+| 128MB | 27ms         | - >>3m            | 14.7s                        |
+| 256MB | 51ms         | - >>3m            | 28.6s                        |
+
+Detecting Japanese characters:
+
+
+| Size  | Reading file | Chardet detection | Charset-normalizer detection |
+|-------|--------------|-------------------|------------------------------|
+| 4K    | 0.03ms       | 0.06s             | 0.32s                        |
+| 8K    | 0.03ms       | 0.23s             | 0.63s                        |
+| 16K   | 0.04ms       | 0.25s             | 0.63s                        |
+| 32K   | 0.04ms       | 0.49s             | 0.35s                        |
+| 64K   | 0.07ms       | 0.98s             | 0.78s                        |
+| 128K  | 0.09ms       | 1.97s             | 0.77s                        |
+| 256K  | 0.15ms       | 3.97s             | 0.65s                        |
+| 512K  | 0.27ms       | 7.8s              | 0.67s                        |
+| 1MB   | 0.59ms       | 15.5s             | 0.89s                        |
+| 2MB   | 0.95ms       | 31.3s             | 1.01s                        |
+| 4MB   | 1.53ms       | 63s               | 1.10s                        |
+| 8MB   | 2.3ms        | 240s              | 1.27s                        |
+| 16MB  | 4ms          | - >>3m            | 1.26s                        |
+| 32MB  | 8ms          | - >>3m            | 1.75s                        |
+| 64MB  | 14ms         | - >>3m            | 5.46s                        |
+| 128MB | 25ms         | - >>3m            | 4.10s                        |
+| 256MB | 49ms         | - >>3m            | 8.2s                         |
+
+

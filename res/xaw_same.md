@@ -2,6 +2,7 @@
 | patiotuerca.com | utf-8 | utf_8 |
 | patpat.lk | ascii | ascii |
 | patronlardunyasi.com | utf-8 | utf_8 |
+| payngo.co.il | utf-8 | utf_8 |
 | pazitka.cz | utf-8 | utf_8 |
 | pc-koubou.jp | ascii | ascii |
 | pchome.com.tw | utf-8 | utf_8 |
@@ -13,7 +14,6 @@
 | pellervo.fi | utf-8 | utf_8 |
 | penguinrandomhouse.com | ascii | ascii |
 | people.com.cn | GB2312 | gb2312 |
-| pepperfry.com | ascii | ascii |
 | perfect-english-grammar.com | ascii | ascii |
 | pessinaweb.it | ascii | ascii |
 | petmaya.com | utf-8 | utf_8 |
@@ -31,20 +31,20 @@
 | pink.rs | utf-8 | utf_8 |
 | pinodonno.it | ascii | ascii |
 | piscanecmatematika.xyz | ascii | ascii |
-| pistik.net | ascii | ascii |
 | pixnet.net | utf-8 | utf_8 |
 | pizzakartan.se | utf-8 | utf_8 |
 | plala.or.jp | utf-8 | utf_8 |
 | planetacolombia.com | utf-8 | utf_8 |
 | planetamexico.com.mx | utf-8 | utf_8 |
-| planetauruguay.com | utf-8 | utf_8 |
 | planetenjorden.dk | ascii | ascii |
+| play-azlabs.com | ascii | ascii |
 | plus.nl | ascii | ascii |
 | po-sloveniji.com | utf-8 | utf_8 |
 | pobjeda.me | utf-8 | utf_8 |
 | pobpad.com | utf-8 | utf_8 |
 | podaci.net | ascii | ascii |
 | podcastid.ee | ascii | ascii |
+| podnikajte.sk | utf-8 | utf_8 |
 | point2homes.com | ascii | ascii |
 | policybazaar.com | ascii | ascii |
 | polispages.gr | utf-8 | utf_8 |
@@ -63,7 +63,6 @@
 | portalanalitika.me | utf-8 | utf_8 |
 | portalangop.co.ao | ascii | ascii |
 | portalautomotriz.com | utf-8 | utf_8 |
-| portaldaqueixa.com | ascii | ascii |
 | portaldelcomercio.com | ascii | ascii |
 | portalmladi.com | utf-8 | utf_8 |
 | portugal.gov.pt | utf-8 | utf_8 |

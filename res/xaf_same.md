@@ -5,15 +5,14 @@
 | cdc.gov | utf-8 | utf_8 |
 | cdiscount.com | utf-8 | utf_8 |
 | cdr.cz | utf-8 | utf_8 |
+| ceara.gov.br | ascii | ascii |
 | cebeo.be | ascii | ascii |
 | cekin.si | utf-8 | utf_8 |
 | celiakia.sk | utf-8 | utf_8 |
 | cellcom.co.il | ascii | ascii |
-| cengage.com | ascii | ascii |
 | centauro.com.br | ascii | ascii |
 | centralpoint.nl | utf-8 | utf_8 |
 | centrocongressipantarei.it | ascii | ascii |
-| centrolinguebenaco.com | ascii | ascii |
 | centrotoys.it | ascii | ascii |
 | cercacasa.it | utf-8 | utf_8 |
 | cercasicasa.it | utf-8 | utf_8 |
@@ -24,7 +23,6 @@
 | cgasofa.it | ascii | ascii |
 | cgtn.com | utf-8 | utf_8 |
 | chabad.info | ascii | ascii |
-| channelnewsasia.com | ascii | ascii |
 | checkmypostcode.uk | ascii | ascii |
 | chef-lavan.co.il | ascii | ascii |
 | chegg.com | ascii | ascii |
@@ -42,7 +40,9 @@
 | choowap.com | utf-8 | utf_8 |
 | chordguitar.net | ascii | ascii |
 | christianperret.es | ascii | ascii |
+| chvnoticias.cl | utf-8 | utf_8 |
 | cia.gov | utf-8 | utf_8 |
+| cian.ru | ascii | ascii |
 | ciencuadras.com | utf-8 | utf_8 |
 | cinefilos.it | ascii | ascii |
 | cinema.co.il | ascii | ascii |
@@ -56,9 +56,14 @@
 | citygross.se | utf-8 | utf_8 |
 | cityon.pl | ascii | ascii |
 | clalitmashlima.co.il | ascii | ascii |
+| claro.com.co | utf-8 | utf_8 |
+| claro.com.ec | utf-8 | utf_8 |
+| claro.com.gt | utf-8 | utf_8 |
 | claro.com.ni | utf-8 | utf_8 |
 | claro.com.sv | utf-8 | utf_8 |
+| claro.com.uy | utf-8 | utf_8 |
 | claro.cr | ascii | ascii |
+| clarochile.cl | utf-8 | utf_8 |
 | classes.ru | ascii | ascii |
 | classroom69.cl | ascii | ascii |
 | cleartrip.ae | utf-8 | utf_8 |
@@ -70,8 +75,8 @@
 | cm108.com | ascii | ascii |
 | cmhy.city | utf-8 | utf_8 |
 | cmu.edu | utf-8 | utf_8 |
+| cnnchile.com | utf-8 | utf_8 |
 | cnpjs.rocks | utf-8 | utf_8 |
-| cnu.edu.ni | ascii | ascii |
 | cobiss.si | utf-8 | utf_8 |
 | coccoc.com | utf-8 | utf_8 |
 | coconala.com | ascii | ascii |
@@ -80,6 +85,7 @@
 | colpensiones.gov.co | ascii | ascii |
 | colsubsidio.com | ascii | ascii |
 | comfy.ua | ascii | ascii |
+| comparaonline.cl | ascii | ascii |
 | comparis.ch | ascii | ascii |
 | computrabajo.cl | UTF-8-SIG | utf_8_sig |
 | computrabajo.co.cr | UTF-8-SIG | utf_8_sig |
@@ -90,7 +96,6 @@
 | computrabajo.com.mx | UTF-8-SIG | utf_8_sig |
 | computrabajo.com.uy | UTF-8-SIG | utf_8_sig |
 | comuniecitta.it | utf-8 | utf_8 |
-| conare.ac.cr | ascii | ascii |
 | conceito.de | ascii | ascii |
 | concierto.cl | utf-8 | utf_8 |
 | concordrsl.com.au | ascii | ascii |

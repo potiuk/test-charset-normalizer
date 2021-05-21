@@ -1,9 +1,9 @@
 | ulac.lt | utf-8 | utf_8 |
 | ultimasnoticias.com.ve | ascii | ascii |
-| ultratop.be | ascii | ascii |
 | umfcluj.ro | ascii | ascii |
 | umin.ac.jp | utf-8 | utf_8 |
 | umk.pl | utf-8 | utf_8 |
+| umy.ac.id | ascii | ascii |
 | uncu.edu.ar | utf-8 | utf_8 |
 | uncuyo.edu.ar | utf-8 | utf_8 |
 | uner.edu.ar | utf-8 | utf_8 |
@@ -14,7 +14,6 @@
 | uni-nke.hu | utf-8 | utf_8 |
 | unic.ac.cy | ascii | ascii |
 | unicauca.edu.co | utf-8 | utf_8 |
-| unicentro.br | ascii | ascii |
 | unicesumar.edu.br | utf-8 | utf_8 |
 | unikum.net | ascii | ascii |
 | unila.ac.id | utf-8 | utf_8 |
@@ -37,18 +36,15 @@
 | uob.com.sg | ascii | ascii |
 | uoc.edu | utf-8 | utf_8 |
 | uoc.gr | ascii | ascii |
-| uokik.gov.pl | ascii | ascii |
 | up.pt | ascii | ascii |
 | upct.es | utf-8 | utf_8 |
 | upm.edu.my | UTF-8-SIG | utf_8_sig |
 | uporabnastran.si | ascii | ascii |
 | uppsatser.se | utf-8 | utf_8 |
-| upr.si | ascii | ascii |
 | upwork.com | ascii | ascii |
 | urdutarjuma.com | ascii | ascii |
 | urfu.ru | ascii | ascii |
 | urlauburlaub.at | utf-8 | utf_8 |
-| uruguayconcursa.gub.uy | ascii | ascii |
 | uruguaypymes.com | utf-8 | utf_8 |
 | usp.br | ascii | ascii |
 | uti.edu.ec | ascii | ascii |
@@ -56,7 +52,7 @@
 | uusisuomi.fi | utf-8 | utf_8 |
 | uv.mx | utf-8 | utf_8 |
 | uva.es | utf-8 | utf_8 |
-| uwo.ca | ascii | ascii |
+| uwo.ca | utf-8 | utf_8 |
 | uypress.net | ascii | ascii |
 | uzit.co.il | utf-8 | utf_8 |
 | uzladets.lv | ascii | ascii |

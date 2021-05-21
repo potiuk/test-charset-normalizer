@@ -2,6 +2,7 @@
 | desprecopii.com | utf-8 | utf_8 |
 | destentor.nl | ascii | ascii |
 | dethikiemtra.com | utf-8 | utf_8 |
+| detik.com | ascii | ascii |
 | dfa.ie | utf-8 | utf_8 |
 | dfcc.lk | ascii | ascii |
 | dfi.dk | ascii | ascii |
@@ -16,7 +17,6 @@
 | diavgeia.gov.gr | utf-8 | utf_8 |
 | dica33.it | utf-8 | utf_8 |
 | dicios.com | utf-8 | utf_8 |
-| dickssportinggoods.com | ascii | ascii |
 | dictionaries24.com | utf-8 | utf_8 |
 | dictionarist.com | utf-8 | utf_8 |
 | dienmayxanh.com | ascii | ascii |
@@ -24,11 +24,9 @@
 | digitalocean.com | utf-8 | utf_8 |
 | digitalschool.club | ascii | ascii |
 | diit.cz | utf-8 | utf_8 |
-| dijeta.net | utf-8 | utf_8 |
 | diken.com.tr | ascii | ascii |
 | dimokratiki.gr | ascii | ascii |
 | din-online.info | UTF-8-SIG | utf_8_sig |
-| dineout.co.in | ascii | ascii |
 | dinimizislam.com | utf-8 | utf_8 |
 | directbooking.ro | ascii | ascii |
 | directorioi.com | utf-8 | utf_8 |
@@ -44,10 +42,8 @@
 | doa.go.th | utf-8 | utf_8 |
 | doccheck.com | ascii | ascii |
 | docdoc.com | utf-8 | utf_8 |
-| docero.com.br | utf-8 | utf_8 |
-| dochkisinochki.ru | ascii | ascii |
 | docsity.com | ascii | ascii |
-| dodoconverter.com | ascii | ascii |
+| dohome.co.th | ascii | ascii |
 | doi.org | ascii | ascii |
 | dokumentite.com | utf-8 | utf_8 |
 | dom.pl | utf-8 | utf_8 |
@@ -61,11 +57,12 @@
 | downzen.com | utf-8 | utf_8 |
 | dp.gov.ua | ascii | ascii |
 | dpr.go.id | ascii | ascii |
-| draagle.com | utf-8 | utf_8 |
 | dreamstime.com | ascii | ascii |
 | drive.ru | ascii | ascii |
 | drive2.com | ascii | ascii |
 | drive2.ru | ascii | ascii |
+| drogerienatura.pl | utf-8 | utf_8 |
+| droidapp.nl | utf-8 | utf_8 |
 | droidsans.com | utf-8 | utf_8 |
 | drozdogan.com | ascii | ascii |
 | dsdw.go.th | UTF-8-SIG | utf_8_sig |
@@ -76,7 +73,6 @@
 | dunelm.com | utf-8 | utf_8 |
 | duodecimlehti.fi | ascii | ascii |
 | durszlak.pl | utf-8 | utf_8 |
-| dut.ac.za | utf-8 | utf_8 |
 | dvit.hu | ascii | ascii |
 | dymocks.com.au | ascii | ascii |
 | dzimtenite.lv | utf-8 | utf_8 |

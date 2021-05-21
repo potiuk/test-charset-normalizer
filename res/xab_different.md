@@ -1,12 +1,12 @@
-| alairelibre.cl | GB2312 | utf_8 |
 | alarabimag.com | Windows-1254 | utf_8 |
 | alibabuy.com | Windows-1252 | iso8859_15 |
 | alisverisrehberi.com | Windows-1252 | cp1254 |
 | all-opening-hours.co.za | ISO-8859-1 | utf_8 |
 | allebiz.nl | ISO-8859-1 | utf_8 |
+| allo-medecins.fr | Windows-1252 | cp1250 |
 | alsaa.net | Windows-1254 | cp1256 |
 | amazon.co.jp | SHIFT_JIS | cp932 |
 | antikvaari.fi | ISO-8859-1 | cp1250 |
+| antikvitet.net | Windows-1252 | iso8859_10 |
 | apotek1.no | ISO-8859-1 | utf_8 |
-| appgefahren.de | Windows-1254 | utf_8 |
 | arbitr.ru | windows-1251 | cp1251 |

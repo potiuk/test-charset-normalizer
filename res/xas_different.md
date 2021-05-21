@@ -7,7 +7,6 @@
 | mimi.hu | ISO-8859-1 | cp1250 |
 | minutoneuquen.com | Windows-1252 | iso8859_15 |
 | mobilcadde.com | ISO-8859-1 | cp1254 |
-| mobile.bg | windows-1251 | cp1251 |
 | mobili.lt | Windows-1252 | cp1257 |
 | moebelix.at | ISO-8859-1 | utf_8 |
 | moebelix.cz | ISO-8859-1 | utf_8 |

@@ -12,8 +12,6 @@
 | megaport.hu | utf-8 | utf_8 |
 | meic.go.cr | utf-8 | utf_8 |
 | meiemaa.ee | utf-8 | utf_8 |
-| meijer.com | ascii | ascii |
-| meinestadt.de | ascii | ascii |
 | meishichina.com | ascii | ascii |
 | mejorescomparativas.es | utf-8 | utf_8 |
 | melody4arab.com | utf-8 | utf_8 |
@@ -48,8 +46,6 @@
 | mida.org.il | ascii | ascii |
 | miete-aktuell.de | ascii | ascii |
 | mikrobitti.fi | utf-8 | utf_8 |
-| milog.co.il | utf-8 | utf_8 |
-| minbynews.dk | ascii | ascii |
 | mindef.gob.bo | ascii | ascii |
 | mineduc.gob.gt | utf-8 | utf_8 |
 | mingpao.com | utf-8 | utf_8 |
@@ -60,7 +56,6 @@
 | minv.sk | utf-8 | utf_8 |
 | miragenews.com | utf-8 | utf_8 |
 | mirandre.com | utf-8 | utf_8 |
-| mirror.co.uk | ascii | ascii |
 | mistore.jp | ascii | ascii |
 | mit.edu | utf-8 | utf_8 |
 | mlsz.hu | ascii | ascii |
@@ -70,8 +65,6 @@
 | mobiledokan.com | ascii | ascii |
 | mobilemaya.com | utf-8 | utf_8 |
 | mobileplanet.ua | utf-8 | utf_8 |
-| mobileprice-bangladesh.com | utf-8 | utf_8 |
-| mobilesacademy.com | utf-8 | utf_8 |
 | mod.gov.il | ascii | ascii |
 | modernaskola.sk | utf-8 | utf_8 |
 | modiin.muni.il | ascii | ascii |
@@ -83,4 +76,3 @@
 | moh.gov.gr | ascii | ascii |
 | mohito.com | utf-8 | utf_8 |
 | moi.go.th | ascii | ascii |
-| moi.gov.ae | ascii | ascii |

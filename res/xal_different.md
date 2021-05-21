@@ -1,4 +1,4 @@
-| giardinaggio.it | ISO-8859-1 | hp_roman8 |
+| giardinaggio.it | ISO-8859-1 | cp1252 |
 | goingapp.pl | Windows-1254 | utf_8 |
 | goo-net.com | EUC-JP | euc_jis_2004 |
 | goobike.com | Windows-1252 | iso8859_5 |

@@ -7,6 +7,7 @@
 | jyuji.ne.jp | Windows-1254 | ptcp154 |
 | kamuslengkap.com | Windows-1252 | utf_8 |
 | karrierebibel.de | Windows-1254 | utf_8 |
+| karwei.nl | ISO-8859-1 | utf_8 |
 | kasetporpeang.com | TIS-620 | iso8859_11 |
 | kazanexpress.ru | ascii | cp037 |
 | kazanlak.com | windows-1251 | cp1251 |

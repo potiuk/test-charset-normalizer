@@ -12,6 +12,7 @@
 | epn.edu.ec | ascii | ascii |
 | epoli.gr | utf-8 | utf_8 |
 | erar.si | utf-8 | utf_8 |
+| erch2014.com | ascii | ascii |
 | erling-christensen.dk | utf-8 | utf_8 |
 | escaperoomferrara.it | ascii | ascii |
 | esfondi.lv | utf-8 | utf_8 |
@@ -50,10 +51,8 @@
 | factor.ua | utf-8 | utf_8 |
 | factoryoutlet.gr | ascii | ascii |
 | fahasa.com | ascii | ascii |
-| fahorro.com | ascii | ascii |
 | fairprice.com.sg | ascii | ascii |
 | fakaza.me | ascii | ascii |
-| famitsu.com | utf-8 | utf_8 |
 | fara.sk | utf-8 | utf_8 |
 | farmaciacampofiorenzo.it | ascii | ascii |
 | farmaciasahumada.cl | ascii | ascii |
@@ -64,14 +63,15 @@
 | fc2.com | utf-8 | utf_8 |
 | fdoc.jp | utf-8 | utf_8 |
 | feedo.net | utf-8 | utf_8 |
+| fehrplays.com | ascii | ascii |
 | fibank.bg | utf-8 | utf_8 |
 | film-like.com | utf-8 | utf_8 |
 | filmcentralen.dk | ascii | ascii |
 | filmfront.no | utf-8 | utf_8 |
+| filmpolski.pl | utf-8 | utf_8 |
 | filmstarts.de | ascii | ascii |
 | filmtoro.cz | utf-8 | utf_8 |
 | filosofia.org | utf-8 | utf_8 |
 | finance.gov.pk | ascii | ascii |
 | financer.com | utf-8 | utf_8 |
 | financialexpress.com | ascii | ascii |
-| finansajans.com | utf-8 | utf_8 |

@@ -2,6 +2,7 @@
 | e-obce.sk | Windows-1254 | cp1250 |
 | eapteka.ru | Windows-1252 | utf_8 |
 | ebookpoint.pl | ISO-8859-1 | iso8859_2 |
+| economiadigital.es | Windows-1254 | utf_8 |
 | edebiyatdefteri.com | Windows-1252 | iso8859_9 |
 | edusite.ru | windows-1251 | cp1251 |
 | ef.co.id | utf-8 | None |
@@ -13,14 +14,15 @@
 | ekvarner.info | Windows-1254 | utf_8 |
 | elbunkker.com.uy | Windows-1254 | utf_8 |
 | eldoblaje.com | ISO-8859-1 | cp1252 |
-| elibrary.lt | Windows-1254 | cp1251 |
+| elektroimportoren.no | Windows-1252 | iso8859_15 |
+| elibrary.lt | Windows-1254 | cp1256 |
 | elmedia.net | windows-1251 | cp1251 |
 | elnorte.com | ISO-8859-1 | cp1252 |
-| elpopular.com.ar | ISO-8859-1 | cp1252 |
+| elpopular.com.ar | Windows-1252 | iso8859_15 |
 | em.com.br | ISO-8859-1 | cp1252 |
 | emb.cl | ISO-8859-1 | cp1250 |
 | emploi.nat.tn | ISO-8859-1 | cp1250 |
-| encancha.cl | Windows-1252 | iso8859_15 |
+| encancha.cl | ISO-8859-1 | cp1252 |
 | encyclopediacooking.com | ISO-8859-9 | cp1256 |
 | english-dictionary.help | ISO-8859-1 | utf_8 |
 | englishexercises.org | ISO-8859-1 | big5 |

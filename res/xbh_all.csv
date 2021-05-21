@@ -1,7 +1,7 @@
 zm.gov.lv,UTF-8,utf-8,utf_8
 zmaga.com,UTF-8,utf-8,utf_8
 zman.co.il,,utf-8,utf_8
-zmenu.com,utf-8,utf-8,utf_8
+zmenu.com,utf-8,ascii,ascii
 zmiksowani.pl,UTF-8,utf-8,utf_8
 zmones.lt,UTF-8,utf-8,utf_8
 zmoniuknygos.lt,iso-8859-1,ascii,ascii
@@ -25,7 +25,7 @@ zocdoc.com,,ascii,ascii
 zodio.fr,,utf-8,utf_8
 zodis.eu,iso-8859-1,ascii,ascii
 zodynas.lt,UTF-8,utf-8,utf_8
-zoeken.nl,UTF-8,ascii,ascii
+zoeken.nl,UTF-8,utf-8,utf_8
 zoekplaats.nl,UTF-8,Windows-1254,cp1125
 zofingertagblatt.ch,UTF-8,utf-8,utf_8
 zoho.com,,utf-8,utf_8
@@ -49,15 +49,16 @@ zoom.com.br,utf-8,utf-8,utf_8
 zoom.hu,UTF-8,utf-8,utf_8
 zoom.nl,utf-8,utf-8,utf_8
 zoom.us,utf-8,utf-8,utf_8
-zoomcar.fr,utf-8,ascii,ascii
+zoomcar.fr,utf-8,utf-8,utf_8
 zoomin.co.nz,utf-8,Windows-1254,utf_8
 zoominfo.com,,ascii,ascii
+zoominmobiliario.com,UTF-8,utf-8,utf_8
 zoomtunisia.net,UTF-8,utf-8,utf_8
 zoomtventertainment.com,utf-8,UTF-8-SIG,utf_8_sig
 zoon.com.ua,utf-8,Windows-1254,utf_8
 zoon.ru,utf-8,Windows-1254,utf_8
 zoonphra.com,TIS-620,TIS-620,iso8859_11
-zoopla.co.uk,utf-8,utf-8,utf_8
+zoopla.co.uk,,ascii,ascii
 zooplus.de,,utf-8,utf_8
 zooplus.fi,,utf-8,utf_8
 zooplus.hu,,Windows-1254,utf_8
@@ -96,7 +97,6 @@ zsmu.edu.ua,utf-8,utf-8,utf_8
 zsr.sk,UTF-8,ascii,ascii
 zssk.sk,UTF-8,utf-8,utf_8
 zsz.ch,utf-8,utf-8,utf_8
-zszywka.pl,utf-8,Windows-1252,hp_roman8
 zu.edu.jo,utf-8,utf-8,utf_8
 zudusilatvija.lv,utf-8,utf-8,utf_8
 zuerich.com,UTF-8,utf-8,utf_8
@@ -116,8 +116,8 @@ zvab.com,ISO-8859-1,ISO-8859-1,cp864
 zvaigzne.lv,UTF-8,utf-8,utf_8
 zvaracky-obchod.sk,utf-8,utf-8,utf_8
 zvezdev.com,UTF-8,utf-8,utf_8
-zvukon.net,utf-8,utf-8,utf_8
-zw10.nl,UTF-8,utf-8,utf_8
+zvukon.net,UTF-8,ascii,ascii
+zw10.nl,UTF-8,ascii,ascii
 zwame.pt,utf-8,utf-8,utf_8
 zwangerschapspagina.nl,UTF-8,utf-8,utf_8
 zwierciadlo.pl,UTF-8,utf-8,utf_8

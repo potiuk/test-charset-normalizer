@@ -8,11 +8,9 @@
 | istegelsin.com | ascii | ascii |
 | isynonym.com | utf-8 | utf_8 |
 | itesm.mx | ascii | ascii |
-| iteso.mx | utf-8 | utf_8 |
 | itmedia.co.jp | SHIFT_JIS | shift_jis |
 | itraveljerusalem.com | utf-8 | utf_8 |
 | itsk.sk | utf-8 | utf_8 |
-| iww.de | utf-8 | utf_8 |
 | jablickar.cz | utf-8 | utf_8 |
 | jacotei.com.br | utf-8 | utf_8 |
 | jafnavi.jp | utf-8 | utf_8 |
@@ -27,8 +25,8 @@
 | jatekshop.eu | utf-8 | utf_8 |
 | jatrgovac.com | ascii | ascii |
 | javneprodaje.com | ascii | ascii |
-| jcpenney.com | ascii | ascii |
 | jd.id | utf-8 | utf_8 |
+| jdnet.gr.jp | utf-8 | utf_8 |
 | jeab.com | ascii | ascii |
 | jelmoli-shop.ch | utf-8 | utf_8 |
 | jetmute.com | ascii | ascii |
@@ -46,6 +44,7 @@
 | joostdevree.nl | ascii | ascii |
 | jornada.com.mx | utf-8 | utf_8 |
 | jornaldemafra.pt | ascii | ascii |
+| joshinweb.jp | ascii | ascii |
 | journalagent.com | utf-8 | utf_8 |
 | journalisten.dk | ascii | ascii |
 | journalistesfaxien.tn | ascii | ascii |
@@ -57,7 +56,6 @@
 | jstor.org | ascii | ascii |
 | jtube.live | utf-8 | utf_8 |
 | julbordskartan.se | utf-8 | utf_8 |
-| juliebruun.com | ascii | ascii |
 | jumbo.com | ascii | ascii |
 | junkee.com | ascii | ascii |
 | jussinmaki.net | ascii | ascii |
@@ -77,8 +75,7 @@
 | kaijeaw.com | ascii | ascii |
 | kajkupiti.si | utf-8 | utf_8 |
 | kakaku.com | SHIFT_JIS | shift_jis |
-| kaldata.com | utf-8 | utf_8 |
-| kalunga.com.br | ascii | ascii |
+| kam.lt | utf-8 | utf_8 |
 | kamigame.jp | utf-8 | utf_8 |
 | kaminata.net | ascii | ascii |
 | kanal247.com | ascii | ascii |
@@ -88,12 +85,10 @@
 | kantei.go.jp | utf-8 | utf_8 |
 | kapanlagi.com | ascii | ascii |
 | karppaus.info | ascii | ascii |
-| karwei.nl | utf-8 | utf_8 |
 | kasta.ua | utf-8 | utf_8 |
 | katalozi.net | ascii | ascii |
 | kataweb.it | utf-8 | utf_8 |
 | kauppalehti.fi | ascii | ascii |
 | kaye7.org.il | ascii | ascii |
-| kbb.com | ascii | ascii |
 | kbc.co.ke | ascii | ascii |
 | kbcsm.hr | ascii | ascii |

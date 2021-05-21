@@ -4,7 +4,8 @@
 | fora.pl | ISO-8859-1 | iso8859_2 |
 | fotomac.com.tr | Windows-1252 | utf_8 |
 | free.bg | windows-1251 | cp1251 |
-| freedownloadmanager.org | Windows-1252 | utf_8 |
+| freedisc.pl | None | utf-8 |
+| freeindex.co.uk | Windows-1252 | utf_8 |
 | funda.nl | ISO-8859-1 | utf_8 |
 | fundainbusiness.nl | ISO-8859-1 | utf_8 |
 | galerie-creation.com | Windows-1252 | iso8859_15 |
