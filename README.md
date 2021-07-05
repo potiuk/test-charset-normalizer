@@ -193,3 +193,47 @@ Detecting Japanese characters:
 | 256MB | 49ms         | - >>3m            | 8.2s                         |
 
 
+# 05.07.2021 (charset-normalizer 2.0.0)
+
+Summary: charset-normalizer became really fast
+
+ASCII characters:
+
+| Size   | Chardet | Charset_normalizer |
+|--------|---------|--------------------|
+| 4K     | 0.007 s | 0.018s             |
+| 16MB   | 0.165 s | 0.019s             |
+| 32MB   | 0.332 s | 0.019 s            |
+| 64MB   | 0.648 s | 0.010 s            |
+| 128MB  | 1.293 s | 0.005 s            |
+| 256MB  | 2.579 s | 0.018 s            |
+
+Polish characters:
+
+| Size | Chardet  | Charset_normalizer |
+|------|----------|--------------------|
+| 4K   | 0.027s   | 0.053s             |
+| 8K   | 0.054s   | 0.069s             |
+| 16K  | 0.106s   | 0.074s             |
+| 32K  | 0.213s   | 0.057s             |
+| 64K  | 0.453s   | 0.086s             |
+| 128K | 0.847s   | 0.089s             |
+| 256K | 1.697s   | 0.089s             |
+| 512K | 3.416s   | 0.094s             |
+| 16MB | 110s (!) | 0.272s             |
+
+
+Japanese characters:
+
+| Size | Chardet  | Charset_normalizer |
+|------|----------|--------------------|
+| 4K   | 0.037s   | 0.172s             |
+| 8K   | 0.074s   | 0.317s             |
+| 16K  | 0.147s   | 0.314s             |
+| 32K  | 0.290s   | 0.179s             |
+| 64K  | 0.577s   | 0.399s             |
+| 128K | 1.178s   | 0.448s             |
+| 256K | 2.359s   | 0.389s             |
+| 512K | 4.699s   | 0.324s             |
+| 16MB | 150s (!) | 0.848s             |
+
